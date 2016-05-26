@@ -42,6 +42,6 @@ For more information on Coptic tokenization, see the Coptic Scriptorium website.
 Documentation status: complete
 Data source: manual
 Data available since: UD v1.4
-License: CC BY-SA 4.0
+License: CC BY 4.0
 Genre: bible fiction nonfiction
 Contributors: Zeldes, Amir
