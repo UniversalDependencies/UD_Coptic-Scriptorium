@@ -11,19 +11,19 @@ http://copticscriptorium.org/
 Coptic POS tags come from the Coptic Scriptorium tag set, which is available from the project and treebank websites. The mapping to universal POS tags is described in the PDF of the treebank guidelines, also available from the website. A machine readable version of the guidelines for the UD website is currently being produced.
 
 ## Basic statistics
-| subcorpus | document | tokens |
-| --- | --- |
-| Not Because a Fox Barks / Shenoute | MONB_XH_204_216 | 2554 |
-| Gospel of Mark | Chapter 1 | 1221 |
-| Apophthegmata Patrum | AP.005.unid.senses | 81 |
-| Apophthegmata Patrum | AP.006.n196.worms | 91 |
-| Apophthegmata Patrum | AP.018.n372.anger | 67 |
-| Apophthegmata Patrum | AP.019.presbyter | 89 |
-| Apophthegmata Patrum | AP.023.isaac-cells.07 | 55 |
-| Apophthegmata Patrum | AP.024.isaac-cells.07 | 32 |
-| Apophthegmata Patrum | AP.025.isaac-cells.12 | 59 |
-| Apophthegmata Patrum | AP.026.cassian.07 | 112 |
-|   | Total: | 4361 |
+|      subcorpus          |        document       | tokens |
+| ----------------------- | --------------------- | ------ |
+| Not Because a Fox Barks | MONB_XH_204_216       |   2554 |
+| Gospel of Mark          | Chapter 1             |   1221 |
+| Apophthegmata Patrum    | AP.005.unid.senses    |     81 |
+| Apophthegmata Patrum    | AP.006.n196.worms     |     91 |
+| Apophthegmata Patrum    | AP.018.n372.anger     |     67 |
+| Apophthegmata Patrum    | AP.019.presbyter      |     89 |
+| Apophthegmata Patrum    | AP.023.isaac-cells.07 |     55 |
+| Apophthegmata Patrum    | AP.024.isaac-cells.07 |     32 |
+| Apophthegmata Patrum    | AP.025.isaac-cells.12 |     59 |
+| Apophthegmata Patrum    | AP.026.cassian.07     |    112 |
+|                         | Total:                |   4361 |
 
 ## Tokenization
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.
