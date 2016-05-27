@@ -139,7 +139,6 @@
 33	ⲛⲁ	ⲛⲁ	ADP	PREP	_	34	case	_	_
 34	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	32	nmod	_	_
 35	·	·	PUNCT	PUNCT	_	30	punct	_	_
-# end document
 
 # begin document sahidica.mark:Mark_01:dev_section:verse_38-41
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
@@ -264,7 +263,6 @@
 28	ⲟⲩⲱϣ	ⲟⲩⲱϣ	VERB	V	_	21	ccomp	_	_
 29	ⲧⲃⲃⲟ	ⲧⲃⲃⲟ	VERB	V	_	28	xcomp	_	_
 30	.	.	PUNCT	PUNCT	_	9	punct	_	_
-# end document
 
 # begin document apophthegmata.patrum::AP.023.isaac-cells.07
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -325,4 +323,4 @@
 3	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	_	0	root	_	_
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	3	dobj	_	_
 5	.	.	PUNCT	PUNCT	_	3	punct	_	_
-# end document
+
