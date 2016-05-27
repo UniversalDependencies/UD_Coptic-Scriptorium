@@ -160,7 +160,7 @@
 16	ϩⲏⲛ	ϩⲱⲛ	VERB	VSTAT	_	14	acl	_	_
 17	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	16	advmod	_	_
 18	ϫⲉⲕⲁⲁⲥ	ϫⲉⲕⲁⲁⲥ	CONJ	CONJ	_	20	mark	_	_
-19	ⲉⲓⲉ	ⲉⲣⲉ_ⲁⲛⲟⲕ		AOPT_PPERS	_	20	aux	_	_
+19	ⲉⲓⲉ	ⲉⲣⲉ_ⲁⲛⲟⲕ	PRON	AOPT_PPERS	_	20	aux	_	_
 20	ⲕⲏⲣⲩⲥⲥⲉ	ⲕⲏⲣⲩⲥⲥⲉ	VERB	V	_	6	advcl	_	_
 21	ⲟⲛ	ⲟⲛ	ADV	ADV	_	20	advmod	_	_
 22	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	23	case	_	_
@@ -227,7 +227,7 @@
 23	ⲛⲁ	ⲛⲁ	ADP	PREP	_	24	case	_	_
 24	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	20	nmod	_	_
 25	ϫⲉ	ϫⲉ	CONJ	CONJ	_	27	mark	_	_
-26	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ		ACOND_PPERS	_	27	aux	_	_
+26	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	_	27	aux	_	_
 27	ⲟⲩⲱϣ	ⲟⲩⲱϣ	VERB	V	_	30	advcl	_	_
 28	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	30	nsubj	_	_
 29	ⲛⲁ	ⲛⲁ	AUX	FUT	_	30	aux	_	_
