@@ -155,7 +155,7 @@
 2	ⲧⲉⲓ	ⲡⲉⲓ	DET	PDEM	_	3	det	_	_
 3	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	_
 4	ⲟⲛ	ⲟⲛ	ADV	ADV	_	3	advmod	_	_
-5	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ		ACOND_PPERS	_	7	nsubj	_	_
+5	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	_	7	nsubj	_	_
 6	ⲧⲙ	ⲧⲙ	ADV	NEG	_	7	neg	_	_
 7	ⲥⲱⲧⲉ	ⲥⲱⲧⲉ	VERB	V	_	0	root	_	_
 8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
@@ -438,7 +438,7 @@
 25	·	·	PUNCT	PUNCT	_	20	punct	_	_
 
 1	ⲧⲟⲧⲉ	ⲧⲟⲧⲉ	ADV	ADV	_	3	advmod	_	_
-2	ⲉϥⲉ	ⲉⲣⲉ_ⲛⲧⲟϥ		AOPT_PPERS	_	3	nsubj	_	_
+2	ⲉϥⲉ	ⲉⲣⲉ_ⲛⲧⲟϥ	PRON	AOPT_PPERS	_	3	nsubj	_	_
 3	ⲫⲟⲣⲉⲓ	ⲫⲟⲣⲉⲓ	VERB	V	_	0	root	_	_
 4	ⲙⲙⲟ	ⲛ	ADP	PREP	_	5	case	_	_
 5	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	3	dobj	_	_

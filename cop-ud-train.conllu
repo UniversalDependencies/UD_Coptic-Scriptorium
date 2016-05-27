@@ -488,7 +488,7 @@
 1	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	3	nsubj	_	_
 2	ⲛⲁ	ⲛⲁ	AUX	FUT	_	3	aux	_	_
 3	ⲣⲁϣⲉ	ⲣⲁϣⲉ	VERB	V	_	0	root	_	_
-4	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ		ACOND_PPERS	_	5	nsubj	_	_
+4	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	_	5	nsubj	_	_
 5	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	_	3	advcl	_	_
 6	ϫⲉ	ϫⲉ	CONJ	CONJ	_	9	mark	_	_
 7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
@@ -594,7 +594,7 @@
 17	ⲛⲁ	ⲛⲁ	ADP	PREP	_	18	case	_	_
 18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	14	nmod	_	_
 19	.	.	PUNCT	PUNCT	_	69	punct	_	_
-20	ⲉⲩϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ		ACOND_PPERS	_	21	nsubj	_	_
+20	ⲉⲩϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ	PRON	ACOND_PPERS	_	21	nsubj	_	_
 21	ⲡⲱⲛⲅ	ⲡⲱⲛⲅ	VERB	V	_	69	advcl	_	_
 22	ⲛⲁ	ⲛⲁ	ADP	PREP	_	23	case	_	_
 23	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	21	nmod	_	_
@@ -1158,7 +1158,7 @@
 15	ⲛⲁ	ⲡⲁ	DET	PPOS	_	16	det	_	_
 16	ⲏⲓ	ⲏⲓ	NOUN	N	_	14	dobj	_	_
 17	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CONJ	CONJ	_	19	mark	_	_
-18	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ		ACOND_PPERS	_	19	aux	_	_
+18	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	_	19	aux	_	_
 19	ϭⲛⲉⲓⲇⲱⲗⲟⲛ	ϭⲛⲉⲓⲇⲱⲗⲟⲛ	VERB	V	_	14	advcl	_	_
 20	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	21	case	_	_
 21	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	19	nmod	_	_
@@ -1199,7 +1199,7 @@
 14	,	,	PUNCT	PUNCT	_	4	punct	_	_
 
 1	ⲏ	ⲏ	CONJ	CONJ	_	3	cc	_	_
-2	ⲉⲓϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ		ACOND_PPERS	_	3	nsubj	_	_
+2	ⲉⲓϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ	PRON	ACOND_PPERS	_	3	nsubj	_	_
 3	ϥⲓ	ϥⲓ	VERB	V	_	15	advcl	_	_
 4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
 5	ⲉⲓⲇⲱⲗⲟⲛ	ⲉⲓⲇⲱⲗⲟⲛ	NOUN	N	_	3	dobj	_	_
@@ -1554,7 +1554,7 @@
 15	ⲙⲟⲩ	ⲙⲟⲩ	VERB	V	_	11	advcl	_	_
 16	,	,	PUNCT	PUNCT	_	3	punct	_	_
 17	ⲏ	ⲏ	CONJ	CONJ	_	19	advmod	_	_
-18	ⲉϥϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ		ACOND_PPERS	_	19	nsubj	_	_
+18	ⲉϥϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ	PRON	ACOND_PPERS	_	19	nsubj	_	_
 19	ⲣⲥⲧ	ⲣⲥⲧ	VERB	V	_	15	conj	_	_
 20	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	19	advmod	_	_
 21	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	24	aux	_	_
@@ -2223,7 +2223,7 @@
 24	ⲡⲁ	ⲡⲁ	DET	PPOS	_	25	det	_	_
 25	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	_	21	dobj	_	_
 26	ϫⲉⲕⲁⲥ	ϫⲉⲕⲁⲥ	CONJ	CONJ	_	28	mark	_	_
-27	ⲉⲩⲉ	ⲉⲣⲉ_ⲛⲧⲟⲟⲩ		AOPT_PPERS	_	28	nsubj	_	_
+27	ⲉⲩⲉ	ⲉⲣⲉ_ⲛⲧⲟⲟⲩ	PRON	AOPT_PPERS	_	28	nsubj	_	_
 28	ϣⲙϣⲉ	ϣⲙϣⲉ	VERB	V	_	21	advcl	_	_
 29	ⲛⲁ	ⲛⲁ	ADP	PREP	_	30	case	_	_
 30	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	28	nmod	_	_
@@ -3338,7 +3338,7 @@
 1	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	5	dislocated	_	_
 2	ϭⲉ	ϭⲉ	PART	PTC	_	5	advmod	_	_
 3	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CONJ	CONJ	_	5	mark	_	_
-4	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ		ACOND_PPERS	_	5	nsubj	_	_
+4	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	_	5	nsubj	_	_
 5	ϫⲡⲟ	ϫⲡⲟ	VERB	V	_	19	advcl	_	_
 6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
 7	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	_	8	det	_	_
@@ -3616,7 +3616,7 @@
 11	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	8	nmod	_	_
 12	,	,	PUNCT	PUNCT	_	8	punct	_	_
 13	ϫⲉ	ϫⲉ	CONJ	CONJ	_	15	mark	_	_
-14	ⲉⲩⲉ	ⲉⲣⲉ_ⲛⲧⲟⲟⲩ		AOPT_PPERS	_	15	nsubj	_	_
+14	ⲉⲩⲉ	ⲉⲣⲉ_ⲛⲧⲟⲟⲩ	PRON	AOPT_PPERS	_	15	nsubj	_	_
 15	ϩⲁⲣⲉϩ	ϩⲁⲣⲉϩ	VERB	V	_	8	ccomp	_	_
 16	ⲉⲣⲟ	ⲉ	ADP	PREP	_	17	case	_	_
 17	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	15	dobj	_	_
