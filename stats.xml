@@ -5,7 +5,7 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>173</sentences><tokens>4361</tokens><words>4361</words><fused>0</fused></total>
+    <total><sentences>174</sentences><tokens>4361</tokens><words>4361</words><fused>0</fused></total>
   </size>
   <lemmas unique="676" /><!-- ⲛ, ⲡ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟϥ, ⲉ, ⲁ, ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ⲛⲧⲟⲕ, ϩⲛ, ⲟⲩ, ., ,, ⲛⲁ, ⲙⲛ -->
   <forms unique="786" /><!-- ⲛ, ⲉ, ϥ, ⲟⲩ, ⲁ, ⲡ, ., ⲩ, ⲕ, ,, ⲛⲁ, ⲙ, ϫⲉ, ⲉⲧ, ⲁⲩⲱ -->
@@ -30,16 +30,16 @@
   <feats unique="0">
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="29">
-    <dep name="acl">125</dep>
-    <dep name="advcl">114</dep>
-    <dep name="advmod">173</dep>
+  <deps unique="30">
+    <dep name="acl">124</dep>
+    <dep name="advcl">116</dep>
+    <dep name="advmod">175</dep>
     <dep name="amod">1</dep>
-    <dep name="appos">36</dep>
+    <dep name="appos">35</dep>
     <dep name="aux">228</dep>
-    <dep name="case">651</dep>
+    <dep name="case">652</dep>
     <dep name="cc">149</dep>
-    <dep name="ccomp">54</dep>
+    <dep name="ccomp">55</dep>
     <dep name="conj">112</dep>
     <dep name="cop">32</dep>
     <dep name="csubj">4</dep>
@@ -52,13 +52,14 @@
     <dep name="mwe">30</dep>
     <dep name="name">4</dep>
     <dep name="neg">45</dep>
-    <dep name="nmod">514</dep>
+    <dep name="nmod">520</dep>
     <dep name="nsubj">428</dep>
     <dep name="nummod">4</dep>
-    <dep name="parataxis">26</dep>
-    <dep name="punct">227</dep>
-    <dep name="root">187</dep>
-    <dep name="vocative">8</dep>
+    <dep name="parataxis">25</dep>
+    <dep name="punct">228</dep>
+    <dep name="remnant">4</dep>
+    <dep name="root">174</dep>
+    <dep name="vocative">7</dep>
     <dep name="xcomp">46</dep>
   </deps>
 </treebank>

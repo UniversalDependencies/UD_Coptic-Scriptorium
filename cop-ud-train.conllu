@@ -573,7 +573,7 @@
 36	ϯⲉⲟⲟⲩ	ϯⲉⲟⲟⲩ	VERB	V	_	31	advcl	_	_
 37	ⲛⲁ	ⲛⲁ	ADP	PREP	_	38	case	_	_
 38	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	36	nmod	_	_
-39	·	·	PUNCT	PUNCT	_	2	root	_	_
+39	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 1	ⲏ	ⲏ	CONJ	CONJ	_	20	cc	_	_
 2	ⲉⲣϣⲁⲛ	ⲉⲣϣⲁⲛ	SCONJ	ACOND	_	20	dislocated	_	_
@@ -766,7 +766,7 @@
 17	ⲙⲙⲟ	ⲛ	ADP	PREP	_	18	case	_	_
 18	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	16	dobj	_	_
 19	ϫⲉ	ϫⲉ	CONJ	CONJ	_	22	mark	_	_
-20	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	_	0	root	_	_
+20	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	_	22	nsubj	_	_
 21	ⲛⲁ	ⲛⲁ	AUX	FUT	_	22	aux	_	_
 22	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	_	16	ccomp	_	_
 23	.	.	PUNCT	PUNCT	_	20	punct	_	_
@@ -1305,7 +1305,7 @@
 15	,	,	PUNCT	PUNCT	_	1	punct	_	_
 
 1	ⲡ	ⲡ	DET	ART	_	2	det	_	_
-2	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	0	vocative	_	_
+2	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	0	root	_	_
 3	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
 4	ϩⲏⲩ	ϩⲏⲩ	VERB	VSTAT	_	2	acl	_	_
 5	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	4	advmod	_	_
@@ -1649,7 +1649,7 @@
 1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	_
 2	ⲧ	ⲡ	DET	ART	_	3	det	_	_
 3	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	_
-4	ⲟⲛ	ⲟⲛ	ADV	ADV	_	0	root	_	_
+4	ⲟⲛ	ⲟⲛ	ADV	ADV	_	3	advmod	_	_
 5	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
 6	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	8	aux	_	_
 7	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	_	8	nsubj	_	_
@@ -1941,42 +1941,41 @@
 7	ϫⲓⲛϭⲟⲛⲥ	ϫⲓⲛϭⲟⲛⲥ	NOUN	N	_	3	nmod	_	_
 8	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	_
-2	ⲧ	ⲡ	DET	ART	_	3	det	_	_
-3	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	_
-4	ⲟⲛ	ⲟⲛ	ADV	ADV	_	0	root	_	_
-5	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
-6	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	8	aux	_	_
-7	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	_	8	nsubj	_	_
-8	ϣⲁⲧⲟⲩ	ϣⲁⲧⲟⲩ	VERB	V	_	3	acl	_	_
-9	ϩⲟⲓⲛⲉ	ϩⲟⲓⲛⲉ	NOUN	N	_	8	dobj	_	_
-10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
-11	ⲟⲩ	ⲟⲩ	DET	ART	_	12	det	_	_
-12	ϩⲛⲟ	ϩⲛⲁⲩ	NOUN	N	_	9	nmod	_	_
-13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
-14	ⲥⲟⲩⲟ	ⲥⲟⲩⲟ	NOUN	N	_	0	root	_	_
-15	ⲉ	ⲉ	ADP	PREP	_	17	case	_	_
-16	ⲡ	ⲡ	DET	ART	_	17	det	_	_
-17	ⲏⲓ	ⲏⲓ	NOUN	N	_	0	root	_	_
-18	ϫⲉ	ϫⲉ	CONJ	CONJ	_	20	mark	_	_
-19	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	20	nsubj	_	_
-20	ⲟϣ	ⲱϣ	VERB	VSTAT	_	0	root	_	_
-21	ⲛ	ⲡ	DET	ART	_	22	det	_	_
-22	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	0	root	_	_
-23	ϩⲉⲛ	ⲟⲩ	DET	ART	_	24	det	_	_
-24	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	22	appos	_	_
-25	ⲛ	ⲛ	ADP	PREP	_	0	root	_	_
-26	ϫⲟⲩⲧⲏ	ϫⲟⲩⲧⲏ	NUM	NUM	_	0	root	_	_
-27	ⲙ	ⲛ	ADP	PREP	_	28	case	_	_
-28	ⲙⲁⲁϫⲉ	ⲙⲁⲁϫⲉ	NOUN	N	_	0	root	_	_
-29	,	,	PUNCT	PUNCT	_	28	punct	_	_
-
-1	ϩⲉⲛ	ⲟⲩ	DET	ART	_	2	det	_	_
-2	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	5	nsubj	_	_
-3	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
-4	ⲟⲩ	ⲟⲩ	DET	ART	_	5	det	_	_
-5	ⲣⲧⲁⲃ	ⲣⲧⲁⲃ	NOUN	N	_	0	root	_	_
-6	·	·	PUNCT	PUNCT	_	5	punct	_	_
+1	ⲛ	ⲛ	ADP	_	_	3	case	_	_
+2	ⲧ	ⲡ	DET	_	_	3	det	_	_
+3	ϩⲉ	ϩⲉ	NOUN	_	_	0	root	_	_
+4	ⲟⲛ	ⲟⲛ	ADV	_	_	3	advmod	_	_
+5	ⲉ	ⲉⲣⲉ	SCONJ	_	_	8	mark	_	_
+6	ϣⲁ	ϣⲁⲣⲉ	AUX	_	_	8	aux	_	_
+7	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	_	_	8	nsubj	_	_
+8	ϣⲁⲧⲟⲩ	ϣⲁⲧⲟⲩ	VERB	_	_	3	acl	_	_
+9	ϩⲟⲓⲛⲉ	ϩⲟⲓⲛⲉ	NOUN	_	_	8	dobj	_	_
+10	ⲛ	ⲛ	ADP	_	_	12	case	_	_
+11	ⲟⲩ	ⲟⲩ	DET	_	_	12	det	_	_
+12	ϩⲛⲟ	ϩⲛⲁⲩ	NOUN	_	_	9	nmod	_	_
+13	ⲛ	ⲛ	ADP	_	_	14	case	_	_
+14	ⲥⲟⲩⲟ	ⲥⲟⲩⲟ	NOUN	_	_	12	nmod	_	_
+15	ⲉ	ⲉ	ADP	_	_	17	case	_	_
+16	ⲡ	ⲡ	DET	_	_	17	det	_	_
+17	ⲏⲓ	ⲏⲓ	NOUN	_	_	12	nmod	_	_
+18	ϫⲉ	ϫⲉ	CONJ	_	_	20	mark	_	_
+19	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	_	_	20	nsubj	_	_
+20	ⲟϣ	ⲱϣ	VERB	_	_	8	advcl	_	_
+21	ⲛ	ⲡ	DET	_	_	22	det	_	_
+22	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	_	_	20	nmod	_	_
+23	ϩⲉⲛ	ⲟⲩ	DET	_	_	24	det	_	_
+24	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	_	_	9	remnant	_	_
+25	ⲛ	ⲛ	ADP	_	_	26	case	_	_
+26	ϫⲟⲩⲧⲏ	ϫⲟⲩⲧⲏ	NUM	_	_	12	remnant	_	_
+27	ⲙ	ⲛ	ADP	_	_	28	case	_	_
+28	ⲙⲁⲁϫⲉ	ⲙⲁⲁϫⲉ	NOUN	_	_	26	nmod	_	_
+29	,	,	PUNCT	_	_	3	punct	_	_
+30	ϩⲉⲛ	ⲟⲩ	DET	_	_	31	det	_	_
+31	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	_	_	24	remnant	_	_
+32	ⲛ	ⲛ	ADP	_	_	34	case	_	_
+33	ⲟⲩ	ⲟⲩ	DET	_	_	34	det	_	_
+34	ⲣⲧⲁⲃ	ⲣⲧⲁⲃ	NOUN	_	_	26	remnant	_	_
+35	·	·	PUNCT	_	_	3	punct	_	_
 
 1	ϩⲓⲧⲛ	ϩⲓⲧⲛ	ADP	PREP	_	3	case	_	_
 2	ⲧ	ⲡ	DET	ART	_	3	det	_	_
@@ -2091,7 +2090,7 @@
 9	ⲙⲙⲟ	ⲛ	ADP	PREP	_	10	case	_	_
 10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	8	dobj	_	_
 11	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	12	case	_	_
-12	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	8	root	_	_
+12	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	8	nmod	_	_
 13	ϩⲛ	ϩⲛ	ADP	PREP	_	15	case	_	_
 14	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	_	15	det	_	_
 15	ⲕⲃⲁ	ⲕⲃⲁ	NOUN	N	_	8	nmod	_	_
@@ -2256,7 +2255,6 @@
 19	ⲡ	ⲡ	DET	ART	_	20	det	_	_
 20	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	17	nsubj	_	_
 21	,	,	PUNCT	PUNCT	_	1	punct	_	_
-# end document
 
 # begin document sahidica.mark:Mark_01:train_section:verse_01-37
 1	ⲧ	ⲡ	DET	ART	_	2	det	_	_
@@ -3063,7 +3061,7 @@
 11	ⲥⲩⲛⲁⲅⲱⲅⲏ	ⲥⲩⲛⲁⲅⲱⲅⲏ	NOUN	N	_	7	nmod	_	_
 12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
 13	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	14	nsubj	_	_
-14	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	_	7	parataxis	_	_
+14	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	_	0	root	_	_
 15	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	14	advmod	_	_
 16	ⲉ	ⲉ	ADP	PREP	_	18	case	_	_
 17	ⲡ	ⲡ	DET	ART	_	18	det	_	_
@@ -3276,7 +3274,6 @@
 10	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	8	nmod	_	_
 11	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	_	8	advmod	_	_
 12	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	11	det	_	_
-# end document
 
 # begin document apophthegmata.patrum::AP.005.unid.senses
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -3362,7 +3359,6 @@
 25	ⲟⲩ	ⲟⲩ	DET	ART	_	26	det	_	_
 26	ⲟⲩϫⲁⲓ	ⲟⲩϫⲁⲓ	NOUN	N	_	22	conj	_	_
 27	.	.	PUNCT	PUNCT	_	19	punct	_	_
-# end document
 
 # begin document apophthegmata.patrum::AP.006.n196.worms
 1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
@@ -3459,7 +3455,6 @@
 43	ⲧⲙ	ⲧⲙ	ADV	NEG	_	44	neg	_	_
 44	ϩⲗⲟⲡⲗⲡ	ϩⲗⲟⲡⲗⲡ	VERB	V	_	31	advcl	_	_
 45	·	·	PUNCT	PUNCT	_	31	punct	_	_
-# end document
 
 # begin document apophthegmata.patrum::AP.018.n372.anger
 1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
@@ -3533,7 +3528,6 @@
 9	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	10	nsubj	_	_
 10	ϭⲟⲛⲧ	ϭⲱⲛⲧ	VERB	VSTAT	_	7	advcl	_	_
 11	.	.	PUNCT	PUNCT	_	7	punct	_	_
-# end document
 
 # begin document apophthegmata.patrum::AP.019.presbyter
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -3628,7 +3622,6 @@
 23	ⲛ	ⲡ	DET	ART	_	24	det	_	_
 24	ⲃⲁⲗ	ⲃⲁⲗ	NOUN	N	_	21	nmod	_	_
 25	.	.	PUNCT	PUNCT	_	8	punct	_	_
-# end document
 
 # begin document apophthegmata.patrum::AP.024.isaac-cells.07
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
@@ -3664,7 +3657,6 @@
 4	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	3	advmod	_	_
 5	ⲁⲛ	ⲁⲛ	ADV	NEG	_	3	neg	_	_
 6	.	.	PUNCT	PUNCT	_	3	punct	_	_
-# end document
 
 # begin document apophthegmata.patrum::AP.026.cassian.07
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -3784,5 +3776,4 @@
 8	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	6	nmod	_	_
 9	·	·	PUNCT	PUNCT	_	6	punct	_	_
 10	ⲻ	ⲻ	PUNCT	PUNCT	_	6	punct	_	_
-# end document
 
