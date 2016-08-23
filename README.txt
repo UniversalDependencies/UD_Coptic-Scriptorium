@@ -4,7 +4,7 @@ The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahid
 
 https://corpling.uis.georgetown.edu/coptic-treebank/
 
-The data was digitized and annotated manually for part of speech in the project Coptic Scriptorium. For individual credit and further information see: 
+The data was digitized and annotated manually for part of speech in the project Coptic Scriptorium. For individual credit and further information see:
 
 http://copticscriptorium.org/
 
@@ -35,7 +35,7 @@ Additionally, for some fused forms carrying multiple parts of speech, the native
 For more information on Coptic tokenization, see the Coptic Scriptorium website.
 
 ## References
-  * Zeldes, A. & Schroeder, C. T. (2016). SCRIPTORIUM Part-of-Speech Tagsets for Sahidic Coptic. Georgetown University and University of the Pacific, Technical Report. 
+  * Zeldes, A. & Schroeder, C. T. (2016). SCRIPTORIUM Part-of-Speech Tagsets for Sahidic Coptic. Georgetown University and University of the Pacific, Technical Report.
 
 --- Machine readable metadata ---
 
@@ -45,3 +45,4 @@ Data available since: UD v2.0
 License: CC BY 4.0
 Genre: bible fiction nonfiction
 Contributors: Zeldes, Amir
+Contact:
