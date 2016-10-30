@@ -15,6 +15,7 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | ----------------------- | --------------------- | ------ |
 | Not Because a Fox Barks | MONB_XH_204_216       |   2554 |
 | Gospel of Mark          | Chapter 1             |   1221 |
+| Gospel of Mark          | Chapter 2             |   859 |
 | Apophthegmata Patrum    | AP.005.unid.senses    |     81 |
 | Apophthegmata Patrum    | AP.006.n196.worms     |     91 |
 | Apophthegmata Patrum    | AP.018.n372.anger     |     67 |
@@ -23,7 +24,7 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | Apophthegmata Patrum    | AP.024.isaac-cells.07 |     32 |
 | Apophthegmata Patrum    | AP.025.isaac-cells.12 |     59 |
 | Apophthegmata Patrum    | AP.026.cassian.07     |    112 |
-|                         | Total:                |   4361 |
+|                         | Total:                |   5220 |
 
 ## Tokenization
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.
@@ -35,14 +36,19 @@ Additionally, for some fused forms carrying multiple parts of speech, the native
 For more information on Coptic tokenization, see the Coptic Scriptorium website.
 
 ## References
-  * Zeldes, A. & Schroeder, C. T. (2016). SCRIPTORIUM Part-of-Speech Tagsets for Sahidic Coptic. Georgetown University and University of the Pacific, Technical Report.
+  * Zeldes, A. & Schroeder, C. T. (2016a). SCRIPTORIUM Part-of-Speech Tagsets for Sahidic Coptic. Georgetown University and University of the Pacific, Technical Report.
+  * Zeldes, A. & Schroeder, C. T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
+
+* CHANGELOG 1.3 -> 1.4
+
+First inclusion in full release as of v1.4. Added Gospel of Mark chapter 2 to previously available dev data, and numerous error corrections.
 
 --- Machine readable metadata ---
 
 Documentation status: complete
 Data source: manual
-Data available since: UD v2.0
+Data available since: UD v1.4
 License: CC BY 4.0
 Genre: bible fiction nonfiction
-Contributors: Zeldes, Amir
-Contact:
+Contributors: Davidson, Elizabeth; Zeldes, Amir
+Contact: amir.zeldes@georgetown.edu
