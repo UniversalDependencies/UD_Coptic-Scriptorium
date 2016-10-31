@@ -90,7 +90,7 @@
 5	ϣ	ϣ	VERB	V	_	6	aux	_	_
 6	ϫⲱ	ϫⲱ	VERB	V	_	0	root	_	_
 7	ⲁⲛ	ⲁⲛ	ADV	NEG	_	6	neg	_	_
-8	ⲡⲉ	ⲡⲉ	PART	COP	_	6	cop	_	_
+8	ⲡⲉ	ⲡⲉ	AUX	COP	_	6	cop	_	_
 9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
 10	ⲛⲉⲕ	ⲡⲉⲕ	DET	PPOS	_	11	det	_	_
 11	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	NOUN	N	_	6	nmod	_	_
@@ -192,7 +192,7 @@
 39	ⲟⲩⲱϣ	ⲟⲩⲱϣ	NOUN	N	_	37	dobj	_	_
 40	ϫⲉ	ϫⲉ	CONJ	CONJ	_	41	mark	_	_
 41	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	33	advcl	_	_
-42	ⲡⲉ	ⲡⲉ	PART	COP	_	41	cop	_	_
+42	ⲡⲉ	ⲡⲉ	AUX	COP	_	41	cop	_	_
 43	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	_	44	det	_	_
 44	ϩⲉⲗⲡⲓⲥ	ϩⲉⲗⲡⲓⲥ	NOUN	N	_	41	nsubj	_	_
 45	·	·	PUNCT	PUNCT	_	7	punct	_	_
@@ -394,7 +394,7 @@
 12	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	11	dobj	_	_
 13	ϫⲉ	ϫⲉ	CONJ	CONJ	_	14	mark	_	_
 14	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	11	ccomp	_	_
-15	ⲧⲉ	ⲡⲉ	PART	COP	_	14	cop	_	_
+15	ⲧⲉ	ⲡⲉ	AUX	COP	_	14	cop	_	_
 16	ⲧ	ⲡ	DET	ART	_	17	det	_	_
 17	ϩⲉ	ϩⲉ	NOUN	N	_	14	nsubj	_	_
 18	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	19	mark	_	_
