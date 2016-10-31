@@ -961,7 +961,7 @@
 3	ⲡ	ⲡ	DET	ART	_	0	root	_	_
 4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
 5	ⲉϣϣⲉ	ϣϣⲉ	VERB	V	_	3	acl	_	_
-6	ⲡⲉ	ⲡ	DET	ART	_	3	cop	_	_
+6	ⲡⲉ	ⲡⲉ	AUX	COP	_	3	cop	_	_
 7	ⲉ	ⲉ	ADP	PREP	_	8	aux	_	_
 8	ϣⲁⲁⲧ	ϣⲓⲧⲉ	VERB	V	_	3	csubj	_	_
 9	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	8	dobj	_	_
@@ -2197,7 +2197,7 @@
 10	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	0	root	_	_
-2	ⲡⲉ	ⲡ	DET	ART	_	1	cop	_	_
+2	ⲡⲉ	ⲡⲉ	AUX	COP	_	1	cop	_	_
 3	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	6	mark	_	_
 4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
 5	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	6	nsubj	_	_
