@@ -55,7 +55,7 @@
 35	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	34	dobj	_	_
 36	ϩⲙ	ϩⲛ	ADP	PREP	_	38	case	_	_
 37	ⲡ	ⲡ	DET	ART	_	38	det	_	_
-38	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	34	nmod	_	_
+38	ⲧⲣⲉ	ⲧⲣⲉ	NOUN	ACAUS	_	34	nmod	_	_
 39	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	40	nsubj	_	_
 40	ⲧⲁⲁ	ϯ	VERB	V	_	38	xcomp	_	_
 41	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	40	dobj	_	_

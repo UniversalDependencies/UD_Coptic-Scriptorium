@@ -214,12 +214,12 @@
 36	ⲟⲩ	ⲟⲩ	DET	ART	_	37	det	_	_
 37	ⲥⲣⲁϩⲧ	ⲥⲣⲁϩⲧ	NOUN	N	_	31	nmod	_	_
 38	ⲁⲩⲱ	ⲁⲩⲱ	CONJ	CONJ	_	31	cc	_	_
-39	ϫⲉ	ϫⲉ	CONJ	CONJ	_	44	mark	_	_
+39	ϫⲉ	ϫⲉ	CONJ	CONJ	_	42	mark	_	_
 40	ⲁ	ⲁ	AUX	APST	_	42	aux	_	_
 41	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	_	42	nsubj	_	_
-42	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	44	aux	_	_
+42	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	31	conj	_	_
 43	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	44	nsubj	_	_
-44	ⲙⲟⲩⲣ	ⲙⲟⲩⲣ	VERB	V	_	31	conj	_	_
+44	ⲙⲟⲩⲣ	ⲙⲟⲩⲣ	VERB	V	_	42	xcomp	_	_
 45	ⲙ	ⲛ	ADP	PREP	_	47	case	_	_
 46	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	_	47	det	_	_
 47	ⲥⲱϣ	ⲥⲱϣ	NOUN	N	_	44	dobj	_	_
@@ -456,7 +456,7 @@
 18	ⲁⲛ	ⲁⲛ	ADV	NEG	_	17	neg	_	_
 19	ⲡⲉ	ⲡⲉ	AUX	COP	_	17	cop	_	_
 20	ⲉ	ⲉ	ADP	PREP	_	21	mark	_	_
-21	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	17	xcomp	_	_
+21	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	17	xcomp	_	_
 22	ⲛ	ⲡ	DET	ART	_	23	det	_	_
 23	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	27	nsubj	_	_
 24	ⲙ	ⲛ	ADP	PREP	_	26	case	_	_
@@ -1111,7 +1111,7 @@
 1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	4	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	4	advmod	_	_
 3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	4	nsubj	_	_
-4	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	0	root	_	_
+4	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	0	root	_	_
 5	ⲛⲉⲕ	ⲡⲉⲕ	DET	PPOS	_	6	det	_	_
 6	ⲙⲁⲅⲉⲓⲣⲟⲥ	ⲙⲁⲅⲉⲓⲣⲟⲥ	NOUN	N	_	7	nsubj	_	_
 7	ⲣϩⲱⲃ	ⲣϩⲱⲃ	VERB	V	_	4	xcomp	_	_
@@ -1133,7 +1133,7 @@
 23	ⲁⲩⲱ	ⲁⲩⲱ	CONJ	CONJ	_	15	cc	_	_
 24	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	26	mark	_	_
 25	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	26	nsubj	_	_
-26	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	15	conj	_	_
+26	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	15	conj	_	_
 27	ϩⲉⲛ	ⲟⲩ	DET	ART	_	28	det	_	_
 28	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	29	nsubj	_	_
 29	ⲁⲡⲁⲧⲁ	ⲁⲡⲁⲧⲁ	VERB	V	_	26	xcomp	_	_
@@ -1249,7 +1249,7 @@
 13	ϩⲱⲧⲡ	ϩⲱⲧⲡ	NOUN	N	_	11	nmod	_	_
 14	ⲉ	ⲉ	ADP	PREP	_	16	mark	_	_
 15	ⲧⲙ	ⲧⲙ	ADV	NEG	_	16	neg	_	_
-16	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	5	xcomp	_	_
+16	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	5	xcomp	_	_
 17	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	18	nsubj	_	_
 18	ϣⲗⲏⲗ	ϣⲗⲏⲗ	VERB	V	_	16	xcomp	_	_
 19	ⲉ	ⲉ	ADP	PREP	_	23	case	_	_
@@ -1274,7 +1274,7 @@
 13	ⲉⲩⲣⲓⲡⲟⲥ	ⲉⲩⲣⲓⲡⲟⲥ	NOUN	N	_	8	conj	_	_
 14	ⲉ	ⲉ	ADP	PREP	_	16	mark	_	_
 15	ⲧⲙ	ⲧⲙ	ADV	NEG	_	16	neg	_	_
-16	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	5	xcomp	_	_
+16	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	5	xcomp	_	_
 17	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	18	nsubj	_	_
 18	ⲟⲩⲱⲧⲛ	ⲟⲩⲱⲧⲛ	VERB	V	_	16	xcomp	_	_
 19	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	18	advmod	_	_
@@ -1447,7 +1447,7 @@
 25	ⲙⲙⲟ	ⲛ	ADP	PREP	_	26	case	_	_
 26	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	24	dobj	_	_
 27	ⲉ	ⲉ	ADP	PREP	_	28	mark	_	_
-28	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	24	xcomp	_	_
+28	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	24	xcomp	_	_
 29	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	30	nsubj	_	_
 30	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	_	28	xcomp	_	_
 31	ⲙⲙⲟ	ⲛ	ADP	PREP	_	32	case	_	_
@@ -1491,7 +1491,7 @@
 12	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	11	dobj	_	_
 13	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	15	mark	_	_
 14	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	_	15	nsubj	_	_
-15	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	11	advcl	_	_
+15	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	11	advcl	_	_
 16	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	17	nsubj	_	_
 17	ⲛⲟⲩϫⲉ	ⲛⲟⲩϫⲉ	VERB	V	_	15	xcomp	_	_
 18	ⲙⲙⲟ	ⲛ	ADP	PREP	_	19	case	_	_
@@ -1506,7 +1506,7 @@
 27	ⲡ	ⲡ	DET	ART	_	28	det	_	_
 28	ⲙⲁ	ⲙⲁ	NOUN	N	_	11	nmod	_	_
 29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
-30	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	28	nmod	_	_
+30	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	28	nmod	_	_
 31	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	32	nsubj	_	_
 32	ⲣϩⲏⲃⲉ	ⲣϩⲏⲃⲉ	VERB	V	_	30	xcomp	_	_
 33	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	34	case	_	_
@@ -1515,7 +1515,7 @@
 
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
 2	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	_	3	nsubj	_	_
-3	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	0	root	_	_
+3	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	0	root	_	_
 4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	5	nsubj	_	_
 5	ⲉϣⲗⲟⲩⲗⲁⲓ	ⲉϣⲗⲟⲩⲗⲁⲓ	VERB	V	_	3	xcomp	_	_
 6	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
@@ -1664,7 +1664,7 @@
 16	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	_	17	case	_	_
 17	ϩⲟⲓ	ϩⲟⲓ	NOUN	N	_	8	nmod	_	_
 18	ⲉ	ⲉ	ADP	PREP	_	19	mark	_	_
-19	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	8	xcomp	_	_
+19	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	8	xcomp	_	_
 20	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	21	nsubj	_	_
 21	ⲥⲁⲛⲟⲩϣ	ⲥⲁⲁⲛϣ	VERB	V	_	19	xcomp	_	_
 22	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	21	dobj	_	_
@@ -1680,7 +1680,7 @@
 1	ϩⲟⲓⲛⲉ	ϩⲟⲓⲛⲉ	NOUN	N	_	6	dislocated	_	_
 2	ⲙⲉⲛ	ⲙⲉⲛ	PART	PTC	_	4	advcl	_	_
 3	ⲉ	ⲉ	ADP	PREP	_	4	mark	_	_
-4	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	0	root	_	_
+4	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	0	root	_	_
 5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	6	nsubj	_	_
 6	ⲧⲁⲁ	ϯ	VERB	V	_	4	xcomp	_	_
 7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	6	dobj	_	_
@@ -1711,7 +1711,7 @@
 2	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	7	dislocated	_	_
 3	ⲟⲛ	ⲟⲛ	ADV	ADV	_	5	advmod	_	_
 4	ⲉ	ⲉ	ADP	PREP	_	5	mark	_	_
-5	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	0	root	_	_
+5	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	0	root	_	_
 6	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	7	nsubj	_	_
 7	ⲥⲁⲛⲟⲩϣ	ⲥⲁⲁⲛϣ	VERB	V	_	5	xcomp	_	_
 8	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	7	dobj	_	_
@@ -1824,7 +1824,7 @@
 8	ⲥⲟⲟⲩϩ	ⲥⲱⲟⲩϩ	VERB	V	_	3	acl	_	_
 9	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	8	dobj	_	_
 10	ⲉ	ⲉ	ADP	PREP	_	11	mark	_	_
-11	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	8	xcomp	_	_
+11	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	8	xcomp	_	_
 12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	13	nsubj	_	_
 13	ⲣⲟⲉⲓⲥ	ⲣⲟⲉⲓⲥ	VERB	V	_	11	xcomp	_	_
 14	ⲉⲣⲱ	ⲉ	ADP	PREP	_	15	case	_	_
@@ -1892,7 +1892,7 @@
 16	ⲕⲉ	ⲕⲉ	DET	ART	_	17	det	_	_
 17	ⲧⲟⲡⲟⲥ	ⲧⲟⲡⲟⲥ	NOUN	N	_	7	nmod	_	_
 18	ⲉ	ⲉ	ADP	PREP	_	19	mark	_	_
-19	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	7	xcomp	_	_
+19	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	7	xcomp	_	_
 20	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	21	nsubj	_	_
 21	ⲛⲁϩⲙ	ⲛⲟⲩϩⲙ	VERB	V	_	19	xcomp	_	_
 22	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	21	dobj	_	_
@@ -2051,7 +2051,7 @@
 17	ⲏⲓ	ⲏⲓ	NOUN	N	_	12	conj	_	_
 18	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	20	mark	_	_
 19	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	_	20	nsubj	_	_
-20	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	11	advcl	_	_
+20	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	11	advcl	_	_
 21	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	22	nsubj	_	_
 22	ⲣⲕⲃⲁ	ⲣⲕⲃⲁ	VERB	V	_	20	xcomp	_	_
 23	ⲉⲧⲃⲏⲏⲧ	ⲉⲧⲃⲉ	ADP	PREP	_	24	case	_	_
@@ -3854,7 +3854,7 @@
 7	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	1	ccomp	_	_
 8	ϭⲟⲙ	ϭⲟⲙ	NOUN	N	_	7	nsubj	_	_
 9	ⲉ	ⲉ	ADP	PREP	_	10	mark	_	_
-10	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	8	xcomp	_	_
+10	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	8	xcomp	_	_
 11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	12	nsubj	_	_
 12	ⲛⲏⲥⲧⲉⲩⲉ	ⲛⲏⲥⲧⲉⲩⲉ	VERB	V	_	10	xcomp	_	_
 13	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	15	case	_	_
@@ -3996,7 +3996,7 @@
 6	ⲛ	ⲡ	DET	ART	_	7	det	_	_
 7	ⲥⲁⲃⲃⲁⲧⲟⲛ	ⲥⲁⲃⲃⲁⲧⲟⲛ	NOUN	N	_	4	dobj	_	_
 8	ⲉ	ⲉ	ADP	PREP	_	9	mark	_	_
-9	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	4	xcomp	_	_
+9	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	4	xcomp	_	_
 10	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	11	nsubj	_	_
 11	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	_	9	xcomp	_	_
 12	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	11	advmod	_	_
