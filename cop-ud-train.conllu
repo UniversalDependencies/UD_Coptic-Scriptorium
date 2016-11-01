@@ -1084,7 +1084,7 @@
 52	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	50	nmod	_	_
 53	,	,	PUNCT	PUNCT	_	3	punct	_	_
 
-1	ⲁⲩⲱ	ⲁⲩⲱ	CONJ	CONJ	_	4	conj	_	_
+1	ⲁⲩⲱ	ⲁⲩⲱ	CONJ	CONJ	_	4	cc	_	_
 2	ϩⲙ	ϩⲛ	ADP	PREP	_	4	case	_	_
 3	ⲡ	ⲡ	DET	ART	_	4	det	_	_
 4	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	0	root	_	_
