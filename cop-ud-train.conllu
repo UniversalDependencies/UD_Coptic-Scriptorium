@@ -428,7 +428,7 @@
 12	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	16	nsubj	_	_
 13	ⲁⲩⲱ	ⲁⲩⲱ	CONJ	CONJ	_	12	cc	_	_
 14	ⲛⲁ	ⲡⲁ	DET	PPOS	_	15	det	_	_
-15	ⲟⲓⲕⲟⲛⲟⲙⲟⲥ	ⲟⲓⲕⲟⲛⲟⲙⲟⲥ	NOUN	N	_	13	conj	_	_
+15	ⲟⲓⲕⲟⲛⲟⲙⲟⲥ	ⲟⲓⲕⲟⲛⲟⲙⲟⲥ	NOUN	N	_	12	conj	_	_
 16	ϫⲓ	ϫⲓ	VERB	V	_	8	ccomp	_	_
 17	ϩⲛⲁ	ϩⲛⲉ	NOUN	N	_	16	dobj	_	_
 18	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	17	det	_	_
@@ -4111,7 +4111,7 @@
 41	ⲁⲩⲱ	ⲁⲩⲱ	CONJ	CONJ	_	28	cc	_	_
 42	ⲁ	ⲁ	AUX	APST	_	44	aux	_	_
 43	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	44	nsubj	_	_
-44	ϯ	ϯ	VERB	V	_	41	conj	_	_
+44	ϯ	ϯ	VERB	V	_	28	conj	_	_
 45	ⲛ	ⲛ	ADP	PREP	_	47	case	_	_
 46	ⲛ	ⲡ	DET	ART	_	47	det	_	_
 47	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	44	dobj	_	_
