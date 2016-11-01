@@ -639,7 +639,7 @@
 62	ⲡ	ⲡ	DET	ART	_	63	det	_	_
 63	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	60	nmod	_	_
 64	.	.	PUNCT	PUNCT	_	69	punct	_	_
-65	ⲙⲏ	ⲙⲏ	CONJ	CONJ	_	69	neg	_	_
+65	ⲙⲏ	ⲙⲏ	CONJ	CONJ	_	69	discourse	_	_
 66	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	69	mark	_	_
 67	ⲁ	ⲁ	AUX	APST	_	69	aux	_	_
 68	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	69	nsubj	_	_
@@ -3950,8 +3950,8 @@
 3	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	4	nsubj	_	_
 4	ⲛⲉϫ	ⲛⲟⲩϫⲉ	VERB	V	_	0	root	_	_
 5	ⲏⲣⲡ	ⲏⲣⲡ	NOUN	N	_	4	dobj	_	_
-6	ⲃ	ⲃ	ADP	PREP	_	7	case	_	_
-7	ⲃⲣⲣⲉ	ⲃⲣⲣⲉ	NOUN	N	_	5	neg	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ⲃⲣⲣⲉ	ⲃⲣⲣⲉ	NOUN	N	_	5	nmod	_	_
 8	ⲉ	ⲉ	ADP	PREP	_	9	case	_	_
 9	ϩⲱⲧ	ϩⲱⲧ	NOUN	N	_	4	nmod	_	_
 10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
@@ -4098,7 +4098,7 @@
 28	ⲟⲩⲟⲙ	ⲟⲩⲱⲙ	VERB	V	_	8	conj	_	_
 29	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	28	dobj	_	_
 30	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	32	mark	_	_
-31	ⲟⲩⲕ	ⲟⲩⲕ	VERB	V	_	32	neg	_	_
+31	ⲟⲩⲕ	ⲟⲩⲕ	ADV	NEG	_	32	neg	_	_
 32	ⲉⲝⲉⲥⲧⲓ	ⲉⲝⲉⲥⲧⲓ	VERB	V	_	28	advcl	_	_
 33	ⲛⲁ	ⲛⲁ	ADP	PREP	_	34	case	_	_
 34	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	32	nmod	_	_
