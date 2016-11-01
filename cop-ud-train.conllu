@@ -526,7 +526,7 @@
 39	ⲛⲕⲁ	ⲛⲕⲁ	NOUN	N	_	37	dobj	_	_
 40	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	39	det	_	_
 41	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	_	33	appos	_	_
-42	ⲡ	ⲡ	DET	ART	_	41	appos	_	_
+42	ⲡ	ⲡ	DET	ART	_	33	appos	_	_
 43	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	44	mark	_	_
 44	ⲥⲙⲁⲙⲁⲁⲧ	ⲥⲙⲟⲩ	VERB	VSTAT	_	42	acl	_	_
 45	ϣⲁ	ϣⲁ	ADP	PREP	_	46	case	_	_
@@ -2268,7 +2268,7 @@
 9	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	7	appos	_	_
 10	[	[	PUNCT	PUNCT	_	2	punct	_	_
 11	ⲡ	ⲡ	DET	ART	_	12	det	_	_
-12	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	9	appos	_	_
+12	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	7	appos	_	_
 13	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
 14	ⲡ	ⲡ	DET	ART	_	15	det	_	_
 15	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	12	nmod	_	_
