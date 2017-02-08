@@ -5392,7 +5392,7 @@
 26-28	ϫⲉⲛⲧⲟⲕⲡⲉ	_	_	_	_	_	_	_	_
 26	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	27	mark	_	_
 27	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	23	ccomp	_	_
-28	ⲡⲉ	ⲡⲉ	PART	COP	_	27	cop	_	_
+28	ⲡⲉ	ⲡⲉ	PRON	COP	_	27	cop	_	_
 29-30	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
 29	ⲡ	ⲡ	DET	ART	_	30	det	_	_
 30	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	27	nsubj	_	_
@@ -5572,7 +5572,7 @@
 23-25	ⲉⲧⲉⲡⲁⲓⲡⲉ	_	_	_	_	_	_	_	_
 23	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	24	mark	_	_
 24	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	16	advcl	_	_
-25	ⲡⲉ	ⲡⲉ	PART	COP	_	24	cop	_	_
+25	ⲡⲉ	ⲡⲉ	PRON	COP	_	24	cop	_	_
 26-27	ⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
 26	ⲛ	ⲡ	DET	ART	_	27	det	_	_
 27	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	24	nsubj	_	_
@@ -6143,14 +6143,14 @@
 12	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	13	mark	_	_
 13-14	ⲛⲓⲙⲧⲉ	_	_	_	_	_	_	_	_
 13	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	7	ccomp	_	_
-14	ⲧⲉ	ⲡⲉ	PART	COP	_	13	cop	_	_
+14	ⲧⲉ	ⲡⲉ	PRON	COP	_	13	cop	_	_
 15-16	ⲧⲁⲙⲁⲁⲩ	_	_	_	_	_	_	_	_
 15	ⲧⲁ	ⲡⲁ	DET	PPOS	_	16	det	_	_
 16	ⲙⲁⲁⲩ	ⲙⲁⲁⲩ	NOUN	N	_	13	nsubj	_	_
 17	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	18	cc	_	_
 18-19	ⲛⲓⲙⲛⲉ	_	_	_	_	_	_	_	_
 18	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	13	conj	_	_
-19	ⲛⲉ	ⲡⲉ	PART	COP	_	18	cop	_	_
+19	ⲛⲉ	ⲡⲉ	PRON	COP	_	18	cop	_	_
 20-21	ⲛⲁⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
 20	ⲛⲁ	ⲛⲁ	ADP	PREP	_	21	case	_	_
 21	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	18	nsubj	_	_
@@ -6208,7 +6208,7 @@
 12	.	.	PUNCT	PUNCT	_	13	punct	_	_
 13-14	ⲡⲁⲓⲡⲉ	_	_	_	_	_	_	_	_
 13	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	0	root	_	_
-14	ⲡⲉ	ⲡⲉ	PART	COP	_	13	cop	_	_
+14	ⲡⲉ	ⲡⲉ	PRON	COP	_	13	cop	_	_
 15-16	ⲡⲁⲥⲟⲛ	_	_	_	_	_	_	_	_
 15	ⲡⲁ	ⲡⲁ	DET	PPOS	_	16	det	_	_
 16	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	13	nsubj	_	_
@@ -6742,7 +6742,7 @@
 # text = ⲛⲁⲓ ⲇⲉ ⲛⲉ ⲉⲧϩⲁⲧⲉⲧⲉϩⲓⲏ ⲙⲡⲙⲁ ⲉϣⲁⲩϫⲉⲡϣⲁϫⲉ ⲛϩⲏⲧϥ . ⲁⲩⲱ ⲉϣⲁⲩⲥⲱⲧⲙ ⲛⲧⲉⲩⲛⲟⲩ ϣⲁϥⲉⲓ ⲛϭⲓⲡⲥⲁⲧⲁⲛⲁⲥ ⲛϥϥⲓⲡϣⲁϫⲉ ⲉⲛⲧⲁⲩϫⲟϥ ⲛϩⲏⲧⲟⲩ
 1	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	0	root	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	1	advmod	_	_
-3	ⲛⲉ	ⲡ	DET	ART	_	1	cop	_	_
+3	ⲛⲉ	ⲡ	PRON	COP	_	1	cop	_	_
 4-7	ⲉⲧϩⲁⲧⲉⲧⲉϩⲓⲏ	_	_	_	_	_	_	_	_
 4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
 5	ϩⲁⲧⲉ	ϩⲁⲧⲉ	ADP	PREP	_	7	case	_	_
@@ -6805,7 +6805,7 @@
 3	ϩⲱ	ϩⲱⲱ	ADV	IMOD	_	2	advmod	_	_
 4	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	3	det	_	_
 5-9	ⲛⲉⲛⲧⲁⲩϫⲟⲟⲩ	_	_	_	_	_	_	_	_
-5	ⲛⲉ	ⲡⲉ	PART	COP	_	2	cop	_	_
+5	ⲛⲉ	ⲡⲉ	PRON	COP	_	2	cop	_	_
 6	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
 7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
 8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	9	nsubj	_	_
@@ -6854,7 +6854,7 @@
 8-9	ϩⲛⲡⲣⲟⲥⲟⲩⲟⲉⲓϣ	_	_	_	_	_	_	_	_
 8	ϩⲛ	ϩⲛ	DET	ART	_	9	det	_	_
 9	ⲡⲣⲟⲥⲟⲩⲟⲉⲓϣ	ⲡⲣⲟⲥⲟⲩⲟⲉⲓϣ	NOUN	N	_	1	conj	_	_
-10	ⲛⲉ	ⲡⲉ	PART	COP	_	9	cop	_	_
+10	ⲛⲉ	ⲡⲉ	PRON	COP	_	9	cop	_	_
 11-13	ⲉⲣϣⲁⲛⲟⲩⲑⲗⲓⲯⲓⲥ	_	_	_	_	_	_	_	_
 11	ⲉⲣϣⲁⲛ	ⲉⲣϣⲁⲛ	SCONJ	ACOND	_	15	aux	_	_
 12	ⲟⲩ	ⲟⲩ	DET	ART	_	13	det	_	_
@@ -6886,7 +6886,7 @@
 2	ϩⲉⲛ	ⲟⲩ	DET	ART	_	3	det	_	_
 3	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	0	root	_	_
 4-8	ⲛⲉⲛⲧⲁⲩϫⲟⲟⲩ	_	_	_	_	_	_	_	_
-4	ⲛⲉ	ⲡⲉ	PART	COP	_	3	cop	_	_
+4	ⲛⲉ	ⲡⲉ	PRON	COP	_	3	cop	_	_
 5	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	8	mark	_	_
 6	ⲁ	ⲁ	AUX	APST	_	8	aux	_	_
 7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	8	nsubj	_	_
@@ -6899,7 +6899,7 @@
 13-14	ⲉⲧⲉⲛⲁⲓ	_	_	_	_	_	_	_	_
 13	ⲉⲧⲉ	ⲉⲧⲉ	PART	CFOC	_	14	mark	_	_
 14	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	3	acl	_	_
-15	ⲛⲉ	ⲡ	DET	ART	_	14	cop	_	_
+15	ⲛⲉ	ⲡ	PRON	COP	_	14	cop	_	_
 16-19	ⲛⲧⲁⲩⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
 16	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	19	mark	_	_
 17	ⲁ	ⲁ	AUX	APST	_	19	aux	_	_
@@ -6959,7 +6959,7 @@
 # text = ⲁⲩⲱ ⲛⲏ ⲛⲉ ⲛⲧⲁⲩϫⲟⲟⲩ ⲉϫⲙⲡⲕⲁϩ ⲉⲧⲛⲁⲛⲟⲩϥ ⲉⲩⲥⲱⲧⲙ ⲉⲡϣⲁϫⲉ ⲥⲉϣⲱⲡ ⲙⲙⲟϥ ⲉⲣⲟⲟⲩ ⲁⲩⲱ ⲥⲉⲧⲁⲩⲉⲕⲁⲣⲡⲟⲥ ⲉⲃⲟⲗ ϩⲛⲙⲁⲁⲃ ⲁⲩⲱ ϩⲛⲥⲉ ⲁⲩⲱ ϩⲛϣⲉ .
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
 2	ⲛⲏ	ⲡⲏ	DET	PDEM	_	0	root	_	_
-3	ⲛⲉ	ⲡⲉ	PART	COP	_	2	cop	_	_
+3	ⲛⲉ	ⲡⲉ	PRON	COP	_	2	cop	_	_
 4-8	ⲛⲧⲁⲩϫⲟⲟⲩ	_	_	_	_	_	_	_	_
 4	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
 5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
@@ -7214,7 +7214,7 @@
 9-10	ϫⲉⲧⲁⲓ	_	_	_	_	_	_	_	_
 9	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	10	mark	_	_
 10	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	3	ccomp	_	_
-11	ⲧⲉ	ⲡⲉ	PART	COP	_	10	cop	_	_
+11	ⲧⲉ	ⲡⲉ	PRON	COP	_	10	cop	_	_
 12-13	ⲧϩⲉ	_	_	_	_	_	_	_	_
 12	ⲧ	ⲡ	DET	ART	_	13	det	_	_
 13	ϩⲉ	ϩⲉ	NOUN	N	_	10	nsubj	_	_
@@ -7710,7 +7710,7 @@
 34	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	_	35	nsubj	_	_
 35	ⲟ	ⲉⲓⲣⲉ	VERB	VSTAT	_	24	ccomp	_	_
 36	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	35	advmod	_	_
-37	ⲡⲉ	ⲡⲉ	PART	COP	_	35	cop	_	_
+37	ⲡⲉ	ⲡⲉ	PRON	COP	_	35	cop	_	_
 38	ⲣⲣⲟⲟⲩϣ	ⲣⲣⲟⲟⲩϣ	VERB	V	_	35	xcomp	_	_
 39-42	ϫⲉⲧⲛⲛⲁⲙⲟⲩ	_	_	_	_	_	_	_	_
 39	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	42	mark	_	_
@@ -7826,7 +7826,7 @@
 21-22	ⲙⲙⲓⲛⲉ	_	_	_	_	_	_	_	_
 21	ⲙ	ⲛ	ADP	PREP	_	22	case	_	_
 22	ⲙⲓⲛⲉ	ⲙⲓⲛⲉ	NOUN	N	_	20	nmod	_	_
-23	ⲡⲉ	ⲡⲉ	PART	COP	_	20	cop	_	_
+23	ⲡⲉ	ⲡⲉ	PRON	COP	_	20	cop	_	_
 24	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	20	nsubj	_	_
 25-28	ϫⲉⲡⲕⲉⲧⲏⲩ	_	_	_	_	_	_	_	_
 25	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	32	mark	_	_
@@ -8176,7 +8176,7 @@
 16-17	ϫⲉⲗⲉⲅⲓⲱⲛ	_	_	_	_	_	_	_	_
 16	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	17	mark	_	_
 17	ⲗⲉⲅⲓⲱⲛ	ⲗⲉⲅⲓⲱⲛ	PROPN	NPROP	_	12	ccomp	_	_
-18	ⲡⲉ	ⲡⲉ	PART	COP	_	17	cop	_	_
+18	ⲡⲉ	ⲡⲉ	PRON	COP	_	17	cop	_	_
 19-20	ⲡⲣⲁⲛ	_	_	_	_	_	_	_	_
 19	ⲡ	ⲡ	DET	ART	_	20	det	_	_
 20	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	17	nsubj	_	_
@@ -8702,7 +8702,7 @@
 9	ⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	case	_	_
 10	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	_	11	det	_	_
 11	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	6	acl	_	_
-12	ⲡⲉ	ⲡ	DET	ART	_	11	cop	_	_
+12	ⲡⲉ	ⲡ	PRON	COP	_	11	cop	_	_
 13	ⲓⲁⲉⲓⲣⲟⲥ	ⲓⲁⲉⲓⲣⲟⲥ	NOUN	N	_	11	nsubj	_	_
 14	.	.	PUNCT	PUNCT	_	4	punct	_	_
 15-17	ⲛⲧⲉⲣⲉϥⲛⲁⲩ	_	_	_	_	_	_	_	_
@@ -9034,7 +9034,7 @@
 34-35	ϫⲉⲛⲓⲙ	_	_	_	_	_	_	_	_
 34	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	35	mark	_	_
 35	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	31	ccomp	_	_
-36	ⲡⲉ	ⲡⲉ	PART	COP	_	35	cop	_	_
+36	ⲡⲉ	ⲡⲉ	PRON	COP	_	35	cop	_	_
 37-40	ⲛⲧⲁϥϫⲱϩ	_	_	_	_	_	_	_	_
 37	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	40	mark	_	_
 38	ⲁ	ⲁ	AUX	APST	_	40	aux	_	_
@@ -9079,7 +9079,7 @@
 22-23	ϫⲉⲛⲓⲙ	_	_	_	_	_	_	_	_
 22	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	23	mark	_	_
 23	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	19	ccomp	_	_
-24	ⲡⲉ	ⲡⲉ	PART	COP	_	23	cop	_	_
+24	ⲡⲉ	ⲡⲉ	PRON	COP	_	23	cop	_	_
 25-28	ⲛⲧⲁϥϫⲱϩ	_	_	_	_	_	_	_	_
 25	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	28	mark	_	_
 26	ⲁ	ⲁ	AUX	APST	_	28	aux	_	_
@@ -9179,10 +9179,10 @@
 7	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	11	mark	_	_
 8	ⲧⲁ	ⲡⲁ	DET	PPOS	_	9	det	_	_
 9	ϣⲉⲉⲣⲉ	ϣⲉⲉⲣⲉ	NOUN	N	_	11	vocative	_	_
-10-12	ⲧⲟⲩⲡⲓⲥⲧⲓⲥⲧⲉ	_	_	_	_	_	_	_	_
+10-11	ⲧⲟⲩⲡⲓⲥⲧⲓⲥ	_	_	_	_	_	_	_	_
 10	ⲧⲟⲩ	ⲡⲟⲩ	DET	PPOS	_	11	det	_	_
 11	ⲡⲓⲥⲧⲓⲥ	ⲡⲓⲥⲧⲓⲥ	NOUN	N	_	3	ccomp	_	_
-12	ⲧⲉ	ⲡ	DET	ART	_	11	cop	_	_
+12	ⲧⲉ	ⲡ	PRON	COP	_	11	cop	_	_
 13-16	ⲛⲧⲁⲥⲛⲁϩⲙⲉ	_	_	_	_	_	_	_	_
 13	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
 14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
@@ -9491,7 +9491,7 @@
 20-22	ⲉⲧⲉⲡⲁⲓⲡⲉ	_	_	_	_	_	_	_	_
 20	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	21	mark	_	_
 21	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	18	acl	_	_
-22	ⲡⲉ	ⲡⲉ	PART	COP	_	21	cop	_	_
+22	ⲡⲉ	ⲡⲉ	PRON	COP	_	21	cop	_	_
 23-26	ϣⲁⲩⲟⲩⲁϩⲙⲉϥ	_	_	_	_	_	_	_	_
 23	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	25	aux	_	_
 24	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	25	nsubj	_	_
