@@ -711,7 +711,7 @@
 11-12	ϫⲉⲛⲧⲟⲕ	_	_	_	_	_	_	_	_
 11	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	12	mark	_	_
 12	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	3	ccomp	_	_
-13	ⲡⲉ	ⲡⲉ	AUX	COP	_	12	cop	_	_
+13	ⲡⲉ	ⲡⲉ	PRON	COP	_	12	cop	_	_
 14-15	ⲡⲁϣⲏⲣⲉ	_	_	_	_	_	_	_	_
 14	ⲡⲁ	ⲡⲁ	DET	PPOS	_	15	det	_	_
 15	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	12	nsubj	_	_
@@ -902,7 +902,7 @@
 29	ϩⲉⲛ	ⲟⲩ	DET	ART	_	30	det	_	_
 30	ⲟⲩⲱϩⲉ	ⲟⲩⲱϩⲉ	NOUN	N	_	13	parataxis	_	_
 31	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	30	advmod	_	_
-32	ⲛⲉ	ⲡⲉ	AUX	COP	_	30	cop	_	_
+32	ⲛⲉ	ⲡⲉ	PRON	COP	_	30	cop	_	_
 33	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
 # sent_id = sahidica_mark-Mark_01-dev_section-verse_01-22_s0017

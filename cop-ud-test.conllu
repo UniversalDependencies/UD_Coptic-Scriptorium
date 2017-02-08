@@ -123,7 +123,7 @@
 5	ϣ	ϣ	VERB	V	_	6	aux	_	_
 6	ϫⲱ	ϫⲱ	VERB	V	_	0	root	_	_
 7	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	6	advmod	_	_
-8	ⲡⲉ	ⲡⲉ	AUX	COP	_	6	cop	_	_
+8	ⲡⲉ	ⲡⲉ	PRON	COP	_	6	cop	_	_
 9-11	ⲛⲛⲉⲕⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
 9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
 10	ⲛⲉⲕ	ⲡⲉⲕ	DET	PPOS	_	11	det	_	_
@@ -257,7 +257,7 @@
 40-41	ϫⲉⲛⲧⲟⲕ	_	_	_	_	_	_	_	_
 40	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	41	mark	_	_
 41	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	33	advcl	_	_
-42	ⲡⲉ	ⲡⲉ	AUX	COP	_	41	cop	_	_
+42	ⲡⲉ	ⲡⲉ	PRON	COP	_	41	cop	_	_
 43-44	ⲧⲉⲩϩⲉⲗⲡⲓⲥ	_	_	_	_	_	_	_	_
 43	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	_	44	det	_	_
 44	ϩⲉⲗⲡⲓⲥ	ϩⲉⲗⲡⲓⲥ	NOUN	N	_	41	nsubj	_	_
@@ -357,7 +357,7 @@
 13-14	ϫⲉⲧⲁⲓ	_	_	_	_	_	_	_	_
 13	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	14	mark	_	_
 14	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	11	ccomp	_	_
-15	ⲧⲉ	ⲡⲉ	AUX	COP	_	14	cop	_	_
+15	ⲧⲉ	ⲡⲉ	PRON	COP	_	14	cop	_	_
 16-17	ⲧϩⲉ	_	_	_	_	_	_	_	_
 16	ⲧ	ⲡ	DET	ART	_	17	det	_	_
 17	ϩⲉ	ϩⲉ	NOUN	N	_	14	nsubj	_	_
@@ -606,7 +606,7 @@
 19-20	ϫⲉⲟⲩ	_	_	_	_	_	_	_	_
 19	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	20	mark	_	_
 20	ⲟⲩ	ⲟⲩ	PRON	PINT	_	16	ccomp	_	_
-21	ⲡⲉ	ⲡⲉ	AUX	COP	_	20	cop	_	_
+21	ⲡⲉ	ⲡⲉ	PRON	COP	_	20	cop	_	_
 22	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	20	nsubj	_	_
 23-25	ⲉⲓⲥⲟⲩⲥⲃⲱ	_	_	_	_	_	_	_	_
 23	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	25	advmod	_	_
@@ -798,7 +798,7 @@
 3	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	SCONJ	APREC	_	5	aux	_	_
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	5	nsubj	_	_
 5	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	_	14	advcl	_	_
-6	ⲡⲉ	ⲡⲉ	AUX	COP	_	5	cop	_	_
+6	ⲡⲉ	ⲡⲉ	PRON	COP	_	5	cop	_	_
 7-9	ⲉⲣⲉⲡⲣⲏ	_	_	_	_	_	_	_	_
 7	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	11	mark	_	_
 8	ⲡ	ⲡ	DET	ART	_	9	det	_	_
