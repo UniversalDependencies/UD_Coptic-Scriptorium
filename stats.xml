@@ -5,7 +5,7 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>320</sentences><tokens>3854</tokens><words>8518</words><fused>2550</fused></total>
+    <total><sentences>320</sentences><tokens>3854</tokens><words>8519</words><fused>2550</fused></total>
   </size>
   <lemmas unique="918" /><!-- ⲡ, ⲛ, ⲛⲧⲟϥ, ⲛⲧⲟⲟⲩ, ⲁ, ⲉ, ., ⲉⲧⲉⲣⲉ, ⲁⲩⲱ, ⲉⲣⲉ, ϩⲛ, ⲛⲁ, ϫⲉ, ⲟⲩ, ⲛⲧⲟⲥ -->
   <forms unique="1051" /><!-- ⲛ, ϥ, ⲉ, ⲁ, ⲡ, ⲟⲩ, ⲩ, ., ⲁⲩⲱ, ⲛⲁ, ϫⲉ, ⲙ, ⲥ, ⲉⲧ, ⲧ -->
@@ -17,7 +17,7 @@
     <tag name="AUX">510</tag><!-- ⲁ, ⲛⲁ, ⲛⲧⲉ, ⲛⲉⲣⲉ, ϣⲁⲣⲉ, ⲙⲡⲉ, ⲛⲛⲉ, ⲧⲣⲉ, ⲙⲡⲁⲧⲉ, ⲙⲁⲣⲉ -->
     <tag name="CCONJ">453</tag><!-- ⲁⲩⲱ, ϫⲉ, ⲏ, ⲁⲗⲗⲁ, ϩⲱⲥⲧⲉ, ⲙⲏ, ϫⲉⲕⲁⲁⲥ, ⲉϣⲱⲡⲉ, ⲉⲛⲉ, ⲙⲉⲛ -->
     <tag name="DET">1037</tag><!-- ⲡ, ⲟⲩ, ⲡⲉϥ, ⲡⲉⲕ, ⲡⲉⲩ, ⲡⲁⲓ, ⲡⲁ, ⲕⲉ, ⲡⲉⲓ, ⲡⲓ -->
-    <tag name="NOUN">1158</tag><!-- ϩⲉ, ⲣⲱⲙⲉ, ⲏⲓ, ⲙⲁ, ⲩⲛⲟⲩ, ⲛⲟⲩⲧⲉ, ϣⲁϫⲉ, ⲙⲏⲏϣⲉ, ϣⲏⲣⲉ, ⲛⲟϭ -->
+    <tag name="NOUN">1159</tag><!-- ϩⲉ, ⲣⲱⲙⲉ, ⲏⲓ, ⲙⲁ, ⲩⲛⲟⲩ, ⲛⲟⲩⲧⲉ, ϣⲁϫⲉ, ⲙⲏⲏϣⲉ, ϣⲏⲣⲉ, ⲛⲟϭ -->
     <tag name="NUM">28</tag><!-- ⲟⲩⲁ, ⲙⲛⲧⲥⲛⲟⲟⲩⲥ, ϩⲙⲉ, ϣⲉ, ⲙⲁⲁⲃ, ⲥⲉ, ϣⲟⲙⲛⲧ, ϣⲟⲙⲧ, ϥⲧⲟⲟⲩ, ϫⲟⲩⲧⲏ -->
     <tag name="PART">208</tag><!-- ⲇⲉ, ⲉⲣⲉ, ⲛϭⲓ, ⲅⲁⲣ, ϭⲉ, ⲉⲓⲥ, ⲉⲧⲉⲣⲉ, ϩⲁⲙⲏⲛ, ϩⲏⲏⲧⲉ, ϫⲛ -->
     <tag name="PRON">1489</tag><!-- ⲛⲧⲟϥ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲟⲕ, ⲁⲛⲟⲕ, ⲛⲧⲱⲧⲛ, ⲡⲉ, ⲛⲓⲙ, ⲁⲛⲟⲛ, ⲟⲩ -->
@@ -45,7 +45,7 @@
     <dep name="conj">224</dep>
     <dep name="cop">53</dep>
     <dep name="csubj">16</dep>
-    <dep name="det">990</dep>
+    <dep name="det">991</dep>
     <dep name="discourse">6</dep>
     <dep name="dislocated">133</dep>
     <dep name="fixed">35</dep>
@@ -53,9 +53,9 @@
     <dep name="iobj">13</dep>
     <dep name="mark">682</dep>
     <dep name="nmod">289</dep>
-    <dep name="nsubj">933</dep>
+    <dep name="nsubj">932</dep>
     <dep name="nummod">5</dep>
-    <dep name="obj">395</dep>
+    <dep name="obj">396</dep>
     <dep name="obl">679</dep>
     <dep name="orphan">2</dep>
     <dep name="parataxis">107</dep>
