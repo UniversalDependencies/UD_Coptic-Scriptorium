@@ -16,8 +16,8 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | Not Because a Fox Barks | MONB_XH_204_216       |   2553 |
 | Gospel of Mark          | Chapters 1 - 5        |   5379 |
 | Letter of Besa          | #13,15,25             |   1980 |
-| Apophthegmata Patrum    | #5-6,18-19,23-26      |    586 |
-|                         | Total:                |  10498 |
+| Apophthegmata Patrum    | #5-6,18-19,23-26      |    587 |
+|                         | Total:                |  10499 |
 
 ## Tokenization
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.
