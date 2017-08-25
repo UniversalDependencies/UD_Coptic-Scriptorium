@@ -3296,11 +3296,11 @@
 
 # newdoc id = apophthegmata.patrum:AP.018.n372.anger
 # sent_id = apophthegmata_patrum-AP_018_n372_anger_s0001
-# text = ⲁⲩcⲟⲛ ⲕⲓⲙ ϩⲙⲡⲉϥϭⲱⲛⲧ ⲉϩⲟⲩⲛ ⲉⲟⲩⲁ
-1-3	ⲁⲩcⲟⲛ	_	_	_	_	_	_	_	_
+# text = ⲁⲩⲥⲟⲛ ⲕⲓⲙ ϩⲙⲡⲉϥϭⲱⲛⲧ ⲉϩⲟⲩⲛ ⲉⲟⲩⲁ
+1-3	ⲁⲩⲥⲟⲛ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 2	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing	3	det	_	_
-3	cⲟⲛ	cⲟⲛ	NOUN	N	_	4	nsubj	_	_
+3	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	4	nsubj	_	_
 4	ⲕⲓⲙ	ⲕⲓⲙ	VERB	V	_	0	root	_	_
 5-7	ϩⲙⲡⲉϥϭⲱⲛⲧ	_	_	_	_	_	_	_	_
 5	ϩⲙ	ϩⲙ	NOUN	N	_	7	case	_	_
@@ -4189,7 +4189,7 @@
 35-37	ⲙⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 35	ⲙ	ⲛ	ADP	PREP	_	37	case	_	_
 36	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
-37	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	34	obj	_	_
+37	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	34	obl	_	_
 38-40	ⲉⲩϫⲱ	_	_	_	_	_	_	_	_
 38	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	40	mark	_	_
 39	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	40	nsubj	_	_
