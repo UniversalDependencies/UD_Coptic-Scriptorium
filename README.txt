@@ -15,9 +15,9 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | ----------------------- | --------------------- | ------ |
 | Not Because a Fox Barks | MONB_XH_204_216       |   2553 |
 | Gospel of Mark          | Chapters 1 - 5        |   5379 |
-| Letter of Besa          | #13,15,25             |   1980 |
-| Apophthegmata Patrum    | #5-6,18-19,23-26      |    587 |
-|                         | Total:                |  10499 |
+| Letters of Besa         | #13,15,25             |   1980 |
+| Apophthegmata Patrum    | #1-6,18-19,23-26      |   1317 |
+|                         | Total:                |  11229 |
 
 ## Tokenization
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.
@@ -32,7 +32,11 @@ For more information on Coptic tokenization, see the Coptic Scriptorium website.
   * Zeldes, A. & Schroeder, C. T. (2016a). SCRIPTORIUM Part-of-Speech Tagsets for Sahidic Coptic. Georgetown University and University of the Pacific, Technical Report.
   * Zeldes, A. & Schroeder, C. T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
-* CHANGELOG 1.4 -> 2.0
+  * CHANGELOG 1.4 -> 2.0
+
+Added Apophthegmata Patrum (AP) 1-4 to training data and moved AP24 to dev and AP26 to test to create contiguous document partitions for the AP portions.
+
+  * CHANGELOG 1.4 -> 2.0
 
 Switched to UD v2 and added bound group information (multiword super-tokens). Added Gospel of Mark chapters 3-5 to previously available dev data, and numerous error corrections. 
   
