@@ -1,0 +1,41 @@
+Sun Feb 11 20:32:41 CET 2018
+perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Coptic
+Running the following version of tools/evaluate_treebank.pl:
+commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Feb 11 20:27:50 2018 +0100
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+Evaluating the following revision of UD_Coptic:
+commit a4a9dc65f53e471ed42458f318e4cc6478489350
+Merge: b02d418 3f94160
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Size: counted 11229 of 11229 words (nodes).
+Size: min(0, log((N/1000)**2)) = 4.8369994351808.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 14 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 3118 out of 11229 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 31 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.1.
+Udapi: found 2220 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 11229 words.
+Genres: found 3 out of 14 known.
+(weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
+(weight=0.0769230769230769) * (score{genres}=0.214285714285714) = 0.0164835164835165
+(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
+(weight=0.256410256410256) * (score{size}=0.350113693944695) = 0.0897727420371012
+(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.0837837837837838) = 0.00644490644490645
+(TOTAL score=0.253123487740788) * (availability=1) * (validity=1) = 0.253123487740788
+STARS = 1.5
+UD_Coptic	0.253123487740788	1.5
+Switched to branch 'dev'
+Your branch is up-to-date with 'origin/dev'.
