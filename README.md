@@ -12,7 +12,7 @@ The data was digitized and annotated manually for part of speech in the project 
 
 http://copticscriptorium.org/
 
-Coptic POS tags come from the Coptic Scriptorium tag set, which is available from the project and treebank websites. 
+Coptic POS tags come from the Coptic Scriptorium tag set, which is available from the project and treebank websites.
 
 # Further details
 
@@ -45,17 +45,21 @@ Dataset splits attempt to balance genres across all sets, as well as preserve co
 # References
   * Zeldes, A. & Schroeder, C. T. (2016a). SCRIPTORIUM Part-of-Speech Tagsets for Sahidic Coptic. Georgetown University and University of the Pacific, Technical Report.
   * Zeldes, A. & Schroeder, C. T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
-  
+
 # Changelog
-  
+
+  * CHANGELOG 2.1 -> 2.2
+
+Repository renamed from UD_Coptic to UD_Coptic-Scriptorium.
+
   * CHANGELOG 2.0 -> 2.1
 
 Added Apophthegmata Patrum (AP) 1-4 to training data and moved AP24 to dev and AP26 to test to create contiguous document partitions for the AP portions.
 
   * CHANGELOG 1.4 -> 2.0
 
-Switched to UD v2 and added bound group information (multiword super-tokens). Added Gospel of Mark chapters 3-5 to previously available dev data, and numerous error corrections. 
-  
+Switched to UD v2 and added bound group information (multiword super-tokens). Added Gospel of Mark chapters 3-5 to previously available dev data, and numerous error corrections.
+
 * CHANGELOG 1.3 -> 1.4
 
 First inclusion in full release as of v1.4. Added Gospel of Mark chapter 2 to previously available dev data, and numerous error corrections.
