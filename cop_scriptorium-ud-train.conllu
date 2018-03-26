@@ -11518,7 +11518,7 @@
 1-2	ⲛⲉⲣⲉⲏⲡ	_	_	_	_	_	_	_	_
 1	ⲛⲉⲣⲉ	ⲛⲉⲣⲉ_ⲛⲧⲟ	PRON	CPRET_PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	ⲏⲡ	ⲱⲡ	VERB	VSTAT	VerbForm=Fin	0	root	_	_
-3	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	2	cop	_	_
+3	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	2	cop	_	_
 4-6	ⲉⲧⲁⲙⲟⲛ	_	_	_	_	_	_	_	_
 4	ⲉ	ⲉ	ADP	PREP	_	5	mark	_	_
 5	ⲧⲁⲙⲟ	ⲧⲁⲙⲟ	VERB	V	VerbForm=Inf	2	xcomp	_	_
@@ -11648,7 +11648,7 @@
 11	ⲛⲉⲣ	ⲛⲉⲣⲉ_ⲛⲧⲟ	PRON	CPRET_PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
 12	ⲁ	ⲛⲁ	AUX	FUT	_	13	aux	_	_
 13	ⲕⲁⲧⲁⲫⲣⲟⲛⲉⲓ	ⲕⲁⲧⲁⲫⲣⲟⲛⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	_
-14	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	13	cop	_	_
+14	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	13	cop	_	_
 15-17	ⲛⲛⲟⲩⲉⲓⲟⲧⲉ	_	_	_	_	_	_	_	_
 15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
 16	ⲛⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs	17	det	_	_
@@ -11723,7 +11723,7 @@
 24	ⲛⲉⲣ	ⲛⲉⲣⲉ_ⲛⲧⲟ	PRON	CPRET_PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	26	nsubj	_	_
 25	ⲁ	ⲛⲁ	AUX	FUT	_	26	aux	_	_
 26	ⲙⲉⲗⲉⲧⲁ	ⲙⲉⲗⲉⲧⲁ	VERB	V	VerbForm=Fin	0	root	_	_
-27	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	26	cop	_	_
+27	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	26	cop	_	_
 28-30	ⲛϩⲉⲛϣⲁϫⲉ	_	_	_	_	_	_	_	_
 28	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
 29	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	30	det	_	_
@@ -11785,7 +11785,7 @@
 # text = ⲏ ⲟⲩ ⲡⲉ ⲡⲃⲁⲣⲟⲥ ⲉⲛⲧⲁⲩⲟⲩⲁϩϥ ⲉϫⲱ · ⲛⲥⲁⲃⲏⲗ ϫⲉⲁⲩϫⲟⲟⲥ ⲛⲉ ϫⲉⲙⲡⲣⲡⲁⲣⲁⲃⲁ ⲛⲧⲉⲛⲧⲟⲗⲏ ⲙⲡⲛⲟⲩⲧⲉ · ⲉⲃⲟⲗ ϫⲉⲁⲣϯϣⲟⲟⲩ , ⲁⲩⲱ ⲙⲉⲥⲟⲩⲁⲫⲓ ⲛⲟⲩⲗⲉⲗⲟⲩ ⲉⲥϩⲙⲡⲏⲓ ⲛⲙⲙⲉ ϫⲉⲕⲁⲥ ⲉⲧⲉⲧⲛⲛⲁϣⲱⲡⲉ ⲛϫⲣⲟⲡ ⲁⲩⲱ ⲛⲥⲕⲁⲛⲇⲁⲗⲟⲛ ⲛⲛⲉⲧⲛⲉⲣⲏⲩ ·
 1	ⲏ	ⲏ	CCONJ	CONJ	_	2	cc	_	_
 2	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	0	root	_	_
-3	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	2	cop	_	_
+3	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	2	cop	_	_
 4-5	ⲡⲃⲁⲣⲟⲥ	_	_	_	_	_	_	_	_
 4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	ⲃⲁⲣⲟⲥ	ⲃⲁⲣⲟⲥ	NOUN	N	_	2	nsubj	_	_
@@ -12128,7 +12128,7 @@
 10-11	ⲉϫⲱⲕ	_	_	_	_	_	_	_	_
 10	ⲉϫⲱ	ⲉϫⲛ	ADP	PREP	_	11	case	_	_
 11	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obl	_	_
-12	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	7	cop	_	_
+12	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	7	cop	_	_
 13-14	ⲡⲉⲕⲃⲟⲏⲑⲟⲥ	_	_	_	_	_	_	_	_
 13	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	14	det	_	_
 14	ⲃⲟⲏⲑⲟⲥ	ⲃⲟⲏⲑⲟⲥ	NOUN	N	_	7	nsubj	_	_
@@ -12137,7 +12137,7 @@
 17-18	ⲧⲥⲏϥⲉ	_	_	_	_	_	_	_	_
 17	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	ⲥⲏϥⲉ	ⲥⲏϥⲉ	NOUN	N	_	7	conj	_	_
-19	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	18	cop	_	_
+19	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	18	cop	_	_
 20-22	ⲙⲡⲉⲕϣⲟⲩϣⲟⲩ	_	_	_	_	_	_	_	_
 20	ⲙ	ⲛ	ADP	PREP	_	22	case	_	_
 21	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	22	det	_	_
@@ -12508,7 +12508,7 @@
 8-9	ⲉⲧⲉⲛⲧⲱⲧⲛ	_	_	_	_	_	_	_	_
 8	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
 9	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	7	acl	_	_
-10	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	9	cop	_	_
+10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	9	cop	_	_
 11-12	ⲙⲙⲓⲛⲙⲙⲱⲧⲛ	_	_	_	_	_	_	_	_
 11	ⲙⲙⲓⲛⲙⲙⲱ	ⲙⲙⲓⲛⲙⲙⲟ	ADV	IMOD	Definite=Def|PronType=Prs|Reflex=Yes	9	advmod	_	_
 12	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	det	_	_
@@ -12715,7 +12715,7 @@
 2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	VERB	V	VerbForm=Fin	0	root	_	_
 4	ⲙⲉⲛ	ⲙⲉⲛ	CCONJ	CONJ	_	3	advmod	_	_
-5	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	3	cop	_	_
+5	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	3	cop	_	_
 6-7	ⲉⲉⲓ	_	_	_	_	_	_	_	_
 6	ⲉ	ⲉ	ADP	PREP	_	7	mark	_	_
 7	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Inf	3	csubj	_	_
@@ -12764,7 +12764,7 @@
 23	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	21	acl	_	_
 24	·	·	PUNCT	PUNCT	_	25	punct	_	_
 25-29	ⲡⲉⲛⲧⲁϥⲕⲱⲗⲩⲉ	_	_	_	_	_	_	_	_
-25	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	3	cop	_	_
+25	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	3	cop	_	_
 26	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	29	mark	_	_
 27	ⲁ	ⲁ	AUX	APST	_	29	aux	_	_
 28	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	_
@@ -12785,7 +12785,7 @@
 4	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	6	mark	_	_
 5	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
 6	ⲙⲡϣⲁ	ⲙⲡϣⲁ	NOUN	N	_	2	ccomp	_	_
-7	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	6	cop	_	_
+7	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	6	cop	_	_
 8	ⲙⲕⲁϩ	ⲙⲕⲁϩ	NOUN	N	_	6	nsubj	_	_
 9-10	ⲛϩⲏⲧ	_	_	_	_	_	_	_	_
 9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
@@ -13013,7 +13013,7 @@
 18	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	20	mark	_	_
 19	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	ⲥⲩⲛⲁⲅⲱⲅⲏ	ⲥⲩⲛⲁⲅⲱⲅⲏ	NOUN	N	_	17	acl	_	_
-21	ⲧⲉ	ⲡⲉ	PART	COP	Gender=Fem|Number=Sing	20	cop	_	_
+21	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	20	cop	_	_
 22	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa.letters:to_thieving_nuns_s0019
@@ -13521,7 +13521,7 @@
 15	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	17	mark	_	_
 16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	ϫⲓⲟⲩⲉ	ϫⲓⲟⲩⲉ	NOUN	N	_	11	acl	_	_
-18	ⲡⲉ	ⲡⲉ	PART	COP	Gender=Masc|Number=Sing	17	cop	_	_
+18	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	17	cop	_	_
 19-21	ⲙⲛⲡϫⲱϩⲙ	_	_	_	_	_	_	_	_
 19	ⲙⲛ	ⲙⲛ	ADP	PREP	_	21	cc	_	_
 20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_

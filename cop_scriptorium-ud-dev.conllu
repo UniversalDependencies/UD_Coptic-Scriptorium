@@ -2439,7 +2439,7 @@
 9	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	acl	_	_
 10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
 11	ⲙⲟⲕϩ	ⲙⲟⲩⲕϩ	VERB	VSTAT	VerbForm=Fin	9	acl	_	_
-12	ⲛⲉ	ⲡⲉ	PART	COP	Number=Plur	9	cop	_	_
+12	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	9	cop	_	_
 13	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa.letters:on_lack_of_food_s0002
