@@ -2448,7 +2448,7 @@
 4	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	6	aux	_	_
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 6	ⲁⲛⲁⲕⲣⲓⲛⲉ	ⲁⲛⲁⲕⲣⲓⲛⲉ	VERB	V	VerbForm=Fin	0	root	_	_
-7	ⲙⲉⲛ	ⲙⲉⲛ	CCONJ	CONJ	_	6	advmod	_	_
+7	ⲙⲉⲛ	ⲙⲉⲛ	PART	PTC	_	6	advmod	_	_
 8-9	ⲛⲟⲩⲟⲛ	_	_	_	_	_	_	_	_
 8	ⲛ	ⲛ	PART	PREP	_	9	mark	_	_
 9	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	6	obj	_	_
