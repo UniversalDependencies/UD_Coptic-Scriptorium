@@ -17,13 +17,14 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 # Further details
 
 ## Basic statistics
-|      subcorpus          |        document       | tokens |
-| ----------------------- | --------------------- | ------ |
-| Not Because a Fox Barks | MONB_XH_204_216       |   2553 |
-| Gospel of Mark          | Chapters 1 - 5        |   5379 |
-| Letters of Besa         | #13,15,25             |   1980 |
-| Apophthegmata Patrum    | #1-6,18-19,23-26      |   1317 |
-|                         | Total:                |  11229 |
+|      subcorpus          |        document       | tokens  |
+| ----------------------- | --------------------- | ------- |
+| Not Because a Fox Barks | MONB_XH_204_216       |   2,553 |
+| Gospel of Mark          | Chapters 1 - 5        |   5,379 |
+| 1 Corinthians           | Chapters 1 - 3        |   1,967 |
+| Letters of Besa         | #13,15,25             |   1,980 |
+| Apophthegmata Patrum    | #1-6,18-19,23-26      |   1,318 |
+|                         | Total:                |  13,197 |
 
 ## Tokenization
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.
@@ -36,7 +37,7 @@ For more information on Coptic tokenization, see the Coptic Scriptorium website.
 
 # Acknowledgments
 
-The underlying POS tagged material was produced as part of the projects Coptic Scriptorium, KOMeT and KELLIA, funded by the NEH in the USA and BMBF and DFG in Germany (see http://copticscriptorium.org/ for more details). Treebank annotation was done by Liz Davidson and Amir Zeldes.
+The underlying POS tagged material was produced as part of the projects Coptic Scriptorium, KOMeT and KELLIA, funded by the NEH in the USA and BMBF and DFG in Germany (see http://copticscriptorium.org/ for more details). Treebank annotation was done by Mitchell Abrams, Liz Davidson and Amir Zeldes.
 
 # Data Splits
 
@@ -50,7 +51,7 @@ Dataset splits attempt to balance genres across all sets, as well as preserve co
 
   * CHANGELOG 2.1 -> 2.2
 
-Repository renamed from UD_Coptic to UD_Coptic-Scriptorium.
+Repository renamed from UD_Coptic to UD_Coptic-Scriptorium. Added 1 Corinthians 1-3, rearranged material from Mark to make contiguous documents in train/dev/test.
 
   * CHANGELOG 2.0 -> 2.1
 
@@ -76,7 +77,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: automatic from treebank
 Genre: bible fiction nonfiction
-Contributors: Davidson, Elizabeth; Zeldes, Amir
+Contributors: Abrams, Mitchell; Davidson, Elizabeth; Zeldes, Amir
 Contributing: here
 Contact: amir.zeldes@georgetown.edu
 
