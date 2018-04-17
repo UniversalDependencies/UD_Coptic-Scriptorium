@@ -20,11 +20,11 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 |      subcorpus          |        document       | tokens  |
 | ----------------------- | --------------------- | ------- |
 | Not Because a Fox Barks | MONB_XH_204_216       |   2,553 |
-| Gospel of Mark          | Chapters 1 - 5        |   5,379 |
+| Gospel of Mark          | Chapters 1 - 5        |   5,378 |
 | 1 Corinthians           | Chapters 1 - 3        |   1,967 |
 | Letters of Besa         | #13,15,25             |   1,980 |
 | Apophthegmata Patrum    | #1-6,18-19,23-26      |   1,318 |
-|                         | Total:                |  13,197 |
+|                         | Total:                |  13,196 |
 
 ## Tokenization
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.

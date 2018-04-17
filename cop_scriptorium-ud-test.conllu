@@ -1564,7 +1564,7 @@
 42	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = sahidica_mark-Mark_02_s0023
-# text = ⲁⲩⲱ ⲁⲥϣⲱⲡⲉ ϩⲛ ⲛⲥⲁⲃⲃⲁⲧⲟⲛ ⲉⲧⲣⲉϥⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ϩⲛ ⲛⲓⲱϩⲉ ⲉⲧⲣⲏⲧ ⲁⲩⲱ ⲛⲉϥⲙⲁⲑⲏⲧⲏⲥ ⲉⲩⲙⲟⲟϣⲉ ⲁⲩⲁⲣⲭⲓⲧⲗⲕ ϩⲙⲥ .
+# text = ⲁⲩⲱ ⲁⲥϣⲱⲡⲉ ϩⲛ ⲛⲥⲁⲃⲃⲁⲧⲟⲛ ⲉⲧⲣⲉϥⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ϩⲛ ⲛⲓⲱϩⲉ ⲉⲧⲣⲏⲧ ⲁⲩⲱ ⲛⲉϥⲙⲁⲑⲏⲧⲏⲥ ⲉⲩⲙⲟⲟϣⲉ ⲁⲩⲁⲣⲭⲓⲧⲗⲕϩⲙⲥ .
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	26	cc	_	_
 2-4	ⲁⲥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
@@ -1598,8 +1598,7 @@
 24-26	ⲁⲩⲁⲣⲭⲓⲧⲗⲕ	_	_	_	_	_	_	_	_
 24	ⲁ	ⲁ	AUX	APST	_	26	aux	_	_
 25	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	_
-26	ⲁⲣⲭⲓⲧⲗⲕ	ⲁⲣⲭⲓⲧⲗⲕ	VERB	V	VerbForm=Fin	4	conj	_	_
-27	ϩⲙⲥ	ϩⲙⲥ	NOUN	N	_	26	obj	_	_
+26	ⲁⲣⲭⲓⲧⲗⲕϩⲙⲥ	ⲁⲣⲭⲓⲧⲗⲕϩⲙⲥ	VERB	V	VerbForm=Fin	4	conj	_	_
 28	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = sahidica_mark-Mark_02_s0024
