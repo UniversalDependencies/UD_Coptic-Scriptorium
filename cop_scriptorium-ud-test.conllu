@@ -1595,11 +1595,11 @@
 21	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	23	mark	_	_
 22	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
 23	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	VerbForm=Fin	26	advcl	_	_
-24-26	ⲁⲩⲁⲣⲭⲓⲧⲗⲕ	_	_	_	_	_	_	_	_
+24-26	ⲁⲩⲁⲣⲭⲓⲧⲗⲕϩⲙⲥ	_	_	_	_	_	_	_	_
 24	ⲁ	ⲁ	AUX	APST	_	26	aux	_	_
 25	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	_
 26	ⲁⲣⲭⲓⲧⲗⲕϩⲙⲥ	ⲁⲣⲭⲓⲧⲗⲕϩⲙⲥ	VERB	V	VerbForm=Fin	4	conj	_	_
-28	.	.	PUNCT	PUNCT	_	4	punct	_	_
+27	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = sahidica_mark-Mark_02_s0024
 # text = ⲛⲉⲫⲁⲣⲣⲓⲥⲁⲓⲟⲥ ⲇⲉ ⲡⲉϫⲁⲩ ⲛⲁϥ ϫⲉⲁⲛⲁⲩ ϫⲉⲉⲩⲣⲟⲩ ϩⲛⲛⲥⲁⲃⲃⲁⲧⲟⲛ ⲉⲟⲩⲕ ⲉⲝⲉⲥⲧⲓ ⲉⲁⲁϥ .

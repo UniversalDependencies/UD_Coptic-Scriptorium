@@ -450,7 +450,7 @@
 30	.	.	PUNCT	PUNCT	_	2	punct	_	_
 31	ⲛⲧⲟⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERI	Definite=Def|Number=Plur|Person=3|PronType=Prs	35	dislocated	_	_
 32	ⲇⲉ	ⲇⲉ	PART	PTC	_	35	advmod	_	_
-33-36	ⲁⲩⲕⲁⲣⲱⲟⲩ	_	_	_	_	_	_	_	_
+33-37	ⲁⲩⲕⲁⲣⲱⲟⲩ	_	_	_	_	_	_	_	_
 33	ⲁ	ⲁ	AUX	APST	_	35	aux	_	_
 34	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	35	nsubj	_	_
 35	ⲕⲁ	ⲕⲱ	VERB	V	VerbForm=Fin	2	parataxis	_	_
@@ -539,7 +539,7 @@
 12	ⲙⲛ	ⲙⲛ	ADP	PREP	_	14	cc	_	_
 13	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
 14	ϩⲏⲣⲱⲇⲓⲁⲛⲟⲥ	ϩⲏⲣⲱⲇⲓⲁⲛⲟⲥ	NOUN	N	_	11	conj	_	_
-15-18	ⲁⲩϫⲓϣⲟϫⲛⲉ	_	_	_	_	_	_	_	_
+15-17	ⲁⲩϫⲓϣⲟϫⲛⲉ	_	_	_	_	_	_	_	_
 15	ⲁ	ⲁ	AUX	APST	_	17	aux	_	_
 16	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 17	ϫⲓϣⲟϫⲛⲉ	ϫⲓϣⲟϫⲛⲉ	VERB	V	VerbForm=Fin	3	parataxis	_	_
@@ -2201,7 +2201,7 @@
 16	ⲙ	ⲛ	ADP	PREP	_	18	case	_	_
 17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	15	nmod	_	_
-19	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	3	ccomp	_	_
+19	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	8	conj	_	_
 20-21	ⲛϩⲏⲧⲧⲏⲩⲧⲛ	_	_	_	_	_	_	_	_
 20	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	21	case	_	_
 21	ⲧⲏⲩⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	19	obl	_	_
