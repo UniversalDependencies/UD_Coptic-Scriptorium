@@ -75,7 +75,7 @@ Includes text: yes
 Lemmas: manual native
 UPOS: converted from manual
 XPOS: manual native
-Features: automatic from treebank
+Features: automatic
 Genre: bible fiction nonfiction
 Contributors: Abrams, Mitchell; Davidson, Elizabeth; Zeldes, Amir
 Contributing: here
