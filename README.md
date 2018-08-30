@@ -20,13 +20,14 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 |      subcorpus          |        documents      | tokens  |
 | ----------------------- | --------------------- | ------- |
 | Not Because a Fox Barks | MONB_XH_204_216       |   2,553 |
+| Abraham our Father      | MONB_XL_93_94         |     579 |
 | Acephalous Work 22      | MONB_YA_421_428       |   1,703 |
-| Gospel of Mark          | Chapters 1 - 5        |   5,379 |
-| 1 Corinthians           | Chapters 1 - 6        |   3,580 |
-| Letters of Besa         | #13,15,25             |   1,980 |
+| Gospel of Mark          | Chapters 1 - 6        |   7,087 |
+| 1 Corinthians           | Chapters 1 - 6        |   3,571 |
+| Letters of Besa         | #13,15,25             |   1,981 |
 | Apophthegmata Patrum    | #1-6,18-19,23-26      |   1,318 |
-| Martyrdom of St. Victor | Chapters 1 - 6        |   1,986 |
-|                         | Total:                |  18,499 |
+| Martyrdom of St. Victor | Chapters 1 - 6        |   1,985 |
+|                         | Total:                |  20,777 |
 
 ## Tokenization
 
@@ -47,16 +48,33 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 Dataset splits attempt to balance genres across all sets, as well as preserve contiguous documents whenever possible. Sentence and document IDs in the data indicate the respective source texts. Sentences are not shuffled.
 
 # References
-  * Zeldes, A. & Schroeder, C. T. (2016a). SCRIPTORIUM Part-of-Speech Tagsets for Sahidic Coptic. Georgetown University and University of the Pacific, Technical Report.
-  * Zeldes, A. & Schroeder, C. T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
+
+To cite the treebank please refer to the following paper:
+
+  * Zeldes, Amir & Abrams, Mitchell (2018). "The Coptic Universal Dependency Treebank". In: *Proceedings of the Universal Dependencies Workshop 2018*. Brussels.
+
+```
+@InProceedings{ZeldesAbrams2018,
+  author    = {Amir Zeldes and Mitchell Abrams},
+  title     = {The Coptic Universal Dependency Treebank},
+  booktitle = {Proceedings of the Universal Dependencies Workshop 2018},
+  year      = {2018},
+  address   = {Brussels}
+}
+```
+
+Further information on relevant annotation standards and NLP tools used prior to manual correction can be found in these papers:
+
+  * Zeldes, Amir & Schroeder, Caroline T. (2016a). SCRIPTORIUM Part-of-Speech Tagsets for Sahidic Coptic. Georgetown University and University of the Pacific, Technical Report.
+  * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
 
   * CHANGELOG 2.2 -> 2.3
 
-Added new documents: Shenoute's Acephalous Work 22, the Martyrdom of St. Victor Chapters 1-6, and 1 Corinthians Chapters 3-6 (corpus now includes 1-6). Rearranged documents in train/dev/test for even more contiguous documents and balance: now only Not Because a Fox Barks is split between train and test (dev has A22 as a sample of Shenoutean writing). 
+Added new documents: Shenoute's Acephalous Work 22 (YA421-428) and Abraham our Father (XL93-94), the Martyrdom of St. Victor Chapters 1-6, 1 Corinthians Chapters 3-6 (corpus now includes 1-6) and Mark 6 (coprus now includes 1-6). Rearranged documents in train/dev/test so that all documents are contiguous and genere balance is improved (all sets now include different Shenoute texts). 
 
-Also added MISC attributes: Morphs (for sub-word morphological segmentation) and Orig (records unnormalized word form where normalization has occurred)
+Also added MISC attributes: Morphs (for sub-word morphological segmentation) and Orig (records unnormalized word form where normalization has been carried out)
 
   * CHANGELOG 2.1 -> 2.2
 
