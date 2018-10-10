@@ -41,7 +41,7 @@ For more information on Coptic tokenization, see the Coptic Scriptorium website.
 
 # Acknowledgments
 
-The underlying POS tagged material was produced as part of the projects Coptic Scriptorium, KOMeT and KELLIA, funded by the NEH in the USA and BMBF and DFG in Germany (see http://copticscriptorium.org/ for more details). Treebank annotation was done by Mitchell Abrams, Liz Davidson and Amir Zeldes, in addition to smaller contributions listed under 'contributing'.
+The underlying POS tagged material was produced as part of the projects Coptic Scriptorium, KOMeT and KELLIA, funded by the NEH in the USA and BMBF and DFG in Germany (see http://copticscriptorium.org/ for more details). Treebank annotation was done mainly by Mitchell Abrams, Liz Davidson and Amir Zeldes. Thanks are also due to Israel Avrahamy, Asael Benyami, Yinon Kahan and Oran Szachter for their contributions.
 
 # Data Splits
 
@@ -106,7 +106,7 @@ Features: automatic
 Relations: manual native
 Genre: bible fiction nonfiction
 Contributors: Abrams, Mitchell; Davidson, Elizabeth; Zeldes, Amir
-Contributing: Avrahamy, Israel; Benyami, Asael; Kahan, Yinon; Szachter, Oran
+Contributing: elsewhere
 Contact: amir.zeldes@georgetown.edu
 
 ============================================
