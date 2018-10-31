@@ -17,17 +17,17 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 # Further details
 
 ## Basic statistics
-|      subcorpus          |        documents      | tokens  |
-| ----------------------- | --------------------- | ------- |
-| Not Because a Fox Barks | MONB_XH_204_216       |   2,553 |
-| Abraham our Father      | MONB_XL_93_94         |     579 |
-| Acephalous Work 22      | MONB_YA_421_428       |   1,703 |
-| Gospel of Mark          | Chapters 1 - 6        |   7,087 |
-| 1 Corinthians           | Chapters 1 - 6        |   3,571 |
-| Letters of Besa         | #13,15,25             |   1,981 |
-| Apophthegmata Patrum    | #1-6,18-19,23-26      |   1,318 |
-| Martyrdom of St. Victor | Chapters 1 - 6        |   1,985 |
-|                         | Total:                |  20,777 |
+|      subcorpus          |        documents        | tokens  |
+| ----------------------- | ------------------------| ------- |
+| Not Because a Fox Barks | MONB XH204-216          |   2,553 |
+| Abraham our Father      | MONB XL93-94, YA518-520 |   1,199 |
+| Acephalous Work 22      | MONB YA421-428          |   1,703 |
+| Gospel of Mark          | Chapters 1 - 6          |   7,087 |
+| 1 Corinthians           | Chapters 1 - 6          |   3,571 |
+| Letters of Besa         | #13,15,25               |   1,981 |
+| Apophthegmata Patrum    | #1-6,18-19,23-26        |   1,318 |
+| Martyrdom of St. Victor | Chapters 1 - 6          |   1,985 |
+|                         | Total:                  |  21,397 |
 
 ## Tokenization
 
@@ -51,13 +51,14 @@ Dataset splits attempt to balance genres across all sets, as well as preserve co
 
 To cite the treebank please refer to the following paper:
 
-  * Zeldes, Amir & Abrams, Mitchell (2018). "The Coptic Universal Dependency Treebank". In: *Proceedings of the Universal Dependencies Workshop 2018*. Brussels.
+  * Zeldes, Amir & Abrams, Mitchell (2018). "The Coptic Universal Dependency Treebank". In: *Proceedings of the Universal Dependencies Workshop 2018*. Brussels, Belgium, 192-201.
 
 ```
 @InProceedings{ZeldesAbrams2018,
   author    = {Amir Zeldes and Mitchell Abrams},
   title     = {The Coptic Universal Dependency Treebank},
   booktitle = {Proceedings of the Universal Dependencies Workshop 2018},
+  pages     = {192--201},
   year      = {2018},
   address   = {Brussels}
 }
@@ -72,7 +73,7 @@ Further information on relevant annotation standards and NLP tools used prior to
 
   * CHANGELOG 2.2 -> 2.3
 
-Added new documents: Shenoute's Acephalous Work 22 (YA421-428) and Abraham our Father (XL93-94), the Martyrdom of St. Victor Chapters 1-6, 1 Corinthians Chapters 3-6 (corpus now includes 1-6) and Mark 6 (coprus now includes 1-6). Rearranged documents in train/dev/test so that all documents are contiguous and genere balance is improved (all sets now include different Shenoute texts). 
+Added new documents: Shenoute's Acephalous Work 22 (YA421-428) and Abraham our Father (XL93-94, YA518-520), the Martyrdom of St. Victor Chapters 1-6, 1 Corinthians Chapters 3-6 (corpus now includes 1-6) and Mark 6 (coprus now includes 1-6). Rearranged documents in train/dev/test so that all documents are contiguous and genere balance is improved (all sets now include different Shenoute texts). 
 
 Also added MISC attributes: Morphs (for sub-word morphological segmentation) and Orig (records unnormalized word form where normalization has been carried out)
 
@@ -88,7 +89,7 @@ Added Apophthegmata Patrum (AP) 1-4 to training data and moved AP24 to dev and A
 
 Switched to UD v2 and added bound group information (multiword super-tokens). Added Gospel of Mark chapters 3-5 to previously available dev data, and numerous error corrections.
 
-* CHANGELOG 1.3 -> 1.4
+  * CHANGELOG 1.3 -> 1.4
 
 First inclusion in full release as of v1.4. Added Gospel of Mark chapter 2 to previously available dev data, and numerous error corrections.
 
