@@ -25,9 +25,9 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | Gospel of Mark          | Chapters 1 - 6          |   7,087 |
 | 1 Corinthians           | Chapters 1 - 6          |   3,571 |
 | Letters of Besa         | #13,15,25               |   1,981 |
-| Apophthegmata Patrum    | #1-6,18-19,23-26        |   1,318 |
+| Apophthegmata Patrum    | #1-6,18-19,23-32        |   1,978 |
 | Martyrdom of St. Victor | Chapters 1 - 6          |   1,985 |
-|                         | Total:                  |  21,397 |
+|                         | Total:                  |  22,057 |
 
 ## Tokenization
 
@@ -73,7 +73,7 @@ Further information on relevant annotation standards and NLP tools used prior to
 
   * CHANGELOG 2.2 -> 2.3
 
-Added new documents: Shenoute's Acephalous Work 22 (YA421-428) and Abraham our Father (XL93-94, YA518-520), the Martyrdom of St. Victor Chapters 1-6, 1 Corinthians Chapters 3-6 (corpus now includes 1-6) and Mark 6 (coprus now includes 1-6). Rearranged documents in train/dev/test so that all documents are contiguous and genere balance is improved (all sets now include different Shenoute texts). 
+Added new documents: Shenoute's Acephalous Work 22 (YA421-428) and Abraham our Father (XL93-94, YA518-520), the Martyrdom of St. Victor Chapters 1-6, Apophthegmata Patrum 27-32, 1 Corinthians Chapters 3-6 (corpus now includes 1-6) and Mark 6 (coprus now includes 1-6). Rearranged documents in train/dev/test so that all documents are contiguous and genere balance is improved (all sets now include different Shenoute texts). 
 
 Also added MISC attributes: Morphs (for sub-word morphological segmentation) and Orig (records unnormalized word form where normalization has been carried out)
 
