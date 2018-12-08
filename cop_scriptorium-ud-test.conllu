@@ -999,25 +999,24 @@
 9	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = shenoute_abraham-MONB_YA_518_520_s0009
-# text = ⲉϥϯ ⲙⲧⲟⲛ ⲇⲉ ⲟⲛ ⲛⲧⲙⲁⲁⲩ ⲛⲧⲁⲥϫⲡⲟϥ ·
-1-3	ⲉϥϯ	_	_	_	_	_	_	_	_
+# text = ⲉϥϯⲙⲧⲟⲛ ⲇⲉ ⲟⲛ ⲛⲧⲙⲁⲁⲩ ⲛⲧⲁⲥϫⲡⲟϥ ·
+1-3	ⲉϥϯⲙⲧⲟⲛ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	ϯ	ϯ	VERB	V	VerbForm=Fin	0	root	_	_
-4	ⲙⲧⲟⲛ	ⲙⲧⲟⲛ	NOUN	N	_	3	obj	_	Orig=ⲙ̄ⲧⲟⲛ
-5	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
-6	ⲟⲛ	ⲟⲛ	ADV	ADV	_	3	advmod	_	Orig=ⲟⲛ`
-7-9	ⲛⲧⲙⲁⲁⲩ	_	_	_	_	_	_	_	_
-7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
-8	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	ⲙⲁⲁⲩ	ⲙⲁⲁⲩ	NOUN	N	_	3	obl	_	Orig=ⲙⲁⲁⲩ`
-10-14	ⲛⲧⲁⲥϫⲡⲟϥ	_	_	_	_	_	_	_	_
-10	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	13	mark	_	Orig=ⲛ̄ⲧ
-11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
-12	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
-13	ϫⲡⲟ	ϫⲡⲟ	VERB	V	VerbForm=Fin	9	acl	_	_
-14	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
-15	·	·	PUNCT	PUNCT	_	3	punct	_	_
+3	ϯⲙⲧⲟⲛ	ϯⲙⲧⲟⲛ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ϯ-ⲙⲧⲟⲛ
+4	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
+5	ⲟⲛ	ⲟⲛ	ADV	ADV	_	3	advmod	_	Orig=ⲟⲛ`
+6-8	ⲛⲧⲙⲁⲁⲩ	_	_	_	_	_	_	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲛ̄
+7	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	ⲙⲁⲁⲩ	ⲙⲁⲁⲩ	NOUN	N	_	3	obl	_	Orig=ⲙⲁⲁⲩ`
+9-13	ⲛⲧⲁⲥϫⲡⲟϥ	_	_	_	_	_	_	_	_
+9	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	Orig=ⲛ̄ⲧ
+10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+11	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	ϫⲡⲟ	ϫⲡⲟ	VERB	V	VerbForm=Fin	8	acl	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+14	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = shenoute_abraham-MONB_YA_518_520_s0010
 # text = ⲁⲩⲱ ⲛⲧⲉⲓϩⲉ ⲁϥⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ ⲛⲧⲉⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ ⲛⲛⲉϥⲉⲓⲟⲧⲉ ,
