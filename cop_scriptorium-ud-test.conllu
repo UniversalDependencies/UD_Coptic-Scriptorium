@@ -7902,7 +7902,7 @@
 16-17	ⲛⲧⲉ	_	_	_	_	_	_	_	_
 16	ⲛ	ⲛ	ADP	PREP	_	18	case	_	Orig=ⲛ̄
 17	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-18	ⲩϣⲏ	ⲩϣⲏ	NOUN	N	_	15	nmod	_	Orig=ⲩϣⲏ̂
+18	ⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	15	nmod	_	Orig=ⲩϣⲏ̂
 19	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0020
@@ -7964,7 +7964,7 @@
 11-13	ⲛⲧⲉⲩϣⲏ	_	_	_	_	_	_	_	_
 11	ⲛ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲛ̄
 12	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	ⲩϣⲏ	ⲩϣⲏ	NOUN	N	_	10	obl	_	Orig=ⲩϣⲏ̂
+13	ⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	10	obl	_	Orig=ⲩϣⲏ̂
 14	·	·	PUNCT	PUNCT	_	10	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0022
@@ -7982,7 +7982,7 @@
 9-11	ⲛⲧⲉⲩϣⲏ	_	_	_	_	_	_	_	_
 9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	Orig=ⲛ̄
 10	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	ⲩϣⲏ	ⲩϣⲏ	NOUN	N	_	8	obl	_	Orig=ⲩϣⲏ̂
+11	ⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	8	obl	_	Orig=ⲩϣⲏ̂
 12	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0023
@@ -8044,7 +8044,7 @@
 14-16	ⲛⲧⲉⲩϣⲏ	_	_	_	_	_	_	_	_
 14	ⲛ	ⲛ	ADP	PREP	_	16	case	_	Orig=ⲛ̄
 15	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	ⲩϣⲏ	ⲩϣⲏ	NOUN	N	_	13	obl	_	Orig=ⲩϣⲏ̂
+16	ⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	13	obl	_	Orig=ⲩϣⲏ̂
 17	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0025
