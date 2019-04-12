@@ -146,7 +146,7 @@
 47	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	_
 48	ⲟⲩⲉⲣⲏⲧⲉ	ⲟⲩⲉⲣⲏⲧⲉ	NOUN	N	_	45	obl	_	_
 49-50	ⲛⲟⲩⲁ	_	_	_	_	_	_	_	_
-49	ⲛ	ⲛ	ADP	PREP	_	50	case	_	Orig=ⲛ̣̄
+49	ⲛ	ⲛ	ADP	PREP	_	50	case	_	Orig=ⲛ̣-
 50	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	48	nmod	_	Orig=ⲟ̣ⲩⲁ`
 51-53	ⲉⲙⲛϭⲟⲙ	_	_	_	_	_	_	_	_
 51	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	52	mark	_	_
@@ -190,7 +190,7 @@
 13	ⲥⲣ	ⲥⲟⲩⲣ	VERB	V	VerbForm=Fin	25	advcl	_	Orig=ⲥ̣ⲣ̣
 14	ⲣⲁⲧ	ⲣⲁⲧ	NOUN	N	_	13	obj	_	_
 15	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	14	det	_	_
-16	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	13	advmod	_	Orig=ⲉϩⲣⲁ̣ⲓ̣̈
+16	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	13	advmod	_	Orig=ⲉϩⲣⲁ̣ⲓ̣̈
 17-18	ϩⲛⲗⲁⲁⲩ	_	_	_	_	_	_	_	_
 17	ϩⲛ	ϩⲛ	ADP	PREP	_	18	case	_	Orig=ϩ︤ⲛ︥
 18	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	13	obl	_	_
@@ -215,7 +215,7 @@
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Orig=Ϥ
 2	ⲥϩⲟⲩⲟⲣⲧ	ⲥⲁϩⲟⲩ	VERB	VSTAT	VerbForm=Fin	0	root	_	Orig=ⲥϩⲟⲩⲟⲣ︤ⲧ︥
 3-7	ⲛϭⲓⲡⲉⲧⲛⲁⲧⲱϣ	_	_	_	_	_	_	_	_
-3	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	4	case	_	Orig=ⲛ̣̄[ϭⲓ]
+3	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	4	case	_	Orig=ⲛ̣-[ϭⲓ]
 4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	dislocated	_	_
 5	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
 6	ⲛⲁ	ⲛⲁ	AUX	FUT	_	7	aux	_	_
@@ -613,7 +613,7 @@
 42	ⲛ	ⲛ	ADP	PREP	_	43	case	_	_
 43	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	41	obl	_	_
 44-46	ⲛⲧⲟⲟⲧⲟⲩ	_	_	_	_	_	_	_	_
-44	ⲛ	ⲛ	ADP	PREP	_	45	case	_	Orig=ⲛ̣̄
+44	ⲛ	ⲛ	ADP	PREP	_	45	case	_	Orig=ⲛ̣-
 45	ⲧⲟⲟⲧ	ⲧⲱⲣⲉ	NOUN	N	_	41	obl	_	Orig=ⲧ̣ⲟⲟⲧ
 46	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	45	det	_	_
 47-49	ⲛϩⲉⲛⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
@@ -5367,7 +5367,7 @@
 28	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	30	aux	_	_
 29	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
 30	ⲙⲧⲟⲛ	ⲙⲧⲟⲛ	VERB	V	VerbForm=Fin	17	advcl	_	_
-31	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	30	advmod	_	_
+31	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	30	obl:npmod	_	_
 32	.	.	PUNCT	PUNCT	_	17	punct	_	_
 33	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	37	cc	_	_
 34-37	ⲛⲧⲁⲥⲉⲓ	_	_	_	_	_	_	_	_
@@ -6174,7 +6174,7 @@
 32-33	ϭⲛⲛⲁⲓ	_	_	_	_	_	_	_	_
 32	ϭⲛ	ϭⲓⲛⲉ	VERB	V	VerbForm=Fin	25	ccomp	_	_
 33	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	32	obj	_	_
-34	ⲧⲱⲛ	ⲧⲱⲛ	PRON	PINT	PronType=Int	32	advmod	_	_
+34	ⲧⲱⲛ	ⲧⲱⲛ	ADV	PINT	PronType=Int	32	advmod	_	_
 35	.	.	PUNCT	PUNCT	_	32	punct	_	_
 36	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	37	cc	_	_
 37	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	32	conj	_	_
@@ -6383,7 +6383,7 @@
 11	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
 12	ϫⲟⲟⲩ	ϫⲟⲟⲩ	VERB	V	VerbForm=Fin	10	xcomp	_	_
 13	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
-14	ⲥⲛⲁⲩ	ⲥⲛⲁⲩ	NUM	NUM	NumType=Card	12	advmod	_	_
+14	ⲥⲛⲁⲩ	ⲥⲛⲁⲩ	NUM	NUM	NumType=Card	12	obl:npmod	_	_
 15	ⲥⲛⲁⲩ	ⲥⲛⲁⲩ	NUM	NUM	NumType=Card	14	conj	_	_
 16	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	19	cc	_	_
 17-19	ⲁϥϯ	_	_	_	_	_	_	_	_
@@ -6881,7 +6881,7 @@
 6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
 7	ϩⲟⲧⲉ	ϩⲟⲧⲉ	NOUN	N	_	5	obl	_	_
 8-9	ϩⲏⲧϥ	_	_	_	_	_	_	_	_
-8	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	5	advmod	_	_
+8	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	5	obl:npmod	_	_
 9	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	8	det	_	_
 10-11	ⲛⲓⲱϩⲁⲛⲛⲏⲥ	_	_	_	_	_	_	_	_
 10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
@@ -7417,7 +7417,7 @@
 6-7	ϫⲉⲁⲙⲏⲓⲛ	_	_	_	_	_	_	_	_
 6	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	7	mark	_	_
 7	ⲁⲙⲏⲓⲛ	ⲉⲓ	VERB	VIMP	VerbForm=Fin	1	ccomp	_	_
-8	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	7	advmod	_	_
+8	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	7	obl:npmod	_	_
 9-11	ⲛⲥⲁⲩⲥⲁ	_	_	_	_	_	_	_	_
 9	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	11	case	_	_
 10	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
@@ -7719,7 +7719,7 @@
 15-16	ⲛⲁⲩ	_	_	_	_	_	_	_	_
 15	ⲛⲁ	ⲛⲁ	ADP	PREP	_	16	case	_	_
 16	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	obl	_	_
-17	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	14	advmod	_	_
+17	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	14	obl:npmod	_	_
 18-21	ⲉⲧⲣⲉⲩⲟⲩⲱⲙ	_	_	_	_	_	_	_	_
 18	ⲉ	ⲉ	PART	PREP	_	19	mark	_	_
 19	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	14	xcomp	_	_
@@ -7856,7 +7856,7 @@
 9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
 10	ⲁⲩⲏⲧ	ⲁⲩⲏⲧ	NOUN	N	_	8	obl	_	_
 11	ⲁⲩⲏⲧ	ⲁⲩⲏⲧ	NOUN	N	_	10	conj	_	_
-12	ϣⲉ	ϣⲉ	NUM	NUM	NumType=Card	10	advmod	_	_
+12	ϣⲉ	ϣⲉ	NUM	NUM	NumType=Card	10	obl:npmod	_	_
 13	ϣⲉ	ϣⲉ	NUM	NUM	NumType=Card	12	conj	_	_
 14	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	_
 15	ⲧⲁⲉⲓⲟⲩ	ⲧⲁⲉⲓⲟⲩ	NUM	NUM	NumType=Card	12	conj	_	_
@@ -8717,7 +8717,7 @@
 12	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	13	nsubj	_	_
 13	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	VerbForm=Fin	6	advcl	_	_
 14-15	ϩⲏⲧϥ	_	_	_	_	_	_	_	_
-14	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	13	advmod	_	_
+14	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	13	obl:npmod	_	_
 15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	14	det	_	_
 16-18	ⲙⲡϭⲱⲗⲡ	_	_	_	_	_	_	_	_
 16	ⲙ	ⲛ	ADP	PREP	_	18	case	_	_
@@ -9696,7 +9696,7 @@
 # text = ⲁⲛⲟⲕ ⲇⲉ ϩⲱ ⲛⲧⲉⲣⲓⲉⲓ ϣⲁⲣⲱⲧⲛ ⲛⲁⲥⲛⲏⲩ ⲛⲧⲁⲓⲉⲓ ϩⲛⲟⲩϫⲓⲥⲉ ⲁⲛ ⲛϣⲁϫⲉ ⲏ ⲛⲥⲟⲫⲓⲁ ⲉⲓϫⲱ ⲉⲣⲱⲧⲛ ⲛⲧⲙⲛⲧⲙⲛⲧⲣⲉ ⲙⲡⲛⲟⲩⲧⲉ .
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	6	advmod	_	_
-3	ϩⲱ	ϩⲱⲱ_ⲁⲛⲟⲕ	PRON	IMOD_PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	advmod	_	_
+3	ϩⲱ	ϩⲱⲱ_ⲁⲛⲟⲕ	PRON	IMOD_PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	obl:npmod	_	_
 4-6	ⲛⲧⲉⲣⲓⲉⲓ	_	_	_	_	_	_	_	_
 4	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	6	aux	_	_
 5	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
