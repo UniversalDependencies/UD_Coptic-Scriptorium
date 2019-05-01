@@ -20,14 +20,14 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 |      subcorpus          |        documents        | tokens  |
 | ----------------------- | ------------------------| ------- |
 | Not Because a Fox Barks | MONB XH204-216          |   2,553 |
-| Abraham our Father      | MONB XL93-94, YA518-520 |   1,199 |
+| Abraham our Father      | MONB XL93-94, YA518-520 |   1,198 |
 | Acephalous Work 22      | MONB YA421-428          |   1,703 |
-| Gospel of Mark          | Chapters 1 - 8          |   9,260 |
-| 1 Corinthians           | Chapters 1 - 6          |   3,571 |
+| Gospel of Mark          | Chapters 1 - 9          |  10,788 |
+| 1 Corinthians           | Chapters 1 - 6          |   3,570 |
 | Letters of Besa         | #13,15,25               |   1,981 |
 | Apophthegmata Patrum    | #1-6,18-19,23-32        |   1,978 |
 | Martyrdom of St. Victor | Chapters 1 - 6          |   1,985 |
-|                         | Total:                  |  24,230 |
+|                         | Total:                  |  25,756 |
 
 ## Tokenization
 
@@ -56,7 +56,7 @@ To cite the treebank please refer to the following paper:
 ```
 @InProceedings{ZeldesAbrams2018,
   author    = {Amir Zeldes and Mitchell Abrams},
-  title     = {The Coptic Universal Dependency Treebank},
+  title     = {The {C}optic {U}niversal {D}ependency {T}reebank},
   booktitle = {Proceedings of the Universal Dependencies Workshop 2018},
   pages     = {192--201},
   year      = {2018},
@@ -73,7 +73,7 @@ Further information on relevant annotation standards and NLP tools used prior to
 
   * CHANGELOG 2.3 -> 2.4
 
-Added Mark 7-8. Rearranged documents in train/dev/test so that documents and parts of larger works are contiguous and genere balance is maintained. Negative polarity added for negative auxiliaries.
+Added Mark 7-9. Rearranged documents in train/dev/test so that documents and parts of larger works are contiguous and genere balance is maintained. Negative polarity added for negative auxiliaries, deprel obl:npmod added for non-prepositional adverbial NPs (formerly part of advmod).
 
   * CHANGELOG 2.2 -> 2.3
 
