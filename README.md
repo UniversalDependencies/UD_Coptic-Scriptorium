@@ -20,20 +20,20 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 |      subcorpus          |        documents        | tokens  |
 | ----------------------- | ------------------------| ------- |
 | Not Because a Fox Barks | MONB XH204-216          |   2,553 |
-| Abraham our Father      | MONB XL93-94, YA518-520 |   1,199 |
+| Abraham our Father      | MONB XL93-94, YA518-520 |   1,198 |
 | Acephalous Work 22      | MONB YA421-428          |   1,703 |
-| Gospel of Mark          | Chapters 1 - 6          |   7,087 |
-| 1 Corinthians           | Chapters 1 - 6          |   3,571 |
+| Gospel of Mark          | Chapters 1 - 9          |  10,788 |
+| 1 Corinthians           | Chapters 1 - 6          |   3,570 |
 | Letters of Besa         | #13,15,25               |   1,981 |
 | Apophthegmata Patrum    | #1-6,18-19,23-32        |   1,978 |
 | Martyrdom of St. Victor | Chapters 1 - 6          |   1,985 |
-|                         | Total:                  |  22,057 |
+|                         | Total:                  |  25,756 |
 
 ## Tokenization
 
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.
 
-The Coptic Treebank now annotates these bound groups as 'multi-unit' tokens. However, morphological units below the POS level, including affixes and fused compounds, are now annotated in the treebank in MISC column, using an attribute Morphs=A-B-C, where A, B and C are constituent morphemes of a complex word. There is also a further attribute in the MISC column, called Orig, which appears whenever normalization has taken place and renders the word form as it appeared in the original manuscript. This can include removal of optional diacritics and contracted forms of nomina sacra, which appear expanded in the word form column.
+The Coptic Treebank now annotates these bound groups as 'multi-unit' tokens. However, morphological units below the POS level, including affixes and fused compounds, are now annotated in the treebank in the MISC column, using an attribute Morphs=A-B-C, where A, B and C are constituent morphemes of a complex word. There is also a further attribute in the MISC column, called Orig, which appears whenever normalization has taken place and renders the word form as it appeared in the original manuscript. This can include removal of optional diacritics and contracted forms of nomina sacra, which appear expanded in the word form column.
 
 Note that for some fused forms carrying multiple parts of speech, the native Coptic POS tag set assigns portmanteau tags, such as APST_PPERS (auxiliary, past, fused with a subject personal pronoun). In the UD guidelines for Coptic, these forms are tolerated by always selecting the argument as the function-determining unit. Thus APST_PPERS, the past auxiliary with fused pronoun, is attached as *nsubj*, ignoring the *aux* dependency. In a future version, we are considering integrating a more subtle analysis using enhanced dependencies.
 
@@ -56,7 +56,7 @@ To cite the treebank please refer to the following paper:
 ```
 @InProceedings{ZeldesAbrams2018,
   author    = {Amir Zeldes and Mitchell Abrams},
-  title     = {The Coptic Universal Dependency Treebank},
+  title     = {The {C}optic {U}niversal {D}ependency {T}reebank},
   booktitle = {Proceedings of the Universal Dependencies Workshop 2018},
   pages     = {192--201},
   year      = {2018},
@@ -70,6 +70,10 @@ Further information on relevant annotation standards and NLP tools used prior to
   * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
+
+  * CHANGELOG 2.3 -> 2.4
+
+Added Mark 7-9. Rearranged documents in train/dev/test so that documents and parts of larger works are contiguous and genere balance is maintained. Negative polarity added for negative auxiliaries, deprel obl:npmod added for non-prepositional adverbial NPs (formerly part of advmod).
 
   * CHANGELOG 2.2 -> 2.3
 
