@@ -19,15 +19,15 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 ## Basic statistics
 |      subcorpus          |        documents        | tokens  |
 | ----------------------- | ------------------------| ------- |
-| Not Because a Fox Barks | MONB XH204-216          |   2,553 |
+| Not Because a Fox Barks | MONB XH204-216          |   2,549 |
 | Abraham our Father      | MONB XL93-94, YA518-520 |   1,198 |
 | Acephalous Work 22      | MONB YA421-428          |   1,703 |
 | Gospel of Mark          | Chapters 1 - 9          |  10,788 |
 | 1 Corinthians           | Chapters 1 - 6          |   3,570 |
-| Letters of Besa         | #13,15,25               |   1,981 |
+| Letters of Besa         | #1,2,13,15,25           |   3,939 |
 | Apophthegmata Patrum    | #1-6,18-19,23-32        |   1,978 |
 | Martyrdom of St. Victor | Chapters 1 - 6          |   1,985 |
-|                         | Total:                  |  25,756 |
+|                         | Total:                  |  27,710 |
 
 ## Tokenization
 
@@ -70,6 +70,10 @@ Further information on relevant annotation standards and NLP tools used prior to
   * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
+
+  * CHANGELOG
+
+Added Besa's Letters 1-2 (On Vigilance, Exhortations)
 
   * CHANGELOG 2.3 -> 2.4
 
