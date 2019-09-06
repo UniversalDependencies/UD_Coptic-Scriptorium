@@ -8784,7 +8784,7 @@
 8	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	13	nsubj	_	_
 9-10	ⲡⲟⲩⲁ	_	_	_	_	_	_	_	_
 9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	8	conj	_	_
+10	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	8	obl:npmod	_	_
 11-12	ⲙⲙⲱⲧⲛ	_	_	_	_	_	_	_	_
 11	ⲙⲙⲱ	ⲛ	ADP	PREP	_	12	case	_	_
 12	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	8	nmod	_	_

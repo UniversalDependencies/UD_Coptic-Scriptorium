@@ -4,7 +4,7 @@ UD Coptic contains manually annotated Sahidic Coptic texts, including Biblical t
 
 # Introduction
 
-The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahidic Coptic texts, currently containing excerpts from the Sahidic New Testament Gospel of Mark, Archmandrite Shenoute of Atripe's "Not Because a Fox Barks", the Letters of Besa, lives of Sts. Cyrus and Onnophrius, Epistle of Ephraim, and short stories from the Apophthegmata Patrum (Sayings of the Desert Fathers). Detailed information about the treebank is available here:
+The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahidic Coptic texts, currently containing excerpts from the Sahidic New Testament Gospel of Mark, Archmandrite Shenoute of Atripe's "Not Because a Fox Barks", the Letters of Besa, lives of Sts. Cyrus and Onnophrius, Epistle of Ephraim, the Repose of John the Apostle and short stories from the Apophthegmata Patrum (Sayings of the Desert Fathers). Detailed information about the treebank is available here:
 
 http://copticscriptorium.org/treebank.html
 
@@ -30,7 +30,8 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | Life of Onnophrius      | BritMusOriental7027_01a_07b |   2,745 |
 | Apophthegmata Patrum    | #1-6,18-19,23-32,114-139    |   4,152 |
 | Martyrdom of St. Victor | Chapters 1 - 6              |   1,985 |
-|                         | Total:                      |  36,529 |
+| Repose of John          | BritMusOriental6782_2a_9a   |   3,064 |
+|                         | Total:                      |  39,593 |
 
 ## Tokenization
 
@@ -76,7 +77,7 @@ Further information on relevant annotation standards and NLP tools used prior to
 
   * CHANGELOG
 
-Added Besa's Letters 1-2 (On Vigilance, Exhortations), Life of Cyrus, Life of Onnophrius, Epistle of Ephraim and Apophthegmata Patrum 114-139, numerous corrections and stabilized splits. 
+Added Besa's Letters 1-2 (On Vigilance, Exhortations), Life of Cyrus, Life of Onnophrius, Epistle of Ephraim, Repose of John and Apophthegmata Patrum 114-139, numerous corrections and stabilized splits. 
 
 The corpus is now larger than 30K word forms, and train/dev/test splits should now be stable, with only the train partition growing.
 
