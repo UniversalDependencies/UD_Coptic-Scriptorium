@@ -5265,8 +5265,8 @@
 10	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = apophthegmata_patrum-AP_116_pistus_01_s0005
-# text = ⲡⲉϫⲉ ⲕⲉⲟⲩⲁ ⲇⲉ ⲛⲁϥ ⲛϩⲏⲧⲛ · ϫⲉⲟⲩ ⲧⲉ ⲧⲙⲛⲧϣⲙⲙⲟ ⲡⲁⲉⲓⲱⲧ ·
-1-3	ⲡⲉϫⲉ ⲕⲉⲟⲩⲁ	_	_	_	_	_	_	_	_
+# text = ⲡⲉϫⲉⲕⲉⲟⲩⲁ ⲇⲉ ⲛⲁϥ ⲛϩⲏⲧⲛ · ϫⲉⲟⲩ ⲧⲉ ⲧⲙⲛⲧϣⲙⲙⲟ ⲡⲁⲉⲓⲱⲧ ·
+1-3	ⲡⲉϫⲉⲕⲉⲟⲩⲁ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	V	_	0	root	_	Orig=ⲡⲉϫⲉ
 2	ⲕⲉ	ⲕⲉ	DET	ART	_	3	det	_	_
 3	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	_	1	nsubj	_	Orig=ⲟⲩⲁ̇
@@ -14930,8 +14930,8 @@
 10	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	6	obl	_	_
 11	:	:	PUNCT	PUNCT	_	6	punct	_	_
 
-# newdoc id = life.onnophrius:BritMusOriental7027_01a_07b
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0001
+# newdoc id = life.onnophrius:life.onnophrius.01
+# sent_id = life_onnophrius-life_onnophrius_01_s0001
 # text = ⲡⲃⲓⲟⲥ ⲁⲩⲱ ⲧⲡⲟⲗⲓⲧⲉⲓⲁ ⲙⲡⲉⲛⲡⲉⲧⲟⲩⲁⲁⲃ ⲛⲉⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲩ ⲕⲁⲧⲁⲥⲙⲟⲧ ⲛⲓⲙ ⲁⲡⲁ ⲟⲛⲛⲟⲫⲣⲓⲟⲥ ⲡⲁⲛⲁⲭⲱⲣⲓⲧⲏⲥ ⲛⲧⲁϥϫⲱⲕ ⲉⲃⲟⲗ ⲙⲡⲉϥⲃⲓⲟⲥ ⲛⲥⲟⲩⲙⲛⲧⲧⲁⲥⲉ ⲙⲡⲉⲃⲟⲧ ⲡⲁⲱⲛⲉ ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ ⲛⲧⲉⲡⲛⲟⲩⲧⲉ
 1-2	ⲡⲃⲓⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	2	det	_	Orig=Ⲡ
@@ -14986,7 +14986,7 @@
 38	ⲡ	ⲡ	DET	ART	_	39	det	_	Orig=Ⲡ
 39	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	36	nmod	_	Orig=ⲚⲞⲨⲦⲈ
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0002
+# sent_id = life_onnophrius-life_onnophrius_01_s0002
 # text = ⲥⲙⲟⲩ ⲉⲣⲟⲛ ϩⲁⲙⲏⲛ : —
 1	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	VERB	V	_	0	root	_	Orig=ⲤⲘⲞⲨ
 2-3	ⲉⲣⲟⲛ	_	_	_	_	_	_	_	_
@@ -14996,7 +14996,7 @@
 5	:	:	PUNCT	PUNCT	_	1	punct	_	_
 6	—	—	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0003
+# sent_id = life_onnophrius-life_onnophrius_01_s0003
 # text = ⲁⲩⲥⲟⲛ ⲛⲁⲛⲁⲭⲱⲣⲓⲧⲏⲥ ⲉⲡⲉϥⲣⲁⲛ ⲡⲉ ⲁⲡⲁ ⲡⲁⲡⲛⲟⲩⲧⲉ ⲉⲝⲏⲅⲓⲥⲑⲁⲓ · ⲉϩⲉⲛⲥⲛⲏⲩ ⲙⲙⲁⲓⲛⲟⲩⲧⲉ ·
 1-3	ⲁⲩⲥⲟⲛ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	12	aux	_	Orig=Ⲁ
@@ -15023,7 +15023,7 @@
 18	ⲙⲁⲓⲛⲟⲩⲧⲉ	ⲙⲁⲓⲛⲟⲩⲧⲉ	NOUN	N	_	16	nmod	_	Morphs=ⲙⲁⲓ-ⲛⲟⲩⲧⲉ
 19	·	·	PUNCT	PUNCT	_	12	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0004
+# sent_id = life_onnophrius-life_onnophrius_01_s0004
 # text = ⲛⲁⲓ ⲇⲉ ⲛⲉ ⲛϣⲁϫⲉ ⲛⲧⲁϥϫⲟⲟⲩ · ϫⲉⲁⲛⲟⲕ ⲡⲥⲟⲛ ⲁⲓⲙⲉⲉⲩⲉ ⲛⲟⲩϩⲟⲟⲩ ⲉⲧⲣⲁⲃⲱⲕ ⲉϩⲟⲩⲛ ⲉⲡϫⲁⲓⲉ ⲉⲧϩⲓϩⲟⲩⲛ · ⲉⲧⲣⲁⲛⲁⲩ ϫⲉⲟⲩⲛⲥⲟⲛ ⲙⲙⲟⲛⲁⲭⲟⲥ · ⲙⲡⲁϩⲟⲩ ·
 1	ⲛⲁⲓ	ⲛⲁⲓ	DET	PDEM	_	0	root	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	1	advmod	_	_
@@ -15084,7 +15084,7 @@
 44	ⲡⲁϩⲟⲩ	ⲡⲁϩⲟⲩ	NOUN	N	_	38	obl	_	_
 45	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0005
+# sent_id = life_onnophrius-life_onnophrius_01_s0005
 # text = ⲁⲓⲙⲟⲟϣⲉ ⲇⲉ ⲛϥⲧⲟⲟⲩ ⲛϩⲟⲟⲩ ⲙⲛϥⲧⲟⲉ ⲛⲟⲩϣⲏ ⲙⲡⲓⲟⲩⲉⲙⲟⲉⲓⲕ · ⲟⲩⲇⲉ ⲙⲡⲓⲥⲉⲙⲟⲟⲩ · ⲉⲓⲙⲟⲟϣⲉ ϩⲓⲡϫⲁⲓⲉ ⲉⲧϩⲓϩⲟⲩⲛ ·
 1-3	ⲁⲓⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -15127,7 +15127,7 @@
 29	ϩⲓϩⲟⲩⲛ	ϩⲓϩⲟⲩⲛ	ADV	ADV	_	27	acl	_	_
 30	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0006
+# sent_id = life_onnophrius-life_onnophrius_01_s0006
 # text = ϩⲣⲁⲓ ⲇⲉ ϩⲙⲡϩⲁⲏ ⲛϩⲟⲟⲩ · ⲁⲓⲉⲓ ⲉϫⲛⲟⲩⲥⲡⲏⲗⲁⲓⲟⲛ ·
 1	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	11	advmod	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	11	advmod	_	_
@@ -15149,7 +15149,7 @@
 14	ⲥⲡⲏⲗⲁⲓⲟⲛ	ⲥⲡⲏⲗⲁⲓⲟⲛ	NOUN	N	_	11	obl	_	_
 15	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0007
+# sent_id = life_onnophrius-life_onnophrius_01_s0007
 # text = ⲁⲩⲱ ⲛⲧⲉⲣⲓϩⲱⲛ ⲉϩⲟⲩⲛ ⲉⲣⲟϥ · ⲁⲓⲕⲱⲗϩ ⲉⲡⲣⲟ ⲛⲁⲡϣⲉ · ⲛⲟⲩⲡⲁϣⲉ ⲛϩⲟⲟⲩ · ⲁⲩⲱ ⲙⲡⲉⲗⲁⲁⲩ ⲣⲟⲩⲱ ⲛⲁⲓ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_
 2-4	ⲛⲧⲉⲣⲓϩⲱⲛ	_	_	_	_	_	_	_	_
@@ -15191,7 +15191,7 @@
 29	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	27	obl	_	_
 30	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0008
+# sent_id = life_onnophrius-life_onnophrius_01_s0008
 # text = ⲁⲓⲙⲉⲉⲩⲉ ⲇⲉ ϩⲙⲡⲁϩⲏⲧ ϫⲉⲙⲛⲥⲟⲛ ⲙⲡⲉⲓⲙⲁ ·
 1-3	ⲁⲓⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -15212,7 +15212,7 @@
 13	ⲙⲁ	ⲙⲁ	NOUN	N	_	9	obl	_	_
 14	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0009
+# sent_id = life_onnophrius-life_onnophrius_01_s0009
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲁⲓⲛⲁⲩ ⲉⲩⲥⲟⲛ · ⲉϥϩⲙⲟⲟⲥ ⲉϩⲣⲁⲓ ⲉϥⲕⲱ ⲛⲣⲱϥ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	5	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
@@ -15240,7 +15240,7 @@
 19	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	18	det	_	_
 20	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0010
+# sent_id = life_onnophrius-life_onnophrius_01_s0010
 # text = ⲁⲓⲁⲙⲁϩⲧⲉ ⲇⲉ ⲙⲡⲉϥϭⲃⲟⲓ · ⲁⲩⲱ ⲁⲡⲉϥϭⲃⲟⲓ ⲃⲱⲗ ⲉⲃⲟⲗ ϩⲛⲛⲁϭⲓϫ · ⲁϥⲣⲧϩⲉ ⲛⲛⲉⲓⲙⲓⲥⲗⲏⲥ ⲛⲕⲁϩ ·
 1-3	ⲁⲓⲁⲙⲁϩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -15278,7 +15278,7 @@
 27	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	25	nmod	_	_
 28	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0011
+# sent_id = life_onnophrius-life_onnophrius_01_s0011
 # text = ⲁⲓϭⲟⲙϭⲙ ⲉⲡⲉϥⲥⲱⲙⲁ ⲧⲏⲣϥ ⲁⲓϩⲉ ⲉⲣⲟϥ · ⲉⲁϥⲟⲩⲱ ⲉϥⲙⲟⲩ · ⲉⲣⲉⲡϩⲱⲃ ⲟⲥⲕ
 1-3	ⲁⲓϭⲟⲙϭⲙ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -15315,7 +15315,7 @@
 25	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	26	nsubj	_	_
 26	ⲟⲥⲕ	ⲟⲥⲕ	VERB	V	_	21	advcl	_	Orig=ⲟ̅ⲥ̅ⲕ̅
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0012
+# sent_id = life_onnophrius-life_onnophrius_01_s0012
 # text = ⲁⲓϭⲱϣⲧ ⲇⲉ ⲁⲓⲛⲁⲩ · ⲉⲩⲕⲟⲗⲟⲃⲓⲟⲛ · ⲉϥⲁϣⲉ ⲉϩⲣⲁⲓ ·
 1-3	ⲁⲓϭⲱϣⲧ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -15339,7 +15339,7 @@
 16	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	15	advmod	_	_
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0013
+# sent_id = life_onnophrius-life_onnophrius_01_s0013
 # text = ⲁⲩⲱ ⲛⲧⲉⲣⲓϭⲟⲙϭⲙ ⲉⲡⲉⲓⲕⲉⲧ ⲁϥⲃⲱⲗ ⲉⲃⲟⲗ ⲁϥⲣⲕⲁϩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	10	cc	_	_
 2-4	ⲛⲧⲉⲣⲓϭⲟⲙϭⲙ	_	_	_	_	_	_	_	_
@@ -15361,7 +15361,7 @@
 14	ⲣⲕⲁϩ	ⲣⲕⲁϩ	VERB	V	_	10	parataxis	_	Morphs=ⲣ-ⲕⲁϩ|Orig=ⲣ̅ⲕⲁϩ
 15	·	·	PUNCT	PUNCT	_	10	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0014
+# sent_id = life_onnophrius-life_onnophrius_01_s0014
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲁⲓⲁϩⲉⲣⲁⲧ ⲁⲓϣⲗⲏⲗ · ⲁⲩⲱ ⲁⲓϥⲓ ⲛⲧⲁⲥⲧⲟⲗⲏ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	5	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
@@ -15386,7 +15386,7 @@
 17	ⲥⲧⲟⲗⲏ	ⲥⲧⲟⲗⲏ	NOUN	N	_	14	obj	_	_
 18	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0015
+# sent_id = life_onnophrius-life_onnophrius_01_s0015
 # text = ⲁⲓⲥⲟⲩⲉⲗⲟⲩⲱⲗⲥ ⲉⲣⲟϥ · ⲁⲓϭⲱϫⲉ ⲛⲛⲁϭⲓϫ ϩⲙⲡⲕⲁϩ · ⲁⲓⲧⲱⲙⲥϥ · ⲁⲩⲱ ⲁⲓⲉⲓ ⲉⲃⲟⲗ ϩⲙⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ ·
 1-4	ⲁⲓⲥⲟⲩⲉⲗⲟⲩⲱⲗⲥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -15431,7 +15431,7 @@
 32	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	30	acl	_	Orig=ⲙ̅ⲙⲁⲩ
 33	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0016
+# sent_id = life_onnophrius-life_onnophrius_01_s0016
 # text = ⲁⲓⲙⲟⲟϣⲉ ⲇⲉ ⲉϩⲟⲩⲛ ϩⲛⲧⲉⲣⲏⲙⲟⲥ · ⲁⲓϭⲓⲛⲉ ⲛⲕⲉⲥⲡⲏⲗⲁⲓⲟⲛ · ⲁⲡⲁϩⲏⲧ ⲉⲓ ⲉⲣⲟⲓ ⲁⲓⲧⲱϩⲙ ⲉϩⲟⲩⲛ ⲉⲡⲣⲟ ⲁⲩⲱ ⲙⲡⲉⲗⲁⲁⲩ ⲣⲟⲩⲱ ⲛⲁⲓ ·
 1-3	ⲁⲓⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -15480,7 +15480,7 @@
 35	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	33	obl	_	_
 36	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0017
+# sent_id = life_onnophrius-life_onnophrius_01_s0017
 # text = ⲁⲓⲃⲱⲕ ⲉϩⲟⲩⲛ ⲙⲡⲓϩⲉ ⲉⲣⲱⲙⲉ · ⲁⲓⲉⲓ ⲉⲃⲟⲗ ⲉⲓϫⲱ ⲙⲙⲟⲥ · ϫⲉⲡⲙⲁ ⲉⲧⲉⲣⲉⲡϩⲙϩⲁⲗ ⲙⲡⲛⲟⲩⲧⲉ ⲛϩⲏⲧϥ ϥⲛⲁϫⲡⲉⲓ ⲉⲡⲉⲓⲙⲁ ·
 1-3	ⲁⲓⲃⲱⲕ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -15534,7 +15534,7 @@
 38	ⲙⲁ	ⲙⲁ	NOUN	N	_	34	obl	_	_
 39	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0018
+# sent_id = life_onnophrius-life_onnophrius_01_s0018
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲁⲓϭⲱ ϩⲙⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ · ⲉⲓϣⲗⲏⲗ ϣⲁⲛⲧⲉⲡⲉϩⲟⲟⲩ ⲡⲣⲟⲕⲟⲡⲧⲉⲓ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	5	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
@@ -15561,7 +15561,7 @@
 18	ⲡⲣⲟⲕⲟⲡⲧⲉⲓ	ⲡⲣⲟⲕⲟⲡⲧⲉⲓ	VERB	V	_	14	advcl	_	_
 19	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0019
+# sent_id = life_onnophrius-life_onnophrius_01_s0019
 # text = ⲁⲩⲱ ⲛⲉⲓⲧⲁⲩⲟ ⲡⲉ ⲛⲛⲁⲁⲡⲟⲥⲧⲏⲑⲟⲥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲛⲉⲓⲧⲁⲩⲟ	_	_	_	_	_	_	_	_
@@ -15575,7 +15575,7 @@
 8	ⲁⲡⲟⲥⲧⲏⲑⲟⲥ	ⲁⲡⲟⲥⲧⲏⲑⲟⲥ	NOUN	N	_	4	obl	_	_
 9	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0020
+# sent_id = life_onnophrius-life_onnophrius_01_s0020
 # text = ⲙⲛⲛⲥⲱⲥ ⲇⲉ ⲉⲣⲉⲡⲣⲏ ⲛⲁϩⲱⲧⲡ ⲁⲓϭⲱϣⲧ ⲁⲓⲛⲁⲩ ⲉⲩⲁⲅⲉⲗⲏ ⲛϣⲟϣ ⲉⲁⲥⲉⲓ ⲙⲡⲟⲩⲉ · ⲉⲣⲉⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ϩⲛⲧⲉⲩⲙⲏⲏⲧⲉ ·
 1-2	ⲙⲛⲛⲥⲱⲥ	_	_	_	_	_	_	_	_
 1	ⲙⲛⲛⲥⲱ	ⲙⲛⲛⲥⲁ	ADP	PREP	_	2	case	_	Orig=ⲙⲛ̅ⲛ̅ⲥⲱ
@@ -15626,7 +15626,7 @@
 35	ⲙⲏⲏⲧⲉ	ⲙⲏⲏⲧⲉ	NOUN	N	_	23	advcl	_	_
 36	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0021
+# sent_id = life_onnophrius-life_onnophrius_01_s0021
 # text = ⲛⲧⲉⲣϥϩⲱⲛ ⲇⲉ ⲉϩⲟⲩⲛ ⲉⲣⲟⲓ ⲛϥⲕⲏⲕⲁϩⲏⲩ ⲡⲉ · ⲁⲩⲱ ⲉⲣⲉⲡⲉϥⲃⲱ ϩⲱⲃⲥ ⲛⲧⲉϥⲁⲥⲭⲏⲙⲟⲥⲩⲛⲏ · ⲁⲩⲱ ⲉϥⲟ ⲛϩⲃⲥⲱ ⲉϥϭⲟⲟⲗⲉ ⲙⲙⲟϥ ·
 1-3	ⲛⲧⲉⲣϥϩⲱⲛ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ̅
@@ -15671,7 +15671,7 @@
 32	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	30	obl	_	_
 33	·	·	PUNCT	PUNCT	_	17	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0022
+# sent_id = life_onnophrius-life_onnophrius_01_s0022
 # text = ⲛⲧⲉⲣⲉϥⲡⲱϩ ⲉⲣⲟⲓ · ⲁϥⲣϩⲟⲧⲉ ⲉⲙⲁⲧⲉ · ⲉϥⲙⲉⲉⲩⲉ ϫⲉⲁⲛⲅⲟⲩⲡⲛⲉⲩⲙⲁ · ⲁϥⲁϩⲉⲣⲁⲧϥ ⲁϥϣⲗⲏⲗ ·
 1-3	ⲛⲧⲉⲣⲉϥⲡⲱϩ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣⲉ
@@ -15709,7 +15709,7 @@
 27	ϣⲗⲏⲗ	ϣⲗⲏⲗ	VERB	V	_	22	parataxis	_	_
 28	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0023
+# sent_id = life_onnophrius-life_onnophrius_01_s0023
 # text = ⲕⲁⲓ ⲅⲁⲣ ⲁϩⲁϩ ⲙⲡⲛⲉⲩⲙⲁ ⲡⲉⲓⲣⲁⲍⲉ ⲙⲙⲟϥ · ⲕⲁⲧⲁⲧϩⲉ ⲛⲧⲁϥϫⲟⲟⲥ ⲉⲡϩⲁⲏ ·
 1	ⲕⲁⲓ	ⲕⲁⲓ	CCONJ	CONJ	_	7	cc	_	_
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	7	advmod	_	_
@@ -15740,7 +15740,7 @@
 21	ϩⲁⲏ	ϩⲁⲏ	NOUN	N	_	17	obl	_	_
 22	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0024
+# sent_id = life_onnophrius-life_onnophrius_01_s0024
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲁⲓⲁⲥⲑⲉ · ϫⲉⲁϥⲣϩⲟⲧⲉ ⲁⲓⲙⲟⲟϣⲉ ⲉⲣⲟϥ
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	5	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
@@ -15762,7 +15762,7 @@
 14	ⲉⲣⲟ	ⲉ	ADP	PREP	_	15	case	_	_
 15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	13	obl	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0025
+# sent_id = life_onnophrius-life_onnophrius_01_s0025
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ · ϫⲉⲁϩⲣⲟⲕ ⲉⲕⲣϩⲟⲧⲉ · ⲱ ⲡϩⲙϩⲁⲗ ⲙⲡⲛⲟⲩⲧⲉ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
@@ -15790,7 +15790,7 @@
 18	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	15	nmod	_	_
 19	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0026
+# sent_id = life_onnophrius-life_onnophrius_01_s0026
 # text = ϭⲱϣⲧ ⲛⲅⲛⲁⲩ ⲉⲛⲁⲧⲁϭⲥⲉ · ϫⲉⲁⲛⲅⲟⲩⲣⲱⲙⲉ · ⲁⲩⲱ ⲛⲅϭⲟⲙϭⲙ ⲉⲣⲟⲓ ϫⲉⲁⲛⲅⲟⲩⲥⲁⲣⲝ ϩⲓⲥⲛⲟϥ ·
 1	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	_	0	root	_	Orig=ϭⲱϣⲧ̅
 2-4	ⲛⲅⲛⲁⲩ	_	_	_	_	_	_	_	_
@@ -15826,7 +15826,7 @@
 25	ⲥⲛⲟϥ	ⲥⲛⲟϥ	NOUN	N	_	23	conj	_	_
 26	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0027
+# sent_id = life_onnophrius-life_onnophrius_01_s0027
 # text = ⲛⲧⲟϥ ⲇⲉ ⲛⲧⲉⲣⲉϥϭⲱϣⲧ ⲉϩⲟⲩⲛ ⲉϩⲣⲁⲓ · ⲁϥⲧⲁⲩⲟ ⲙⲡⲉϣⲗⲏⲗ ⲙⲡⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	11	dislocated	_	Orig=Ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	11	advmod	_	_
@@ -15851,7 +15851,7 @@
 17	ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ	ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ	NOUN	N	_	14	obl	_	_
 18	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0028
+# sent_id = life_onnophrius-life_onnophrius_01_s0028
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲁⲓϭⲱⲣϣ ⲉⲣⲟϥ · ⲉⲧⲣⲉϥϫⲓⲧ ⲉⲡⲉⲥⲏⲧ ⲉⲡⲉⲥⲡⲏⲗⲁⲓⲟⲛ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	5	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
@@ -15878,7 +15878,7 @@
 18	ⲥⲡⲏⲗⲁⲓⲟⲛ	ⲥⲡⲏⲗⲁⲓⲟⲛ	NOUN	N	_	12	obl	_	_
 19	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0029
+# sent_id = life_onnophrius-life_onnophrius_01_s0029
 # text = ⲁϥϫⲛⲟⲓ ϫⲉⲛⲧⲁⲕⲉⲓ ⲉⲡⲉⲓⲙⲁ · ⲛⲁϣ ⲛϩⲉ ·
 1-4	ⲁϥϫⲛⲟⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -15904,7 +15904,7 @@
 17	ϩⲉ	ϩⲉ	NOUN	N	_	15	nmod	_	_
 18	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0030
+# sent_id = life_onnophrius-life_onnophrius_01_s0030
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲡⲉϫⲁⲓ ϫⲉⲛⲧⲁⲓⲉⲓ ⲉⲡⲉⲓⲙⲁ · ⲉⲓⲟⲩⲉϣ ⲛⲁⲩ ⲛϩⲙϩⲁⲗ ⲙⲡⲛⲟⲩⲧⲉ · ⲉⲧϣⲟⲟⲡ ϩⲙⲡⲉⲓϫⲁⲓⲉ · ⲁⲩⲱ ⲙⲡⲉⲡⲛⲟⲩⲧⲉ · ϥⲟϭⲧ ⲙⲡⲉⲧⲓϣⲓⲛⲉ ⲛⲥⲱϥ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	3	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
@@ -15963,7 +15963,7 @@
 43	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	41	obl	_	_
 44	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0031
+# sent_id = life_onnophrius-life_onnophrius_01_s0031
 # text = ⲁⲓϫⲛⲟⲩϥ ϫⲉⲛⲧⲁⲕⲉⲓ ⲉⲡⲉⲓⲙⲁ ⲛⲁϣ ⲛϩⲉ · ⲁⲩⲱ ⲉⲓⲥⲟⲩⲏⲣ · ⲛⲟⲩⲟⲉⲓϣ ϫⲓⲛⲧⲁⲕⲉⲓ ⲉⲡⲉⲓⲙⲁ · ⲁⲩⲱ ⲛⲉϣⲁⲕⲟⲩⲉⲙⲟⲩ · ⲁⲩⲱ ⲉⲧⲃⲉⲟⲩ ⲉⲕⲕⲏⲕⲁϩⲏⲩ ⲉⲙⲛϩⲃⲥⲱ ⲧⲱ ϩⲓⲱⲱⲕ ·
 1-4	ⲁⲓϫⲛⲟⲩϥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -16032,7 +16032,7 @@
 51	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	49	obl	_	_
 52	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0032
+# sent_id = life_onnophrius-life_onnophrius_01_s0032
 # text = ⲛⲧⲟϥ ⲇⲉ ⲁϥⲁⲣⲭⲉⲓ ⲛϣⲁϫⲉ ⲛⲙⲙⲁⲓ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲁⲛⲅⲟⲩⲣⲱⲙⲉ ⲙⲙⲟⲛⲁⲭⲟⲥ · ⲉⲓⲟⲩⲏϩ ϩⲛⲟⲩⲥⲟⲟⲩϩⲥ · ⲙⲙⲟⲛⲁⲭⲟⲥ ⲛⲁⲩⲏⲧ ϩⲛⲑⲏⲃⲁⲉⲓⲥ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	5	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
@@ -16083,7 +16083,7 @@
 35	ⲑⲏⲃⲁⲉⲓⲥ	ⲑⲏⲃⲁⲉⲓⲥ	PROPN	NPROP	_	25	obl	_	_
 36	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0033
+# sent_id = life_onnophrius-life_onnophrius_01_s0033
 # text = ⲁⲩⲙⲉⲉⲩⲉ ⲉⲓ ⲉⲡⲁϩⲏⲧ · ⲛⲧⲉⲓϩⲉ ϫⲉⲧⲱⲟⲩⲛ ⲁⲙⲟⲩ ⲉⲃⲟⲗ · ⲛⲅϭⲱϩⲙ ⲡⲉⲕⲙⲁ ⲙⲁⲩⲁⲁⲕ · ⲁⲩⲱ ⲕⲛⲁⲉⲥⲩⲭⲁⲍⲉ ⲙⲙⲟⲕ ⲛⲅⲁⲛⲁⲭⲱⲣⲉⲓ · ⲛⲅϣⲡⲛⲉⲥⲛⲏⲩ ⲉⲣⲟⲕ · ⲛⲅⲣⲙⲁⲓϣⲙⲙⲟ · ⲉⲙⲁⲧⲉ · ⲁⲩⲱ ⲕⲛⲁϭⲓⲛⲉ · ⲛⲟⲩϩⲟⲩⲟ ⲃⲉⲉⲕⲉ · ϩⲙⲡϩⲱⲃ ⲛⲛⲉⲕϭⲓϫ ·
 1-3	ⲁⲩⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	4	aux	_	_
@@ -16168,7 +16168,7 @@
 64	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	61	nmod	_	_
 65	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0034
+# sent_id = life_onnophrius-life_onnophrius_01_s0034
 # text = ⲡⲉⲛⲧⲁⲓⲙⲉⲉⲩⲉ ⲇⲉ ⲉⲣⲟϥ ⲁⲓⲁⲁϥ ·
 1-5	ⲡⲉⲛⲧⲁⲓⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	11	dislocated	_	Orig=Ⲡ
@@ -16187,7 +16187,7 @@
 12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	11	obj	_	_
 13	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0035
+# sent_id = life_onnophrius-life_onnophrius_01_s0035
 # text = ⲁⲓⲉⲓ ⲇⲉ ⲉⲃⲟⲗ ϩⲙⲡⲁⲩⲏⲧ ⲙⲙⲟⲛⲁⲭⲟⲥ · ⲁⲓⲕⲱⲧ ⲛⲁⲓ ⲛⲟⲩⲙⲁ ⲛϣⲱⲡⲉ ⲙⲁⲩⲁⲁⲧ ⲁⲓⲟⲩⲱϩ ⲛϩⲏⲧϥ ·
 1-3	ⲁⲓⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -16229,7 +16229,7 @@
 28	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	26	obl	_	Orig=ϥ̅
 29	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0036
+# sent_id = life_onnophrius-life_onnophrius_01_s0036
 # text = ⲁⲩⲁⲡⲥ ⲛⲣⲱⲙⲉ · ⲉⲡⲓⲧⲁⲥⲥⲉ ⲛⲁⲓ ⲛϩⲱⲃ ⲛϭⲓϫ ϣⲁⲓⲧⲁⲁⲩ ⲙⲙⲛⲧⲛⲁ ⲛⲛϣⲙⲙⲟ ·
 1-3	ⲁⲩⲁⲡⲥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	7	aux	_	_
@@ -16263,7 +16263,7 @@
 22	ϣⲙⲙⲟ	ϣⲙⲙⲟ	NOUN	N	_	16	obl	_	Orig=ϣⲙ̅ⲙⲟ
 23	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0037
+# sent_id = life_onnophrius-life_onnophrius_01_s0037
 # text = ⲡⲇⲓⲁⲃⲟⲗⲟⲥ ⲁϥⲕⲱϩ ⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲉⲧⲙⲙⲁⲩ · ⲉⲡⲃⲉⲉⲕⲉ ϯϫⲡⲟ ⲙⲙⲟϥ · ⲙⲡⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲡϫⲟⲉⲓⲥ ϩⲁⲡⲉⲧⲉⲓⲣⲉ ⲙⲙⲟϥ ⲛⲛϣⲙⲙⲟ · ⲙⲛⲛⲕⲟⲟⲩⲉ · ⲉⲧⲣϭⲣⲱⲱϩ · ⲉϥⲛⲁⲩ ⲉⲧϩⲉ ⲉⲧⲓⲥⲡⲟⲩⲇⲁⲍⲉ ⲉⲡⲁϩⲱⲃ ⲛϭⲓϫ ·
 1-2	ⲡⲇⲓⲁⲃⲟⲗⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	2	det	_	_
@@ -16343,7 +16343,7 @@
 57	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	55	nmod	_	_
 58	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0038
+# sent_id = life_onnophrius-life_onnophrius_01_s0038
 # text = ⲁϥⲕⲱϩ ⲉⲣⲟⲓ ⲉⲙⲁⲧⲉ · ϩⲁⲡⲉⲧⲉⲓⲣⲉ ⲙⲙⲟϥ · ⲁϥⲃⲱⲕ ⲉϩⲟⲩⲛ ⲉⲩⲥϩⲓⲙⲉ · ⲙⲙⲟⲛⲁⲭⲏ ⲉⲥⲛⲏⲩ ϣⲁⲣⲟⲓ ⲉⲁⲥⲧⲁⲥⲥⲉ ⲛⲁⲓ ⲛϩⲉⲛϩⲱⲃ ⲛϭⲓϫ ·
 1-3	ⲁϥⲕⲱϩ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -16400,7 +16400,7 @@
 40	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	38	nmod	_	_
 41	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0039
+# sent_id = life_onnophrius-life_onnophrius_01_s0039
 # text = ⲁⲩⲱ ⲛⲧⲉⲣⲓⲟⲩⲱ ⲙⲙⲟⲟⲩ · ⲁⲓⲧⲁⲁⲩ ⲛⲁⲥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	10	cc	_	_
 2-4	ⲛⲧⲉⲣⲓⲟⲩⲱ	_	_	_	_	_	_	_	_
@@ -16421,7 +16421,7 @@
 13	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	10	obl	_	_
 14	·	·	PUNCT	PUNCT	_	10	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0040
+# sent_id = life_onnophrius-life_onnophrius_01_s0040
 # text = ⲁⲥϫⲟⲟⲥ ⲛⲁⲓ ⲟⲛ ⲉⲧⲃⲉϩⲉⲛⲕⲟⲟⲩⲉ · ⲁⲩⲱ ⲛⲧⲉⲣⲉⲧⲥⲩⲛⲏⲑⲓⲁ ϣⲱⲡⲉ · ⲉⲧⲣⲛⲁⲡⲁⲛⲧⲁ ⲉⲛⲉⲛⲉⲣⲏⲩ · ⲁⲡϫⲁϫⲉ ⲧⲁⲁⲥ ⲉⲡⲁϩⲏⲧ · ⲉⲧⲣⲁϫⲓϩⲱⲃ ⲛϭⲓϫ ⲛⲧⲟⲟⲧⲥ ·
 1-4	ⲁⲥϫⲟⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -16480,7 +16480,7 @@
 43	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	38	obl	_	Orig=ⲥ̅
 44	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0041
+# sent_id = life_onnophrius-life_onnophrius_01_s0041
 # text = ⲛⲧⲉⲣⲉⲧⲡⲁⲣϩⲏⲥⲓⲁ ⲇⲉ ϣⲱⲡⲉ · ⲁⲛⲟⲩⲉⲙⲟⲉⲓⲕ ⲙⲛⲛⲉⲛⲉⲣⲏⲩ ·
 1-3	ⲛⲧⲉⲣⲉⲧⲡⲁⲣϩⲏⲥⲓⲁ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	5	aux	_	Orig=ⲛ̅ⲧⲉⲣⲉ
@@ -16499,7 +16499,7 @@
 12	ⲉⲣⲏⲩ	ⲉⲣⲏⲩ	NOUN	N	PronType=Rcp	9	obl	_	_
 13	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0042
+# sent_id = life_onnophrius-life_onnophrius_01_s0042
 # text = ⲁⲩⲱ ⲁⲩϩⲱⲃ ⲟⲩⲱⲛϩ ⲉⲣⲟⲛ · ⲉⲡϩⲁⲉ ⲇⲉ ⲁⲛϯⲛⲁⲁⲕⲉ ⲙⲡⲙⲟⲩ ⲁⲛϫⲡⲟ · ⲛⲧⲁⲛⲟⲙⲓⲁ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2-4	ⲁⲩϩⲱⲃ	_	_	_	_	_	_	_	_
@@ -16535,7 +16535,7 @@
 25	ⲁⲛⲟⲙⲓⲁ	ⲁⲛⲟⲙⲓⲁ	NOUN	N	_	21	obj	_	_
 26	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0043
+# sent_id = life_onnophrius-life_onnophrius_01_s0043
 # text = ⲛⲧⲉⲣⲓϩⲉ ⲇⲉ ⲉⲃⲟⲗ ⲛⲙⲙⲁⲥ · ϩⲛⲟⲩⲙⲛⲧⲁⲧϩⲏⲧ · ⲁⲛϭⲱ ϩⲛϯⲁⲛⲟⲙⲓⲁ ⲛⲥⲟⲟⲩ ⲛⲉⲃⲟⲧ ·
 1-3	ⲛⲧⲉⲣⲓϩⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -16568,7 +16568,7 @@
 22	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	15	obl	_	_
 23	·	·	PUNCT	PUNCT	_	15	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0044
+# sent_id = life_onnophrius-life_onnophrius_01_s0044
 # text = ⲙⲛⲛⲥⲱⲥ ⲁⲓⲙⲉⲉⲩⲉ ⲉⲃⲟⲗ ϩⲙⲡⲁϩⲏⲧ · ⲉⲡⲉⲛⲧⲁⲓⲁⲁϥ ⲁⲓⲣϩⲧⲏⲓ · ⲁⲓⲣⲓⲙⲉ ⲉⲙⲁⲧⲉ ⲁⲩⲱ ⲁⲓϣⲱⲡⲉ · ϩⲛⲟⲩⲁϣⲁϩⲟⲙ
 1-2	ⲙⲛⲛⲥⲱⲥ	_	_	_	_	_	_	_	_
 1	ⲙⲛⲛⲥⲱ	ⲙⲛⲛⲥⲁ	ADP	PREP	_	2	case	_	Orig=Ⲙⲛ̅ⲛ̅ⲥⲱ
@@ -16614,7 +16614,7 @@
 34	ⲟⲩ	ⲟⲩ	DET	ART	_	35	det	_	_
 35	ⲁϣⲁϩⲟⲙ	ⲁϣⲁϩⲟⲙ	NOUN	N	_	31	obl	_	Morphs=ⲁϣ-ⲁϩⲟⲙ
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0045
+# sent_id = life_onnophrius-life_onnophrius_01_s0045
 # text = ⲁⲓⲙⲉⲉⲩⲉ ⲉⲃⲟⲗ ϩⲙⲡⲁϩⲏⲧ ⲉⲡⲉⲛⲧⲁⲓⲁⲁϥ ⲁⲓⲣ ϩⲧⲏⲓ · ⲁⲓⲣⲓⲙⲉ ⲉⲙⲁⲧⲉ · ⲁⲩⲱ ⲁⲓϣⲱⲡⲉ ⲉⲓϣⲟⲟⲡ ϩⲛⲟⲩⲁϣⲁϩⲟⲙ ·
 1-3	ⲁⲓⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -16662,7 +16662,7 @@
 35	ⲁϣⲁϩⲟⲙ	ⲁϣⲁϩⲟⲙ	NOUN	N	_	32	obl	_	Morphs=ⲁϣ-ⲁϩⲟⲙ
 36	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0046
+# sent_id = life_onnophrius-life_onnophrius_01_s0046
 # text = ⲁⲓⲙⲉⲉⲩⲉ ⲉⲃⲟⲗ ϩⲙⲡⲁϩⲏⲧ · ⲙⲁⲩⲁⲁⲧ ϫⲉⲕⲁⲛ ⲡϩⲟⲟⲩ ⲕⲁⲛ ⲣⲁⲥⲧⲉ ⲧⲛⲁⲙⲟⲩ ⲁⲩⲱ ⲥⲉⲛⲁⲕⲟⲗⲁⲍⲉ ⲙⲙⲟⲛ ϩⲛⲕⲟⲗⲁⲥⲓⲥ ⲉⲩⲛⲁϣⲧ · ⲡϭⲁϩϭϩ ⲛⲛⲟⲃϩⲉ ⲁⲩⲱ ⲡⲕⲁⲕⲉ ⲉⲧϩⲓⲃⲟⲗ · ⲡⲕⲱϩⲧ ⲛⲁⲧⲱϣⲙ · ⲙⲛⲡϥⲛⲧ ⲛⲁⲧⲛⲕⲟⲧⲕ · ⲉⲧⲟⲩⲱⲙ ⲛⲥⲁⲧⲉⲯⲩⲭⲏ ·
 1-3	ⲁⲓⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -16744,7 +16744,7 @@
 58	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	_	55	obl	_	_
 59	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0047
+# sent_id = life_onnophrius-life_onnophrius_01_s0047
 # text = ⲧⲱⲟⲩⲛ ⲙⲁⲣⲟⲛ ⲉⲃⲟⲗ ϩⲙⲡⲉⲓⲙⲁ ·
 1	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	_	0	root	_	_
 2-3	ⲙⲁⲣⲟⲛ	_	_	_	_	_	_	_	_
@@ -16757,7 +16757,7 @@
 7	ⲙⲁ	ⲙⲁ	NOUN	N	_	2	xcomp	_	_
 8	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0048
+# sent_id = life_onnophrius-life_onnophrius_01_s0048
 # text = ⲙⲁⲣⲟⲛ ⲉⲡϫⲁⲓⲉ ·
 1-2	ⲙⲁⲣⲟⲛ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲟ	ⲙⲁⲣⲟ	VERB	VBD	_	0	root	_	_
@@ -16768,7 +16768,7 @@
 5	ϫⲁⲓⲉ	ϫⲁⲓⲉ	NOUN	N	_	1	xcomp	_	_
 6	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0049
+# sent_id = life_onnophrius-life_onnophrius_01_s0049
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲁⲓⲣϩⲛⲁⲓ ⲙⲡⲱⲧ ⲛⲧⲟⲟⲧϥ ⲙⲡⲛⲟⲃⲉ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	5	dislocated	_	Orig=Ⲁⲛⲟⲕ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
@@ -16790,7 +16790,7 @@
 14	ⲛⲟⲃⲉ	ⲛⲟⲃⲉ	NOUN	N	_	9	dislocated	_	_
 15	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0050
+# sent_id = life_onnophrius-life_onnophrius_01_s0050
 # text = ⲁⲓⲧⲱⲟⲩⲛ ⲁⲓⲉⲓ ⲉⲃⲟⲗ · ⲁⲓⲃⲱⲕ ⲉϯⲉⲣⲏⲙⲓⲁ ·
 1-3	ⲁⲓⲧⲱⲟⲩⲛ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -16812,7 +16812,7 @@
 14	ⲉⲣⲏⲙⲓⲁ	ⲉⲣⲏⲙⲓⲁ	NOUN	N	_	11	obl	_	_
 15	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0051
+# sent_id = life_onnophrius-life_onnophrius_01_s0051
 # text = ⲁⲩⲱ ⲁⲓⲗⲟ ϩⲁϩⲛⲁⲩ ⲛⲓⲙ · ⲛⲧⲉⲧⲉⲥϩⲓⲙⲉ ⲉⲧⲙⲙⲁⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲁⲓⲗⲟ	_	_	_	_	_	_	_	_
@@ -16833,7 +16833,7 @@
 13	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	11	acl	_	Orig=ⲙ̅ⲙⲁⲩ
 14	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0052
+# sent_id = life_onnophrius-life_onnophrius_01_s0052
 # text = ⲁⲓϭⲓⲛⲉ ⲛϯⲡⲩⲅⲏ ⲙⲙⲟⲟⲩ ⲙⲛⲧⲉⲓⲃⲛⲛⲉ ⲙⲛⲡⲉⲓⲥⲡⲩⲗⲁⲓⲟⲛ ·
 1-3	ⲁⲓϭⲓⲛⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -16856,7 +16856,7 @@
 14	ⲥⲡⲩⲗⲁⲓⲟⲛ	ⲥⲡⲩⲗⲁⲓⲟⲛ	NOUN	N	_	6	conj	_	_
 15	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0053
+# sent_id = life_onnophrius-life_onnophrius_01_s0053
 # text = ϣⲁⲣⲉⲧⲉⲓⲃⲛⲛⲉ ⲧⲁⲩⲉⲙⲛⲧⲥⲛⲟⲟⲩⲥ ⲛⲗⲟⲟⲩ ⲛⲃⲛⲛⲉ · ⲕⲁⲧⲁⲣⲟⲙⲡⲉ · ⲟⲩⲗⲟⲟⲩ ⲕⲁⲧⲁⲉⲃⲟⲧ ·
 1-3	ϣⲁⲣⲉⲧⲉⲓⲃⲛⲛⲉ	_	_	_	_	_	_	_	_
 1	ϣⲁⲣⲉ	ϣⲁⲣⲉ	AUX	AUX	_	4	aux	_	_
@@ -16884,7 +16884,7 @@
 17	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	15	nmod	_	_
 18	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0054
+# sent_id = life_onnophrius-life_onnophrius_01_s0054
 # text = ⲡⲉⲓⲗⲟⲟⲩ ϭⲉ ⲛⲃⲛⲛⲉ ϣⲁϥⲣⲱϣⲉ ⲉⲣⲟⲓ ⲕⲁⲧⲁⲉⲃⲟⲧ ·
 1-2	ⲡⲉⲓⲗⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	_	2	det	_	_
@@ -16905,7 +16905,7 @@
 12	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	8	obl	_	_
 13	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0055
+# sent_id = life_onnophrius-life_onnophrius_01_s0055
 # text = ⲙⲛⲗⲁⲁⲩ ϭⲉ ϣⲟⲟⲡ ⲛⲁⲓ ⲟⲩⲇⲉ ϩⲃⲥⲱ · ⲟⲩⲇⲉ ⲧⲣⲟⲫⲏ ⲛⲟⲉⲓⲕ ·
 1-2	ⲙⲛⲗⲁⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲙⲛ	ⲙⲛ	AUX	AUX	_	4	aux	_	Orig=ⲙⲛ̅
@@ -16925,7 +16925,7 @@
 13	ⲟⲉⲓⲕ	ⲟⲉⲓⲕ	NOUN	N	_	11	nmod	_	_
 14	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0056
+# sent_id = life_onnophrius-life_onnophrius_01_s0056
 # text = ⲡⲁϥⲱ ⲇⲉ ⲁϥⲁⲩⲝⲁⲛⲉ · ⲁⲩⲱ ⲛⲁϩⲟⲉⲓⲧⲉ ⲁⲩⲧⲁⲕⲟ ⲉⲡⲧⲏⲣϥ ·
 1-2	ⲡⲁϥⲱ	_	_	_	_	_	_	_	_
 1	ⲡⲁ	ⲡⲁ	DET	PPOS	_	2	det	_	_
@@ -16950,7 +16950,7 @@
 16	ⲧⲏⲣϥ	ⲧⲏⲣϥ	NOUN	N	_	13	obl	_	_
 17	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0057
+# sent_id = life_onnophrius-life_onnophrius_01_s0057
 # text = ⲁⲓϩⲱⲃⲥ ϭⲉ ⲙⲡⲙⲁ ⲉⲧⲉϣϣⲉ · ⲉϩⲟⲃⲥϥ ϩⲙⲡⲁϥⲱ ·
 1-3	ⲁⲓϩⲱⲃⲥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -16975,7 +16975,7 @@
 16	ϥⲱ	ϥⲱ	NOUN	N	_	12	obl	_	_
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0058
+# sent_id = life_onnophrius-life_onnophrius_01_s0058
 # text = ⲁⲩⲱ ⲉⲓⲥ ⲙⲁⲁⲃⲉ ⲛⲣⲟⲙⲡⲉ · ϫⲓⲛⲧⲁⲓⲉⲓ ⲉⲡⲉⲓⲙⲁ · ⲉⲣⲉⲡⲁⲏⲣ ϯ ⲛⲁⲓ ⲛⲟⲩⲕⲣⲁⲥⲓⲥ · ⲉⲥϣⲏϣ ⲁⲩⲱ ⲙⲡⲓⲟⲩⲉⲙⲟⲉⲓⲕ ⲉⲡⲧⲏⲣϥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	5	advmod	_	_
@@ -17023,7 +17023,7 @@
 35	ⲧⲏⲣϥ	ⲧⲏⲣϥ	NOUN	N	_	32	obl	_	Orig=ⲧⲏⲣϥ̅
 36	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0059
+# sent_id = life_onnophrius-life_onnophrius_01_s0059
 # text = ⲁⲓϫⲛⲟⲩϥ ϫⲉⲁⲣⲁ ⲧⲁⲣⲭⲏ · ⲛⲧⲁⲕⲉⲓ ⲉⲡⲉⲓⲙⲁ ⲁⲕϩⲓⲥⲉ ⲧⲱⲛⲟⲩ ·
 1-4	ⲁⲓϫⲛⲟⲩϥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -17053,7 +17053,7 @@
 20	ⲧⲱⲛⲟⲩ	ⲧⲱⲛⲟⲩ	ADV	ADV	_	19	advmod	_	_
 21	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0060
+# sent_id = life_onnophrius-life_onnophrius_01_s0060
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ · ϫⲉⲁϩⲉ ⲁⲓϩⲓⲥⲉ ⲧⲱⲛⲟⲩ · ⲱ ⲡⲁϣⲏⲣⲉ · ϩⲱⲥⲧⲉ ⲛⲛⲁϣⲛⲟϫⲧ · ⲉⲡⲕⲁϩ ⲉⲧⲃⲉⲡⲙⲕⲁϩ ⲛϩⲏⲧ · ϩⲱⲥⲧⲉ ⲛⲛⲁⲉϣⲛⲟϫⲧ · ⲉⲡⲕⲁϩ ⲉⲧⲃⲉⲡⲙⲕⲁϩ ⲛϩⲏⲧ · ⲉⲓⲱϣ ⲉϩⲣⲁⲓ ⲉⲡϫⲟⲉⲓⲥ ⲉⲧⲃⲉⲛⲁⲛⲟⲃⲉ ⲉⲧⲟϣ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
@@ -17134,7 +17134,7 @@
 60	ⲟϣ	ⲱϣ	VERB	VSTAT	_	58	acl	_	_
 61	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0061
+# sent_id = life_onnophrius-life_onnophrius_01_s0061
 # text = ⲁⲓϩⲓⲥⲉ ⲇⲉ ⲟⲛ ϩⲛⲟⲩⲛⲟϭ ⲙⲙⲟⲕϩⲥ · ⲉⲧⲃⲉⲡⲉⲧⲕⲁⲥ ⲉⲧϩⲓϫⲱⲓ
 1-3	ⲁⲓϩⲓⲥⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	Orig=Ⲁ
@@ -17159,7 +17159,7 @@
 16	ϩⲓϫⲱ	ϩⲓϫⲛ	ADP	PREP	_	17	case	_	_
 17	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	14	acl	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0062
+# sent_id = life_onnophrius-life_onnophrius_01_s0062
 # text = ⲁⲓϭⲱϣⲧ ⲇⲉ ⲁⲓⲛⲁⲩ ⲉⲩⲣⲱⲙⲉ ⲉϥϩⲁⲉⲟⲟⲩ ⲉⲙⲁⲧⲉ ⲁϥⲁϩⲉⲣⲁⲧϥ ϩⲁϩⲧⲏⲓ
 1-3	ⲁⲓϭⲱϣⲧ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -17190,7 +17190,7 @@
 21	ϩⲁϩⲧⲏ	ϩⲁϩⲧⲛ	ADP	PREP	_	22	case	_	_
 22	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	18	obl	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0063
+# sent_id = life_onnophrius-life_onnophrius_01_s0063
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉⲉⲕϣⲱⲛⲉ ⲉⲟⲩ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
@@ -17208,7 +17208,7 @@
 10	ⲟⲩ	ⲟⲩ	PRON	PINT	_	8	obl	_	_
 11	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0064
+# sent_id = life_onnophrius-life_onnophrius_01_s0064
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲁⲧⲁϭⲟⲙ ⲉⲓ ⲉⲣⲟⲓ ⲛⲟⲩⲕⲟⲩⲓ ⲡⲉϫⲁⲓ ⲛⲁϥ · ϫⲉⲡϫⲟⲉⲓⲥ ⲉⲓϣⲓⲛⲉ ⲉⲡⲁϩⲏⲡⲁⲣ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	6	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	6	advmod	_	_
@@ -17245,7 +17245,7 @@
 25	ϩⲏⲡⲁⲣ	ϩⲏⲡⲁⲣ	NOUN	N	_	22	obl	_	_
 26	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0065
+# sent_id = life_onnophrius-life_onnophrius_01_s0065
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉⲙⲁ ⲧⲥⲁⲃⲟⲓ ⲉⲡⲙⲁ ⲉⲧⲕϣⲱⲛⲉ ⲉⲣⲟϥ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
@@ -17272,7 +17272,7 @@
 16	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	14	obl	_	_
 17	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0066
+# sent_id = life_onnophrius-life_onnophrius_01_s0066
 # text = ⲁⲓⲧⲥⲁⲃⲟϥ ⲇⲉ ⲉⲡⲁϩⲏⲡⲁⲣ ⲉⲧϣⲱⲛⲉ ·
 1-4	ⲁⲓⲧⲥⲁⲃⲟϥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -17289,7 +17289,7 @@
 10	ϣⲱⲛⲉ	ϣⲱⲛⲉ	VERB	V	_	8	acl	_	_
 11	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0067
+# sent_id = life_onnophrius-life_onnophrius_01_s0067
 # text = ⲁϥⲥⲟⲃⲧⲛ ⲛⲧⲉϥϭⲓϫ ⲉⲃⲟⲗ ⲉⲣⲟⲓ ⲉⲣⲉⲛⲉϥⲧⲏⲏⲃⲉ ⲧⲁⲗⲏⲩ ⲉϫⲛⲛⲉⲩⲉⲣⲏⲩ ⲁϥⲡⲉϩⲡⲁⲥⲡⲓⲣ ⲛⲧϩⲉ ⲛⲟⲩⲥⲏϥⲉ · ⲁⲩⲱ ⲁϥⲉⲓⲛⲉ ⲉⲃⲟⲗ ⲙⲡⲁϩⲏⲡⲁⲣ ⲁϥⲧⲥⲁⲃⲟⲓ ⲉⲛⲉⲡⲗⲩⲅⲏ · ⲉⲩϩⲓⲱⲱϥ ·
 1-3	ⲁϥⲥⲟⲃⲧⲛ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -17354,7 +17354,7 @@
 48	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	43	advcl	_	_
 49	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0068
+# sent_id = life_onnophrius-life_onnophrius_01_s0068
 # text = ⲁϥϩⲟⲕⲟⲩ ⲁϥϯ ⲛⲛⲉⲩⲟⲩⲁⲙⲟⲙⲉ ⲉⲩⲧⲟⲉⲓⲥ · ⲁϥϯ ⲟⲛ ⲙⲡⲁϩⲏⲡⲁⲣ · ⲉⲡⲉϥⲙⲁ ⲛⲕⲉⲥⲟⲡ ·
 1-4	ⲁϥϩⲟⲕⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -17394,7 +17394,7 @@
 28	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	17	obl	_	_
 29	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0069
+# sent_id = life_onnophrius-life_onnophrius_01_s0069
 # text = ⲁⲩⲱ ⲁϥⲥⲗⲟϭⲗϭ ⲉϫⲙⲡⲁⲥⲱⲙⲁ ϩⲛⲛⲉϥϭⲓϫ · ⲁϥⲧⲱϭⲉ ⲙⲡⲙⲁ ⲛⲧⲁϥⲡⲁϩϥ ⲉϫⲛⲛⲉϥⲉⲣⲏⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲁϥⲥⲗⲟϭⲗϭ	_	_	_	_	_	_	_	_
@@ -17430,7 +17430,7 @@
 25	ⲉⲣⲏⲩ	ⲉⲣⲏⲩ	NOUN	N	PronType=Rcp	14	obl	_	_
 26	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0070
+# sent_id = life_onnophrius-life_onnophrius_01_s0070
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉⲉⲓⲥϩⲏⲏⲧⲉ ⲁⲕⲟⲩϫⲁⲓ ⲙⲡⲣⲕⲟⲧⲕ ⲉⲣⲛⲟⲃⲉ ϫⲉⲛⲛⲉⲡⲉⲧϩⲟⲟⲩ ⲉⲡⲁⲓ ϣⲱⲡⲉ ⲙⲙⲟⲕ · ⲁⲗⲗⲁ ⲁⲣⲓϩⲙϩⲁⲗ ⲙⲡϫⲟⲉⲓⲥ · ϫⲓⲛⲧⲉⲛⲟⲩ ϣⲁⲉⲛⲉϩ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
@@ -17482,7 +17482,7 @@
 36	ⲉⲛⲉϩ	ⲉⲛⲉϩ	NOUN	N	_	28	obl	_	_
 37	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0071
+# sent_id = life_onnophrius-life_onnophrius_01_s0071
 # text = ϫⲓⲛⲡⲉϩⲟⲟⲩ ⲉⲧⲙⲙⲁⲩ ⲁⲛⲉⲧⲙⲡⲁⲥⲁ ⲛϩⲟⲩⲛ ⲧⲏⲣⲟⲩ · ⲟⲩϫⲁⲓ ⲁⲩⲱ ⲁⲓⲗⲟ ⲉⲓϣⲱⲛⲉ ⲉⲡⲁϩⲏⲡⲁⲣ ·
 1-3	ϫⲓⲛⲡⲉϩⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ϫⲓⲛ	ϫⲓⲛ	ADP	PREP	_	3	case	_	_
@@ -17519,7 +17519,7 @@
 26	ϩⲏⲡⲁⲣ	ϩⲏⲡⲁⲣ	NOUN	N	_	23	obl	_	_
 27	·	·	PUNCT	PUNCT	_	16	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0072
+# sent_id = life_onnophrius-life_onnophrius_01_s0072
 # text = ϯϣⲟⲟⲡ ϩⲙⲡⲉⲓⲙⲁ ⲛϫⲁⲓⲉ ⲭⲱⲣⲓⲥϩⲓⲥⲉ ·
 1-2	ϯϣⲟⲟⲡ	_	_	_	_	_	_	_	_
 1	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	_	2	nsubj	_	_
@@ -17536,7 +17536,7 @@
 9	ϩⲓⲥⲉ	ϩⲓⲥⲉ	NOUN	N	_	2	obl	_	_
 10	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0073
+# sent_id = life_onnophrius-life_onnophrius_01_s0073
 # text = ⲁϥⲧⲥⲁⲃⲟⲓ ⲇⲉ ⲉⲧⲧⲟⲉⲓⲥ ⲉⲧⲉⲣⲉⲛⲟⲩⲁⲙⲟⲙⲉ ϩⲓⲱⲱⲥ ·
 1-4	ⲁϥⲧⲥⲁⲃⲟⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -17557,7 +17557,7 @@
 13	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	11	nmod	_	_
 14	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0074
+# sent_id = life_onnophrius-life_onnophrius_01_s0074
 # text = ⲁⲓⲕⲱⲣϣ ⲇⲉ ⲉⲣⲟϥ ⲉⲧⲣⲉϥⲕⲁⲁⲧ ϩⲙⲡⲉⲥⲡⲩⲗⲁⲓⲟⲛ · ⲛⲧⲁⲓⲛⲁⲩ ⲉⲣⲟϥ ⲛϣⲟⲣⲡ ·
 1-3	ⲁⲓⲕⲱⲣϣ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -17590,7 +17590,7 @@
 22	ϣⲟⲣⲡ	ϣⲟⲣⲡ	NOUN	N	_	18	obl	_	Orig=ϣⲟⲣⲡ̅
 23	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0075
+# sent_id = life_onnophrius-life_onnophrius_01_s0075
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉⲛⲧⲕϭⲟⲙ ⲁⲛ ⲧⲉ ⲉⲧⲱⲟⲩⲛ ϩⲁⲧϩⲟⲣⲙⲏ ⲛⲛⲇⲁⲓⲙⲱⲛ ⲁⲩⲱ ⲁⲓϭⲱⲣϣ ⲉⲣⲟϥ ⲉⲧⲣⲉϥϫⲱ ⲉⲣⲟⲓ ⲙⲡⲉϥⲣⲁⲛ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
@@ -17637,7 +17637,7 @@
 32	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	27	obj	_	_
 33	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0076
+# sent_id = life_onnophrius-life_onnophrius_01_s0076
 # text = ⲛⲧⲟϥ ⲇⲉ ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉϯⲙⲟⲑⲉⲟⲥ ⲡⲉ ⲡⲣⲁⲛ
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	3	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
@@ -17655,7 +17655,7 @@
 10	ⲡ	ⲡ	DET	ART	_	11	det	_	_
 11	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	8	nsubj	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0077
+# sent_id = life_onnophrius-life_onnophrius_01_s0077
 # text = ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ ϭⲉ ⲱ ⲡⲁⲥⲟⲛ ⲙⲙⲉⲣⲓⲧ ⲛⲧⲉⲡϫⲟⲉⲓⲥ ϫⲱⲕⲧ ⲉⲃⲟⲗ ϩⲙⲡⲁⲅⲱⲛ ⲉⲧⲛⲁⲛⲟⲩϥ ⲛⲧⲁϥⲧⲁϩⲙⲉⲧ ⲉⲣⲟϥ ·
 1-3	ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲁⲣⲓ	ⲉⲓⲣⲉ	VERB	V	_	0	root	_	Orig=Ⲁⲣⲓ
@@ -17696,7 +17696,7 @@
 28	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	25	obl	_	_
 29	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0078
+# sent_id = life_onnophrius-life_onnophrius_01_s0078
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲁⲓⲡⲁϩⲧ ϩⲁⲛⲉϥⲟⲩⲣⲏⲏⲧⲉ ϫⲉⲉϥⲛⲁⲣⲡⲁⲙⲉⲉⲩⲉ ⲛϥⲥⲙⲟⲩ ⲉⲣⲟⲓ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	5	dislocated	_	Orig=Ⲁⲛⲟⲕ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
@@ -17725,7 +17725,7 @@
 20	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	18	obl	_	_
 21	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0079
+# sent_id = life_onnophrius-life_onnophrius_01_s0079
 # text = ⲛⲧⲟϥ ⲇⲉ ⲁϥⲥⲙⲟⲩ ⲉⲣⲟⲓ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲉⲣⲉⲡϫⲟⲉⲓⲥ ⲥⲙⲟⲩ ⲉⲣⲟⲕ · ⲛϥⲛⲁϩⲙⲉⲕ ⲛϭⲟⲣϭⲥ ⲙⲡⲇⲓⲁⲃⲟⲗⲟⲥ ⲁⲩⲱ ⲛϥⲕⲁⲁⲕ ϩⲛⲛⲉϥϩⲓⲟⲟⲩⲉ ⲧⲏⲣⲟⲩ ⲉⲧⲛⲁⲛⲱⲟⲩ ⲛⲟⲩⲟⲉⲓϣ ⲛⲓⲙ · ⲉⲕⲡⲏⲧ ⲉⲣⲁⲧⲟⲩ ⲛⲛⲉⲧⲟⲩⲁⲁⲃ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	5	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
@@ -17801,7 +17801,7 @@
 55	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	_	53	acl	_	_
 56	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0080
+# sent_id = life_onnophrius-life_onnophrius_01_s0080
 # text = ⲛⲧⲉⲣϥⲟⲩⲱ ⲇⲉ ⲉϥⲥⲙⲟⲩ ⲉⲣⲟⲓ ⲁⲧⲁϭⲟⲙ ⲉⲓ ⲉⲣⲟⲓ · ϩⲱⲥⲧⲉ ⲉⲧⲙⲧⲣⲁⲁⲓⲥⲑⲁⲛⲉ · ⲉⲡⲧⲏⲣϥ ϫⲉϯϩⲕⲟⲉⲓⲧ · ⲏ ϯⲟⲃⲉ ·
 1-3	ⲛⲧⲉⲣϥⲟⲩⲱ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -17847,7 +17847,7 @@
 33	ⲟⲃⲉ	ⲱϥⲉ	VERB	VSTAT	_	29	conj	_	_
 34	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0081
+# sent_id = life_onnophrius-life_onnophrius_01_s0081
 # text = ⲛⲧⲉⲣⲓⲛⲁⲩ ⲇⲉ ⲉϯⲛⲟϭ ⲛϣⲡⲏⲣⲉ ⲛⲧⲁⲥⲧⲁϩⲟⲓ · ⲁⲓⲧⲱⲟⲩⲛ ⲁⲓⲙⲟⲟϣⲉ · ⲉϩⲟⲩⲛ ϩⲙⲡⲧⲟⲟⲩ ·
 1-3	ⲛⲧⲉⲣⲓⲛⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -17884,7 +17884,7 @@
 26	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	21	obl	_	_
 27	·	·	PUNCT	PUNCT	_	18	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0082
+# sent_id = life_onnophrius-life_onnophrius_01_s0082
 # text = ⲛⲧⲉⲣⲉϥⲧⲟⲟⲩ ⲇⲉ ⲛϩⲟⲟⲩ ⲟⲩⲉⲓⲛⲉ ⲁⲓϩⲓⲥⲉ ⲁⲩⲱ ⲁⲓⲡⲱⲣϣ ⲛⲛⲁϭⲓϫ ⲉϩⲣⲁⲓ ⲉⲧⲡⲉ ·
 1-2	ⲛⲧⲉⲣⲉϥⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	6	aux	_	Orig=Ⲛ̅ⲧⲉⲣⲉ
@@ -17914,7 +17914,7 @@
 20	ⲡⲉ	ⲡⲉ	NOUN	N	_	13	obl	_	_
 21	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0083
+# sent_id = life_onnophrius-life_onnophrius_01_s0083
 # text = ⲁⲓϣⲗⲏⲗ · ⲁⲩⲱ ⲉⲓⲥ ⲡⲣⲱⲙⲉ ⲛⲧⲁϥⲉⲓ ϣⲁⲣⲟⲓ ⲛϣⲟⲣⲡ ·
 1-3	ⲁⲓϣⲗⲏⲗ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -17939,7 +17939,7 @@
 16	ϣⲟⲣⲡ	ϣⲟⲣⲡ	NOUN	N	_	12	obl	_	Orig=ϣⲟⲣⲡ̅
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0084
+# sent_id = life_onnophrius-life_onnophrius_01_s0084
 # text = ⲁϥⲉⲓ ϣⲁⲣⲟⲓ ⲟⲛ ⲁϥϯϭⲟⲙ ⲛⲁⲓ ⲛⲧϩⲉ ⲛⲧⲉϩⲟⲩⲉⲓⲧⲉ ·
 1-3	ⲁϥⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -17966,7 +17966,7 @@
 17	ϩⲟⲩⲉⲓⲧⲉ	ϩⲟⲩⲉⲓⲧⲉ	NOUN	N	_	14	nmod	_	_
 18	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0085
+# sent_id = life_onnophrius-life_onnophrius_01_s0085
 # text = ϩⲁⲡⲗⲱⲥ ⲁⲡⲙⲉϩϥⲧⲟⲟⲩ · ⲛϩⲟⲟⲩ ⲟⲩⲉⲓⲛⲉ · ⲉⲓⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ
 1	ϩⲁⲡⲗⲱⲥ	ϩⲁⲡⲗⲱⲥ	ADV	ADV	_	8	advmod	_	_
 2-4	ⲁⲡⲙⲉϩϥⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
@@ -17985,7 +17985,7 @@
 12	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	_	8	advcl	_	_
 13	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	12	advmod	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0086
+# sent_id = life_onnophrius-life_onnophrius_01_s0086
 # text = ⲛⲧⲉⲩⲛⲟⲩ ⲇⲉ · ⲁⲓϭⲱϣⲧ ⲁⲓⲛⲁⲩ ⲉⲩⲣⲱⲙⲉ · ⲙⲡⲟⲩⲉ ⲉϥⲟ ⲛϩⲟⲧⲉ ⲉⲙⲁⲧⲉ · ⲉⲣⲉⲡⲉϥϥⲱ ⲡⲟⲣϣ ⲉⲃⲟⲗ · ⲉϫⲙⲡⲉϥⲥⲱⲙⲁ · ⲛⲧϩⲉ ⲙⲡⲁⲛⲉⲓⲡⲁⲣⲧⲁⲗⲏⲥ · ⲛϥⲕⲏⲕⲁϩⲏⲩ ⲅⲁⲣ ⲡⲉ · ⲉⲣⲉϩⲉⲛϭⲱⲱⲃⲉ ϩⲱⲃⲥ ⲙⲡⲉϥⲥⲙⲟⲧ ⲛϩⲟⲟⲩⲧ ·
 1-3	ⲛⲧⲉⲩⲛⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	Orig=ⲛ̅
@@ -18062,7 +18062,7 @@
 58	ϩⲟⲟⲩⲧ	ϩⲟⲟⲩⲧ	NOUN	N	_	56	nmod	_	_
 59	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0087
+# sent_id = life_onnophrius-life_onnophrius_01_s0087
 # text = ⲛⲧⲉⲣⲉϥϩⲱⲛ ⲉϩⲟⲩⲛ ⲉⲣⲟⲓ ⲁⲓⲣϩⲟⲧⲉ ·
 1-3	ⲛⲧⲉⲣⲉϥϩⲱⲛ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣⲉ
@@ -18078,7 +18078,7 @@
 9	ⲣϩⲟⲧⲉ	ⲣϩⲟⲧⲉ	VERB	V	_	0	root	_	Morphs=ⲣ-ϩⲟⲧⲉ|Orig=ⲣ̅ϩⲟⲧⲉ
 10	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0088
+# sent_id = life_onnophrius-life_onnophrius_01_s0088
 # text = ⲁⲓⲁⲗⲉ ⲉϩⲣⲁⲓ ⲉϫⲛⲟⲩⲕⲱϩ ⲛⲧⲟⲟⲩ · ϫⲉⲙⲉϣⲁⲕ ⲟⲩⲉⲓⲁ ⲛⲧⲟⲟⲩ ⲡⲉ ·
 1-3	ⲁⲓⲁⲗⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -18105,7 +18105,7 @@
 17	ⲡⲉ	ⲡⲉ	PRON	COP	_	14	cop	_	_
 18	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0089
+# sent_id = life_onnophrius-life_onnophrius_01_s0089
 # text = ⲛⲧⲉⲣⲉϥⲉⲓ ⲇⲉ ⲁϥⲛⲟϫϥ ⲛⲟⲩⲕⲟⲩⲓ · ϩⲁⲧϩⲁⲓⲃⲥ ⲛⲟⲩⲕⲱϩ ⲛⲧⲟⲟⲩ · ⲛϥⲑⲗⲓⲃⲉ ⲉⲙⲁⲧⲉ ⲉⲧⲃⲉⲛϩⲓⲥⲉ ⲉⲧϥϣⲟⲟⲡ ⲛϩⲏⲧⲟⲩ · ⲡⲉϩⲕⲟ · ⲙⲛⲡⲉⲓⲃⲉ · ⲛϥⲕⲓⲛⲇⲩⲛⲉⲩⲉ ⲉⲙⲁⲧⲉ ·
 1-3	ⲛⲧⲉⲣⲉϥⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣⲉ
@@ -18167,7 +18167,7 @@
 45	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	44	advmod	_	_
 46	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0090
+# sent_id = life_onnophrius-life_onnophrius_01_s0090
 # text = ⲁϥϥⲓ ⲇⲉ ⲛⲛⲉϥⲃⲁⲗ ⲉϩⲣⲁⲓ ⲉⲡⲕⲟⲟϩ · ⲛⲧⲟⲟⲩ · ⲁϥⲛⲁⲩ ⲉⲣⲟⲓ · ⲁϥⲙⲟⲩⲧⲉ ϫⲉⲁⲙⲟⲩ ⲉⲡⲉⲥⲏⲧ ϣⲁⲣⲟⲓ ⲡⲣⲱⲙⲉ ⲉⲧⲟⲩⲁⲁⲃ ·
 1-3	ⲁϥϥⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	Orig=Ⲁ
@@ -18218,7 +18218,7 @@
 35	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	_	33	acl	_	_
 36	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0091
+# sent_id = life_onnophrius-life_onnophrius_01_s0091
 # text = ⲁⲛⲟⲕ ⲇⲉ ϩⲱ ⲁⲛⲅⲟⲩⲣⲙⲛⲧⲟⲟⲩ ⲛⲧⲉⲕϩⲉ · ⲉⲓϣⲟⲟⲡ ϩⲙⲡⲉⲓϫⲁⲓⲉ · ⲉⲧⲃⲉⲛⲁⲛⲟⲃⲉ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	6	dislocated	_	Orig=Ⲁⲛⲟⲕ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	6	advmod	_	_
@@ -18247,7 +18247,7 @@
 20	ⲛⲟⲃⲉ	ⲛⲟⲃⲉ	NOUN	N	_	13	obl	_	_
 21	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0092
+# sent_id = life_onnophrius-life_onnophrius_01_s0092
 # text = ⲛⲧⲟϥ ⲇⲉ ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉⲛⲧⲕⲟⲩϣⲃⲏⲣ · ϩⲱⲱⲕ ⲟⲛ ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	3	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
@@ -18273,7 +18273,7 @@
 17	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	10	nmod	_	_
 18	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0093
+# sent_id = life_onnophrius-life_onnophrius_01_s0093
 # text = ⲁⲓϩⲙⲟⲟⲥ ⲟⲛ ⲙⲡⲉϥⲙⲧⲟ ⲉⲃⲟⲗ · ⲁⲩⲱ ⲁⲓⲡⲁⲣⲁⲕⲁⲗⲉⲓ ⲙⲙⲟϥ · ⲉⲧⲣⲉϥϫⲱ ⲉⲣⲟⲓ ⲙⲡⲉϥⲣⲁⲛ ·
 1-3	ⲁⲓϩⲙⲟⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -18309,7 +18309,7 @@
 25	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	20	obj	_	_
 26	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0094
+# sent_id = life_onnophrius-life_onnophrius_01_s0094
 # text = ⲛⲧⲟϥ ⲇⲉ ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉⲟⲛⲛⲟⲫⲣⲓⲟⲥ ⲡⲉ ⲡⲁⲣⲁⲛ · ⲁⲩⲱ ⲉⲓⲥ ⲥⲉ ⲛⲣⲟⲙⲡⲉ ϯϣⲟⲟⲡ ϩⲛϯⲉⲣⲏⲙⲓⲁ · ⲉⲓⲙⲟⲟϣⲉ ϩⲛⲛⲧⲟⲟⲩ ⲛⲧϩⲉ ⲛⲛⲉⲑⲏⲣⲓⲟⲛ · ⲁⲩⲱ ⲙⲡⲓⲛⲁⲩ ⲉⲣⲱⲙⲉ ⲉⲓⲥⲟⲟⲩⲛ ⲙⲙⲟϥ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	3	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
@@ -18375,7 +18375,7 @@
 47	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	45	obj	_	_
 48	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0095
+# sent_id = life_onnophrius-life_onnophrius_01_s0095
 # text = ⲉⲓϣⲟⲟⲡ ⲇⲉ ϩⲛⲟⲩⲥⲟⲟⲩϩⲥ ⲙⲙⲟⲛⲁⲭⲟⲥ ϩⲙⲡⲧⲟⲟⲩ ⲛϣⲙⲟⲩⲛ ⲛⲧⲉⲑⲏⲃⲁⲓⲥ ·
 1-3	ⲉⲓϣⲟⲟⲡ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	Orig=Ⲉ
@@ -18401,7 +18401,7 @@
 16	ⲑⲏⲃⲁⲓⲥ	ⲑⲏⲃⲁⲓⲥ	PROPN	NPROP	_	14	nmod	_	Orig=ⲑⲏⲃⲁⲉⲓⲥ
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0096
+# sent_id = life_onnophrius-life_onnophrius_01_s0096
 # text = ⲡⲣⲁⲛ ⲇⲉ ⲛⲧϩⲉⲛⲉⲉⲧⲉ ⲉⲧⲙⲙⲁⲁⲩ ⲡⲉ ⲉⲣⲏⲧⲉ ·
 1-2	ⲡⲣⲁⲛ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	2	det	_	Orig=Ⲡ
@@ -18418,7 +18418,7 @@
 10	ⲉⲣⲏⲧⲉ	ⲉⲣⲏⲧⲉ	PROPN	NPROP	_	2	nsubj	_	_
 11	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0097
+# sent_id = life_onnophrius-life_onnophrius_01_s0097
 # text = ⲉⲛⲟ ⲛⲟⲩϩⲏⲧ ⲛⲟⲩⲱⲧ ⲙⲛⲛⲉⲛⲉⲣⲏⲩ ϩⲓⲟⲩⲥⲟⲡ · ⲉⲣⲉⲧⲉⲓⲣⲏⲛⲏ ϣⲟⲟⲡ ϩⲛⲧⲉⲛⲙⲏⲏⲧⲉ · ⲉⲛϣⲟⲟⲡ ϩⲛⲟⲩⲉⲥⲩⲭⲓⲁ ⲙⲛⲛⲉⲛⲉⲣⲏⲩ · ⲉⲛϯⲉⲟⲟⲩ ⲙⲡⲛⲟⲩⲧⲉ ·
 1-3	ⲉⲛⲟ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
@@ -18473,7 +18473,7 @@
 39	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	36	obl	_	_
 40	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0098
+# sent_id = life_onnophrius-life_onnophrius_01_s0098
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲛⲉⲓⲟ ⲛⲟⲩϣⲏ ⲛⲣⲟⲉⲓⲥ ⲛⲙⲙⲁⲩ · ⲉⲓϫⲓⲥⲃⲱ ⲛⲕⲱⲧ ⲙⲡⲛⲟⲩⲧⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ · ⲛϩⲉⲛⲛⲟϭ ⲛⲧⲉⲗⲓⲟⲥ · ⲛⲉ ⲛⲧϩⲉ ⲛⲛⲁⲅⲅⲉⲗⲟⲥ ⲙⲡϫⲟⲉⲓⲥ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	5	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
@@ -18530,7 +18530,7 @@
 40	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	37	nmod	_	Orig=ϫⲥ̅
 41	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0099
+# sent_id = life_onnophrius-life_onnophrius_01_s0099
 # text = ⲁⲓⲥⲱⲧⲙ ⲉⲩϣⲁϫⲉ ⲉⲧⲃⲉⲡⲉⲛⲉⲓⲱⲧ ϩⲏⲗⲓⲁⲥ ⲡⲉⲑⲉⲥⲃⲓⲧⲏⲥ · ϫⲉⲛⲧⲁϥϭⲙϭⲟⲙ ϩⲙⲡⲛⲟⲩⲧⲉ ⲛϯϩⲉ ⲧⲏⲣⲥ · ⲉϥϣⲟⲟⲡ ϩⲙⲡⲉⲓϫⲁⲓⲉ ·
 1-3	ⲁⲓⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -18577,7 +18577,7 @@
 33	ϫⲁⲓⲉ	ϫⲁⲓⲉ	NOUN	N	_	30	obl	_	_
 34	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0100
+# sent_id = life_onnophrius-life_onnophrius_01_s0100
 # text = ⲁⲩⲱ ⲓⲱϩⲁⲛⲛⲏⲥ ⲡⲃⲁⲡϯⲥⲧⲏⲥ · ⲡⲉⲧⲉⲙⲡϥⲧⲱⲟⲩⲛ ϩⲙⲡⲉϫⲡⲟ ⲛⲛⲉϩⲓⲟⲟⲙⲉ · ⲛϭⲓⲡⲉⲧⲟ ⲛⲛⲟϭ ⲉⲣⲟϥ · ⲉϥϣⲟⲟⲡ ϩⲛⲛϫⲁⲓⲉ · ϣⲁⲡⲉϩⲟⲟⲩ ⲙⲡⲉϥⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ϩⲙⲡⲓⲥⲣⲁⲏⲗ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	29	cc	_	_
 2	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	_	29	dislocated	_	_
@@ -18636,7 +18636,7 @@
 43	ⲓⲥⲣⲁⲏⲗ	ⲓⲥⲣⲁⲏⲗ	PROPN	NPROP	_	39	nmod	_	Orig=ⲓ̅ⲏ̅ⲗ̅
 44	·	·	PUNCT	PUNCT	_	29	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0101
+# sent_id = life_onnophrius-life_onnophrius_01_s0101
 # text = ⲡⲉϫⲁⲓ ⲛⲁⲩ ϫⲉⲛⲁⲉⲓⲟⲟⲧⲉ · ⲟⲩⲕ ⲟⲩⲛ ⲛⲉⲧϩⲙⲡϫⲁⲓⲉ · ⲥⲉⲥⲟⲧⲡ ⲛϩⲟⲩⲟ ⲉⲣⲟⲛ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
@@ -18669,7 +18669,7 @@
 22	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	_	20	nmod	_	_
 23	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0102
+# sent_id = life_onnophrius-life_onnophrius_01_s0102
 # text = ⲁⲛⲟⲛ ⲅⲁⲣ ⲉⲓⲥϩⲏⲏⲧⲉ ⲧⲛⲛⲁⲩ ⲉⲛⲉⲛⲉⲣⲏⲩ ⲙⲙⲏⲛⲉ · ⲁⲩⲱ ⲧⲛⲥⲟⲟⲩϩ ⲛⲥⲩⲛⲁⲝⲓⲥ ϩⲓⲟⲩⲥⲟⲡ ·
 1	ⲁⲛⲟⲛ	ⲁⲛⲟⲛ	PRON	PPERI	_	6	dislocated	_	_
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	6	advmod	_	_
@@ -18700,7 +18700,7 @@
 20	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	15	obl	_	_
 21	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0103
+# sent_id = life_onnophrius-life_onnophrius_01_s0103
 # text = ⲉⲛϣⲁⲛϩⲕⲟ · ⲧⲛϩⲏⲩ ⲉϩⲣⲉ ⲉϥⲥⲃⲧⲱⲧ ⲛⲁⲛ ·
 1-2	ⲉⲛϣⲁⲛϩⲕⲟ	_	_	_	_	_	_	_	_
 1	ⲉⲛϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ	PRON	ACOND_PPERS	_	2	nsubj	_	_
@@ -18721,7 +18721,7 @@
 12	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	_	10	obl	_	_
 13	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0104
+# sent_id = life_onnophrius-life_onnophrius_01_s0104
 # text = ⲉⲛϣⲁⲛⲉⲓⲃⲉ · ⲧⲛϩⲏⲩ ⲉⲙⲟⲟⲩ ⲉⲥⲱ ·
 1-2	ⲉⲛϣⲁⲛⲉⲓⲃⲉ	_	_	_	_	_	_	_	_
 1	ⲉⲛϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ	PRON	ACOND_PPERS	_	2	nsubj	_	Orig=ⲛ̅ϣⲁⲛ
@@ -18738,7 +18738,7 @@
 9	ⲥⲱ	ⲥⲱ	VERB	V	_	5	xcomp	_	_
 10	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0105
+# sent_id = life_onnophrius-life_onnophrius_01_s0105
 # text = ⲉⲛϣⲁⲛⲣⲁⲧϭⲟⲙ ϣⲁⲩϯⲧⲟⲟⲧⲛ · ϩⲓⲧⲛⲛⲉⲛⲥⲛⲏⲩ ·
 1-2	ⲉⲛϣⲁⲛⲣⲁⲧϭⲟⲙ	_	_	_	_	_	_	_	_
 1	ⲉⲛϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ	PRON	ACOND_PPERS	_	2	nsubj	_	Orig=ⲛ̅ϣⲁⲛ
@@ -18756,7 +18756,7 @@
 11	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	5	obl	_	_
 12	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_onnophrius-BritMusOriental7027_01a_07b_s0106
+# sent_id = life_onnophrius-life_onnophrius_01_s0106
 # text = ⲁⲩⲱ ⲉⲛϣⲁⲛⲉⲡⲓⲑⲩⲙⲉⲓ ⲉⲩⲥⲕⲉⲩⲟⲥ ⲉⲟⲩⲟⲙϥ · ⲧⲛⲇⲓⲁⲕⲱⲛⲉⲓ ⲙⲙⲟϥ ⲛⲛⲉⲛⲉⲣⲏⲩ ⲉⲧⲃⲉⲟⲩⲁⲅⲁⲡⲏ · ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	12	cc	_	_
 2-3	ⲉⲛϣⲁⲛⲉⲡⲓⲑⲩⲙⲉⲓ	_	_	_	_	_	_	_	_
@@ -18792,8 +18792,8 @@
 24	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	20	nmod	_	_
 25	·	·	PUNCT	PUNCT	_	12	punct	_	_
 
-# newdoc id = epistle.ephraim:BritMusOriental6783_63b_67b
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0001
+# newdoc id = pseudo.ephrem:psephrem.letter
+# sent_id = pseudo_ephrem-psephrem_letter_s0001
 # text = ⲛⲧⲟϥ ⲟⲛ ⲁⲡⲁ ⲉⲫⲣⲁⲓⲙ ⲉϥⲥϩⲁⲓ ⲉⲣⲁⲧϥ ⲛⲟⲩⲙⲉⲣⲓⲧ ⲛⲧⲁϥ ⲉϥϫⲓⲥⲃⲱ ⲛⲧⲟⲟⲧϥ · — ·· — ·· — ·· — ·· — ·· —
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	7	dislocated	_	Orig=ⲚⲦⲞϤ
 2	ⲟⲛ	ⲟⲛ	ADV	ADV	_	7	advmod	_	Orig=ⲞⲚ
@@ -18844,7 +18844,7 @@
 36	·	·	PUNCT	PUNCT	_	7	punct	_	_
 37	—	—	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0002
+# sent_id = pseudo_ephrem-psephrem_letter_s0002
 # text = ⲡⲁⲙⲉⲣⲓⲧ ϩⲙⲡϫⲟⲉⲓⲥ ϣⲟⲣⲡ ⲙⲉⲛ ϩⲛϩⲱⲃ ⲛⲓⲙ ⲕⲁⲡⲑⲃⲃⲓⲟ ϩⲛⲧⲉⲕⲧⲁⲡⲣⲟ · ⲉⲕⲥⲃⲧⲱⲧ ϩⲛⲧⲉⲕϭⲓⲛⲟⲩⲱϣⲃ ϫⲉⲕⲱ ⲛⲁⲓ ⲉⲃⲟⲗ ⲉⲕⲥⲟⲟⲩⲛ · ϫⲉϩⲓⲧⲛⲡⲉⲑⲃⲃⲓⲟ · ϣⲁⲣⲉⲧϭⲟⲙ ⲧⲏⲣⲥ ⲙⲡϫⲁϫⲉ ⲱϫⲛ ·
 1-2	ⲡⲁⲙⲉⲣⲓⲧ	_	_	_	_	_	_	_	_
 1	ⲡⲁ	ⲡⲁ	DET	PPOS	_	2	det	_	Orig=Ⲡⲁ
@@ -18908,7 +18908,7 @@
 46	ⲱϫⲛ	ⲱϫⲛ	VERB	V	_	31	ccomp	_	Orig=ⲱ̅ϫⲛ̅
 47	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0003
+# sent_id = pseudo_ephrem-psephrem_letter_s0003
 # text = ⲁⲩⲱ ⲕⲥⲟⲟⲩⲛ ⲛⲧⲙⲛⲧⲁⲅⲁⲑⲟⲥ ⲙⲡⲉⲕⲥⲁϩ · ϫⲉⲁⲩϫⲉⲟⲩ ⲉⲧⲃⲏⲏⲧϥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
 2-3	ⲕⲥⲟⲟⲩⲛ	_	_	_	_	_	_	_	_
@@ -18934,7 +18934,7 @@
 17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	14	obl	_	Orig=ϥ̅
 18	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0004
+# sent_id = pseudo_ephrem-psephrem_letter_s0004
 # text = ⲁϥϣⲱⲡⲉ ⲉϥⲑⲃⲃⲓⲏⲩ · ⲁⲩⲱ ⲛⲥⲙⲏⲧ ϣⲁϩⲣⲁⲓ ⲉⲡⲙⲟⲩ ·
 1-3	ⲁϥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -18956,7 +18956,7 @@
 14	ⲙⲟⲩ	ⲙⲟⲩ	NOUN	N	_	3	obl	_	_
 15	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0005
+# sent_id = pseudo_ephrem-psephrem_letter_s0005
 # text = ⲛⲧⲟⲕ ϩⲱⲱⲕ ⲡⲁϣⲏⲣⲉ ⲕⲁⲡⲑⲃⲃⲓⲟ ϩⲛⲣⲱⲕ · ⲙⲛⲡⲉⲕϩⲏⲧ · ⲙⲛⲡⲉⲕⲙⲁⲕϩ · ⲉⲕⲉⲓ ⲅⲁⲣ ⲉⲡⲉⲑⲃⲃⲓⲟ ⲟⲩⲛⲧⲁϥ ⲙⲙⲁⲩ ⲛⲛⲉϥⲉⲛⲧⲟⲗⲏ ·
 1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	6	dislocated	_	Orig=ⲛ̅ⲧⲟⲕ
 2-3	ϩⲱⲱⲕ	_	_	_	_	_	_	_	_
@@ -19003,7 +19003,7 @@
 33	ⲉⲛⲧⲟⲗⲏ	ⲉⲛⲧⲟⲗⲏ	NOUN	N	_	28	obj	_	Orig=ⲛ̅ⲧⲟⲗⲏ
 34	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0006
+# sent_id = pseudo_ephrem-psephrem_letter_s0006
 # text = ⲁⲛⲁⲩ ⲉⲇⲁⲩⲉⲓⲇ ⲉϥϣⲟⲩϣⲟⲩ ⲙⲙⲟϥ ϩⲙⲡⲉⲑⲃⲃⲓⲟ ·
 1	ⲁⲛⲁⲩ	ⲛⲁⲩ	VERB	VIMP	_	0	root	_	_
 2-3	ⲉⲇⲁⲩⲉⲓⲇ	_	_	_	_	_	_	_	_
@@ -19022,7 +19022,7 @@
 11	ⲑⲃⲃⲓⲟ	ⲑⲃⲃⲓⲟ	NOUN	N	_	6	obl	_	Orig=ⲑⲃ̅ⲃⲓⲟ
 12	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0007
+# sent_id = pseudo_ephrem-psephrem_letter_s0007
 # text = ⲡⲉϫⲁϥ ϩⲓⲛⲁⲓ ϫⲉⲁⲓⲑⲃⲃⲓⲟⲓ ⲁⲡϫⲟⲉⲓⲥ ⲧⲟⲩϫⲟⲓ · ⲁⲩⲱ ⲁϥⲣⲡⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲛⲁⲓ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
@@ -19056,7 +19056,7 @@
 23	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	19	obl	_	_
 24	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0008
+# sent_id = pseudo_ephrem-psephrem_letter_s0008
 # text = ⲫⲟⲣⲉⲓ ϩⲱⲱⲕ ⲡⲁϣⲏⲣⲉ ⲙⲡⲉⲑⲃⲃⲓⲟ ⲧⲁⲣⲉⲛⲁⲣⲉⲧⲏ · ⲙⲡⲛⲟⲩⲧⲉ : ϣⲱⲡⲉ ⲛⲙⲙⲁⲕ ·
 1	ⲫⲟⲣⲉⲓ	ⲫⲟⲣⲉⲓ	VERB	V	_	0	root	_	_
 2-3	ϩⲱⲱⲕ	_	_	_	_	_	_	_	_
@@ -19085,7 +19085,7 @@
 19	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	17	obl	_	_
 20	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0009
+# sent_id = pseudo_ephrem-psephrem_letter_s0009
 # text = ⲉϣⲱⲡⲉ ⲇⲉ ⲡⲁϣⲏⲣⲉ ⲉⲕϩⲙⲡⲉⲑⲃⲃⲓⲟ · ⲙⲛⲗⲁⲁⲩ ⲙⲡⲁⲑⲟⲥ ⲛⲁⲉϣϭⲙϭⲟⲙ ⲉϩⲱⲛ ⲉϩⲟⲩⲛ ⲉⲣⲟⲕ ·
 1	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	17	mark	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	17	advmod	_	_
@@ -19118,7 +19118,7 @@
 22	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	19	obl	_	_
 23	·	·	PUNCT	PUNCT	_	17	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0010
+# sent_id = pseudo_ephrem-psephrem_letter_s0010
 # text = ⲟⲩⲣⲱⲙⲉ ⲉϥⲑⲃⲃⲓⲏⲩ ⲙⲛϣⲓ ⲙⲡⲉϥⲁⲛⲁⲓ ·
 1-2	ⲟⲩⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	_	2	det	_	_
@@ -19136,7 +19136,7 @@
 10	ⲁⲛⲁⲓ	ⲁⲛⲁⲓ	NOUN	N	_	6	obl	_	Orig=ⲁⲛⲁⲓ̈
 11	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0011
+# sent_id = pseudo_ephrem-psephrem_letter_s0011
 # text = ⲟⲩⲣⲱⲙⲉ ⲉϥⲑⲃⲃⲓⲏⲩ ⲙⲛⲡⲁⲑⲟⲥ ⲛⲁⲉϣϭⲙϭⲟⲙ ⲉϩⲱⲛ ⲉϩⲟⲩⲛ ⲉⲣⲟⲕ ·
 1-2	ⲟⲩⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	_	2	det	_	_
@@ -19161,7 +19161,7 @@
 15	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	12	obl	_	_
 16	·	·	PUNCT	PUNCT	_	10	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0012
+# sent_id = pseudo_ephrem-psephrem_letter_s0012
 # text = ⲟⲩⲣⲱⲙⲉ ⲉϥⲑⲃⲃⲓⲏⲩ ⲙⲛϣⲓ ⲙⲡⲉϥⲁⲛⲁⲓ ·
 1-2	ⲟⲩⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	_	2	det	_	_
@@ -19179,7 +19179,7 @@
 10	ⲁⲛⲁⲓ	ⲁⲛⲁⲓ	NOUN	N	_	6	obl	_	_
 11	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0013
+# sent_id = pseudo_ephrem-psephrem_letter_s0013
 # text = ⲟⲩⲣⲱⲙⲉ ⲉϥⲑⲃⲃⲓⲏⲩ ⲟⲩⲑⲩⲥⲓⲁ ⲧⲉ ⲙⲡⲛⲟⲩⲧⲉ ·
 1-2	ⲟⲩⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	_	2	det	_	_
@@ -19198,7 +19198,7 @@
 11	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	7	nmod	_	_
 12	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0014
+# sent_id = pseudo_ephrem-psephrem_letter_s0014
 # text = ⲟⲩⲣⲱⲙⲉ ⲉϥⲑⲃⲃⲓⲏⲩ ⲡϩⲏⲧ ⲙⲡⲛⲟⲩⲧⲉ ⲙⲟⲧⲛ ⲛⲧⲟⲟⲧϥ ⲙⲛⲛⲉϥⲁⲅⲅⲉⲗⲟⲥ ·
 1-2	ⲟⲩⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	_	2	det	_	_
@@ -19224,7 +19224,7 @@
 16	ⲁⲅⲅⲉⲗⲟⲥ	ⲁⲅⲅⲉⲗⲟⲥ	NOUN	N	_	10	conj	_	_
 17	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0015
+# sent_id = pseudo_ephrem-psephrem_letter_s0015
 # text = ⲡⲁⲗⲓⲛ ⲟⲛ ϣⲁⲣⲉⲛⲁⲅⲅⲉⲗⲟⲥ ϯⲉⲟⲟⲩ ⲛⲁϥ ·
 1	ⲡⲁⲗⲓⲛ	ⲡⲁⲗⲓⲛ	ADV	ADV	_	6	advmod	_	_
 2	ⲟⲛ	ⲟⲛ	ADV	ADV	_	6	advmod	_	_
@@ -19238,7 +19238,7 @@
 8	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	6	obl	_	_
 9	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0016
+# sent_id = pseudo_ephrem-psephrem_letter_s0016
 # text = ⲟⲩⲛⲗⲟⲓϭⲉ ⲙⲡⲉⲛⲧⲁϥϫⲡⲉ ⲁⲣⲉⲧⲏ ⲛⲓⲙ ϩⲓⲁⲗⲗⲁ
 1-2	ⲟⲩⲛⲗⲟⲓϭⲉ	_	_	_	_	_	_	_	_
 1	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	Orig=ⲟⲩⲛ̅
@@ -19256,7 +19256,7 @@
 11	ϩⲓ	ϩⲓ	ADP	PREP	_	12	case	_	_
 12	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	NOUN	N	_	1	obl	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0017
+# sent_id = pseudo_ephrem-psephrem_letter_s0017
 # text = ⲡⲉⲛⲧⲁϥϫⲡⲉ ⲡⲉⲑⲃⲃⲓⲟ ⲛⲁϥ ⲙⲉⲕϩⲉ ⲉⲗⲁⲁⲩ ⲛⲗⲟⲓϭⲉ ⲛⲥⲱϥ ϩⲓⲁⲗⲗⲁ ϫⲉⲁϥϣⲱⲡⲉ ⲉϥⲑⲃⲃⲓⲏⲩ ·
 1-5	ⲡⲉⲛⲧⲁϥϫⲡⲉ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	12	dislocated	_	Orig=Ⲡ
@@ -19297,7 +19297,7 @@
 27	ⲑⲃⲃⲓⲏⲩ	ⲑⲃⲃⲓⲟ	VERB	VSTAT	_	24	advcl	_	Orig=ⲑⲃ̅ⲃⲓⲏⲩ
 28	·	·	PUNCT	PUNCT	_	12	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0018
+# sent_id = pseudo_ephrem-psephrem_letter_s0018
 # text = ⲛⲁⲓ ⲛⲉ ⲛⲁⲣⲉⲧⲏ ⲙⲡⲉⲑⲃⲃⲓⲟ · ⲡⲁϣⲏⲣⲉ
 1	ⲛⲁⲓ	ⲛⲁⲓ	DET	PDEM	_	0	root	_	_
 2	ⲛⲉ	ⲡⲉ	PRON	COP	_	1	cop	_	_
@@ -19313,7 +19313,7 @@
 9	ⲡⲁ	ⲡⲁ	DET	PPOS	_	10	det	_	_
 10	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	1	vocative	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0019
+# sent_id = pseudo_ephrem-psephrem_letter_s0019
 # text = ⲕⲁⲣⲱⲕ ⲡⲁϣⲏⲣⲉ · ϥⲥⲏϩ ⲅⲁⲣ ϫⲉⲡⲥⲁⲃⲉ ϩⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲉⲧⲙⲙⲁⲩ ϥⲛⲁⲕⲁⲣⲱϥ ·
 1-3	ⲕⲁⲣⲱⲕ	_	_	_	_	_	_	_	_
 1	ⲕⲁ	ⲕⲱ	VERB	V	_	0	root	_	_
@@ -19346,7 +19346,7 @@
 22	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	21	det	_	_
 23	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0020
+# sent_id = pseudo_ephrem-psephrem_letter_s0020
 # text = ⲕⲁⲣⲱⲕ ϩⲱⲱⲕ ϣⲁⲛⲧⲟⲩϫⲛⲟⲩⲕ ·
 1-3	ⲕⲁⲣⲱⲕ	_	_	_	_	_	_	_	_
 1	ⲕⲁ	ⲕⲱ	VERB	V	_	0	root	_	_
@@ -19362,7 +19362,7 @@
 9	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	8	obj	_	_
 10	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0021
+# sent_id = pseudo_ephrem-psephrem_letter_s0021
 # text = ⲉⲩϣⲁⲛϫⲛⲟⲩⲕ · ϣⲁϫⲉ ϩⲛⲟⲩϭⲓⲛϣⲁϫⲉ ⲉϥϭⲏⲛ · ⲉϥⲑⲃⲃⲓⲏⲩ ·
 1-3	ⲉⲩϣⲁⲛϫⲛⲟⲩⲕ	_	_	_	_	_	_	_	_
 1	ⲉⲩϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ	PRON	ACOND_PPERS	_	2	nsubj	_	_
@@ -19385,7 +19385,7 @@
 15	ⲑⲃⲃⲓⲏⲩ	ⲑⲃⲃⲓⲟ	VERB	VSTAT	_	8	acl	_	Orig=ⲑⲃ̅ⲃⲓⲏⲩ
 16	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0022
+# sent_id = pseudo_ephrem-psephrem_letter_s0022
 # text = ⲙⲡⲣⲱⲕⲙ ϩⲟⲗⲱⲥ ·
 1-2	ⲙⲡⲣⲱⲕⲙ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	Orig=ⲙ̅ⲡⲣ̅
@@ -19393,7 +19393,7 @@
 3	ϩⲟⲗⲱⲥ	ϩⲟⲗⲱⲥ	ADV	ADV	_	2	advmod	_	_
 4	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0023
+# sent_id = pseudo_ephrem-psephrem_letter_s0023
 # text = ⲉϣⲱⲡⲉ ⲉⲣⲉⲛⲟϭ ⲉⲣⲟⲕ · ϩⲙⲟⲟⲥ ·
 1	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	3	mark	_	_
 2-3	ⲉⲣⲉⲛⲟϭ	_	_	_	_	_	_	_	_
@@ -19406,7 +19406,7 @@
 7	ϩⲙⲟⲟⲥ	ϩⲙⲟⲟⲥ	VERB	V	_	0	root	_	_
 8	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0024
+# sent_id = pseudo_ephrem-psephrem_letter_s0024
 # text = ⲙⲡⲣϣⲁϫⲉ ⲉⲩϣⲁⲛϫⲉϩⲉⲛϣⲁϫⲉ ⲛⲟⲥⲉ ⲛⲟϫⲕ ⲛⲅⲱⲃϣ · ⲡⲉⲕⲙⲉⲉⲩⲉ ϫⲉⲙⲡⲓⲥⲱⲧⲙ ϣⲁϫⲉ ⲛⲓⲙ · ϩⲱⲱϥ ⲛϩⲏⲩ ·
 1-2	ⲙⲡⲣϣⲁϫⲉ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	Orig=ⲙ̅ⲡⲣ̅
@@ -19446,7 +19446,7 @@
 27	ϩⲏⲩ	ϩⲏⲩ	NOUN	N	_	21	nmod	_	_
 28	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0025
+# sent_id = pseudo_ephrem-psephrem_letter_s0025
 # text = ϫⲓ ⲥⲙⲏ ⲉⲣⲟⲟⲩ ⲉⲡⲉϩⲟⲩⲟ ·
 1	ϫⲓ	ϫⲓ	VERB	V	_	0	root	_	_
 2	ⲥⲙⲏ	ⲥⲙⲏ	NOUN	N	_	1	obj	_	_
@@ -19459,7 +19459,7 @@
 7	ϩⲟⲩⲟ	ϩⲟⲩⲟ	NOUN	N	_	1	obl	_	_
 8	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0026
+# sent_id = pseudo_ephrem-psephrem_letter_s0026
 # text = ϥⲥⲏϩ ⲅⲁⲣ ϫⲉⲉϣⲱⲡⲉ ⲛⲣⲉϥⲉⲓⲣⲉ ⲙⲡϣⲁϫⲉ ⲁⲩⲱ ⲛⲣⲉϥⲥⲱⲧⲙ ⲙⲙⲁⲧⲉ ⲁⲛ ⲙⲙⲟⲛ ⲉⲕⲣϩⲁⲗ ⲙⲙⲟⲕ ⲡⲁϣⲏⲣⲉ · ϩⲙⲡϫⲟⲉⲓⲥ ⁛—
 1-2	ϥⲥⲏϩ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	Orig=Ϥ
@@ -19501,7 +19501,7 @@
 28	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	20	obl	_	Orig=ϫⲥ̅
 29	⁛—	⁛—	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0027
+# sent_id = pseudo_ephrem-psephrem_letter_s0027
 # text = ϯϩⲱⲛ ⲉⲧⲟⲟⲧⲕ ⲛⲛⲉⲩⲉⲛⲧⲟⲗⲏ ϩⲛⲧⲉⲕⲁⲣⲭⲏ ·
 1-2	ϯϩⲱⲛ	_	_	_	_	_	_	_	_
 1	ϯ	ϯ	PRON	PPERS	_	2	nsubj	_	_
@@ -19519,7 +19519,7 @@
 10	ⲁⲣⲭⲏ	ⲁⲣⲭⲏ	NOUN	N	_	2	obl	_	_
 11	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0028
+# sent_id = pseudo_ephrem-psephrem_letter_s0028
 # text = ⲛⲧⲟⲕ ϩⲱⲱⲕ ϩⲁⲣⲉϩ ⲉⲣⲟⲟⲩ ϩⲛⲧⲉⲕⲙⲛⲧⲕⲟⲩⲓ ·
 1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	4	dislocated	_	_
 2-3	ϩⲱⲱⲕ	_	_	_	_	_	_	_	_
@@ -19535,7 +19535,7 @@
 9	ⲙⲛⲧⲕⲟⲩⲓ	ⲙⲛⲧⲕⲟⲩⲓ	NOUN	N	_	4	obl	_	Morphs=ⲙⲛⲧ-ⲕⲟⲩⲓ|Orig=ⲙⲛ̅ⲧ̅ⲕⲟⲩⲓ
 10	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0029
+# sent_id = pseudo_ephrem-psephrem_letter_s0029
 # text = ⲁⲛⲁⲩ ⲉⲡⲁⲩⲗⲟⲥ ϫⲉⲉϥϫⲉⲟⲩ ·
 1	ⲁⲛⲁⲩ	ⲛⲁⲩ	VERB	VIMP	_	0	root	_	_
 2-3	ⲉⲡⲁⲩⲗⲟⲥ	_	_	_	_	_	_	_	_
@@ -19549,7 +19549,7 @@
 8	ⲟⲩ	ⲟⲩ	PRON	PINT	_	7	obj	_	_
 9	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0030
+# sent_id = pseudo_ephrem-psephrem_letter_s0030
 # text = ⲡⲉϫⲁϥ ϩⲓⲛⲁⲓ ϫⲉϫⲓⲛⲉⲕⲥⲟⲃⲕ ⲕⲥⲟⲟⲩⲛ ⲛϩⲉⲛⲥϩⲁⲓ ⲉⲩⲟⲩⲁⲁⲃ ⲛⲁⲓ ⲉⲧⲛⲁⲉϣϭⲙϭⲟⲙ · ⲉⲧⲟⲩϫⲟⲕ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
@@ -19587,7 +19587,7 @@
 26	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	25	obj	_	_
 27	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0031
+# sent_id = pseudo_ephrem-psephrem_letter_s0031
 # text = ϫⲓⲥⲃⲱ ϩⲱⲱⲕ ⲉⲡⲕⲱⲧ ⲧⲏⲣϥ ⲛⲧⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ ·
 1	ϫⲓⲥⲃⲱ	ϫⲓⲥⲃⲱ	VERB	V	_	0	root	_	Morphs=ϫⲓ-ⲥⲃⲱ
 2-3	ϩⲱⲱⲕ	_	_	_	_	_	_	_	_
@@ -19606,7 +19606,7 @@
 11	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	NOUN	N	_	6	nmod	_	Morphs=ⲙⲛⲧ-ⲙⲟⲛⲟⲭⲟⲥ|Orig=ⲙⲛ̅ⲧ̅ⲙⲟⲛⲟⲭⲟⲥ
 12	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0032
+# sent_id = pseudo_ephrem-psephrem_letter_s0032
 # text = ⲧⲁⲣⲕϣⲱⲡⲉ ⲛϣⲟⲩⲙⲉⲣⲓⲧⲕ ϩⲛⲛⲉⲕϩⲃⲏⲩⲉ ⲧⲏⲣⲟⲩ ·
 1-3	ⲧⲁⲣⲕϣⲱⲡⲉ	_	_	_	_	_	_	_	_
 1	ⲧⲁⲣ	ⲧⲁⲣ	AUX	AUX	_	3	aux	_	_
@@ -19624,7 +19624,7 @@
 10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	9	det	_	_
 11	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0033
+# sent_id = pseudo_ephrem-psephrem_letter_s0033
 # text = ⲉⲕϣⲁⲛⲃⲱⲕ ⲉⲩⲧⲟⲟⲩ ⲉϫⲓⲙⲁ ⲛϩⲏⲧϥ · ⲛⲧⲕⲟⲩⲕⲟⲩⲓ ·
 1-2	ⲉⲕϣⲁⲛⲃⲱⲕ	_	_	_	_	_	_	_	_
 1	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	_	2	nsubj	_	_
@@ -19646,7 +19646,7 @@
 13	ⲕⲟⲩⲓ	ⲕⲟⲩⲓ	NOUN	N	_	0	root	_	_
 14	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0034
+# sent_id = pseudo_ephrem-psephrem_letter_s0034
 # text = ⲧⲟϭⲕ ⲉⲩⲛⲟϭ ⲉⲣⲟⲕ · ⲉⲣⲉⲡⲛⲟⲩⲧⲉ ⲛϩⲏⲧϥ ⲙⲡⲣⲕⲁⲁϥ ⲉⲃⲟⲗ · ϩⲛⲧⲉⲕⲁⲗⲱⲧ ⲛⲅⲃⲱⲕ ϣⲁⲕⲉⲟⲩⲁ ·
 1-2	ⲧⲟϭⲕ	_	_	_	_	_	_	_	_
 1	ⲧⲟϭ	ⲧⲱⲱϭⲉ	VERB	V	_	0	root	_	_
@@ -19686,7 +19686,7 @@
 27	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	_	24	obl	_	_
 28	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0035
+# sent_id = pseudo_ephrem-psephrem_letter_s0035
 # text = ⲡⲟⲩⲁ ⲉⲧⲛⲛⲁⲧⲟϭⲕ ⲉⲣⲟϥ · ⲙⲁⲣⲉϥⲣⲱϣⲧⲕ ϫⲉⲕⲁⲥ · ⲛⲛⲉⲕϯϭⲱⲛⲧ ⲛⲁϥ ·
 1-2	ⲡⲟⲩⲁ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	2	det	_	_
@@ -19717,7 +19717,7 @@
 21	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	19	obl	_	_
 22	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0036
+# sent_id = pseudo_ephrem-psephrem_letter_s0036
 # text = ϥⲥⲏϩ ⲅⲁⲣ ϫⲉⲙⲏ ⲟⲩⲕⲟⲩⲓ ⲛⲏⲧⲛ ⲡⲉⲧϯϭⲱⲛⲧ ⲛⲛⲣⲱⲙⲉ ·
 1-2	ϥⲥⲏϩ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	_
@@ -19742,7 +19742,7 @@
 15	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	12	obl	_	_
 16	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0037
+# sent_id = pseudo_ephrem-psephrem_letter_s0037
 # text = ⲡⲧⲟⲟⲩ ⲉⲧⲕⲛϩⲏⲧϥ ϩⲁⲣⲉϩ ⲉⲡⲉⲓϩⲱⲃ ⲙⲡⲣⲡⲱⲧ ⲉⲃⲟⲗ ϩⲙⲙⲁ ⲉⲙⲁ
 1-2	ⲡⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	2	det	_	_
@@ -19768,7 +19768,7 @@
 16	ⲉ	ⲉ	ADP	PREP	_	17	case	_	_
 17	ⲙⲁ	ⲙⲁ	NOUN	N	_	12	obl	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0038
+# sent_id = pseudo_ephrem-psephrem_letter_s0038
 # text = 〈 ⲙⲡⲣ ⲙⲟⲩⲧⲉ ⲉϩⲟⲩⲛ ⲉⲣⲱⲙⲉ ⲉⲧⲃⲉⲧⲉⲕⲙⲟⲧⲛⲉⲥ · ⲙⲛⲡⲟⲩⲱϣ ⲛⲛⲉⲕⲙⲁϩⲧ 〉
 1	〈	〈	PUNCT	PUNCT	_	3	punct	_	_
 2	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	3	advmod	_	Orig=ⲙ̅ⲡⲣ̅
@@ -19792,7 +19792,7 @@
 16	ⲙⲁϩⲧ	ⲙⲁϩⲧ	NOUN	N	_	13	nmod	_	Orig=ⲙⲁϩⲧ̅
 17	〉	〉	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0039
+# sent_id = pseudo_ephrem-psephrem_letter_s0039
 # text = ⲙⲡⲣⲕⲁⲙⲛⲧϣⲃⲏⲣ ⲛⲁⲕ ⲙⲛⲣⲱⲙⲉ ⲛⲣⲉϥⲧⲱϩ ·
 1-2	ⲙⲡⲣⲕⲁⲙⲛⲧϣⲃⲏⲣ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	Orig=ⲙ̅Ⲡⲣ̅
@@ -19808,7 +19808,7 @@
 8	ⲣⲉϥⲧⲱϩ	ⲣⲉϥⲧⲱϩ	NOUN	N	_	6	nmod	_	Morphs=ⲣⲉϥ-ⲧⲱϩ|Orig=ⲣϥ̅ⲧⲱϩ
 9	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0040
+# sent_id = pseudo_ephrem-psephrem_letter_s0040
 # text = ⲧⲁⲣⲕϭⲱ ⲉⲕⲙⲟⲧⲛ · ⲛⲅϩⲛⲧⲧⲁⲡⲣⲟ ⲛⲛⲉⲥⲛⲏⲩ ⲁⲛ ·
 1-3	ⲧⲁⲣⲕϭⲱ	_	_	_	_	_	_	_	_
 1	ⲧⲁⲣ	ⲧⲁⲣ	AUX	AUX	_	3	aux	_	_
@@ -19832,7 +19832,7 @@
 16	ⲁⲛ	ⲁⲛ	ADV	NEG	_	12	advmod	_	_
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0041
+# sent_id = pseudo_ephrem-psephrem_letter_s0041
 # text = ϯⲥⲟⲡⲥⲡ ⲙⲙⲟⲕ ⲡⲁⲙⲉⲣⲓⲧ ϩⲙⲡϫⲟⲉⲓⲥ ⲧⲉⲕⲁⲣⲭⲏ ⲧⲉ ϫⲓⲥⲃⲱ ⲉⲥⲱⲧⲙ ⲧⲁⲣⲕⲙⲧⲟⲛ
 1-2	ϯⲥⲟⲡⲥⲡ	_	_	_	_	_	_	_	_
 1	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	_	2	nsubj	_	_
@@ -19860,7 +19860,7 @@
 17	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	18	nsubj	_	Orig=ⲕ̅
 18	ⲙⲧⲟⲛ	ⲙⲧⲟⲛ	VERB	V	_	11	parataxis	_	Orig=ⲙ̅ⲧⲟⲛ
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0042
+# sent_id = pseudo_ephrem-psephrem_letter_s0042
 # text = ϥⲥⲏϩ ⲅⲁⲣ ϫⲉϯϩⲏⲩ ⲛⲟⲩⲥⲃⲱ ⲛⲟⲩϩⲁⲧ ⲁⲛ ·
 1-2	ϥⲥⲏϩ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	Orig=Ϥ
@@ -19880,7 +19880,7 @@
 12	ⲁⲛ	ⲁⲛ	ADV	NEG	_	11	advmod	_	_
 13	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0043
+# sent_id = pseudo_ephrem-psephrem_letter_s0043
 # text = ϩⲁⲣⲉϩ ⲉⲣⲟⲕ ⲉⲧⲙⲛⲧⲁⲧⲥⲱⲧⲙ ϫⲉⲛⲛⲉⲡϣⲁϫⲉ ⲛⲥⲁⲟⲩⲗ ϫⲱⲕ ⲉⲃⲟⲗ ⲉϫⲱⲕ ⲙⲛⲡⲉϥϫⲡⲟ ·
 1	ϩⲁⲣⲉϩ	ϩⲁⲣⲉϩ	VERB	V	_	0	root	_	_
 2-3	ⲉⲣⲟⲕ	_	_	_	_	_	_	_	_
@@ -19909,7 +19909,7 @@
 19	ϫⲡⲟ	ϫⲡⲟ	NOUN	N	_	13	obl	_	_
 20	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0044
+# sent_id = pseudo_ephrem-psephrem_letter_s0044
 # text = ⲁⲡⲛⲟⲩⲧⲉ ⲅⲁⲣ ⲡⲉⲓⲑⲉ ⲉϫⲙⲡⲥⲱⲧⲙ ⲛϩⲟⲩⲟ ⲉⲧⲉⲑⲩⲥⲓⲁ ·
 1-3	ⲁⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	5	aux	_	_
@@ -19930,7 +19930,7 @@
 13	ⲑⲩⲥⲓⲁ	ⲑⲩⲥⲓⲁ	NOUN	N	_	10	nmod	_	_
 14	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0045
+# sent_id = pseudo_ephrem-psephrem_letter_s0045
 # text = ⲛⲁⲓ ϭⲉ ⲛⲉ ⲛⲕⲱⲧ · ⲛⲧⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ ·
 1	ⲛⲁⲓ	ⲛⲁⲓ	DET	PDEM	_	0	root	_	_
 2	ϭⲉ	ϭⲉ	PART	PTC	_	1	advmod	_	_
@@ -19945,7 +19945,7 @@
 9	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	NOUN	N	_	5	nmod	_	Morphs=ⲙⲛⲧ-ⲙⲟⲛⲁⲭⲟⲥ|Orig=ⲙⲛ̅ⲧ̅ⲙⲟⲛⲟⲭⲟⲥ
 10	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0046
+# sent_id = pseudo_ephrem-psephrem_letter_s0046
 # text = ⲉⲕⲟⲩⲱⲙ ⲙⲛϩⲉⲛⲥⲛⲏⲩ ·
 1-3	ⲉⲕⲟⲩⲱⲙ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
@@ -19957,7 +19957,7 @@
 6	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	3	obl	_	_
 7	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0047
+# sent_id = pseudo_ephrem-psephrem_letter_s0047
 # text = ⲙⲡⲣϥⲓ ϩⲣⲁⲕ ⲉϩⲣⲁⲓ ϣⲁⲛⲧⲕⲟⲩⲱ ⲉⲕⲟⲩⲱⲙ ·
 1-2	ⲙⲡⲣϥⲓ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	Orig=ⲙ̅ⲡⲣ̅
@@ -19976,7 +19976,7 @@
 11	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	_	8	advcl	_	_
 12	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0048
+# sent_id = pseudo_ephrem-psephrem_letter_s0048
 # text = ⲡⲉⲥⲕⲉⲩⲟⲥ ⲉⲧⲕⲛⲁϩⲟⲟⲩⲧⲛ ⲉⲣⲟϥ ⲁⲣⲓⲡⲉⲕⲟⲩⲱⲙ ⲛϩⲏⲧϥ ·
 1-2	ⲡⲉⲥⲕⲉⲩⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲡⲉ	ⲡ	DET	ART	_	2	det	_	_
@@ -19998,7 +19998,7 @@
 13	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	9	obl	_	Orig=ϥ̅
 14	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0049
+# sent_id = pseudo_ephrem-psephrem_letter_s0049
 # text = ⲉⲕϣⲁⲛⲣϩⲁⲉ ⲉⲩⲗⲁⲁⲩ ϩⲛⲧⲡⲟⲣϣⲥ · ⲙⲡⲣϫⲟⲟⲥ ϫⲉⲁⲩⲉⲓⲥ ⲉⲣⲉⲛⲟϭ ⲉⲣⲟⲕ ϩⲙⲟⲟⲥ ·
 1-2	ⲉⲕϣⲁⲛⲣϩⲁⲉ	_	_	_	_	_	_	_	_
 1	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	_	2	nsubj	_	_
@@ -20029,7 +20029,7 @@
 20	ϩⲙⲟⲟⲥ	ϩⲙⲟⲟⲥ	VERB	V	_	11	advcl	_	_
 21	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0050
+# sent_id = pseudo_ephrem-psephrem_letter_s0050
 # text = ⲉⲕϣⲁⲛⲟⲩⲱϣ ⲉⲥⲱ ϩⲙⲡⲕⲉⲗⲱⲗ ⲙⲡⲣⲕⲁⲧⲉⲕϣⲟⲩⲱⲃⲉ ⲉⲱϣ ⲉⲃⲟⲗ ⲛⲧϩⲉ ⲛⲛⲕⲟⲥⲙⲓⲕⲟⲛ ·
 1-2	ⲉⲕϣⲁⲛⲟⲩⲱϣ	_	_	_	_	_	_	_	_
 1	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	_	2	nsubj	_	_
@@ -20060,7 +20060,7 @@
 20	ⲕⲟⲥⲙⲓⲕⲟⲛ	ⲕⲟⲥⲙⲓⲕⲟⲛ	NOUN	N	_	17	nmod	_	_
 21	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0051
+# sent_id = pseudo_ephrem-psephrem_letter_s0051
 # text = ⲉⲕϣⲁⲛϩⲙⲟⲟⲥ ϩⲛⲧⲙⲏⲏⲧⲉ ⲛⲛⲉⲥⲛⲏⲩ ⲛⲧⲉⲟⲩⲫⲗⲉⲕⲙⲁ ⲉⲓ ⲉⲣⲱⲕ ⲙⲡⲣⲛⲟϫⲥ ⲉⲃⲟⲗ ϩⲛⲧⲉⲩⲙⲏⲏⲧⲉ ·
 1-2	ⲉⲕϣⲁⲛϩⲙⲟⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	_	2	nsubj	_	_
@@ -20093,7 +20093,7 @@
 22	ⲙⲏⲏⲧⲉ	ⲙⲏⲏⲧⲉ	NOUN	N	_	17	obl	_	_
 23	·	·	PUNCT	PUNCT	_	17	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0052
+# sent_id = pseudo_ephrem-psephrem_letter_s0052
 # text = ⲡⲱⲧ ⲉⲡⲟⲩⲉ · ⲛⲅⲛⲟϫⲥ ⲉⲃⲟⲗ ·
 1	ⲡⲱⲧ	ⲡⲱⲧ	VERB	V	_	0	root	_	_
 2-4	ⲉⲡⲟⲩⲉ	_	_	_	_	_	_	_	_
@@ -20109,7 +20109,7 @@
 10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	8	advmod	_	_
 11	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0053
+# sent_id = pseudo_ephrem-psephrem_letter_s0053
 # text = ⲉⲕⲛⲕⲟⲧⲕ ϩⲛⲟⲩⲙⲁ ⲙⲛϩⲉⲛⲥⲛⲏⲩ · ⲙⲡⲣⲕⲁⲁⲕ ⲉⲕϩⲏⲛ ⲉϩⲟⲩⲛ ⲉⲣⲟⲟⲩ ⲛⲟⲩⲙⲁϩⲉ ·
 1-3	ⲉⲕⲛⲕⲟⲧⲕ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
@@ -20142,7 +20142,7 @@
 22	ⲙⲁϩⲉ	ⲙⲁϩⲉ	NOUN	N	_	16	obl	_	_
 23	·	·	PUNCT	PUNCT	_	12	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0054
+# sent_id = pseudo_ephrem-psephrem_letter_s0054
 # text = ⲉϣⲱⲡⲉ ⲡϩⲱⲃ ⲙⲟⲧⲛ ⲙⲡⲣⲛⲕⲟⲧⲕ ϩⲓⲧⲙⲏ · ⲉⲕⲣⲥⲛⲁⲩ ⲛⲧⲕⲟⲩϣⲏⲣⲉ ϣⲏⲙ ·
 1	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	4	mark	_	_
 2-3	ⲡϩⲱⲃ	_	_	_	_	_	_	_	_
@@ -20168,7 +20168,7 @@
 17	ϣⲏⲙ	ϣⲏⲙ	ADJ	N	_	16	amod	_	_
 18	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0055
+# sent_id = pseudo_ephrem-psephrem_letter_s0055
 # text = ⲙⲡⲣⲛⲕⲟⲧⲕ ⲉⲕⲃⲏⲗ ⲉⲃⲟⲗ · ⲟⲩⲇⲉ ⲉϫⲙⲡⲉⲕⲥⲟⲓ · ϫⲉⲛⲛⲉⲩϣⲧⲣⲧⲱⲣⲕ ϩⲛϩⲉⲛⲣⲁⲥⲟⲩ ·
 1-2	ⲙⲡⲣⲛⲕⲟⲧⲕ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	Orig=ⲙ̅ⲡⲣ̅
@@ -20197,7 +20197,7 @@
 20	ⲣⲁⲥⲟⲩ	ⲣⲁⲥⲟⲩ	NOUN	N	_	16	obl	_	_
 21	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0056
+# sent_id = pseudo_ephrem-psephrem_letter_s0056
 # text = ⲉⲕⲙⲟⲟϣⲉ ⲙⲛϩⲉⲛⲥⲛⲏⲩ · ⲟⲩⲉ ⲙⲙⲟⲟⲩ · ⲧⲁⲣⲕⲥⲣϥⲉ ⲉⲡⲉⲕϩⲏⲧ ·
 1-3	ⲉⲕⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
@@ -20223,7 +20223,7 @@
 17	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	14	obl	_	_
 18	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0057
+# sent_id = pseudo_ephrem-psephrem_letter_s0057
 # text = ⲉⲕϣⲁⲛⲙⲟⲟϣⲉ ⲙⲛⲟⲩⲥⲟⲛ ⲉⲣⲉⲟⲩⲥⲁⲛⲇⲁⲗⲓⲟⲛ ϩⲛⲛⲉⲕⲟⲩⲣⲏⲏⲧⲉ · ⲉⲙⲛⲟⲩⲟⲛ ⲙⲡⲉⲧⲙⲟⲟϣⲉ ⲛⲙⲙⲁⲕ · ⲁⲛⲓ ⲡⲱⲕ ϩⲱⲱⲕ ⲉⲃⲟⲗ ⲛⲅⲙⲟⲟϣⲉ ⲛⲧⲉϥϩⲉ ·
 1-2	ⲉⲕϣⲁⲛⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
 1	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	_	2	nsubj	_	_
@@ -20270,7 +20270,7 @@
 33	ϩⲉ	ϩⲉ	NOUN	N	_	30	obl	_	_
 34	·	·	PUNCT	PUNCT	_	23	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0058
+# sent_id = pseudo_ephrem-psephrem_letter_s0058
 # text = ϥⲥⲏϩ ⲅⲁⲣ ϫⲉϣⲡϩⲓⲥⲉ ·
 1-2	ϥⲥⲏϩ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	_
@@ -20281,7 +20281,7 @@
 5	ϣⲡϩⲓⲥⲉ	ϣⲡϩⲓⲥⲉ	VERB	V	_	2	ccomp	_	Morphs=ϣⲡ-ϩⲓⲥⲉ|Orig=ϣⲡ̅ϩⲓⲥⲉ
 6	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0059
+# sent_id = pseudo_ephrem-psephrem_letter_s0059
 # text = ⲁⲣⲓⲡϩⲱⲃ ⲙⲡⲣⲉϥⲧⲁϣⲉⲟⲉⲓϣ ·
 1-3	ⲁⲣⲓⲡϩⲱⲃ	_	_	_	_	_	_	_	_
 1	ⲁⲣⲓ	ⲉⲓⲣⲉ	VERB	VIMP	_	0	root	_	_
@@ -20293,7 +20293,7 @@
 6	ⲣⲉϥⲧⲁϣⲉⲟⲉⲓϣ	ⲣⲉϥⲧⲁϣⲉⲟⲉⲓϣ	NOUN	N	_	3	nmod	_	Morphs=ⲣⲉϥ-ⲧⲁϣⲉ-ⲟⲉⲓϣ|Orig=ⲣϥ̅ⲧⲁϣⲉⲟⲉⲓϣ
 7	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0060
+# sent_id = pseudo_ephrem-psephrem_letter_s0060
 # text = ⲁⲣⲓ ⲁⲡⲁⲧⲟⲟⲧⲕ ⲉⲕϩⲙⲡⲉⲕⲙⲁ ⲛϣⲱⲡⲉ ·
 1	ⲁⲣⲓ	ⲉⲓⲣⲉ	VERB	VIMP	_	0	root	_	_
 2-5	ⲁⲡⲁⲧⲟⲟⲧⲕ	_	_	_	_	_	_	_	_
@@ -20312,7 +20312,7 @@
 12	ϣⲱⲡⲉ	ϣⲱⲡⲉ	NOUN	N	_	10	nmod	_	_
 13	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0061
+# sent_id = pseudo_ephrem-psephrem_letter_s0061
 # text = ⲙⲡⲣⲟⲩⲱⲙ ⲉⲣⲉⲡⲣⲏ ⲛⲃⲟⲗ ·
 1-2	ⲙⲡⲣⲟⲩⲱⲙ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	Orig=ⲙ̅ⲡⲣ̅
@@ -20326,7 +20326,7 @@
 7	ⲃⲟⲗ	ⲃⲟⲗ	NOUN	N	_	2	advcl	_	_
 8	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0062
+# sent_id = pseudo_ephrem-psephrem_letter_s0062
 # text = ⲙⲡⲣⲥⲁϩⲧⲉ ⲛⲁⲕ ⲙⲁⲩⲁⲁⲕ ⲛⲅϫⲓ ⲛⲟⲩⲙⲟⲧⲛⲉⲥ ·
 1-2	ⲙⲡⲣⲥⲁϩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	Orig=ⲙ̅ⲡⲣ̅
@@ -20347,7 +20347,7 @@
 12	ⲙⲟⲧⲛⲉⲥ	ⲙⲟⲧⲛⲉⲥ	NOUN	N	_	9	obj	_	Orig=ⲙⲟⲧⲛⲥ̅
 13	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0063
+# sent_id = pseudo_ephrem-psephrem_letter_s0063
 # text = ⲁⲗⲗⲁ ⲉⲩϣⲁⲛϫⲟⲧⲕ ⲉⲥⲁϩⲧⲉ ⲛⲁⲕ · ⲙⲟⲩⲧⲉ ⲉⲩⲉⲃⲓⲏⲛ ⲉϥϩⲓⲡⲧⲟⲟⲩ ⲛⲙⲙⲁⲕ ⲧⲁⲣⲉⲕ ϣⲟⲩϣⲟⲩ ϩⲱⲱⲕ · ⲙⲙⲟⲕ ϫⲉⲙⲡⲓⲟⲩⲱⲙ ⲙⲡⲁⲟⲉⲓⲕ ⲙⲁⲩⲁⲁⲧ ·
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	3	cc	_	_
 2-4	ⲉⲩϣⲁⲛϫⲟⲧⲕ	_	_	_	_	_	_	_	_
@@ -20400,7 +20400,7 @@
 37	ⲧ	ⲁⲛⲟⲕ	PRON	PPERO	_	36	det	_	_
 38	·	·	PUNCT	PUNCT	_	10	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0064
+# sent_id = pseudo_ephrem-psephrem_letter_s0064
 # text = ⲉϣⲱⲡⲉ ⲉⲕϩⲛⲟⲩⲧⲟⲟⲩ · ⲏ ⲟⲩⲧⲟⲡⲟⲥ ⲉⲣⲉⲟⲩⲥⲟⲛ ϣⲱⲛⲉ ⲛϩⲏⲧϥ ϭⲙⲡⲉϥϣⲓⲛⲉ ⲛⲥⲟⲡ ⲥⲛⲁⲩ ⲙⲙⲏⲛⲉ ϩⲧⲟⲟⲩⲉ ⲙⲡⲁⲧⲕⲣϩⲱⲃ ⲛⲛⲉⲕϭⲓϫ · ⲁⲩⲱ ⲡⲛⲁⲩ ⲛⲣⲟⲩϩⲉ ·
 1	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	6	mark	_	Orig=Ⲉϣⲱⲡⲉ
 2-6	ⲉⲕϩⲛⲟⲩⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
@@ -20452,7 +20452,7 @@
 37	ⲣⲟⲩϩⲉ	ⲣⲟⲩϩⲉ	NOUN	N	_	35	nmod	_	_
 38	·	·	PUNCT	PUNCT	_	17	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0065
+# sent_id = pseudo_ephrem-psephrem_letter_s0065
 # text = ϥⲥⲏϩ ⲅⲁⲣ ⲡⲁⲙⲉⲣⲓⲧ ϩⲙⲡϫⲟⲉⲓⲥ ϫⲉⲉⲓϣⲱⲛⲉ ⲁⲧⲉⲧⲛϭⲙⲡⲁϣⲓⲛⲉ ·
 1-2	ϥⲥⲏϩ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	_
@@ -20478,7 +20478,7 @@
 17	ϣⲓⲛⲉ	ϣⲓⲛⲉ	NOUN	N	_	15	obj	_	_
 18	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0066
+# sent_id = pseudo_ephrem-psephrem_letter_s0066
 # text = ⲉⲣϣⲁⲛⲟⲩⲥⲟⲛ ⲥⲱⲕ ⲉⲃⲟⲗ ϩⲙⲡⲧⲟⲟⲩ ⲉⲧⲕⲛϩⲏⲧϥ · ⲙⲡⲣϩⲙⲟⲟⲥ ϩⲛⲧⲉⲕⲣⲓ ⲙⲡⲛⲁⲩ ⲉⲧⲕⲛⲁⲥⲱⲧⲙ ⲃⲱⲕ ⲛⲅϩⲙⲟⲟⲥ ϩⲁϩⲧⲏϥ ⲛⲅϯⲣⲙⲉⲓⲏ ⲉϫⲱϥ ·
 1-3	ⲉⲣϣⲁⲛⲟⲩⲥⲟⲛ	_	_	_	_	_	_	_	_
 1	ⲉⲣϣⲁⲛ	ⲉⲣϣⲁⲛ	AUX	AUX	_	4	aux	_	Orig=ⲣ̅ϣⲁⲛ
@@ -20529,7 +20529,7 @@
 36	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	34	obl	_	_
 37	·	·	PUNCT	PUNCT	_	15	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0067
+# sent_id = pseudo_ephrem-psephrem_letter_s0067
 # text = ϥⲥⲏϩ ⲅⲁⲣ ϫⲉⲣⲓⲙⲉ ⲉϫⲛⲟⲩⲣⲉϥⲙⲟⲟⲩⲧ · ⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ⲛⲙⲙⲁϥ ϣⲁⲛⲧⲟⲩⲧⲟⲙⲥϥ ·
 1-2	ϥⲥⲏϩ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	_
@@ -20555,7 +20555,7 @@
 17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	16	obj	_	Orig=ϥ̅
 18	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0068
+# sent_id = pseudo_ephrem-psephrem_letter_s0068
 # text = ⲧⲁⲓ ⲅⲁⲣ ⲧⲉ ⲧϩⲁⲏ ⲛⲉⲛⲧⲟⲗⲏ · ⲉⲧⲉⲣⲉⲡⲣⲱⲙⲉ ⲛⲁⲁⲥ ⲙⲛⲡⲉϥⲥⲟⲛ ⲁⲥⲡⲁⲍⲉ ⲙⲡⲉϥⲥⲱⲙⲁ ϩⲛⲟⲩⲙⲛⲧϣⲁⲛϩⲧⲏϥ ⁛— ⲉⲕϫⲱ ⲙⲙⲟⲥ ϫⲉⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ ϩⲁϩⲧⲙⲡϫⲟⲉⲓⲥ ·
 1	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	0	root	_	_
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	1	advmod	_	_
@@ -20608,7 +20608,7 @@
 37	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	36	appos	_	Orig=ϫⲥ̅
 38	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0069
+# sent_id = pseudo_ephrem-psephrem_letter_s0069
 # text = ⲡⲁϣⲏⲣⲉ ⲁⲣⲓ ⲁⲡⲁⲧⲟⲟⲧⲕ ⲉϩⲁⲣⲉϩ ⲉⲛⲉⲛⲧⲁⲓⲥⲁϩⲟⲩ ⲛⲁⲕ ·
 1-2	ⲡⲁϣⲏⲣⲉ	_	_	_	_	_	_	_	_
 1	ⲡⲁ	ⲡⲁ	DET	PPOS	_	2	det	_	_
@@ -20634,7 +20634,7 @@
 17	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	15	obl	_	_
 18	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0070
+# sent_id = pseudo_ephrem-psephrem_letter_s0070
 # text = ϩⲉⲛⲕⲱⲧ ⲅⲁⲣ ⲧⲏⲣⲟⲩ ⲛⲉ ⲛⲧⲉⲧⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ ·
 1-2	ϩⲉⲛⲕⲱⲧ	_	_	_	_	_	_	_	_
 1	ϩⲉⲛ	ⲟⲩ	DET	ART	_	2	det	_	_
@@ -20650,7 +20650,7 @@
 9	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	NOUN	N	_	2	nmod	_	Morphs=ⲙⲛⲧ-ⲙⲟⲛⲁⲭⲟⲥ|Orig=ⲙⲛ̅ⲧ̅ⲙⲟⲛⲟⲭⲟⲥ
 10	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0071
+# sent_id = pseudo_ephrem-psephrem_letter_s0071
 # text = ⲕⲁⲡⲙⲟⲩ ⲉϥϩⲏⲛ ⲉϩⲟⲩⲛ ⲉⲣⲟⲕ ⲙⲡⲉϩⲟⲟⲩ ⲙⲛⲧⲉⲩϣⲏ
 1-3	ⲕⲁⲡⲙⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲕⲁ	ⲕⲱ	VERB	V	_	0	root	_	_
@@ -20673,7 +20673,7 @@
 14	ⲧⲉ	ⲡ	DET	ART	_	15	det	_	_
 15	ⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	12	conj	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0072
+# sent_id = pseudo_ephrem-psephrem_letter_s0072
 # text = ⲉⲕⲥⲟⲟⲩⲛ ⲅⲁⲣ ⲙⲡⲉⲧⲕⲥⲟⲟⲩⲛ ⲙⲙⲟϥ ⲉⲧⲉⲡⲉⲧϣⲁϫⲉ ⲛⲙⲙⲁⲕ ⲡⲉ ϫⲉⲙⲡⲓⲕⲁⲁⲥ ϩⲙⲡⲁϩⲏⲧ ⲉⲛⲉϩ ·
 1-3	ⲉⲕⲥⲟⲟⲩⲛ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
@@ -20711,7 +20711,7 @@
 27	ⲉⲛⲉϩ	ⲉⲛⲉϩ	ADV	ADV	_	22	advmod	_	_
 28	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0073
+# sent_id = pseudo_ephrem-psephrem_letter_s0073
 # text = ⲉⲣⲉⲧⲁⲟⲩⲣⲏⲏⲧⲉ ⲛϩⲟⲩⲛ ⲛⲧⲡⲛⲛⲏ ϫⲉϯⲛⲁⲱⲛϩ ϣⲁⲛⲧⲁⲣⲡⲃⲟⲗ ⲛⲧⲡⲛⲛⲏ ⲙⲡⲣⲟ ·
 1-3	ⲉⲣⲉⲧⲁⲟⲩⲣⲏⲏⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	4	mark	_	_
@@ -20743,7 +20743,7 @@
 22	ⲣⲟ	ⲣⲟ	NOUN	N	_	19	nmod	_	_
 23	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0074
+# sent_id = pseudo_ephrem-psephrem_letter_s0074
 # text = ⲛⲧⲟⲕ ⲇⲉ ϩⲱⲱⲕ ⲡⲁϣⲏⲣⲉ ⲡⲉⲕⲙⲉⲉⲩⲉ ⲧⲏⲣϥ ⲕⲁⲁϥ ϩⲓϩⲏ ⲙⲡⲛⲟⲩⲧⲉ ⲛⲛⲁⲩ ⲛⲓⲙ · ⲁⲩⲱ ⲛⲉⲓⲙⲉⲉⲩⲉ ⲧⲏⲣⲟⲩ ⲙⲙⲛⲧϭⲱⲃ · ⲛⲥⲉⲛⲁⲡⲁⲣⲁⲅⲉ ⲙⲙⲟⲕ ⲁⲛ ·
 1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	11	dislocated	_	Orig=ⲛ̅ⲧⲟⲕ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	11	advmod	_	_
@@ -20794,7 +20794,7 @@
 35	ⲁⲛ	ⲁⲛ	ADV	NEG	_	32	advmod	_	_
 36	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0075
+# sent_id = pseudo_ephrem-psephrem_letter_s0075
 # text = ϣⲱⲡⲉ ⲉⲕⲙⲟⲩϣⲧ ⲛⲛⲕⲟⲗⲁⲥⲓⲥ ⲛⲛⲁⲩ ⲛⲓⲙ ·
 1	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	_	0	root	_	_
 2-4	ⲉⲕⲙⲟⲩϣⲧ	_	_	_	_	_	_	_	_
@@ -20811,7 +20811,7 @@
 10	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	9	det	_	_
 11	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0076
+# sent_id = pseudo_ephrem-psephrem_letter_s0076
 # text = ϣⲱⲡⲉ ⲉⲕⲧⲛⲧⲱⲛ ⲉⲡⲛⲟⲩⲧⲉ ⲉⲕϩⲙⲡⲉⲕⲙⲁ ⲛϣⲱⲡⲉ ·
 1	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	_	0	root	_	_
 2-4	ⲉⲕⲧⲛⲧⲱⲛ	_	_	_	_	_	_	_	_
@@ -20833,7 +20833,7 @@
 14	ϣⲱⲡⲉ	ϣⲱⲡⲉ	NOUN	N	_	12	nmod	_	_
 15	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0077
+# sent_id = pseudo_ephrem-psephrem_letter_s0077
 # text = ⲉⲣϣⲁⲛⲟⲩⲥⲟⲛ ⲉⲓ ϣⲁⲣⲟⲕ ⲣⲁϣⲉ ⲛⲙⲙⲁϥ ·
 1-3	ⲉⲣϣⲁⲛⲟⲩⲥⲟⲛ	_	_	_	_	_	_	_	_
 1	ⲉⲣϣⲁⲛ	ⲉⲣϣⲁⲛ	AUX	AUX	_	4	aux	_	Orig=ⲣ̅ϣⲁⲛ
@@ -20849,7 +20849,7 @@
 9	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	7	obl	_	_
 10	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0078
+# sent_id = pseudo_ephrem-psephrem_letter_s0078
 # text = ⲁⲥⲡⲁⲍⲉ ⲙⲙⲟϥ ·
 1	ⲁⲥⲡⲁⲍⲉ	ⲁⲥⲡⲁⲍⲉ	VERB	V	_	0	root	_	_
 2-3	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
@@ -20857,7 +20857,7 @@
 3	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	1	obj	_	_
 4	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0079
+# sent_id = pseudo_ephrem-psephrem_letter_s0079
 # text = ϯⲙⲟⲟⲩ ⲉⲛⲉϥⲟⲩⲣⲏⲏⲧⲉ ϫⲉⲛⲛⲉⲕⲟⲃϣⲕ ⲉⲃⲟⲗ
 1	ϯⲙⲟⲟⲩ	ϯⲙⲟⲟⲩ	VERB	V	_	0	root	_	Morphs=ϯ-ⲙⲟⲟⲩ
 2-4	ⲉⲛⲉϥⲟⲩⲣⲏⲏⲧⲉ	_	_	_	_	_	_	_	_
@@ -20872,7 +20872,7 @@
 9	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	8	obj	_	Orig=ⲕ̅
 10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	8	advmod	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0080
+# sent_id = pseudo_ephrem-psephrem_letter_s0080
 # text = ⲙⲁⲣⲉϥϣⲗⲏⲗ ⲛⲅϩⲙⲟⲟⲥ
 1-3	ⲙⲁⲣⲉϥϣⲗⲏⲗ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	3	aux	_	_
@@ -20883,7 +20883,7 @@
 5	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	_	6	nsubj	_	Orig=ⲅ̅
 6	ϩⲙⲟⲟⲥ	ϩⲙⲟⲟⲥ	VERB	V	_	3	advcl	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0081
+# sent_id = pseudo_ephrem-psephrem_letter_s0081
 # text = ⲁⲥⲡⲁⲍⲉ ⲛⲛⲉϥϭⲓϫ ⲙⲛⲛⲉϥⲟⲩⲣⲏⲏⲧⲉ ·
 1	ⲁⲥⲡⲁⲍⲉ	ⲁⲥⲡⲁⲍⲉ	VERB	V	_	0	root	_	_
 2-4	ⲛⲛⲉϥϭⲓϫ	_	_	_	_	_	_	_	_
@@ -20896,7 +20896,7 @@
 7	ⲟⲩⲣⲏⲏⲧⲉ	ⲟⲩⲉⲣⲏⲧⲉ	NOUN	N	_	4	conj	_	_
 8	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0082
+# sent_id = pseudo_ephrem-psephrem_letter_s0082
 # text = ⲙⲡⲣϫⲛⲟⲩϥ ϫⲉⲉⲕⲛⲏⲩ ⲧⲱⲛ ·
 1-3	ⲙⲡⲣϫⲛⲟⲩϥ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	Orig=ⲙ̅ⲡⲣ̅
@@ -20910,7 +20910,7 @@
 8	ⲧⲱⲛ	ⲧⲱⲛ	ADV	PINT	_	7	advmod	_	_
 9	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0083
+# sent_id = pseudo_ephrem-psephrem_letter_s0083
 # text = ϥⲥⲏϩ ⲅⲁⲣ ϫⲉϩⲓⲧⲛⲧⲁⲓ ⲁϩⲟⲓⲛⲉ ϣⲡϩⲉⲛⲁⲅⲅⲉⲗⲟⲥ ⲉⲣⲟⲟⲩ ⲛⲥⲉⲥⲟⲟⲩⲛ ⲁⲛ ·
 1-2	ϥⲥⲏϩ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	_
@@ -20937,7 +20937,7 @@
 17	ⲁⲛ	ⲁⲛ	ADV	NEG	_	16	advmod	_	_
 18	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0084
+# sent_id = pseudo_ephrem-psephrem_letter_s0084
 # text = ⲡⲓⲥⲧⲉⲩⲉ · ϫⲉϩⲱⲥ ⲡⲛⲟⲩⲧⲉ ⲡⲉⲛⲧⲁϥⲉⲓ ϣⲁⲣⲟⲕ ·
 1	ⲡⲓⲥⲧⲉⲩⲉ	ⲡⲓⲥⲧⲉⲩⲉ	VERB	V	_	0	root	_	_
 2	·	·	PUNCT	PUNCT	_	6	punct	_	_
@@ -20958,7 +20958,7 @@
 13	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	11	obl	_	_
 14	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0085
+# sent_id = pseudo_ephrem-psephrem_letter_s0085
 # text = ⲉϣⲱⲡⲉ ⲟⲩⲛⲟϭ ⲉⲣⲟⲕ ⲡⲉ ϫⲟⲟⲥ ⲉⲣⲟϥ ⲛϩⲁϩ ⲛⲥⲟⲡ ϫⲉⲁⲡⲉϩⲙⲟⲧ ⲧⲁϩⲟⲓ · ϫⲉⲁⲓⲛⲁⲩ ⲉⲣⲟⲕ ⲡⲁϫⲟⲉⲓⲥ ·
 1	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	3	mark	_	_
 2-3	ⲟⲩⲛⲟϭ	_	_	_	_	_	_	_	_
@@ -21002,7 +21002,7 @@
 29	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	19	vocative	_	_
 30	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0086
+# sent_id = pseudo_ephrem-psephrem_letter_s0086
 # text = ⲕⲱ ⲉϩⲣⲁⲓ ⲛⲧⲉⲕⲡⲟⲣϣⲥ · ⲛⲅⲟⲩⲱⲙ ⲛⲙⲙⲁϥ · ⲕⲁⲛ ⲉⲕϩⲛⲟⲩⲙⲣⲣⲉ ⲛⲛⲏⲥⲧⲉⲓⲁ ⲃⲟⲗⲕ ⲉⲃⲟⲗ ·
 1	ⲕⲱ	ⲕⲱ	VERB	V	_	0	root	_	_
 2	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	1	advmod	_	_
@@ -21035,7 +21035,7 @@
 23	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	21	advmod	_	_
 24	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0087
+# sent_id = pseudo_ephrem-psephrem_letter_s0087
 # text = ϥⲥⲏϩ ⲅⲁⲣ ⲡⲁϣⲏⲣⲉ ϫⲉⲁⲓⲣⲥⲙⲟⲧ ⲛⲓⲙ ⲙⲛⲟⲩⲟⲛ ⲛⲓⲙ ⲉϥϣⲁⲛⲛⲟⲩ ⲉⲙⲟⲟϣⲉ
 1-2	ϥⲥⲏϩ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	_
@@ -21062,7 +21062,7 @@
 17	ⲉ	ⲉ	PART	PREP	_	18	mark	_	_
 18	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	_	16	xcomp	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0088
+# sent_id = pseudo_ephrem-psephrem_letter_s0088
 # text = ⲧϩⲡⲟϥ · ⲉⲃⲟⲗ ⲉⲕⲣⲁϣⲉ ⲛⲙⲙⲁϥ ⲁⲩⲱ ⲉⲕⲣⲟⲟⲩⲧ ·
 1-2	ⲧϩⲡⲟϥ	_	_	_	_	_	_	_	_
 1	ⲧϩⲡⲟ	ⲧϩⲡⲟ	VERB	V	_	0	root	_	Orig=ⲑⲡⲟ
@@ -21083,7 +21083,7 @@
 13	ⲣⲟⲟⲩⲧ	ⲟⲩⲣⲟⲧ	VERB	VSTAT	_	7	conj	_	_
 14	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0089
+# sent_id = pseudo_ephrem-psephrem_letter_s0089
 # text = ⲁⲣⲓⲁⲡⲁⲧⲟⲟⲧⲕ ⲉⲧⲣⲉϥⲥⲙⲟⲩ ⲉⲣⲟⲕ ⲛϣⲟⲙⲛⲧ ⲛⲥⲟⲡ · ϫⲉⲉⲣⲉⲡⲉⲥⲙⲟⲩ ⲙⲡⲁⲅⲅⲉⲗⲟⲥ ⲉⲧⲙⲟⲟϣⲉ ⲛⲙⲙⲁϥ ⲉⲓ ⲉϫⲱⲕ ·
 1-5	ⲁⲣⲓⲁⲡⲁⲧⲟⲟⲧⲕ	_	_	_	_	_	_	_	_
 1	ⲁⲣⲓ	ⲉⲓⲣⲉ	VERB	VIMP	_	0	root	_	_
@@ -21127,7 +21127,7 @@
 30	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	28	obl	_	_
 31	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0090
+# sent_id = pseudo_ephrem-psephrem_letter_s0090
 # text = ⲉⲧⲃⲉⲧⲡⲓⲥⲧⲓⲥ ϩⲱⲱⲥ ⲛⲧⲕⲁⲑⲟⲗⲓⲕⲏ ⲉⲕⲕⲗⲏⲥⲓⲁ ⲙⲡⲣⲕⲁⲁⲩ ⲛⲧⲕ ⲉⲡⲁϩⲟⲩ ⲛϩⲏⲧⲥ ⲟⲩⲇⲉ ⲉⲃⲟⲗⲕ ⲉⲃⲟⲗ ·
 1-3	ⲉⲧⲃⲉⲧⲡⲓⲥⲧⲓⲥ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	3	case	_	Orig=Ⲉⲧⲃⲉ
@@ -21161,7 +21161,7 @@
 23	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	21	advmod	_	_
 24	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0091
+# sent_id = pseudo_ephrem-psephrem_letter_s0091
 # text = ⲧⲛⲡⲓⲥⲧⲉⲩⲉ ⲉⲩⲛⲟⲩⲧⲉ ⲛⲟⲩⲱⲧ ⲡⲉⲓⲱⲧ ⲡⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ ⲙⲛⲡⲉϥⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛϣⲏⲣⲉ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ ⲡⲉⲛϫⲟⲉⲓⲥ ⲡⲉⲛⲧⲁⲡⲧⲏⲣϥ ϣⲱⲡⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ · ⲙⲛⲡⲉⲡⲛⲉⲩⲙⲁ ⲉⲧⲟⲩⲁⲁⲃ · ⲉⲧⲉⲧⲁⲓ ⲧⲉ ⲧⲣⲓⲁⲥ ⲉⲧⲥⲙⲁⲙⲁⲁⲧ ·
 1-2	ⲧⲛⲡⲓⲥⲧⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	_	2	nsubj	_	Orig=ⲧⲛ̅
@@ -21223,7 +21223,7 @@
 43	ⲥⲙⲁⲙⲁⲁⲧ	ⲥⲙⲟⲩ	VERB	VSTAT	_	41	acl	_	_
 44	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0092
+# sent_id = pseudo_ephrem-psephrem_letter_s0092
 # text = ⲡⲁⲓ ⲡⲉ ⲡϫⲱⲕ ⲛⲧⲙⲛⲧⲛⲟⲩⲧⲉ ·
 1	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	0	root	_	_
 2	ⲡⲉ	ⲡⲉ	PRON	COP	_	1	cop	_	_
@@ -21236,7 +21236,7 @@
 7	ⲙⲛⲧⲛⲟⲩⲧⲉ	ⲙⲛⲧⲛⲟⲩⲧⲉ	NOUN	N	_	4	nmod	_	Morphs=ⲙⲛⲧ-ⲛⲟⲩⲧⲉ|Orig=ⲙⲛ̅ⲧ̅ⲛⲟⲩⲧⲉ
 8	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0093
+# sent_id = pseudo_ephrem-psephrem_letter_s0093
 # text = ⲟⲩⲛⲟⲩⲧⲉ ⲡⲉ ⲉϥϩⲛⲟⲩⲛⲟⲩⲧⲉ ·
 1-2	ⲟⲩⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	_	2	det	_	_
@@ -21250,7 +21250,7 @@
 8	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	2	acl	_	_
 9	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0094
+# sent_id = pseudo_ephrem-psephrem_letter_s0094
 # text = ⲟⲩⲟⲉⲓⲛ ⲡⲉ ⲉⲃⲟⲗ ϩⲛⲟⲩⲟⲉⲓⲛ ·
 1	ⲟⲩⲟⲉⲓⲛ	ⲟⲩⲟⲉⲓⲛ	NOUN	N	_	0	root	_	_
 2	ⲡⲉ	ⲡⲉ	PRON	COP	_	1	cop	_	_
@@ -21260,7 +21260,7 @@
 5	ⲟⲩⲟⲉⲓⲛ	ⲟⲩⲟⲉⲓⲛ	NOUN	N	_	1	nmod	_	_
 6	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0095
+# sent_id = pseudo_ephrem-psephrem_letter_s0095
 # text = ⲟⲩϫⲟⲉⲓⲥ ⲡⲉ ⲉⲃⲟⲗ ϩⲛⲟⲩϫⲟⲉⲓⲥ ·
 1-2	ⲟⲩϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	_	2	det	_	_
@@ -21273,7 +21273,7 @@
 7	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	2	obl	_	_
 8	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0096
+# sent_id = pseudo_ephrem-psephrem_letter_s0096
 # text = ⲟⲩϫⲡⲟ ⲡⲉ ⲛⲟⲩⲧⲁⲙⲓⲟ ⲁⲛ ⲡⲉ ·
 1-2	ⲟⲩϫⲡⲟ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	_	2	det	_	_
@@ -21287,7 +21287,7 @@
 8	ⲡⲉ	ⲡⲉ	PRON	COP	_	6	cop	_	_
 9	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0097
+# sent_id = pseudo_ephrem-psephrem_letter_s0097
 # text = ⲁⲩϫⲡⲟϥ ⲛⲧϩⲉ ⲛⲟⲩⲣⲱⲙⲉ ·
 1-4	ⲁⲩϫⲡⲟϥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -21304,7 +21304,7 @@
 10	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	7	nmod	_	_
 11	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0098
+# sent_id = pseudo_ephrem-psephrem_letter_s0098
 # text = ⲛⲟⲩⲧⲁⲙⲓⲟ ⲁⲛ ⲡⲉ · ⲁⲗⲗⲁ ⲟⲩⲛⲟⲩⲧⲉ ⲡⲉ ⲉⲁⲩϫⲡⲟϥ ϩⲓⲧⲛⲧⲡⲁⲣⲑⲉⲛⲟⲥ ⲉⲧⲟⲩⲁⲁⲃ ⲙⲁⲣⲓⲁ ⲧⲣⲉϥϫⲡⲉⲡⲛⲟⲩⲧⲉ ·
 1-3	ⲛⲟⲩⲧⲁⲙⲓⲟ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲛ	ADV	NEG	_	3	advmod	_	Orig=ⲛ̅
@@ -21337,7 +21337,7 @@
 23	ⲣⲉϥϫⲡⲉⲡⲛⲟⲩⲧⲉ	ⲣⲉϥϫⲡⲉⲡⲛⲟⲩⲧⲉ	NOUN	N	_	18	appos	_	Morphs=ⲣⲉϥ-ϫⲡⲉ-ⲡ-ⲛⲟⲩⲧⲉ|Orig=ⲣϥ̅ϫⲡⲉⲡⲛⲟⲩⲧⲉ
 24	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0099
+# sent_id = pseudo_ephrem-psephrem_letter_s0099
 # text = ⲁϥϫⲓⲥⲱⲙⲁ ⲛⲣⲱⲙⲉ · ⲉⲧⲃⲏⲏⲧⲛ ϣⲁⲛⲧⲉⲡⲕⲁϩ ⲉϣⲧⲱⲟⲩⲛ ϩⲁⲣⲟϥ ·
 1-3	ⲁϥϫⲓⲥⲱⲙⲁ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -21362,7 +21362,7 @@
 15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	13	obl	_	_
 16	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0100
+# sent_id = pseudo_ephrem-psephrem_letter_s0100
 # text = ⲁϥⲕⲱ ⲛⲁϥ ⲛϩⲉⲛⲣⲉϥⲧⲁϣⲉⲟⲉⲓϣ ⲉⲧⲉⲛⲁⲓ ⲛⲉ · ⲛⲉϥⲁⲡⲟⲥⲧⲟⲗⲟⲥ ⲛⲉ ⲉⲧⲟⲩⲁⲁⲃ · ⲕⲁⲧⲁⲧϩⲉ ⲉⲧⲥⲏϩ ϫⲉⲁⲡⲉⲩϩⲣⲟⲟⲩ ⲉⲓ ⲉⲃⲟⲗ ⲉϫⲙⲡⲕⲁϩ ⲧⲏⲣϥ ·
 1-3	ⲁϥⲕⲱ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -21411,7 +21411,7 @@
 34	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	33	det	_	Orig=ϥ̅
 35	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0101
+# sent_id = pseudo_ephrem-psephrem_letter_s0101
 # text = ⲁⲩⲥⲧⲁⲩⲣⲟⲩ ⲙⲙⲟϥ · ⲁⲩⲕⲟⲛⲥϥ ϩⲛⲟⲩⲗⲟⲅⲭⲏ · ⲁϥⲉⲓ ⲉⲃⲟⲗ ⲛϭⲓⲡⲉⲛⲟⲩϫⲁⲓ ·
 1-3	ⲁⲩⲥⲧⲁⲩⲣⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -21442,7 +21442,7 @@
 21	ⲟⲩϫⲁⲓ	ⲟⲩϫⲁⲓ	NOUN	N	_	17	dislocated	_	_
 22	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0102
+# sent_id = pseudo_ephrem-psephrem_letter_s0102
 # text = ⲟⲩⲙⲟⲟⲩ ⲙⲛⲟⲩⲥⲛⲟϥ ⲉⲧⲉⲡⲁⲓ ⲡⲉ ⲡⲃⲁⲡⲧⲓⲥⲙⲁ ⲙⲛⲡⲉⲥⲛⲟϥ ⲉⲧⲧⲁⲓⲏⲩ ·
 1-2	ⲟⲩⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	_	2	det	_	_
@@ -21467,7 +21467,7 @@
 15	ⲧⲁⲓⲏⲩ	ⲧⲁⲉⲓⲟ	VERB	VSTAT	_	13	acl	_	_
 16	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0103
+# sent_id = pseudo_ephrem-psephrem_letter_s0103
 # text = ⲉⲕⲧⲙϫⲓⲃⲁⲡⲧⲓⲥⲙⲁ ⲅⲁⲣ ⲙⲉⲕϫⲓ ⲡⲉⲥⲛⲟϥ ·
 1-4	ⲉⲕⲧⲙϫⲓⲃⲁⲡⲧⲓⲥⲙⲁ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉ	CCONJ	CONJ	_	4	mark	_	_
@@ -21484,7 +21484,7 @@
 10	ⲥⲛⲟϥ	ⲥⲛⲟϥ	NOUN	N	_	8	obj	_	_
 11	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0104
+# sent_id = pseudo_ephrem-psephrem_letter_s0104
 # text = ⲛⲧⲟⲕ ϩⲱⲱⲕ ⲡⲁϣⲏⲣⲉ ϩⲁⲣⲉϩ ⲉⲧⲉⲓⲡⲓⲥⲧⲓⲥ · ⲁⲩⲱ ⲡⲛⲟⲩⲧⲉ ⲛⲧⲉⲓⲣⲏⲛⲏ ⲛⲁϣⲱⲡⲉ ⲛⲙⲙⲁⲕ ⲛϥⲧⲟⲩϫⲟⲕ ⲛϥⲛⲁϩⲙⲕ ⲛⲅϣⲱⲡⲉ ⲉⲕⲙⲟⲧⲛ ⲛⲛⲉⲕϩⲟⲟⲩ ⲧⲏⲣⲟⲩ ·
 1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	6	dislocated	_	Orig=ⲛ̅ⲧⲟⲕ
 2-3	ϩⲱⲱⲕ	_	_	_	_	_	_	_	_
@@ -21540,7 +21540,7 @@
 39	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	38	det	_	_
 40	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0105
+# sent_id = pseudo_ephrem-psephrem_letter_s0105
 # text = ⲟⲩϫⲁⲓ ϩⲙⲡϫⲟⲉⲓⲥ ⲡⲁⲙⲉⲣⲓⲧ ⲛϣⲏⲣⲉ ϩⲙⲡϫⲟⲉⲓⲥ ·
 1	ⲟⲩϫⲁⲓ	ⲟⲩϫⲁⲓ	VERB	V	_	0	root	_	_
 2-4	ϩⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
@@ -21559,7 +21559,7 @@
 11	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	6	nmod	_	Orig=ϫⲥ̅
 12	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = epistle_ephraim-BritMusOriental6783_63b_67b_s0106
+# sent_id = pseudo_ephrem-psephrem_letter_s0106
 # text = ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ ϩⲱ ⲡⲁⲙⲉⲣⲓⲧ ϩⲙⲡϫⲟⲉⲓⲥ ⲉⲃⲟⲗ ϩⲓⲧⲛⲓⲏⲥⲟⲩⲥ ⲡⲉⲛϫⲟⲉⲓⲥ · ⲡⲁⲓ ⲉⲧⲉⲡⲱϥ ⲡⲉ ⲡⲉⲟⲟⲩ ⲙⲛⲡⲁⲙⲁϩⲧⲉ ϣⲁⲉⲛⲉϩ ⲛⲉⲛⲉϩ ϥⲑ — · · — · · — · · — · · — · · —
 1-3	ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲁⲣⲓ	ⲉⲓⲣⲉ	VERB	VIMP	_	0	root	_	_
@@ -21617,8 +21617,8 @@
 44	·	·	PUNCT	PUNCT	_	1	punct	_	_
 45	—	—	PUNCT	PUNCT	_	1	punct	_	_
 
-# newdoc id = john.repose:BritMusOriental6782_2a_9a
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0001
+# newdoc id = dormition.john:dormition.john.mercad
+# sent_id = dormition_john-dormition.john.mercad_s0001
 # text = ⲧⲁⲛⲁⲡⲁⲩⲥⲓⲥ ⲙⲡϩⲁⲅⲓⲟⲥ · ⲓⲱϩⲁⲛⲛⲏⲥ · ⲡⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ · ⲁⲩⲱ ⲡⲁⲡⲟⲥⲧⲟⲗⲟⲥ ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ · ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ · ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ϩⲁⲙⲏⲛ . ═════ : ═════ : ═════ : ═════
 1-2	ⲧⲁⲛⲁⲡⲁⲩⲥⲓⲥ	_	_	_	_	_	_	_	_
 1	ⲧ	ⲡ	DET	ART	_	2	det	_	Orig=Ⲧ
@@ -21662,7 +21662,7 @@
 33	:	:	PUNCT	PUNCT	_	2	punct	_	_
 34	═════	═════	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0002
+# sent_id = dormition_john-dormition.john.mercad_s0002
 # text = ⲛⲉⲣⲉⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲓⲱϩⲁⲛⲛⲏⲥ ϩⲛⲉⲫⲉⲥⲟⲥ ⲙⲛⲛⲉⲥⲛⲏⲩ · ⲉϥⲧⲉⲗⲏⲗ ϩⲙⲡϫⲟⲉⲓⲥ ·
 1-3	ⲛⲉⲣⲉⲡⲙⲁⲕⲁⲣⲓⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲛⲉⲣⲉ	ⲛⲉⲣⲉ	AUX	AUX	_	6	aux	_	Orig=ⲚⲈⲣⲉ
@@ -21687,7 +21687,7 @@
 16	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	13	obl	_	_
 17	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0003
+# sent_id = dormition_john-dormition.john.mercad_s0003
 # text = ⲙⲡⲉϩⲟⲟⲩ ⲇⲉ ⲛⲧⲕⲩⲣⲓⲁⲕⲏ · ⲛⲉⲣⲉⲛⲉⲥⲛⲏⲩ ⲧⲏⲣⲟⲩ ⲥⲟⲟⲩϩ ⲉⲛⲉⲩⲉⲣⲏⲩ ·
 1-3	ⲙⲡⲉϩⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲙ	ⲛ	ADP	PREP	_	3	case	_	Orig=ⲙ̅
@@ -21713,7 +21713,7 @@
 17	ⲉⲣⲏⲩ	ⲉⲣⲏⲩ	NOUN	N	PronType=Rcp	14	obl	_	_
 18	·	·	PUNCT	PUNCT	_	14	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0004
+# sent_id = dormition_john-dormition.john.mercad_s0004
 # text = ⲁⲓⲱϩⲁⲛⲛⲏⲥ ⲁⲣⲭⲉⲓ ⲛϣⲁϫⲉ ⲛⲙⲙⲁⲩ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲛⲁⲥⲛⲏⲩ · ⲁⲩⲱ ⲛⲁϣⲃⲣⲕⲗⲏⲣⲟⲛⲟⲙⲟⲥ · ⲁⲩⲱ ⲛⲥⲩⲙⲙⲉⲧⲟⲭⲟⲥ ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲛϫⲟⲉⲓⲥ · ⲉⲓⲙⲉ ϭⲉ ⲛⲏⲧⲛ ϫⲉⲁⲡϫⲟⲉⲓⲥ ϯ ⲛⲏⲧⲛ ⲛⲟⲩϭⲟⲙ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ
 1-2	ⲁⲓⲱϩⲁⲛⲛⲏⲥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -21779,7 +21779,7 @@
 47	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲟⲟⲧ	ADP	PREP	_	46	fixed	_	_
 48	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	40	obl	_	Orig=ϥ̅
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0005
+# sent_id = dormition_john-dormition.john.mercad_s0005
 # text = ⲟⲩⲏⲣ ⲛϭⲟⲙ ϩⲓϣⲡⲏⲣⲉ · ϩⲓⲭⲁⲣⲓⲥⲙⲁ ·
 1	ⲟⲩⲏⲣ	ⲟⲩⲏⲣ	PRON	PINT	_	0	root	_	Orig=Ⲟⲩⲏⲣ̅
 2-3	ⲛϭⲟⲙ	_	_	_	_	_	_	_	_
@@ -21794,7 +21794,7 @@
 8	ⲭⲁⲣⲓⲥⲙⲁ	ⲭⲁⲣⲓⲥⲙⲁ	NOUN	N	_	3	conj	_	_
 9	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0006
+# sent_id = dormition_john-dormition.john.mercad_s0006
 # text = ⲁϥⲁⲁⲩ ⲛⲏⲧⲛ · ⲁⲩⲱ ⲧⲉⲧⲛⲥⲟⲟⲩⲛ ϫⲉⲁϣ ⲛⲉ ⲛⲉⲥⲃⲟⲟⲩⲉ ⲙⲛⲛⲉⲣϩⲙⲙⲉ · ⲁⲩⲱ ⲛⲙⲧⲟⲛ ⲙⲛⲧⲇⲓⲁⲕⲟⲛⲓⲁ · ⲙⲛⲛⲉϩⲙⲟⲧ ⲙⲛⲛⲇⲱⲣⲉⲁ · ⲙⲛⲛⲕⲟⲟⲩⲉ ⲧⲏⲣⲟⲩ · ⲛⲧⲁⲧⲉⲧⲛⲛⲁⲩ ⲉⲣⲟⲟⲩ ϩⲛⲛⲉⲧⲛⲃⲁⲗ ·
 1-4	ⲁϥⲁⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -21861,7 +21861,7 @@
 48	ⲃⲁⲗ	ⲃⲁⲗ	NOUN	N	_	43	obl	_	_
 49	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0007
+# sent_id = dormition_john-dormition.john.mercad_s0007
 # text = ⲉⲩϯ ⲙⲙⲟⲟⲩ ⲛⲏⲧⲛ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲙⲡⲉⲛⲥⲁϩ ·
 1-3	ⲉⲩϯ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
@@ -21883,7 +21883,7 @@
 13	ⲥⲁϩ	ⲥⲁϩ	NOUN	N	_	3	obl	_	_
 14	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0008
+# sent_id = dormition_john-dormition.john.mercad_s0008
 # text = ⲛⲉϥⲟⲩⲱⲛϩ ⲉⲣⲱⲧⲛ ⲁⲛ ϩⲛⲛⲃⲁⲗ ⲙⲡⲥⲱⲙⲁ · ⲟⲩⲇⲉ ⲛⲉⲧⲉⲧⲛⲥⲱⲧⲙ ⲉⲣⲟϥ ⲁⲛ ϩⲛⲙⲙⲁⲁϫⲉ ⲙⲡⲥⲱⲙⲁ · ⲁⲗⲗⲁ ⲉϥⲟⲩⲱⲛϩ ⲙⲙⲟϥ ⲉⲣⲱⲧⲛ ϩⲙⲡⲥⲟⲟⲩⲧⲛ ⲙⲡⲉⲧⲛϩⲏⲧ · ϩⲛⲟⲩϩⲟⲣⲟⲙⲁ ϩⲛϩⲃⲏⲩⲉ ⲉⲩⲟⲩⲁⲁⲃ ·
 1-3	ⲛⲉϥⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
 1	ⲛⲉ	ⲛⲉⲣⲉ	AUX	AUX	_	3	aux	_	Orig=Ⲛⲉ
@@ -21953,7 +21953,7 @@
 50	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	_	47	acl	_	_
 51	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0009
+# sent_id = dormition_john-dormition.john.mercad_s0009
 # text = ⲧⲁϫⲣⲉⲧⲏⲩⲧⲛ ϭⲉ ϩⲣⲁⲓ ⲛϩⲏⲧϥ · ⲉⲧⲉⲧⲛⲉⲓⲣⲉ ⲙⲡⲉϥⲙⲉⲉⲩⲉ ⲛⲟⲩⲟⲉⲓϣ ⲛⲓⲙ · ⲉⲧⲉⲧⲛⲉⲓⲣⲉ ⲟⲛ ⲙⲡⲙⲉⲉⲩⲉ ⲙⲡⲙⲩⲥⲧⲏⲣⲓⲟⲛ · ⲙⲛⲧⲕⲟⲓⲛⲱⲛⲓⲁ ⲛⲧⲁⲥϣⲱⲡⲉ ⲉϩⲟⲩⲛ ⲉⲣⲱⲧⲛ ·
 1-2	ⲧⲁϫⲣⲉⲧⲏⲩⲧⲛ	_	_	_	_	_	_	_	_
 1	ⲧⲁϫⲣⲉ	ⲧⲁϫⲣⲟ	VERB	V	_	0	root	_	_
@@ -22006,7 +22006,7 @@
 38	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	_	35	obl	_	Orig=ⲧⲛ̅
 39	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0010
+# sent_id = dormition_john-dormition.john.mercad_s0010
 # text = ⲁⲡⲉⲛϫⲟⲉⲓⲥ ϫⲟⲕⲟⲩ ⲉⲃⲟⲗ ·
 1-3	ⲁⲡⲉⲛϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	4	aux	_	_
@@ -22018,7 +22018,7 @@
 6	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	4	advmod	_	_
 7	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0011
+# sent_id = dormition_john-dormition.john.mercad_s0011
 # text = ⲧⲉⲛⲟⲩ ϭⲉ ⲱ ⲛⲉⲥⲛⲏⲩ · ϥⲥⲟⲡⲥ ⲙⲙⲱⲧⲛ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ · ⲁⲩⲱ ϥⲡⲁⲣⲁⲕⲁⲗⲉⲓ ⲙⲙⲱⲧⲛ · ⲉϥⲟⲩⲱϣ · ⲉⲧⲣⲉⲧⲉⲧⲛϭⲱ ⲛⲟⲩⲉϣ ⲛⲗⲩⲡⲉⲓ ⲙⲙⲟϥ · ⲏ ⲉⲥⲟϣϥ · ⲏ ⲉⲉⲡⲓⲃⲟⲩⲗⲉⲩⲉ ⲉⲣⲟϥ ·
 1	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	8	advmod	_	Orig=Ⲧⲉⲛⲟⲩ
 2	ϭⲉ	ϭⲉ	PART	PTC	_	8	advmod	_	Orig=ϭⲉ`
@@ -22081,7 +22081,7 @@
 45	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	43	obl	_	_
 46	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0012
+# sent_id = dormition_john-dormition.john.mercad_s0012
 # text = ϥⲥⲟⲟⲩⲛ ⲅⲁⲣ ⲙⲡⲥⲱϣ ⲉⲧϣⲟⲟⲡ ⲉⲃⲟⲗ ϩⲓⲧⲛⲧⲏⲩⲧⲛ ·
 1-2	ϥⲥⲟⲟⲩⲛ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	_
@@ -22100,7 +22100,7 @@
 11	ⲧⲏⲩⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	_	8	obl	_	Orig=ⲧⲏⲩⲧⲛ̅
 12	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0013
+# sent_id = dormition_john-dormition.john.mercad_s0013
 # text = ϥⲉⲓⲙⲉ ⲇⲉ ⲟⲛ ⲉⲡⲧϭⲁⲉⲓⲟ ⲁⲩⲱ ϥⲥⲟⲟⲩⲛ ⲉⲧⲉⲡⲓⲃⲟⲩⲗⲏ ⲙⲛⲧⲕⲟⲗⲁⲥⲓⲥ ⲉⲧⲉⲧⲛⲕⲟⲗⲁⲍⲉ ⲙⲙⲟϥ ⲛϩⲏⲧⲥ ·
 1-2	ϥⲉⲓⲙⲉ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	Orig=Ϥ
@@ -22135,7 +22135,7 @@
 23	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	19	obl	_	Orig=ⲥ̅
 24	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0014
+# sent_id = dormition_john-dormition.john.mercad_s0014
 # text = ϩⲟⲧⲁⲛ ⲉⲧⲉⲧⲛϣⲁⲛⲥⲱⲧⲙ ⲛⲥⲁⲛⲉϥⲉⲛⲧⲟⲗⲏ · ⲉⲧⲟⲩⲁⲁⲃ ϥⲛⲁⲛⲁ ⲛⲏⲧⲛ ϩⲱⲧⲧⲏⲩⲧⲛ ·
 1	ϩⲟⲧⲁⲛ	ϩⲟⲧⲁⲛ	CCONJ	CONJ	_	3	advmod	_	Orig=Ϩⲟⲧⲁⲛ
 2-3	ⲉⲧⲉⲧⲛϣⲁⲛⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
@@ -22161,7 +22161,7 @@
 16	ⲧⲏⲩⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	_	15	det	_	Orig=ⲧⲏⲩⲧⲛ̅
 17	·	·	PUNCT	PUNCT	_	12	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0015
+# sent_id = dormition_john-dormition.john.mercad_s0015
 # text = ⲙⲡⲣⲧⲣⲉⲡⲁⲅⲁⲑⲟⲥ ⲛⲛⲟⲩⲧⲉ ⲗⲩⲡⲉⲓ ⲉⲧⲃⲉⲧⲏⲩⲧⲛ · ⲡⲛⲁⲏⲧ ⲛϣⲁⲛϩⲧⲏϥ · ⲡⲁⲧⲧⲱⲗⲙ · ⲡⲁⲧϫⲃⲓⲛ · ⲡⲁⲧⲧⲁϩⲟϥ · ⲡⲟⲩⲁ ⲙⲁⲩⲁⲁϥ · ⲡⲁⲧⲡⲱⲱⲛⲉ · ⲡⲁⲧⲕⲣⲟϥ · ⲡⲁⲧϭⲱⲛⲧ · ⲡⲣⲁⲛ ⲉⲧϩⲓϫⲛⲣⲁⲛ ⲛⲓⲙ · ⲉϣⲁⲩⲛⲟⲉⲓ ⲙⲙⲟϥ ·
 1-3	ⲙⲡⲣⲧⲣⲉⲡⲁⲅⲁⲑⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲣⲧⲣⲉ	ⲙⲡⲣⲧⲣⲉ	AUX	AUX	Polarity=Neg	6	aux	_	Orig=Ⲙ̅ⲡⲣ̅ⲧⲣⲉ
@@ -22232,7 +22232,7 @@
 50	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	48	obl	_	_
 51	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0016
+# sent_id = dormition_john-dormition.john.mercad_s0016
 # text = ⲙⲁⲣⲉϥⲉⲩⲫⲣⲁⲛⲉ ⲛⲙⲙⲏⲧⲛ ⲉⲧⲉⲧⲛⲡⲟⲗⲓⲧⲉⲩⲉ ⲛⲁϥ ⲕⲁⲗⲱⲥ ·
 1-3	ⲙⲁⲣⲉϥⲉⲩⲫⲣⲁⲛⲉ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	3	aux	_	Orig=Ⲙⲁⲣⲉ
@@ -22251,7 +22251,7 @@
 11	ⲕⲁⲗⲱⲥ	ⲕⲁⲗⲱⲥ	ADV	ADV	_	8	advmod	_	_
 12	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0017
+# sent_id = dormition_john-dormition.john.mercad_s0017
 # text = ⲙⲁⲣⲉϥⲣⲁϣⲉ ⲛⲙⲙⲏⲧⲛ · ⲉⲧⲉⲧⲛⲟⲛϩ · ϩⲛⲟⲩⲟⲩⲣⲟⲧ · ⲙⲛⲟⲩⲟⲡ ·
 1-3	ⲙⲁⲣⲉϥⲣⲁϣⲉ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	3	aux	_	Orig=Ⲙⲁⲣⲉ
@@ -22276,7 +22276,7 @@
 16	ⲟⲩⲟⲡ	ⲟⲩⲟⲡ	NOUN	N	_	13	conj	_	_
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0018
+# sent_id = dormition_john-dormition.john.mercad_s0018
 # text = ⲙⲁⲣⲉϥⲙⲧⲟⲛ ⲙⲙⲟϥ ⲛϩⲏⲧⲧⲏⲩⲧⲛ ⲉⲧⲉⲧⲛⲁⲛⲁⲥⲧⲣⲉⲫⲉ ϩⲛⲟⲩⲙⲛⲧⲥⲉⲙⲛⲟⲥ ·
 1-3	ⲙⲁⲣⲉϥⲙⲧⲟⲛ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	3	aux	_	Orig=Ⲙⲁⲣⲉ
@@ -22298,7 +22298,7 @@
 13	ⲙⲛⲧⲥⲉⲙⲛⲟⲥ	ⲙⲛⲧⲥⲉⲙⲛⲟⲥ	NOUN	N	_	10	obl	_	Morphs=ⲙⲛⲧ-ⲥⲉⲙⲛⲟⲥ|Orig=ⲙⲛⲧ̅ⲥⲉⲙⲛⲟⲥ
 14	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0019
+# sent_id = dormition_john-dormition.john.mercad_s0019
 # text = ⲙⲁⲣⲉϥⲣⲁⲧⲣⲟⲟⲩϣ · ⲉⲧⲉⲧⲛⲟⲛϩ · ϩⲛⲟⲩⲉⲅⲕⲣⲁⲧⲓⲁ ·
 1-3	ⲙⲁⲣⲉϥⲣⲁⲧⲣⲟⲟⲩϣ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	3	aux	_	_
@@ -22316,7 +22316,7 @@
 11	ⲉⲅⲕⲣⲁⲧⲓⲁ	ⲉⲅⲕⲣⲁⲧⲓⲁ	NOUN	N	_	7	obl	_	_
 12	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0020
+# sent_id = dormition_john-dormition.john.mercad_s0020
 # text = ⲙⲁⲣⲉϥⲟⲩⲛⲟϥ ⲉⲧⲉⲧⲛⲕⲟⲓⲛⲱⲛⲉⲓ · ⲉⲛⲁⲅⲁⲑⲟⲛ ⲙⲛⲛⲉⲣⲏⲧ ·
 1-3	ⲙⲁⲣⲉϥⲟⲩⲛⲟϥ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	3	aux	_	Orig=Ⲙⲁⲣⲉ
@@ -22337,7 +22337,7 @@
 13	ⲉⲣⲏⲧ	ⲉⲣⲏⲧ	NOUN	N	_	10	conj	_	_
 14	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0021
+# sent_id = dormition_john-dormition.john.mercad_s0021
 # text = ⲙⲁⲣⲉϥⲧⲣⲩⲫⲁ ⲉⲧⲉⲧⲛⲙⲉ ⲙⲙⲟϥ ·
 1-3	ⲙⲁⲣⲉϥⲧⲣⲩⲫⲁ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	3	aux	_	Orig=Ⲙⲁⲣⲉ
@@ -22352,7 +22352,7 @@
 8	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	6	obj	_	_
 9	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0022
+# sent_id = dormition_john-dormition.john.mercad_s0022
 # text = ⲙⲁⲣⲉϥⲥⲱⲃⲉ ⲉⲧⲉⲧⲛⲟ ⲛϩⲁⲕ ·
 1-3	ⲙⲁⲣⲉϥⲥⲱⲃⲉ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	3	aux	_	_
@@ -22367,7 +22367,7 @@
 8	ϩⲁⲕ	ϩⲁⲕ	NOUN	N	_	6	obl	_	_
 9	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0023
+# sent_id = dormition_john-dormition.john.mercad_s0023
 # text = ⲛⲁⲓ ϭⲉ ⲛⲁⲥⲛⲏⲩ ⲉⲓϫⲱ ⲙⲙⲟⲟⲩ ⲛⲏⲧⲛ · ⲉⲃⲟⲗ ϫⲉ · ⲉⲓϭⲉⲡⲏ ⲉϯ ⲙⲡⲁⲟⲩⲟⲓ ⲉϩⲟⲩⲛ ⲉⲡϩⲱⲃ ⲉⲧⲉϥⲕⲏ ⲛⲁⲓ ⲉϩⲣⲁⲓ ⲡⲁⲓ ⲉⲧⲉⲣⲉⲡⲉϥϫⲱⲕ ⲉⲃⲟⲗ ⲛⲁϣⲱⲡⲉ ⲛⲁⲓ ⲉⲃⲟⲗ ϩⲓⲧⲙⲡϫⲟⲉⲓⲥ ·
 1	ⲛⲁⲓ	ⲛⲁⲓ	DET	PDEM	_	7	dislocated	_	Orig=Ⲛⲁⲓ̅
 2	ϭⲉ	ϭⲉ	PART	PTC	_	7	advmod	_	_
@@ -22431,7 +22431,7 @@
 46	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	40	obl	_	_
 47	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0024
+# sent_id = dormition_john-dormition.john.mercad_s0024
 # text = ⲁϣ ⲅⲁⲣ ⲡⲉ ⲡⲕⲉϣⲁϫⲉ · ⲉⲧⲓⲛⲁϫⲟⲟϥ ⲉⲣⲱⲧⲛ ⲉⲩⲉⲛⲧⲏⲧⲛ ⲙⲙⲁⲩ ⲙⲡⲉⲛⲉⲭⲉⲣⲟⲛ ⲙⲡⲉⲧⲛⲛⲟⲩⲧⲉ ·
 1	ⲁϣ	ⲁϣ	PRON	PINT	_	0	root	_	Orig=Ⲁϣ`
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	1	advmod	_	_
@@ -22465,7 +22465,7 @@
 24	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	21	nmod	_	_
 25	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0025
+# sent_id = dormition_john-dormition.john.mercad_s0025
 # text = ⲟⲩⲉⲛⲧⲏⲧⲛ ⲙⲙⲁⲩ ⲙⲡⲁⲣⲏⲃ ⲛⲧⲉϥⲙⲛⲧⲉⲣⲟ ·
 1-2	ⲟⲩⲉⲛⲧⲏⲧⲛ	_	_	_	_	_	_	_	_
 1	ⲟⲩⲉⲛⲧⲏ	ⲟⲩⲉⲛⲧⲏ	VERB	EXIST	_	0	root	_	Orig=Ⲟⲩⲉⲛⲧⲏ
@@ -22481,7 +22481,7 @@
 9	ⲙⲛⲧⲉⲣⲟ	ⲙⲛⲧⲉⲣⲟ	NOUN	N	_	6	nmod	_	Morphs=ⲙⲛⲧ-ⲉⲣⲟ|Orig=ⲙⲛ̅ⲧ̅ⲉⲣⲟ
 10	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0026
+# sent_id = dormition_john-dormition.john.mercad_s0026
 # text = ⲟⲩⲉⲛⲧⲏⲧⲛ ⲙⲙⲁⲩ ⲛⲧⲉϥⲡⲁⲣⲟⲩⲥⲓⲁ ⲛⲁⲧⲡⲁⲣⲁⲓⲧⲉⲓ ⲙⲙⲟⲥ ·
 1-2	ⲟⲩⲉⲛⲧⲏⲧⲛ	_	_	_	_	_	_	_	_
 1	ⲟⲩⲉⲛⲧⲏ	ⲟⲩⲉⲛⲧⲏ	VERB	EXIST	_	0	root	_	Orig=Ⲟⲩⲉⲛⲧⲏ
@@ -22499,7 +22499,7 @@
 10	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	8	nmod	_	_
 11	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0027
+# sent_id = dormition_john-dormition.john.mercad_s0027
 # text = ⲉϣⲱⲡⲉ ⲉⲧⲉⲧⲛϣⲁⲛⲧⲙⲣⲛⲟⲃⲉ · ϫⲓⲛⲧⲉⲛⲟⲩ · ⲉⲓⲉ ⲛⲉⲛⲧⲁⲧⲉⲧⲛⲁⲁⲩ ϩⲛⲟⲩⲙⲛⲧⲁⲧⲥⲟⲟⲩⲛ · ϥⲛⲁⲕⲁⲁⲩ ⲛⲏⲧⲛ ⲉⲃⲟⲗ ·
 1	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	4	mark	_	Orig=ⲉϣⲱⲡⲉ`
 2-4	ⲉⲧⲉⲧⲛϣⲁⲛⲧⲙⲣⲛⲟⲃⲉ	_	_	_	_	_	_	_	_
@@ -22534,7 +22534,7 @@
 25	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	22	advmod	_	_
 26	·	·	PUNCT	PUNCT	_	22	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0028
+# sent_id = dormition_john-dormition.john.mercad_s0028
 # text = ⲉϣⲱⲡⲉ ⲇⲉ ⲟⲛ ⲙⲛⲛⲥⲁⲧⲣⲉⲧⲉⲧⲛⲥⲟⲩⲱⲛϥ ⲛⲧⲉⲧⲛϭⲱ ⲉⲧⲉⲧⲛⲙⲏⲛ ⲉⲃⲟⲗ ϩⲛⲛⲉⲓϩⲃⲏⲩⲉ ⲛⲟⲩⲱⲧ · ⲥⲉⲛⲁⲉⲡ ⲛϣⲟⲣⲡ ⲉⲣⲱⲧⲛ · ⲛⲥⲉⲡⲁⲣⲁⲇⲓⲇⲟⲩ ⲙⲙⲱⲧⲛ ⲉⲡⲕⲱϩⲧ ·
 1	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	11	mark	_	Orig=Ⲉϣⲱⲡⲉ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	24	advmod	_	Orig=ⲇⲉ`
@@ -22586,7 +22586,7 @@
 37	ⲕⲱϩⲧ	ⲕⲱϩⲧ	NOUN	N	_	32	obl	_	Orig=ⲕⲱϩⲧ̅
 38	·	·	PUNCT	PUNCT	_	24	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0029
+# sent_id = dormition_john-dormition.john.mercad_s0029
 # text = ⲁⲩⲱ ⲛⲧⲉⲣⲉϥϫⲉⲛⲁⲓ · ⲁϥϣⲗⲏⲗ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉ · ⲓⲏⲥⲟⲩⲥ ⲡⲉⲛⲧⲁϥϣⲱⲛⲧ ⲙⲡⲉⲕⲗⲟⲙ ⲡⲁⲓ ⲉⲧϩⲙⲡⲉⲕϣⲱⲛⲧ ⲡⲱⲕ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	Orig=Ⲁⲩⲱ̅
 2-5	ⲛⲧⲉⲣⲉϥϫⲉⲛⲁⲓ	_	_	_	_	_	_	_	_
@@ -22629,7 +22629,7 @@
 32	ⲡⲱⲕ	ⲡⲱⲕ	DET	PPOS	_	26	appos	_	_
 33	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0030
+# sent_id = dormition_john-dormition.john.mercad_s0030
 # text = ⲱ ⲡⲉⲛⲧⲁϥⲥⲱⲛⲧ ⲙⲡⲉⲕⲗⲟⲙ ⲛⲛⲉⲧⲟⲩⲁⲁⲃ ⲧⲏⲣⲟⲩ · ⲙⲛⲛⲉⲓⲟⲩⲟⲧⲟⲩⲉⲧ ⲉⲧⲟϣ · ⲉⲁϥϣⲟⲃⲟⲩ ϩⲛⲛⲉⲣⲱⲙⲉ · ⲡⲉⲕϩⲣⲏⲣⲉ · ⲉⲧⲉⲙⲉϥϩⲱϭⲃ ϣⲁⲃⲟⲗ ·
 1	ⲱ	ⲱ	PART	PTC	_	2	discourse	_	Orig=Ⲱ
 2-6	ⲡⲉⲛⲧⲁϥⲥⲱⲛⲧ	_	_	_	_	_	_	_	_
@@ -22681,7 +22681,7 @@
 38	ϣⲁⲃⲟⲗ	ϣⲁⲃⲟⲗ	ADV	ADV	_	37	advmod	_	_
 39	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0031
+# sent_id = dormition_john-dormition.john.mercad_s0031
 # text = ⲱ ⲡⲉⲛⲧⲁϥϫⲟ ϩⲣⲁⲓ ⲛϩⲏⲧⲛ ⲛⲛⲉϥϣⲁϫⲉ ·
 1	ⲱ	ⲱ	PART	PTC	_	2	discourse	_	Orig=Ⲱ
 2-6	ⲡⲉⲛⲧⲁϥϫⲟ	_	_	_	_	_	_	_	_
@@ -22700,7 +22700,7 @@
 12	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	6	obj	_	_
 13	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0032
+# sent_id = dormition_john-dormition.john.mercad_s0032
 # text = ⲱ ⲡϥⲁⲓⲣⲟⲟⲩϣ ⲙⲁⲩⲁⲁϥ ϩⲁⲛⲉϥϩⲙϩⲁⲗ ·
 1	ⲱ	ⲱ	PART	PTC	_	3	discourse	_	Orig=Ⲱ
 2-3	ⲡϥⲁⲓⲣⲟⲟⲩϣ	_	_	_	_	_	_	_	_
@@ -22715,7 +22715,7 @@
 8	ϩⲙϩⲁⲗ	ϩⲙϩⲁⲗ	NOUN	N	_	3	nmod	_	Orig=ϩⲙ̅ϩⲁⲗ
 9	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0033
+# sent_id = dormition_john-dormition.john.mercad_s0033
 # text = ⲱ ⲡⲥⲁⲉⲓⲛ ⲛⲡⲉⲛⲥⲱⲙⲁ · ⲉϥⲧⲁⲗϭⲟ ⲙⲙⲟⲟⲩ ⲧⲏⲣⲟⲩ ⲛϫⲓⲛϫⲏ ·
 1	ⲱ	ⲱ	PART	PTC	_	3	discourse	_	Orig=Ⲱ̅
 2-3	ⲡⲥⲁⲉⲓⲛ	_	_	_	_	_	_	_	_
@@ -22741,7 +22741,7 @@
 16	ϫⲓⲛϫⲏ	ϫⲓⲛϫⲏ	NOUN	N	_	10	obl	_	Orig=ϫⲓⲛϫⲏ`
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0034
+# sent_id = dormition_john-dormition.john.mercad_s0034
 # text = ⲱ ⲡⲉⲛⲣⲉϥⲣⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲛⲁⲛ ⲙⲁⲩⲁⲁϥ ·
 1	ⲱ	ⲱ	PART	PTC	_	3	discourse	_	Orig=Ⲱ̅
 2-3	ⲡⲉⲛⲣⲉϥⲣⲡⲉⲧⲛⲁⲛⲟⲩϥ	_	_	_	_	_	_	_	_
@@ -22755,7 +22755,7 @@
 7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	6	det	_	_
 8	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0035
+# sent_id = dormition_john-dormition.john.mercad_s0035
 # text = ⲱ ⲡⲉⲧⲉⲙⲛⲗⲁⲁⲩ ⲙⲙⲛⲧϫⲁⲥⲓϩⲏⲧ ϩⲏⲡ ⲛϩⲏⲧϥ ·
 1	ⲱ	ⲱ	PART	PTC	_	2	discourse	_	Orig=Ⲱ̅
 2-5	ⲡⲉⲧⲉⲙⲛⲗⲁⲁⲩ	_	_	_	_	_	_	_	_
@@ -22772,7 +22772,7 @@
 10	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	8	obl	_	Orig=ϥ̅
 11	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0036
+# sent_id = dormition_john-dormition.john.mercad_s0036
 # text = ⲱ ⲡⲛⲁⲏⲧ ⲙⲁⲩⲁⲁϥ · ⲁⲩⲱ ⲡⲙⲁⲓⲣⲱⲙⲉ ⲛⲓⲙ ·
 1	ⲱ	ⲱ	PART	PTC	_	3	discourse	_	Orig=Ⲱ̅
 2-3	ⲡⲛⲁⲏⲧ	_	_	_	_	_	_	_	_
@@ -22790,7 +22790,7 @@
 11	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	10	det	_	_
 12	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0037
+# sent_id = dormition_john-dormition.john.mercad_s0037
 # text = ⲱ ⲡⲥⲱⲧⲏⲣ ⲙⲁⲩⲁⲁϥ · ⲁⲩⲱ ⲡⲇⲓⲕⲁⲓⲟⲥ · ⲡⲉⲧϣⲟⲟⲡ ϩⲙⲙⲁ ⲛⲓⲙ · ⲡⲉⲧϣⲱⲱⲡ ϫⲓⲛⲉⲛⲉϩ · ⲡⲛⲟⲩⲧⲉ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ ⲓⲏⲥⲟⲩⲥ ·
 1	ⲱ	ⲱ	PART	PTC	_	3	discourse	_	Orig=Ⲱ̅
 2-3	ⲡⲥⲱⲧⲏⲣ	_	_	_	_	_	_	_	_
@@ -22831,7 +22831,7 @@
 28	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	_	3	appos	_	Orig=ⲓ̅ⲥ̅
 29	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0038
+# sent_id = dormition_john-dormition.john.mercad_s0038
 # text = ⲛⲧⲟⲕ ⲡⲉⲧⲥⲕⲩⲡⲁⲍⲉ ⲛⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧϩⲉⲗⲡⲓⲍⲉ ⲉⲣⲟⲕ · ϩⲛⲛⲉⲕⲇⲱⲣⲉⲁ ⲙⲛⲛⲉⲕⲙⲛⲧⲛⲁ · ⲉⲕⲥⲟⲟⲩⲛ ⲛⲧⲉⲭⲛⲏ ⲛⲓⲙ ⲙⲛⲉⲡⲏⲣⲉⲓⲁ ⲛⲓⲙ ⲛⲧⲉⲡϫⲁϫⲉ ⲉⲧϯⲟⲩⲃⲏⲛ ⲛⲟⲩⲟⲉⲓϣ ⲛⲓⲙ ·
 1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	0	root	_	Orig=ⲛ̅ⲧⲟⲕ
 2-4	ⲡⲉⲧⲥⲕⲩⲡⲁⲍⲉ	_	_	_	_	_	_	_	_
@@ -22885,7 +22885,7 @@
 38	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	37	det	_	_
 39	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0039
+# sent_id = dormition_john-dormition.john.mercad_s0039
 # text = ⲁⲩⲱ ⲙⲛⲛⲥⲁⲧⲣⲉϥϫⲉⲛⲁⲓ ⲛϭⲓⲡⲡⲉⲧⲟⲩⲁⲁⲃ ⲓⲱϩⲁⲛⲛⲏⲥ ⲡⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ · ⲁϥϫⲓ ⲛⲟⲩⲟⲉⲓⲕ · ⲁϥϣⲡϩⲙⲟⲧ ⲛⲧⲉⲓϩⲉ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲁϣ ⲡⲉ ⲡⲕⲉⲥⲙⲟⲩ · ⲏ ⲁϣ ⲡⲉ ⲡⲕⲉⲉⲓ ⲉⲃⲟⲗ ⲙⲡϣⲁϫⲉ · ⲏ ⲁϣ ⲧⲉ ⲧⲕⲉⲉⲩⲭⲁⲣⲓⲥⲧⲓⲁ ⲉⲛⲛⲁⲟⲛⲟⲙⲁⲍⲉ ⲙⲙⲟⲟⲩ ⲉϫⲙⲡⲉⲓⲟⲉⲓⲕ ⲉⲛⲡⲱϣ ⲙⲙⲟϥ · ⲉⲓⲙⲏⲧⲓ ⲛⲧⲟⲕ ⲙⲁⲩⲁⲁⲕ · ⲡϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	16	cc	_	_
 2-6	ⲙⲛⲛⲥⲁⲧⲣⲉϥϫⲉⲛⲁⲓ	_	_	_	_	_	_	_	_
@@ -22992,7 +22992,7 @@
 81	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	73	appos	_	Orig=ⲭ̅ⲥ̅
 82	·	·	PUNCT	PUNCT	_	16	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0040
+# sent_id = dormition_john-dormition.john.mercad_s0040
 # text = ⲧⲛϯⲉⲟⲟⲩ ⲛⲁⲕ ⲡϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ ⲡⲁⲓ ⲛⲧⲁⲩⲟⲩⲉⲛϩⲡⲉϥⲣⲁⲛ ⲉⲃⲟⲗ ϩⲓⲧⲙⲡⲉⲓⲱⲧ ·
 1-2	ⲧⲛϯⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	_	2	nsubj	_	Orig=Ⲧⲛ̅
@@ -23022,7 +23022,7 @@
 20	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	14	obl	_	_
 21	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0041
+# sent_id = dormition_john-dormition.john.mercad_s0041
 # text = ⲧⲛϯⲉⲟⲟⲩ ⲛⲧⲉⲕϭⲓⲛⲉⲓ ⲉϩⲟⲩⲛ ϩⲓⲧⲙⲡⲣⲟ ·
 1-2	ⲧⲛϯⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	_	2	nsubj	_	Orig=Ⲧⲛ̅
@@ -23038,7 +23038,7 @@
 9	ⲣⲟ	ⲣⲟ	NOUN	N	_	2	obl	_	_
 10	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0042
+# sent_id = dormition_john-dormition.john.mercad_s0042
 # text = ⲧⲛϯⲉⲟⲟⲩ ⲛⲧⲉⲕⲁⲛⲁⲥⲧⲁⲥⲓⲥ ⲉⲧⲟⲩⲁⲁⲃ · ⲉⲃⲟⲗ ϩⲛⲛⲉⲧⲙⲟⲟⲩⲧ · ⲧⲁⲓ ⲛⲧⲁⲩⲧⲥⲁⲃⲟⲛ ⲉⲣⲟⲥ · ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲕ ·
 1-2	ⲧⲛϯⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	_	2	nsubj	_	Orig=ⲧⲛ̅
@@ -23075,7 +23075,7 @@
 26	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	19	obl	_	Orig=ⲕ̅
 27	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0043
+# sent_id = dormition_john-dormition.john.mercad_s0043
 # text = ⲧⲛϯⲉⲟⲟⲩ ⲛⲁⲕ ⲧⲉϩⲓⲏ ·
 1-2	ⲧⲛϯⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	_	2	nsubj	_	Orig=Ⲧⲛ̅
@@ -23088,7 +23088,7 @@
 6	ϩⲓⲏ	ϩⲓⲏ	NOUN	N	_	4	appos	_	_
 7	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0044
+# sent_id = dormition_john-dormition.john.mercad_s0044
 # text = ⲧⲛϯⲉⲟⲟⲩ ⲛⲁⲕ ⲡⲉϭⲣⲟⲟϭ · ⲡⲗⲟⲅⲟⲥ · ⲡⲉϩⲙⲟⲩ · ⲡⲱⲛⲉ ⲙⲙⲉ · ⲡⲁϩⲟ ⲉⲧⲟⲩⲁⲁⲃ · ⲡϩⲃⲃⲉ · ⲧⲁⲃⲱ · ⲧⲙⲛⲧⲛⲟϭ · ⲡⲉⲛⲧⲁⲩϫⲟⲟⲥ ⲉⲣⲟϥ · ϫⲉϣⲏⲣⲉ ⲛⲣⲱⲙⲉ ⲉⲧⲃⲏⲏⲧⲛ · ϫⲉⲕⲁⲥ ⲉϥⲉⲧⲟⲩϫⲟ ⲙⲡⲅⲉⲛⲟⲥ ⲛⲛⲣⲱⲙⲉ ·
 1-2	ⲧⲛϯⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	_	2	nsubj	_	Orig=ⲧⲛ̅
@@ -23169,7 +23169,7 @@
 57	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	54	nmod	_	_
 58	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0045
+# sent_id = dormition_john-dormition.john.mercad_s0045
 # text = ⲧⲛϯⲉⲟⲟⲩ ⲛⲁⲕ ⲧⲙⲉ · ⲡⲙⲧⲟⲛ · ⲡⲉⲟⲟⲩ · ⲧϭⲟⲙ ⲧⲉⲛⲧⲟⲗⲏ · ⲧⲡⲁⲣⲣⲏⲥⲓⲁ · ⲧⲙⲛⲧⲣⲙϩⲉ · ⲡⲉⲛⲙⲁ ⲙⲡⲱⲧ ·
 1-2	ⲧⲛϯⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	_	2	nsubj	_	Orig=ⲧⲛ̅
@@ -23212,7 +23212,7 @@
 28	ⲡⲱⲧ	ⲡⲱⲧ	NOUN	N	_	26	nmod	_	_
 29	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0046
+# sent_id = dormition_john-dormition.john.mercad_s0046
 # text = ⲛⲧⲟⲕ ⲅⲁⲣ ⲡⲉ ⲡϫⲟⲉⲓⲥ · ⲧⲛⲟⲩⲛⲉ ⲛⲧⲙⲛⲧⲁⲧⲙⲟⲩ · ⲁⲩⲱ ⲧⲡⲏⲅⲏ ⲛⲧⲙⲛⲧⲁⲧⲧⲁⲕⲟ · ⲁⲩⲱ ⲡⲧⲁϫⲣⲟ ⲛⲛⲁⲓⲱⲛ ·
 1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	0	root	_	Orig=Ⲛ̅ⲧⲟⲕ`
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	1	advmod	_	_
@@ -23248,7 +23248,7 @@
 25	ⲁⲓⲱⲛ	ⲁⲓⲱⲛ	NOUN	N	_	22	obl	_	Orig=ⲁⲓ̅ⲱⲛ
 26	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0047
+# sent_id = dormition_john-dormition.john.mercad_s0047
 # text = ⲉⲁⲩⲧⲁⲩⲉⲡⲉⲕⲣⲁⲛ ⲉϫⲛⲛⲁⲓ ⲧⲏⲣⲟⲩ · ϫⲉⲕⲁⲥ ⲁⲛⲟⲛ ϩⲱⲱⲛ ⲉⲛⲛⲁⲉⲡⲓⲕⲁⲗⲉⲓ ⲙⲙⲟⲕ ϩⲓⲧⲛⲛⲁⲓ ·
 1-6	ⲉⲁⲩⲧⲁⲩⲉⲡⲉⲕⲣⲁⲛ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	4	mark	_	Orig=Ⲉ
@@ -23282,7 +23282,7 @@
 23	ⲛⲁⲓ	ⲛⲁⲓ	DET	PDEM	_	19	obl	_	Orig=ⲛⲁⲓ̅
 24	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0048
+# sent_id = dormition_john-dormition.john.mercad_s0048
 # text = ⲧⲛⲥⲟⲟⲩⲛ ⲅⲁⲣ ⲛⲧⲉⲕⲙⲛⲧⲛⲟϭ ⲛⲁⲧⲛⲁⲩ ⲉⲣⲟⲥ · ⲧⲁⲓ ⲉⲧⲉⲛⲥⲟⲩⲟⲛϩ ⲉⲣⲟⲛ ⲁⲛ ⲧⲉⲛⲟⲩ ·
 1-2	ⲧⲛⲥⲟⲟⲩⲛ	_	_	_	_	_	_	_	_
 1	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	_	2	nsubj	_	Orig=Ⲧⲛ̅
@@ -23312,7 +23312,7 @@
 20	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	16	advmod	_	_
 21	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0049
+# sent_id = dormition_john-dormition.john.mercad_s0049
 # text = ϩⲟⲧⲁⲛ ⲉⲕϣⲁⲛⲧⲃⲃⲟⲛ · ⲧⲟⲧⲉ ⲧⲛⲛⲁⲛⲁⲩ ⲉⲣⲟⲕ ϩⲙⲡⲥⲱⲙⲁ ⲙⲁⲩⲁⲁϥ · ⲡⲁⲓ ⲛⲧⲁⲕⲁⲁϥ ⲛⲃⲣⲣⲉ ϩⲛⲟⲩⲙⲛⲧⲁⲥ ·
 1	ϩⲟⲧⲁⲛ	ϩⲟⲧⲁⲛ	CCONJ	CONJ	_	3	mark	_	Orig=Ϩⲟⲧⲁⲛ`
 2-4	ⲉⲕϣⲁⲛⲧⲃⲃⲟⲛ	_	_	_	_	_	_	_	_
@@ -23352,7 +23352,7 @@
 28	ⲙⲛⲧⲁⲥ	ⲙⲛⲧⲁⲥ	NOUN	N	_	22	obl	_	Morphs=ⲙⲛⲧ-ⲁⲥ
 29	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0050
+# sent_id = dormition_john-dormition.john.mercad_s0050
 # text = ⲁⲩⲱ ⲛⲧⲉⲣⲉϥⲡⲉϣ ⲡⲟⲉⲓⲕ · ⲁϥϣⲗⲏⲗ ⲉϫⲙⲡⲟⲩⲁ ⲡⲟⲩⲁ ⲛⲛⲉⲥⲛⲏⲩ · ϫⲉⲕⲁⲥ ⲉⲩⲉⲙⲡϣⲁ ⲛⲧⲉⲭⲁⲣⲓⲥ ⲙⲡϫⲟⲉⲓⲥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	10	cc	_	Orig=ⲁⲩⲱ̅
 2-4	ⲛⲧⲉⲣⲉϥⲡⲉϣ	_	_	_	_	_	_	_	_
@@ -23393,7 +23393,7 @@
 28	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	25	nmod	_	_
 29	·	·	PUNCT	PUNCT	_	10	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0051
+# sent_id = dormition_john-dormition.john.mercad_s0051
 # text = ϩⲟⲙⲟⲓⲱⲥ ⲛⲧⲟϥ ϩⲱⲱϥ · ⲡⲡⲉⲧⲟⲩⲁⲁⲃ · ⲓⲱϩⲁⲛⲛⲏⲥ · ⲛⲧⲉⲣⲉϥϫⲓϯⲡⲉ ⲙⲡⲟⲉⲓⲕ ·
 1	ϩⲟⲙⲟⲓⲱⲥ	ϩⲟⲙⲟⲓⲱⲥ	ADV	ADV	_	2	advmod	_	Orig=Ϩⲟⲙⲟⲓⲱⲥ
 2	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	0	root	_	Orig=ⲛ̅ⲧⲟϥ
@@ -23417,7 +23417,7 @@
 16	ⲟⲉⲓⲕ	ⲟⲉⲓⲕ	NOUN	N	_	13	obl	_	_
 17	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0052
+# sent_id = dormition_john-dormition.john.mercad_s0052
 # text = ⲉⲁϥϫⲟⲟⲥ ⲛⲧⲉⲓϩⲉ ⲛϭⲓⲡⲑⲉⲟⲗⲟⲅⲟⲥ ⲓⲱϩⲁⲛⲛⲏⲥ · ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲙⲁⲣⲉⲟⲩⲙⲉⲣⲓⲥ ϣⲱⲡⲉ ⲛⲁⲓ ϩⲱ ⲛⲙⲙⲏⲧⲛ ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ · ⲱ ⲛⲁⲙⲉⲣⲁⲧⲉ ·
 1-5	ⲉⲁϥϫⲟⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	Orig=Ⲉ
@@ -23467,7 +23467,7 @@
 36	ⲙⲉⲣⲁⲧⲉ	ⲙⲉⲣⲓⲧ	NOUN	N	_	24	vocative	_	_
 37	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0053
+# sent_id = dormition_john-dormition.john.mercad_s0053
 # text = ⲧⲟⲧⲉ ⲡⲉϫⲁϥ ⲛⲃⲓⲃⲣⲟⲥ ϫⲉϫⲓ ⲛⲙⲙⲁⲕ ⲛⲥⲟⲛ ⲥⲛⲁⲩ · ⲉⲩⲛϩⲉⲛⲃⲓⲣ ⲛⲧⲟⲟⲧⲟⲩ · ⲙⲛϩⲉⲛⲧⲱⲣⲉ · ⲛⲧⲉⲧⲛⲟⲩⲉϩⲧⲏⲩⲧⲛ ⲛⲥⲱⲓ ·
 1	ⲧⲟⲧⲉ	ⲧⲟⲧⲉ	ADV	ADV	_	2	advmod	_	Orig=ⲧⲟⲦⲉ`
 2-3	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
@@ -23511,7 +23511,7 @@
 30	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	27	obl	_	Orig=ⲓ̅
 31	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0054
+# sent_id = dormition_john-dormition.john.mercad_s0054
 # text = ⲃⲓⲃⲣⲟⲥ ⲇⲉ ⲙⲡⲉϥⲁⲙⲉⲗⲉⲓ ⲉⲡⲧⲏⲣϥ · ⲁⲗⲗⲁ ⲁϥⲉⲓⲣⲉ ⲙⲡⲉⲛⲧⲁⲩⲟⲩⲉϩⲥⲁϩⲛⲉ ⲙⲙⲟϥ ⲛⲁϥ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲙⲡⲡⲉⲧⲟⲩⲁⲁⲃ ⲡⲑⲉⲟⲗⲟⲅⲟⲥ ⲓⲱϩⲁⲛⲛⲏⲥ · ⲡϩⲙϩⲁⲗ ⲙⲡⲛⲟⲩⲧⲉ ·
 1	ⲃⲓⲃⲣⲟⲥ	ⲃⲓⲃⲣⲟⲥ	PROPN	NPROP	_	5	dislocated	_	Orig=ⲃⲓⲃⲢⲟⲥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	Orig=ⲇⲉ`
@@ -23564,7 +23564,7 @@
 38	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	35	nmod	_	_
 39	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0055
+# sent_id = dormition_john-dormition.john.mercad_s0055
 # text = ⲛⲧⲉⲣⲉⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲇⲉ ⲓⲱϩⲁⲛⲛⲏⲥ ⲉⲓ ⲉⲃⲟⲗ ϩⲙⲡⲉϥⲏⲓ · ⲁϥⲙⲟⲟϣⲉ ⲡⲃⲟⲗ ⲛⲧⲡⲩⲗⲏ ⲛⲧⲡⲟⲗⲓⲥ · ⲉⲁϥϫⲟⲟⲥ ⲉⲧⲣⲉⲡⲉϩⲟⲩⲟ ⲙⲡⲙⲏⲏϣⲉ ⲉⲧⲟⲩⲏϩ ⲛⲥⲱϥ · ⲃⲱⲕ ⲛⲥⲉⲗⲟ ϩⲁⲣⲟϥ ·
 1-3	ⲛⲧⲉⲣⲉⲡⲙⲁⲕⲁⲣⲓⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	6	aux	_	Orig=Ⲛ̅ⲧⲉⲣⲉ
@@ -23627,7 +23627,7 @@
 46	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	44	obl	_	_
 47	·	·	PUNCT	PUNCT	_	14	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0056
+# sent_id = dormition_john-dormition.john.mercad_s0056
 # text = ⲛⲧⲉⲣⲉϥⲡⲱϩ ⲇⲉ ⲉⲩⲙⲁ ⲛⲙϩⲁⲁⲩ · ⲉⲡⲁⲟⲩⲁ ⲡⲉ ϩⲛⲛⲉⲥⲛⲏⲩ ⲁϥϫⲟⲟⲥ ⲛⲛⲉϩⲣϣⲓⲣⲉ · ϫⲉϣⲓⲕⲉ ϩⲙⲡⲉⲓⲙⲁ ⲛⲁϣⲏⲣⲉ ·
 1-3	ⲛⲧⲉⲣⲉϥⲡⲱϩ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	3	aux	_	Orig=Ⲛ̅ⲧⲉⲣⲉ
@@ -23673,7 +23673,7 @@
 32	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	27	vocative	_	_
 33	·	·	PUNCT	PUNCT	_	20	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0057
+# sent_id = dormition_john-dormition.john.mercad_s0057
 # text = ⲛⲉⲧⲙⲙⲁⲩ ⲇⲉ ⲁⲩϣⲓⲕⲉ ⲉⲡⲉⲥⲏⲧ ·
 1-3	ⲛⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲡ	DET	ART	_	7	dislocated	_	Orig=Ⲛ
@@ -23690,7 +23690,7 @@
 10	ⲉⲥⲏⲧ	ⲉⲥⲏⲧ	NOUN	N	_	7	obl	_	Orig=ⲉⲥⲏⲧ̅
 11	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0058
+# sent_id = dormition_john-dormition.john.mercad_s0058
 # text = ⲛⲧⲟϥ ⲇⲉ ⲓⲱϩⲁⲛⲛⲏⲥ ⲡⲑⲉⲟⲗⲟⲅⲟⲥ · ⲛⲉϥⲟⲩⲉϩⲥⲁϩⲛⲉ ⲛⲁⲩ · ϫⲉϣⲓⲕⲉ ⲉⲡⲉⲥⲏⲧ ⲕⲁⲗⲱⲥ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	9	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	9	advmod	_	Orig=ⲇⲉ`
@@ -23717,7 +23717,7 @@
 18	ⲕⲁⲗⲱⲥ	ⲕⲁⲗⲱⲥ	ADV	ADV	_	14	advmod	_	_
 19	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0059
+# sent_id = dormition_john-dormition.john.mercad_s0059
 # text = ⲁⲩⲱ ⲛⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉϭⲱϫⲉ ⲉⲡⲉⲥⲏⲧ ⲉⲡⲉϩⲟⲩⲟ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	Orig=Ⲁⲩⲱ
 2-4	ⲛⲉϥϫⲱ	_	_	_	_	_	_	_	_
@@ -23741,7 +23741,7 @@
 15	ϩⲟⲩⲟ	ϩⲟⲩⲟ	NOUN	N	_	9	obl	_	Orig=ϩⲟⲩⲟ`
 16	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0060
+# sent_id = dormition_john-dormition.john.mercad_s0060
 # text = ⲉⲩϭⲱϫⲉ ⲇⲉ ⲉⲡⲉⲥⲏⲧ ⲛϭⲓⲛⲉⲧⲙⲙⲁⲩ ·
 1-3	ⲉⲩϭⲱϫⲉ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	Orig=Ⲉ
@@ -23759,7 +23759,7 @@
 11	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	9	acl	_	Orig=ⲙ̅ⲙⲁⲩ
 12	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0061
+# sent_id = dormition_john-dormition.john.mercad_s0061
 # text = ⲛⲉϥϣⲁϫⲉ ⲛⲙⲙⲁⲩ ϩⲙⲡϣⲁϫⲉ · ⲁⲩⲱ ⲛⲉϥⲡⲣⲟⲧⲣⲉⲡⲉ ⲙⲙⲟⲟⲩ · ⲉϥⲕⲱⲧ ⲙⲙⲟⲟⲩ · ⲉϥⲥⲟⲃⲧⲉ ⲙⲙⲟⲟⲩ ⲁⲩⲱ ⲉϥⲡⲉⲓⲑⲉ ⲙⲙⲟⲟⲩ ⲉϩⲟⲩⲛ ⲉⲧⲙⲛⲧⲣⲣⲟ ⲙⲡⲛⲟⲩⲧⲉ ·
 1-3	ⲛⲉϥϣⲁϫⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲉ	ⲛⲉⲣⲉ	AUX	AUX	_	3	aux	_	_
@@ -23816,7 +23816,7 @@
 40	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	37	nmod	_	_
 41	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0062
+# sent_id = dormition_john-dormition.john.mercad_s0062
 # text = ⲁⲩⲱ ⲛⲉϥϣⲗⲏⲗ ⲉϫⲙⲡⲟⲩⲁ ⲡⲟⲩⲁ ⲙⲙⲟⲟⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	Orig=Ⲁⲩⲱ̅
 2-4	ⲛⲉϥϣⲗⲏⲗ	_	_	_	_	_	_	_	_
@@ -23835,7 +23835,7 @@
 11	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	7	nmod	_	_
 12	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0063
+# sent_id = dormition_john-dormition.john.mercad_s0063
 # text = ⲛⲧⲉⲣⲉⲛϩⲣϣⲓⲣⲉ ⲇⲉ ⲟⲩⲱ ⲉⲩϭⲱϫⲉ · ⲙⲡⲧⲟⲡⲟⲥ ⲉⲧⲟⲩϣⲓⲕⲉ ⲛϩⲏⲧϥ · ⲉⲁⲩⲥⲙⲛⲧϥ ⲕⲁⲗⲱⲥ · ⲕⲁⲧⲁⲧϩⲉ ⲛⲧⲁϥⲟⲩⲁϣⲥ ·
 1-3	ⲛⲧⲉⲣⲉⲛϩⲣϣⲓⲣⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	5	aux	_	Orig=Ⲛ̅ⲧⲉⲣⲉ
@@ -23880,7 +23880,7 @@
 33	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	32	obj	_	Orig=ⲥ̅
 34	·	·	PUNCT	PUNCT	_	22	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0064
+# sent_id = dormition_john-dormition.john.mercad_s0064
 # text = ⲁⲩⲱ ⲁⲛⲟⲛ ⲙⲡⲉⲛⲉⲓⲙⲉ ⲉⲗⲁⲁⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	Orig=ⲁⲩⲱ̅
 2	ⲁⲛⲟⲛ	ⲁⲛⲟⲛ	PRON	PPERI	_	5	dislocated	_	_
@@ -23893,7 +23893,7 @@
 7	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	5	obl	_	_
 8	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0065
+# sent_id = dormition_john-dormition.john.mercad_s0065
 # text = ⲧⲟⲧⲉ ⲁϥⲕⲁⲁϥ ⲕⲁϩⲏⲩ ⲛⲛⲉϩⲟⲓⲧⲉ ⲉⲧⲧⲟ ϩⲓⲱⲱϥ ·
 1	ⲧⲟⲧⲉ	ⲧⲟⲧⲉ	ADV	ADV	_	4	advmod	_	Orig=Ⲧⲟⲧⲉ`
 2-5	ⲁϥⲕⲁⲁϥ	_	_	_	_	_	_	_	_
@@ -23914,7 +23914,7 @@
 13	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	11	obl	_	_
 14	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0066
+# sent_id = dormition_john-dormition.john.mercad_s0066
 # text = ⲁϥⲛⲟⲩϫⲉ ⲙⲙⲟⲟⲩ ⲉⲡⲉⲥⲏⲧ ⲉⲡⲧⲟⲡⲟⲥ ⲛⲧⲁⲩϭⲱϫⲉ ⲙⲙⲟϥ ⲉⲡⲉⲥⲏⲧ ⲙⲡⲉⲥⲙⲟⲧ · ⲛⲟⲩⲙⲁ ⲉϥⲡⲟⲣϣ ·
 1-3	ⲁϥⲛⲟⲩϫⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -23958,7 +23958,7 @@
 30	ⲡⲟⲣϣ	ⲡⲱⲣϣ	VERB	VSTAT	_	27	acl	_	Orig=ⲡⲟⲣϣ̅
 31	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0067
+# sent_id = dormition_john-dormition.john.mercad_s0067
 # text = ⲛⲧⲟϥ ⲇⲉ ⲉⲛⲉϥⲁϩⲉⲣⲁⲧϥ · ⲉⲣⲉⲟⲩϣⲧⲏⲛ ⲛϩⲃⲟⲟⲥ ϩⲓⲱⲱϥ · ⲙⲁⲩⲁⲁⲥ · ⲉⲥϫⲓ ⲧⲟⲧⲉ ⲉⲡⲥⲁ ⲥⲛⲁⲩ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	6	dislocated	_	Orig=Ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	6	advmod	_	_
@@ -23997,7 +23997,7 @@
 28	ⲥⲛⲁⲩ	ⲥⲛⲁⲩ	NUM	NUM	_	27	nummod	_	_
 29	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0068
+# sent_id = dormition_john-dormition.john.mercad_s0068
 # text = ⲁⲩⲱ ⲁϥⲡⲱⲣϣ ⲛⲛⲉϥϭⲓϫ ⲉⲃⲟⲗ ⲁϥϣⲗⲏⲗ ⲛⲧⲉⲓϩⲉ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲡⲛⲟⲩⲧⲉ ⲡⲉⲛⲧⲁϥⲥⲱⲧⲡ ⲙⲙⲟⲓ ⲛⲁϥ · ⲉⲩⲙⲛⲧⲁⲡⲟⲥⲧⲟⲗⲟⲥ ⲛⲛϩⲉⲑⲛⲟⲥ · ⲉⲁⲕⲧⲛⲛⲟⲟⲩⲧ ⲉⲃⲟⲗ ⲉⲧⲟⲓⲕⲟⲩⲙⲉⲛⲏ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	Orig=Ⲁⲩⲱ̅
 2-4	ⲁϥⲡⲱⲣϣ	_	_	_	_	_	_	_	_
@@ -24064,7 +24064,7 @@
 49	ⲟⲓⲕⲟⲩⲙⲉⲛⲏ	ⲟⲓⲕⲟⲩⲙⲉⲛⲏ	NOUN	N	_	44	obl	_	_
 50	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0069
+# sent_id = dormition_john-dormition.john.mercad_s0069
 # text = ⲡⲉⲛⲧⲁϥⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ⲛⲛⲉⲡⲣⲟⲫⲏⲧⲏⲥ · ⲙⲛⲛⲉϥⲁⲡⲟⲥⲧⲟⲗⲟⲥ ·
 1-5	ⲡⲉⲛⲧⲁϥⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24084,7 +24084,7 @@
 13	ⲁⲡⲟⲥⲧⲟⲗⲟⲥ	ⲁⲡⲟⲥⲧⲟⲗⲟⲥ	NOUN	N	_	9	conj	_	_
 14	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0070
+# sent_id = dormition_john-dormition.john.mercad_s0070
 # text = ⲡⲉⲧⲉⲙⲡⲉϥϭⲱ ⲉⲛⲉϩ · ⲉϥⲣⲡⲉⲧⲛⲁⲛⲟⲩϥ · ϫⲓⲛⲧⲕⲁⲧⲁⲃⲟⲗⲏ ⲙⲡⲕⲟⲥⲙⲟⲥ · ⲉϥⲧⲟⲩϫⲟ ⲛⲟⲩⲟⲛ ⲛⲓⲙ · ⲉⲧⲉⲙⲛϭⲟⲙ ⲙⲙⲟⲟⲩ ·
 1-5	ⲡⲉⲧⲉⲙⲡⲉϥϭⲱ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	_
@@ -24130,7 +24130,7 @@
 34	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	31	obl	_	_
 35	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0071
+# sent_id = dormition_john-dormition.john.mercad_s0071
 # text = ⲡⲉⲛⲧⲁϥⲧⲣⲉⲩⲥⲟⲩⲱⲛϥ · ⲉⲃⲟⲗ ϩⲓⲧⲛⲣⲱⲙⲉ ⲛⲓⲙ ⲛⲗⲟⲅⲓⲕⲟⲛ ⲙⲛⲍⲱⲟⲛ ⲛⲓⲙ · ⲉⲩⲇⲓⲁⲕⲟⲛⲉⲓ ⲙⲙⲟⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲛⲧⲉϥⲡⲣⲟⲛⲟⲓⲁ ·
 1-8	ⲡⲉⲛⲧⲁϥⲧⲣⲉⲩⲥⲟⲩⲱⲛϥ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24169,7 +24169,7 @@
 28	ⲡⲣⲟⲛⲟⲓⲁ	ⲡⲣⲟⲛⲟⲓⲁ	NOUN	N	_	22	obl	_	_
 29	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0072
+# sent_id = dormition_john-dormition.john.mercad_s0072
 # text = ⲡⲉⲛⲧⲁϥⲧⲣⲉⲧⲉⲛⲯⲩⲭⲏ ⲣϩⲩⲙⲉⲣⲟⲥ · ⲉⲁϥⲧⲣⲉⲥϩⲣⲟⲕ · ⲉⲥⲟ ⲛϫⲁⲉⲓⲉ · ⲁⲩⲱ ⲛⲁⲅⲣⲓⲟⲥ ·
 1-7	ⲡⲉⲛⲧⲁϥⲧⲣⲉⲧⲉⲛⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24203,7 +24203,7 @@
 25	ⲁⲅⲣⲓⲟⲥ	ⲁⲅⲣⲓⲟⲥ	NOUN	N	_	21	conj	_	_
 26	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0073
+# sent_id = dormition_john-dormition.john.mercad_s0073
 # text = ⲡⲉⲛⲧⲁϥⲧⲁⲁⲥ ⲛⲁϥ ⲙⲙⲓⲛⲙⲙⲟϥ ⲉⲥⲱⲃⲉ ⲛⲛⲉϥϫⲁϫⲉ ·
 1-6	ⲡⲉⲛⲧⲁϥⲧⲁⲁⲥ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24227,7 +24227,7 @@
 15	ϫⲁϫⲉ	ϫⲁⲁϫⲉ	NOUN	N	_	12	obj	_	_
 16	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0074
+# sent_id = dormition_john-dormition.john.mercad_s0074
 # text = ⲡⲉⲛⲧⲁϥϭⲟⲗⲡⲥ ⲛⲁϥ ⲉⲥⲙⲟⲟⲩⲧ · ⲉⲁϥⲣⲛⲟⲙⲟⲥ ⲛⲁⲥ ⲉⲥⲟⲙⲥ ϩⲙⲡϣⲓⲕ ⲛⲧⲁⲛⲟⲙⲓⲁ ·
 1-6	ⲡⲉⲛⲧⲁϥϭⲟⲗⲡⲥ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	_
@@ -24266,7 +24266,7 @@
 27	ⲁⲛⲟⲙⲓⲁ	ⲁⲛⲟⲙⲓⲁ	NOUN	N	_	24	nmod	_	_
 28	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0075
+# sent_id = dormition_john-dormition.john.mercad_s0075
 # text = ⲡⲉⲛⲧⲁϥⲧⲣⲉⲥϫⲣⲟ ⲉⲛⲉⲥϫⲁϫⲉ ϩⲙⲡⲧⲣⲉⲥⲡⲱⲧ ⲉⲣⲁⲧϥ ·
 1-7	ⲡⲉⲛⲧⲁϥⲧⲣⲉⲥϫⲣⲟ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24291,7 +24291,7 @@
 17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	15	obl	_	Orig=ϥ̅
 18	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0076
+# sent_id = dormition_john-dormition.john.mercad_s0076
 # text = ⲡⲉⲛⲧⲁϥϯ ⲛⲁⲥ ⲛⲧⲉϥϭⲓϫ · ⲁⲩⲱ ⲁϥⲧⲟⲩϫⲟⲥ ⲉⲃⲟⲗ ϩⲛⲁⲙⲛⲧⲉ ·
 1-5	ⲡⲉⲛⲧⲁϥϯ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24319,7 +24319,7 @@
 19	ⲁⲙⲛⲧⲉ	ⲁⲙⲛⲧⲉ	NOUN	N	_	15	obl	_	Orig=ⲁⲙⲛ̅ⲧⲉ
 20	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0077
+# sent_id = dormition_john-dormition.john.mercad_s0077
 # text = ⲡⲉⲧⲙⲡⲉϥⲕⲁⲁⲥ ⲉⲡⲟⲗⲓⲧⲉⲩⲉ ϩⲙⲡⲕⲟⲥⲙⲟⲥ ·
 1-6	ⲡⲉⲧⲙⲡⲉϥⲕⲁⲁⲥ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24337,7 +24337,7 @@
 11	ⲕⲟⲥⲙⲟⲥ	ⲕⲟⲥⲙⲟⲥ	NOUN	N	_	8	obl	_	_
 12	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0078
+# sent_id = dormition_john-dormition.john.mercad_s0078
 # text = ⲡⲉⲛⲧⲁϥⲧⲥⲁⲃⲉ ⲉⲓⲁⲁⲧⲥ ⲉⲃⲟⲗ ⲉⲛⲉⲥϫⲁϫⲉ ·
 1-5	ⲡⲉⲛⲧⲁϥⲧⲥⲁⲃⲉ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24355,7 +24355,7 @@
 11	ϫⲁϫⲉ	ϫⲁⲁϫⲉ	NOUN	N	_	5	obl	_	_
 12	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0079
+# sent_id = dormition_john-dormition.john.mercad_s0079
 # text = ⲡⲉⲛⲧⲁϥⲧⲣⲉⲡⲉϥⲥⲟⲟⲩⲛ ⲣⲟⲩⲟⲉⲓⲛ ϩⲙⲙⲁ ⲛⲓⲙ ·
 1-7	ⲡⲉⲛⲧⲁϥⲧⲣⲉⲡⲉϥⲥⲟⲟⲩⲛ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24372,7 +24372,7 @@
 11	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	10	det	_	_
 12	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0080
+# sent_id = dormition_john-dormition.john.mercad_s0080
 # text = ⲡϣⲏⲣⲉ ⲙⲡⲛⲟⲩⲧⲉ · ⲡⲥⲱⲧⲏⲣ · ⲡϫⲟⲉⲓⲥ · ⲧⲧⲁⲝⲓⲥ ⲛⲛⲉⲧϩⲙⲡⲁⲏⲣ ·
 1-2	ⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	2	det	_	Orig=Ⲡ
@@ -24402,7 +24402,7 @@
 20	ⲁⲏⲣ	ⲁⲏⲣ	NOUN	N	_	16	acl	_	_
 21	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0081
+# sent_id = dormition_john-dormition.john.mercad_s0081
 # text = ⲡⲣⲉϥϩⲁⲣⲉϩ ⲉⲛⲉⲧϩⲓϫⲙⲡⲕⲁϩ · ⲧⲉⲭⲁⲣⲓⲥ · ⲁⲩⲱ ⲡⲣⲁϣⲉ ⲛⲛⲉⲧⲉⲛⲟⲩⲃ ⲛⲉ ·
 1-2	ⲡⲣⲉϥϩⲁⲣⲉϩ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	2	det	_	Orig=Ⲡ
@@ -24431,7 +24431,7 @@
 20	ⲛⲉ	ⲡⲉ	PRON	COP	_	19	cop	_	_
 21	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0082
+# sent_id = dormition_john-dormition.john.mercad_s0082
 # text = ϣⲱⲡ ⲉⲣⲟⲕ ⲛⲧⲉⲯⲩⲭⲏ ⲛⲓⲱϩⲁⲛⲛⲏⲥ · ⲡⲉⲧⲉⲡⲱⲕ ⲡⲉ · ⲧⲁⲓ ⲛⲧⲁⲕⲁⲁⲥ ⲛⲙⲡϣⲁ ⲉⲧⲣⲉⲕⲥⲟⲩⲱⲛⲥ ·
 1	ϣⲱⲡ	ϣⲱⲡ	VERB	V	_	0	root	_	Orig=Ϣⲱⲡ
 2-3	ⲉⲣⲟⲕ	_	_	_	_	_	_	_	_
@@ -24469,7 +24469,7 @@
 27	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	26	obj	_	Orig=ⲥ̅
 28	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0083
+# sent_id = dormition_john-dormition.john.mercad_s0083
 # text = ⲛⲧⲟⲕ ⲅⲁⲣ ⲡⲉ ⲛⲧⲁⲕϩⲁⲣⲉϩ ⲉⲣⲟⲓ ϣⲁⲧⲉⲛⲟⲩ ⲙⲡⲉⲓⲧⲱⲗⲙ ϩⲟⲗⲱⲥ ⲙⲛⲥϩⲓⲙⲉ ·
 1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	0	root	_	Orig=Ⲛ̅ⲧⲟⲕ
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	1	advmod	_	Orig=ⲅⲁⲣ`
@@ -24495,7 +24495,7 @@
 17	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	14	obl	_	_
 18	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0084
+# sent_id = dormition_john-dormition.john.mercad_s0084
 # text = ⲁⲕⲟⲩⲟⲛϩⲕ ⲛⲁⲓ ⲉⲃⲟⲗ · ⲛⲧⲉⲣⲓⲟⲩⲱϣ ⲉϫⲓⲥϩⲓⲙⲉ ϩⲛⲧⲁⲙⲛⲧⲃⲣⲣⲉ ·
 1-4	ⲁⲕⲟⲩⲟⲛϩⲕ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	Orig=Ⲁ
@@ -24520,7 +24520,7 @@
 16	ⲙⲛⲧⲃⲣⲣⲉ	ⲙⲛⲧⲃⲣⲣⲉ	NOUN	N	_	11	obl	_	Morphs=ⲙⲛⲧ-ⲃⲣⲣⲉ|Orig=ⲙⲛ̅ⲧ̅ⲃⲣ̅ⲣⲉ
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0085
+# sent_id = dormition_john-dormition.john.mercad_s0085
 # text = ⲁⲩⲱ ⲁⲕϫⲟⲟⲥ ⲛⲁⲓ · ϫⲉⲓⲱϩⲁⲛⲛⲏⲥ · ϯⲣⲭⲣⲉⲓⲁ ⲙⲙⲟⲕ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	Orig=Ⲁⲩⲱ̅
 2-5	ⲁⲕϫⲟⲟⲥ	_	_	_	_	_	_	_	_
@@ -24544,7 +24544,7 @@
 15	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	13	obl	_	_
 16	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0086
+# sent_id = dormition_john-dormition.john.mercad_s0086
 # text = ⲁⲕⲣϣⲟⲣⲡ ·
 1-3	ⲁⲕⲣϣⲟⲣⲡ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	Orig=Ⲁ
@@ -24552,7 +24552,7 @@
 3	ⲣϣⲟⲣⲡ	ⲣϣⲟⲣⲡ	VERB	V	_	0	root	_	Morphs=ⲣ-ϣⲟⲣⲡ|Orig=ⲣ̅ϣⲟⲣⲡ
 4	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0087
+# sent_id = dormition_john-dormition.john.mercad_s0087
 # text = ⲁⲕⲟⲓⲕⲟⲛⲟⲙⲉⲓ ⲙⲡⲁⲥⲱⲙⲁ ⲛⲟⲩⲉϣ ⲛϣⲱⲛⲉ ⲛⲥⲱⲙⲁⲧⲓⲕⲟⲛ ·
 1-3	ⲁⲕⲟⲓⲕⲟⲛⲟⲙⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -24573,7 +24573,7 @@
 12	ⲥⲱⲙⲁⲧⲓⲕⲟⲛ	ⲥⲱⲙⲁⲧⲓⲕⲟⲛ	NOUN	N	_	10	nmod	_	_
 13	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0088
+# sent_id = dormition_john-dormition.john.mercad_s0088
 # text = ⲛⲧⲟⲕ ⲡⲉⲛⲧⲁⲕϯϫⲣⲟⲡ ⲛⲁⲓ ⲛϩⲁϩ ⲛⲥⲟⲡ · ⲛⲧⲉⲣⲓⲟⲩⲱϣ ⲉϫⲓⲥϩⲓⲙⲉ ·
 1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	0	root	_	Orig=Ⲛ̅ⲧⲟⲕ
 2-7	ⲡⲉⲛⲧⲁⲕϯϫⲣⲟⲡ	_	_	_	_	_	_	_	_
@@ -24602,7 +24602,7 @@
 19	ϫⲓⲥϩⲓⲙⲉ	ϫⲓⲥϩⲓⲙⲉ	VERB	V	_	17	xcomp	_	Morphs=ϫⲓ-ⲥϩⲓⲙⲉ
 20	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0089
+# sent_id = dormition_john-dormition.john.mercad_s0089
 # text = ⲙⲛⲛⲥⲱⲥ ⲁⲕϣⲁϫⲉ ⲛⲙⲙⲁⲓ ⲛϫⲡϣⲟⲙⲧⲉ ⲙⲡⲉϩⲟⲟⲩ ϩⲓϫⲛⲧϩⲁⲗⲁⲥⲥⲁ · ϫⲉⲓⲱϩⲁⲛⲛⲏⲥ ⲉⲛⲉ ⲛⲧⲟⲕ ⲡⲉⲧⲉⲡⲱⲓ ⲁⲛ ⲡⲉ · ⲛⲉⲓⲛⲁⲗⲟ ϩⲁⲣⲟⲕ ⲡⲉ · ⲛⲅϫⲓⲥϩⲓⲙⲉ · ⲁⲩⲱ ⲛⲅⲣⲃⲗⲗⲉ ⲉⲡⲉⲕⲃⲁⲗ ⲥⲛⲁⲩ · ⲛⲅϭⲱ ⲉⲕⲣϩⲏⲃⲉ · ⲉⲕⲧⲱⲃϩ ⲙⲙⲟⲓ ·
 1-2	ⲙⲛⲛⲥⲱⲥ	_	_	_	_	_	_	_	_
 1	ⲙⲛⲛⲥⲱ	ⲙⲛⲛⲥⲁ	ADP	PREP	_	2	case	_	Orig=Ⲙⲛ̅ⲛ̅ⲥⲱ
@@ -24683,7 +24683,7 @@
 60	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	58	obl	_	_
 61	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0090
+# sent_id = dormition_john-dormition.john.mercad_s0090
 # text = ⲡⲉⲛⲧⲁϥⲟⲩⲱⲛ ⲙⲡⲁϩⲏⲧ ϩⲛⲧⲁⲙⲉϩϣⲟⲙⲧⲉ ⲛⲣⲟⲙⲡⲉ ·
 1-5	ⲡⲉⲛⲧⲁϥⲟⲩⲱⲛ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24704,7 +24704,7 @@
 13	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	5	obl	_	_
 14	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0091
+# sent_id = dormition_john-dormition.john.mercad_s0091
 # text = ⲁⲕⲭⲁⲣⲓⲍⲉ ⲛⲁⲓ ⲛϩⲉⲛ ⲕⲉⲃⲁⲗ · ⲛⲥⲉⲟⲩⲟⲛϩ ⲉⲃⲟⲗ ⲁⲛ ·
 1-3	ⲁⲕⲭⲁⲣⲓⲍⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	_
@@ -24728,7 +24728,7 @@
 15	ⲁⲛ	ⲁⲛ	ADV	NEG	_	13	advmod	_	_
 16	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0092
+# sent_id = dormition_john-dormition.john.mercad_s0092
 # text = ⲡⲉⲛⲧⲁϥⲧⲣⲉⲡϭⲱⲛⲧ · ⲏ ⲡⲉⲓⲱⲣϩ ⲛⲛⲉϩⲓⲟⲙⲉ ϣⲱⲡⲉ ⲛⲁⲓ ⲛⲃⲟⲧⲉ ·
 1-7	ⲡⲉⲛⲧⲁϥⲧⲣⲉⲡϭⲱⲛⲧ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24756,7 +24756,7 @@
 19	ⲃⲟⲧⲉ	ⲃⲟⲧⲉ	NOUN	N	_	15	obl	_	_
 20	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0093
+# sent_id = dormition_john-dormition.john.mercad_s0093
 # text = ⲡⲉⲛⲧⲁϥⲛⲁϩⲙⲧ ⲉⲃⲟⲗ ϩⲛⲛⲉⲫⲁⲛⲧⲁⲥⲓⲁ ⲙⲡⲣⲟⲥⲟⲩⲟⲉⲓϣ · ⲉⲁϥϩⲁⲣⲉϩ ⲉⲣⲟⲓ ⲉⲡⲱⲛϩ ⲉⲧⲙⲏⲛ ⲉⲃⲟⲗ ·
 1-6	ⲡⲉⲛⲧⲁϥⲛⲁϩⲙⲧ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24792,7 +24792,7 @@
 25	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	24	advmod	_	_
 26	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0094
+# sent_id = dormition_john-dormition.john.mercad_s0094
 # text = ⲡⲉⲛⲧⲁϥⲁⲁⲧ ⲛϣⲙⲙⲟ ⲉⲧⲙⲁⲛⲓⲁ ⲉⲧϩⲟⲟⲩ · ⲧⲁⲓ ⲉⲧϣⲟⲟⲡ ϩⲛⲧⲥⲁⲣⲝ ⲉⲁϥⲧⲣⲁⲟⲩⲉ ⲉⲃⲟⲗ ⲙⲡⲙⲟⲩ ⲉⲧⲥⲁϣⲉ ·
 1-6	ⲡⲉⲛⲧⲁϥⲁⲁⲧ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24837,7 +24837,7 @@
 32	ⲥⲁϣⲉ	ⲥⲓϣⲉ	VERB	VSTAT	_	30	acl	_	_
 33	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0095
+# sent_id = dormition_john-dormition.john.mercad_s0095
 # text = ⲡⲉⲛⲧⲁϥⲛⲁϩⲙⲉⲧ ⲉⲡⲙⲟⲩ ⲙⲙⲉϩⲥⲛⲁⲩ · ⲉⲧⲉⲧⲅⲉϩⲉⲛⲛⲁ ⲛⲥⲁⲧⲉ ⲧⲉ · ⲉⲁⲕⲧⲁϩⲟⲓ ⲉⲣⲁⲧ ⲉⲓⲟⲩⲁⲁⲃ ·
 1-6	ⲡⲉⲛⲧⲁϥⲛⲁϩⲙⲉⲧ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	_
@@ -24878,7 +24878,7 @@
 29	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	_	23	advcl	_	_
 30	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0096
+# sent_id = dormition_john-dormition.john.mercad_s0096
 # text = ⲡⲉⲛⲧⲁϥⲧⲱⲙ ⲉⲣⲱϥ ⲙⲡϣⲱⲛⲉ ⲉⲧϩⲏⲡ ⲛⲧⲁⲯⲩⲭⲏ ·
 1-5	ⲡⲉⲛⲧⲁϥⲧⲱⲙ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24903,7 +24903,7 @@
 16	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	_	13	obl	_	_
 17	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0097
+# sent_id = dormition_john-dormition.john.mercad_s0097
 # text = ⲁⲩⲱ ⲁⲕϣⲱϣⲧ ⲉⲃⲟⲗ ⲛⲧⲉⲡⲣⲁⲝⲓⲥ ⲉⲧϩⲏⲡ · ⲏ ⲡϩⲱⲃ ⲉⲧⲟⲩⲟⲛϩ ⲉⲃⲟⲗ · ⲡⲁⲓ ⲉϣⲁⲩⲧⲁⲁϥ ϩⲙⲡⲥⲱⲙⲁ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	Orig=ⲁⲩⲱ̅
 2-4	ⲁⲕϣⲱϣⲧ	_	_	_	_	_	_	_	_
@@ -24941,7 +24941,7 @@
 27	ⲥⲱⲙⲁ	ⲥⲱⲙⲁ	NOUN	N	_	23	obl	_	_
 28	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0098
+# sent_id = dormition_john-dormition.john.mercad_s0098
 # text = ⲡⲉⲛⲧⲁϥⲛⲁϩⲙⲉⲧ · ⲁⲩⲱ ⲁϥⲛⲟⲩϫⲉ ⲉⲃⲟⲗ ⲛϩⲏⲧ · ⲙⲡⲉⲧϣⲧⲟⲣⲧⲣ ⲙⲙⲟⲓ ·
 1-6	ⲡⲉⲛⲧⲁϥⲛⲁϩⲙⲉⲧ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24969,7 +24969,7 @@
 20	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	18	obl	_	Orig=ⲓ̅
 21	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0099
+# sent_id = dormition_john-dormition.john.mercad_s0099
 # text = ⲡⲉⲛⲧⲁϥⲥⲟⲃⲧⲉ ⲛⲧⲁϭⲓⲛⲃⲱⲕ ϣⲁⲣⲟϥ ⲉⲥⲟⲩⲁⲁⲃ ·
 1-5	ⲡⲉⲛⲧⲁϥⲥⲟⲃⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -24990,7 +24990,7 @@
 13	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	_	8	acl	_	_
 14	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0100
+# sent_id = dormition_john-dormition.john.mercad_s0100
 # text = ⲡⲉⲛⲧⲁϥⲕⲁⲛⲁⲙⲉⲉⲩⲉ ⲉⲩϣⲟⲟⲡ ⲉϩⲟⲩⲛ ⲉⲣⲟϥ ⲛⲁⲧⲧⲱⲗⲙ ·
 1-7	ⲡⲉⲛⲧⲁϥⲕⲁⲛⲁⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -25013,7 +25013,7 @@
 15	ⲁⲧⲧⲱⲗⲙ	ⲁⲧⲧⲱⲗⲙ	NOUN	N	_	10	obl	_	Morphs=ⲁⲧ-ⲧⲱⲗⲙ|Orig=ⲁⲧⲧⲱⲗⲙ̅
 16	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0101
+# sent_id = dormition_john-dormition.john.mercad_s0101
 # text = ⲡⲉⲛⲧⲁϥⲭⲁⲣⲓⲍⲉ ⲛⲁⲓ ⲛⲧⲉϥⲡⲓⲥⲧⲓⲥ ⲉⲛⲥⲡⲏϣ ⲁⲛ ·
 1-5	ⲡⲉⲛⲧⲁϥⲭⲁⲣⲓⲍⲉ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -25036,7 +25036,7 @@
 15	ⲁⲛ	ⲁⲛ	ADV	NEG	_	14	advmod	_	_
 16	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0102
+# sent_id = dormition_john-dormition.john.mercad_s0102
 # text = ⲡⲉⲛⲧⲁϥⲧⲣⲉⲛⲁⲙⲉⲉⲩⲉ · ⲙⲛⲛⲁϣⲟϫⲛⲉ ϣⲱⲡⲉ ⲉⲩⲣϩⲟⲩⲟ ⲉϩⲟⲩⲛ ⲉⲣⲟϥ ·
 1-7	ⲡⲉⲛⲧⲁϥⲧⲣⲉⲛⲁⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -25062,7 +25062,7 @@
 18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	15	obl	_	_
 19	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0103
+# sent_id = dormition_john-dormition.john.mercad_s0103
 # text = ⲡⲉⲧϯ ⲙⲡⲟⲩⲁ ⲡⲟⲩⲁ · ⲕⲁⲧⲁⲛⲉϥϩⲃⲏⲩⲉ ·
 1-3	ⲡⲉⲧϯ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -25082,7 +25082,7 @@
 12	ϩⲃⲏⲩⲉ	ϩⲱⲃ	NOUN	N	_	3	obl	_	_
 13	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0104
+# sent_id = dormition_john-dormition.john.mercad_s0104
 # text = ⲡⲉⲛⲧⲁϥⲕⲱ ϩⲣⲁⲓ ϩⲛⲧⲁⲯⲩⲭⲏ · ⲉⲧⲙⲕⲁⲗⲁⲁⲩ ⲛⲁⲓ · ⲛⲥⲁⲃⲗⲗⲁⲕ ⲙⲁⲩⲁⲁⲕ ⲡϫⲟⲉⲓⲥ ·
 1-5	ⲡⲉⲛⲧⲁϥⲕⲱ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
@@ -25116,7 +25116,7 @@
 23	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	1	vocative	_	_
 24	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0105
+# sent_id = dormition_john-dormition.john.mercad_s0105
 # text = ⲟⲩ ⲅⲁⲣ ⲡⲉⲧⲓⲛⲁϩⲉ ⲉⲣⲟϥ ⲉϥⲥⲱⲧⲡ · ⲉϥⲧⲃⲃⲏⲩ ⲉϩⲟⲩⲟ ⲉⲣⲟⲕ ·
 1	ⲟⲩ	ⲟⲩ	PRON	PINT	_	0	root	_	Orig=Ⲟⲩ`
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	1	advmod	_	_
@@ -25146,7 +25146,7 @@
 20	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	18	nmod	_	_
 21	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0106
+# sent_id = dormition_john-dormition.john.mercad_s0106
 # text = ⲧⲉⲛⲟⲩ ⲇⲉ ⲁⲓϩⲉ ⲉⲣⲟⲕ · ⲁⲩⲱ ⲁⲓϫⲱⲕ ⲉⲃⲟⲗ ⲛⲧⲟⲓⲕⲟⲛⲟⲙⲓⲁ ⲛⲧⲁⲕⲧⲁⲛϩⲟⲩⲧ ⲉⲣⲟⲥ ·
 1	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	5	advmod	_	Orig=Ⲧⲉⲛⲟⲩ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	Orig=ⲇⲉ`
@@ -25178,7 +25178,7 @@
 22	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	20	obl	_	_
 23	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0107
+# sent_id = dormition_john-dormition.john.mercad_s0107
 # text = ⲁⲁⲧ ⲟⲩⲛ ⲛⲙⲡϣⲁ ⲉⲧⲣⲉⲕϯⲙⲧⲟⲛ ⲛⲁⲓ ϩⲛⲧⲉⲕⲁⲛⲁⲡⲁⲩⲥⲓⲥ ⲉⲧⲟⲩⲁⲁⲃ · ⲛⲅⲭⲁⲣⲓⲍⲉ ⲛⲁⲓ ⲛⲧⲙⲛⲧⲧⲉⲗⲓⲟⲥ ⲉⲧⲛϩⲏⲧⲕ · ⲉⲧⲉⲧⲙⲛⲧⲁⲧⲛⲟⲃⲉ ⲧⲉ · ⲙⲛⲡⲟⲩϫⲁⲓ ⲛⲁⲧϣⲁϫⲉ ⲉⲣⲟϥ · ⲁⲩⲱ ⲛⲁⲧϩⲉⲧϩⲱⲧϥ · ⲁⲩⲱ ⲛⲁⲧⲧⲁϩⲟϥ · ⲉⲓⲛⲏⲩ ϣⲁⲣⲟⲕ ⲡⲁϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ ·
 1-2	ⲁⲁⲧ	_	_	_	_	_	_	_	_
 1	ⲁⲁ	ⲉⲓⲣⲉ	VERB	V	_	0	root	_	Orig=Ⲁⲁ
@@ -25264,7 +25264,7 @@
 62	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	59	appos	_	Orig=ⲭ̅ⲥ̅
 63	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0108
+# sent_id = dormition_john-dormition.john.mercad_s0108
 # text = ⲙⲁⲣⲉϥϩⲣⲟⲕ ⲛϭⲓⲡⲕⲱϩⲧ · ⲛⲧⲉⲡⲕⲁⲕⲉ ⲁⲛⲁⲭⲱⲣⲉⲓ ⲛⲁϥ · ⲛⲧⲉⲡⲉⲭⲁⲟⲥ ⲣϭⲱⲃ · ⲛⲧⲉⲧⲉϩⲣⲱ ⲛⲥⲁⲧⲉ ϣⲱⲡⲉ ⲛⲁⲧϭⲟⲙ · ⲛⲧⲉⲧⲅⲉϩⲉⲛⲛⲁ ⲱϣⲙ · ⲁⲩⲱ ⲛⲥⲉⲟⲩⲁϩⲟⲩ ⲛⲥⲱⲓ ⲛϭⲓⲛⲁⲅⲅⲉⲗⲟⲥ ⲉⲧⲟⲩⲁⲁⲃ · ⲛⲧⲉⲛⲇⲁⲓⲙⲟⲛⲓⲟⲛ ⲣϩⲟⲧⲉ · ⲛⲥⲉⲟⲩⲱϣϥ ⲛϭⲓⲛⲁⲣⲭⲱⲛ · ⲛⲧⲉⲛⲇⲩⲛⲁⲙⲓⲥ ⲙⲡⲕⲁⲕⲉ ⲁⲛⲁⲭⲱⲣⲉⲓ ⲛⲁⲩ ⲛⲥⲉϩⲉ ⲉⲡⲉⲥⲏⲧ ⲛⲧⲉⲛⲧⲟⲡⲟⲥ ⲉⲧϩⲓⲟⲩⲛⲁⲙ ⲁϩⲉⲣⲁⲧⲟⲩ ·
 1-3	ⲙⲁⲣⲉϥϩⲣⲟⲕ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	3	aux	_	_
@@ -25375,7 +25375,7 @@
 83	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	82	det	_	_
 84	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0109
+# sent_id = dormition_john-dormition.john.mercad_s0109
 # text = ⲙⲁⲣⲉⲡⲇⲓⲁⲃⲟⲗⲟⲥ ϫⲓϣⲓⲡⲉ · ⲛⲥⲉⲥⲱⲃⲉ ⲛⲥⲁⲡⲥⲁⲧⲁⲛⲁⲥ ·
 1-3	ⲙⲁⲣⲉⲡⲇⲓⲁⲃⲟⲗⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	4	aux	_	Orig=Ⲙⲁⲣⲉ
@@ -25393,7 +25393,7 @@
 11	ⲥⲁⲧⲁⲛⲁⲥ	ⲥⲁⲧⲁⲛⲁⲥ	PROPN	NPROP	_	8	obl	_	_
 12	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0110
+# sent_id = dormition_john-dormition.john.mercad_s0110
 # text = ⲙⲁⲣⲉⲡⲉϥϭⲱⲛⲧ ⲱϣⲙ · ⲛⲧⲉⲧⲉϥⲙⲁⲛⲓⲁ ϩⲣⲟⲕ ⲙⲙⲟⲥ ·
 1-3	ⲙⲁⲣⲉⲡⲉϥϭⲱⲛⲧ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	4	aux	_	Orig=ⲙⲁⲢⲉ
@@ -25411,7 +25411,7 @@
 11	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	9	obl	_	_
 12	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0111
+# sent_id = dormition_john-dormition.john.mercad_s0111
 # text = ⲙⲁⲣⲉⲡⲉϥⲧⲁⲓⲟ ϫⲓϣⲓⲡⲉ · ⲛⲧⲉⲧⲉϥⲟⲣⲅⲏ ⲟⲩⲱϣϥ · ⲙⲁⲣⲟⲩⲥⲉⲕⲛⲉϥϣⲏⲣⲉ ⲉⲡⲉⲥⲏⲧ ⲛⲥⲉⲡⲉⲣⲕⲧⲉⲩⲛⲟⲩⲛⲉ ⲧⲏⲣⲥ ·
 1-3	ⲙⲁⲣⲉⲡⲉϥⲧⲁⲓⲟ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	4	aux	_	Orig=Ⲙⲁⲣⲉ
@@ -25448,7 +25448,7 @@
 26	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	25	det	_	Orig=ⲥ̅
 27	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0112
+# sent_id = dormition_john-dormition.john.mercad_s0112
 # text = ⲙⲁ ⲛⲁⲓ ⲛⲧⲉⲝⲟⲩⲥⲓⲁ ⲉⲧⲣⲁⲙⲟⲟϣⲉ · ⲁⲩⲱ ⲛⲧⲁϫⲉⲕⲧⲁϩⲓⲏ ⲉⲃⲟⲗ ⲁϫⲛϩⲓⲥⲉ ϩⲓϣⲧⲟⲣⲧⲣ · ⲉⲓⲛⲏⲩ ϣⲁⲣⲟⲕ ⲡⲁϫⲟⲉⲓⲥ ϫⲉⲕⲁⲥ ⲉⲓⲉϫⲓ ⲛⲛⲁⲅⲁⲑⲟⲛ ⲛⲛⲉⲛⲧⲁⲩⲱⲛϩ · ϩⲛⲟⲩⲟⲡ ·
 1	ⲙⲁ	ϯ	VERB	VIMP	_	0	root	_	Orig=Ⲙⲁ`
 2-3	ⲛⲁⲓ	_	_	_	_	_	_	_	_
@@ -25510,7 +25510,7 @@
 45	ⲟⲩⲟⲡ	ⲟⲩⲟⲡ	NOUN	N	_	42	obl	_	_
 46	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0113
+# sent_id = dormition_john-dormition.john.mercad_s0113
 # text = ⲛⲁⲓ ⲇⲉ ⲛⲧⲉⲣⲉϥϫⲟⲟⲩ · ⲛϭⲓⲓⲱϩⲁⲛⲛⲏⲥ ⲡⲑⲉⲟⲗⲟⲅⲟⲥ · ⲉϥϭⲱϣⲧ ⲉⲙⲙⲁ ⲛϣⲁ ⲉϥϯⲉⲟⲟⲩ ⲙⲡⲛⲟⲩⲧⲉ ·
 1	ⲛⲁⲓ	ⲛⲁⲓ	DET	PDEM	_	5	dislocated	_	Orig=Ⲛⲁⲓ̅
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	15	advmod	_	Orig=ⲇⲉ`
@@ -25548,7 +25548,7 @@
 26	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	23	obl	_	_
 27	·	·	PUNCT	PUNCT	_	15	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0114
+# sent_id = dormition_john-dormition.john.mercad_s0114
 # text = ⲉⲁϥⲡⲉⲣϣⲛⲉϥϭⲓϫ ⲟⲛ ⲉⲃⲟⲗ ⲁϥϣⲗⲏⲗ · ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲛⲧⲟⲕ ⲕϣⲟⲟⲡ ⲛⲙⲙⲁⲓ · ⲡⲁϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ ·
 1-6	ⲉⲁϥⲡⲉⲣϣⲛⲉϥϭⲓϫ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	Orig=Ⲉ
@@ -25591,7 +25591,7 @@
 30	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	27	appos	_	Orig=ⲭ̅ⲥ̅
 31	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0115
+# sent_id = dormition_john-dormition.john.mercad_s0115
 # text = ⲁⲩⲱ ⲛⲧⲉⲩⲛⲟⲩ ⲁϥϥⲟϭϥ ⲉⲡⲉⲥⲏⲧ ⲉⲡϣⲓⲕ ⲛⲧⲁⲩϣⲁⲕⲧϥ · ⲡⲙⲁ ⲉⲧⲉⲛⲉϥϩⲟⲓⲧⲉ ⲡⲟⲣϣ ⲛϩⲏⲧϥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	Orig=Ⲁⲩⲱ̅
 2-4	ⲛⲧⲉⲩⲛⲟⲩ	_	_	_	_	_	_	_	_
@@ -25631,7 +25631,7 @@
 28	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	26	obl	_	Orig=ϥ̅
 29	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0116
+# sent_id = dormition_john-dormition.john.mercad_s0116
 # text = ⲁⲩⲱ ⲛⲧⲉⲣⲉϥϫⲟⲟⲥ ⲛⲁⲩ ϫⲉⲧⲉⲓⲣⲏⲛⲏ ⲁⲩⲱ ⲧⲉⲭⲁⲣⲓⲥ · ⲁϥⲕⲁⲛⲉⲥⲛⲏⲩ ⲉⲃⲟⲗ · ⲁⲩⲃⲱⲕ ⲁⲩⲉⲓ ⲉⲃⲟⲗ ⲙⲡⲉϥⲣⲁⲥⲧⲉ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	17	cc	_	Orig=ⲁⲩⲱ̅
 2-5	ⲛⲧⲉⲣⲉϥϫⲟⲟⲥ	_	_	_	_	_	_	_	_
@@ -25674,7 +25674,7 @@
 31	ⲣⲁⲥⲧⲉ	ⲣⲁⲥⲧⲉ	NOUN	N	_	27	obl	_	_
 32	·	·	PUNCT	PUNCT	_	17	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0117
+# sent_id = dormition_john-dormition.john.mercad_s0117
 # text = ⲛⲧⲟϥ ⲙⲉⲛ ⲙⲡⲟⲩϩⲉ ⲉⲣⲟϥ · ⲁⲗⲗⲁ ⲁⲩϩⲉ ⲉⲡⲉϥⲥⲁⲛⲇⲁⲗⲓⲟⲛ · ⲙⲛⲟⲩⲕⲁϩ ⲛⲃⲣⲣⲉ ϩⲣⲁⲓ ϩⲙⲡⲙⲁ ⲛⲧⲁϥⲃⲱⲕ ⲉⲡⲉⲥⲏⲧ ⲉⲣⲟϥ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	5	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲙⲉⲛ	ⲙⲉⲛ	PART	PTC	_	5	advmod	_	Orig=ⲙⲉⲛ`
@@ -25722,7 +25722,7 @@
 34	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	29	obl	_	_
 35	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0118
+# sent_id = dormition_john-dormition.john.mercad_s0118
 # text = ⲁⲩⲣⲡⲙⲉⲉⲩⲉ ⲗⲟⲓⲡⲟⲛ ⲙⲡϣⲁϫⲉ · ⲛⲧⲁⲡϫⲟⲉⲓⲥ ϫⲟⲟϥ ⲙⲡⲉⲧⲣⲟⲥ ϫⲉⲉⲓϣⲁⲛⲟⲩⲱϣ ⲉⲧⲣⲉϥϭⲱ ϣⲁⲛⲧⲓⲉⲓ · ⲛⲧⲕ ⲛⲓⲙ ⲛⲧⲟⲕ ⲟⲩⲁϩⲕ ⲛⲥⲱⲓ ·
 1-5	ⲁⲩⲣⲡⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	AUX	_	3	aux	_	Orig=Ⲁ
@@ -25772,7 +25772,7 @@
 36	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	33	obl	_	Orig=ⲓ̈
 37	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0119
+# sent_id = dormition_john-dormition.john.mercad_s0119
 # text = ⲁⲩⲱ ⲁⲩϯⲉⲟⲟⲩ ⲙⲡϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ · ⲉϫⲛⲧⲉϣⲡⲏⲣⲉ ⲛⲧⲁⲥϣⲱⲡⲉ ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ · ⲁⲩⲱ ⲛⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ · ⲁⲩⲱ ⲡⲑⲉⲟⲗⲟⲅⲟⲥ · ⲁⲩⲱ ⲡⲡⲁⲣⲑⲉⲛⲟⲥ ⲉⲧⲟⲩⲁⲁⲃ · ⲡϩⲁⲅⲓⲟⲥ ⲓⲱϩⲁⲛⲛⲏⲥ · ⲡⲙⲉⲣⲓⲧ ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲛϫⲟⲉⲓⲥ · ⲁⲩⲱ ⲡⲉⲛⲛⲟⲩⲧⲉ · ⲁⲩⲱ ⲡⲉⲛⲥⲱⲧⲏⲣ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	Orig=Ⲁⲩⲱ̅
 2-4	ⲁⲩϯⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
@@ -25851,7 +25851,7 @@
 58	ⲥⲱⲧⲏⲣ	ⲥⲱⲧⲏⲣ	NOUN	N	_	50	conj	_	_
 59	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = john_repose-BritMusOriental6782_2a_9a_s0120
+# sent_id = dormition_john-dormition.john.mercad_s0120
 # text = ⲡⲁⲓ ⲉⲣⲉⲉⲟⲟⲩ ⲛⲓⲙ ⲡⲣⲉⲡⲉⲓ ⲙⲡⲉⲓⲱⲧ ⲛⲙⲙⲁϥ · ⲙⲛⲡⲉⲡⲛⲉⲩⲙⲁ ⲉⲧⲟⲩⲁⲁⲃ · ⲛⲣⲉϥⲧⲁⲛϩⲟ ⲙⲡⲧⲏⲣϥ · ⲁⲩⲱ ⲛϩⲟⲙⲟⲟⲩⲥⲓⲟⲛ · ⲧⲉⲛⲟⲩ · ⲁⲩⲱ ⲛⲟⲩⲟⲉⲓϣ ⲛⲓⲙ · ϣⲁⲛⲁⲓⲱⲛ ⲧⲏⲣⲟⲩ ⲛⲛⲁⲓⲱⲛ ϩⲁⲙⲏⲛ :—
 1	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	0	root	_	Orig=Ⲡⲁⲓ̅
 2-3	ⲉⲣⲉⲉⲟⲟⲩ	_	_	_	_	_	_	_	_

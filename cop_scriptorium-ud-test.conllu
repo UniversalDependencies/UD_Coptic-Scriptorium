@@ -7485,36 +7485,37 @@
 6	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
 7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
 8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
-9	ϫⲟⲟⲩ	ϫⲟⲟⲩ	VERB	V	VerbForm=Fin	2	csubj	_	_
-10-12	ϩⲓϫⲛⲙⲙⲁ	_	_	_	_	_	_	_	_
-10	ϩⲓϫⲛ	ϩⲓϫⲛ	ADP	PREP	_	12	case	_	_
-11	ⲙ	ⲡ	DET	ART	_	12	det	_	_
-12	ⲙⲁ	ⲙⲁ	NOUN	N	_	9	obl	_	_
-13-14	ⲙⲡⲉⲧⲣⲁ	_	_	_	_	_	_	_	_
-13	ⲙ	ⲛ	ADP	PREP	_	14	case	_	_
-14	ⲡⲉⲧⲣⲁ	ⲡⲉⲧⲣⲁ	NOUN	N	_	12	nmod	_	_
-15-18	ⲉϣⲁⲩⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
-15	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	18	mark	_	_
-16	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	18	aux	_	_
-17	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
-18	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	2	advcl	_	_
-19-21	ⲉⲡϣⲁϫⲉ	_	_	_	_	_	_	_	_
-19	ⲉ	ⲉ	ADP	PREP	_	21	case	_	_
-20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	18	obl	_	_
-22-24	ⲛⲧⲉⲩⲛⲟⲩ	_	_	_	_	_	_	_	_
-22	ⲛ	ⲛ	ADP	PREP	_	24	case	_	_
-23	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
-24	ⲩⲛⲟⲩ	ⲩⲛⲟⲩ	ADV	ADV	_	27	advmod	_	_
-25-28	ϣⲁⲩϫⲓⲧϥ	_	_	_	_	_	_	_	_
-25	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	27	aux	_	_
-26	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	_
-27	ϫⲓⲧ	ϫⲓ	VERB	V	VerbForm=Fin	18	parataxis	_	_
-28	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obj	_	_
-29-31	ϩⲛⲟⲩⲣⲁϣⲉ	_	_	_	_	_	_	_	_
-29	ϩⲛ	ϩⲛ	ADP	PREP	_	31	case	_	_
-30	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	31	det	_	_
-31	ⲣⲁϣⲉ	ⲣⲁϣⲉ	NOUN	N	_	27	obl	_	_
+9	ϫⲟ	ϫⲟ	VERB	V	VerbForm=Fin	2	csubj	_	_
+10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+11-13	ϩⲓϫⲛⲙⲙⲁ	_	_	_	_	_	_	_	_
+11	ϩⲓϫⲛ	ϩⲓϫⲛ	ADP	PREP	_	13	case	_	_
+12	ⲙ	ⲡ	DET	ART	_	13	det	_	_
+13	ⲙⲁ	ⲙⲁ	NOUN	N	_	10	obl	_	_
+14-15	ⲙⲡⲉⲧⲣⲁ	_	_	_	_	_	_	_	_
+14	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
+15	ⲡⲉⲧⲣⲁ	ⲡⲉⲧⲣⲁ	NOUN	N	_	13	nmod	_	_
+16-19	ⲉϣⲁⲩⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
+16	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	19	mark	_	_
+17	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	19	aux	_	_
+18	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
+19	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	2	advcl	_	_
+20-22	ⲉⲡϣⲁϫⲉ	_	_	_	_	_	_	_	_
+20	ⲉ	ⲉ	ADP	PREP	_	22	case	_	_
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	19	obl	_	_
+23-25	ⲛⲧⲉⲩⲛⲟⲩ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	25	case	_	_
+24	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	ⲩⲛⲟⲩ	ⲩⲛⲟⲩ	ADV	ADV	_	28	advmod	_	_
+26-29	ϣⲁⲩϫⲓⲧϥ	_	_	_	_	_	_	_	_
+26	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	28	aux	_	_
+27	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	28	nsubj	_	_
+28	ϫⲓⲧ	ϫⲓ	VERB	V	VerbForm=Fin	19	parataxis	_	_
+29	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	obj	_	_
+30-32	ϩⲛⲟⲩⲣⲁϣⲉ	_	_	_	_	_	_	_	_
+30	ϩⲛ	ϩⲛ	ADP	PREP	_	32	case	_	_
+31	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	32	det	_	_
+32	ⲣⲁϣⲉ	ⲣⲁϣⲉ	NOUN	N	_	28	obl	_	_
 
 # sent_id = sahidica_mark-Mark_04_s0017
 # text = ⲙⲙⲛⲛⲟⲩⲛⲉ ⲇⲉ ϩⲣⲁⲓ ⲛϩⲏⲧⲟⲩ ⲁⲗⲗⲁ ϩⲛⲡⲣⲟⲥⲟⲩⲟⲉⲓϣ ⲛⲉ ⲉⲣϣⲁⲛⲟⲩⲑⲗⲓⲯⲓⲥ ⲇⲉ ϣⲱⲡⲉ ⲏ ⲟⲩⲇⲓⲱⲅⲙⲟⲥ ⲉⲧⲃⲉ ⲡϣⲁϫⲉ ⲛⲧⲉⲩⲛⲟⲩ ϣⲁⲩⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ .
@@ -7566,25 +7567,26 @@
 5	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	8	mark	_	_
 6	ⲁ	ⲁ	AUX	APST	_	8	aux	_	_
 7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
-8	ϫⲟⲟⲩ	ϫⲟⲟⲩ	VERB	V	VerbForm=Fin	3	csubj	_	_
-9	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	8	advmod	_	_
-10-12	ⲉⲛϣⲟⲛⲧⲉ	_	_	_	_	_	_	_	_
-10	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
-11	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
-12	ϣⲟⲛⲧⲉ	ϣⲟⲛⲧⲉ	NOUN	N	_	8	obl	_	_
-13-14	ⲉⲧⲉⲛⲁⲓ	_	_	_	_	_	_	_	_
-13	ⲉⲧⲉ	ⲉⲧⲉ	PART	CFOC	_	14	mark	_	_
-14	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	3	acl	_	_
-15	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	14	cop	_	_
-16-19	ⲛⲧⲁⲩⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
-16	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	19	mark	_	_
-17	ⲁ	ⲁ	AUX	APST	_	19	aux	_	_
-18	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
-19	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	14	csubj	_	_
-20-22	ⲉⲡϣⲁϫⲉ	_	_	_	_	_	_	_	_
-20	ⲉ	ⲉ	ADP	PREP	_	22	case	_	_
-21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	19	obl	_	_
+8	ϫⲟ	ϫⲟ	VERB	V	VerbForm=Fin	3	csubj	_	_
+9	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERⲞ	Definite=Def|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	8	advmod	_	_
+11-13	ⲉⲛϣⲟⲛⲧⲉ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
+13	ϣⲟⲛⲧⲉ	ϣⲟⲛⲧⲉ	NOUN	N	_	8	obl	_	_
+14-15	ⲉⲧⲉⲛⲁⲓ	_	_	_	_	_	_	_	_
+14	ⲉⲧⲉ	ⲉⲧⲉ	PART	CFOC	_	15	mark	_	_
+15	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	3	acl	_	_
+16	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	15	cop	_	_
+17-20	ⲛⲧⲁⲩⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
+17	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	20	mark	_	_
+18	ⲁ	ⲁ	AUX	APST	_	20	aux	_	_
+19	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
+20	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	15	csubj	_	_
+21-23	ⲉⲡϣⲁϫⲉ	_	_	_	_	_	_	_	_
+21	ⲉ	ⲉ	ADP	PREP	_	23	case	_	_
+22	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	20	obl	_	_
 
 # sent_id = sahidica_mark-Mark_04_s0019
 # text = ⲁⲩⲱ ⲡⲣⲟⲟⲩϣ ⲙⲡⲁⲓⲱⲛ ⲛⲙⲧⲁⲡⲁⲧⲏ ⲛⲧⲙⲛⲧⲣⲙⲙⲁⲟ ⲁⲩⲱ ⲛⲕⲉⲉⲡⲓⲑⲩⲙⲓⲁ ⲉⲧⲃⲏⲕ ⲉϩⲟⲩⲛ ⲉⲣⲟⲟⲩ ⲥⲉⲱϭⲧ ⲙⲡϣⲁϫⲉ ⲁⲩⲱ ⲛϥϯⲕⲁⲣⲡⲟⲥ ⲁⲛ ⲉⲃⲟⲗ
@@ -11915,8 +11917,8 @@
 21	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	ⲡⲓⲥⲧⲓⲥ	ⲡⲓⲥⲧⲓⲥ	NOUN	N	_	19	nmod	_	Orig=ⲡⲓ[ⲥⲧⲓⲥ]
 
-# newdoc id = life.cyrus:BritMusOriental6783_23a_27a
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0001
+# newdoc id = life.cyrus:life.cyrus.01
+# sent_id = life_cyrus-life_cyrus_01_s0001
 # text = ⲡⲃⲓⲟⲥ ⲁⲩⲱ ⲧⲡⲟⲗⲓⲧⲉⲓⲁ ⲙⲡⲉⲛⲡⲉⲧⲟⲩⲁⲁⲃ ⲛⲉⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲩ ⲕⲁⲧⲁⲥⲙⲟⲧ ⲛⲓⲙ ⲡϩⲁⲅⲓⲟⲥ ⲁⲡⲁ ⲕⲩⲣⲟⲥ · ⲡⲧⲉⲗⲓⲟⲥ ⲛⲁⲙⲉ ⲛⲧⲁϥϩⲓⲥⲧⲟⲣⲓⲍⲉ ⲙⲙⲟϥ · ⲛϭⲓⲁⲡⲁ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲛϣⲓⲏⲧ ⲛⲧⲁϥⲙⲧⲟⲛ ⲙⲙⲟϥ ⲛϭⲓⲡⲉⲧⲟⲩⲁⲁⲃ · ⲁⲡⲁ ⲕⲩⲣⲟⲥ ϩⲛⲥⲟⲩϣⲙⲟⲩⲛ ⲙⲡⲉⲃⲟⲧ ⲉⲡⲏⲡ ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ·
 1-2	ⲡⲃⲓⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Orig=Ⲡ
@@ -12006,7 +12008,7 @@
 65	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	62	nmod	_	Orig=ⲚⲞⲨⲦⲈ
 66	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0002
+# sent_id = life_cyrus-life_cyrus_01_s0002
 # text = ⲉⲣⲉⲛⲉϥⲥⲙⲟⲩ ⲉⲧⲟⲩⲁⲁⲃ ⲛⲁⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲱⲛ ⲛⲧⲛⲟⲩϫⲁⲓ ϩⲁⲙⲏⲛ ⁛ —
 1-3	ⲉⲣⲉⲛⲉϥⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	7	mark	_	Orig=ⲈⲢⲈ
@@ -12030,7 +12032,7 @@
 15	⁛	⁛	PUNCT	PUNCT	_	7	punct	_	_
 16	—	—	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0003
+# sent_id = life_cyrus-life_cyrus_01_s0003
 # text = ⲁⲥϣⲱⲡⲉ ⲇⲉ ⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲛⲁⲡⲁ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲛϣⲓⲏⲧ · ⲙⲛⲛⲥⲁⲧⲣⲉϥⲥⲕⲉⲡⲁⲍⲉ ⲙⲡⲥⲱⲙⲁ ⲛⲧⲙⲁⲕⲁⲣⲓⲁ ϩⲓⲗⲗⲁⲣⲓⲁ ⲧϣⲉⲉⲣⲉ ⲙⲡⲣⲣⲟ ⲍⲏⲛⲱⲛ ·
 1-3	ⲁⲥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=Ⲁ
@@ -12080,7 +12082,7 @@
 35	ⲍⲏⲛⲱⲛ	ⲍⲏⲛⲱⲛ	PROPN	NPROP	_	34	appos	_	_
 36	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0004
+# sent_id = life_cyrus-life_cyrus_01_s0004
 # text = ⲁⲩϩⲟⲣⲟⲙⲁ ϭⲱⲗⲡ ⲛⲁϥ ⲉⲃⲟⲗ · ϫⲉⲧⲱⲟⲩⲛ ⲛⲅⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ ϩⲙⲡⲥⲁ ⲙⲡⲱⲕⲉⲁⲛⲟⲥ ·
 1-3	ⲁⲩϩⲟⲣⲟⲙⲁ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
@@ -12110,7 +12112,7 @@
 20	ⲱⲕⲉⲁⲛⲟⲥ	ⲱⲕⲉⲁⲛⲟⲥ	NOUN	N	_	17	nmod	_	Orig=ⲟⲅⲉⲁⲛⲟⲥ
 21	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0005
+# sent_id = life_cyrus-life_cyrus_01_s0005
 # text = ⲕⲛⲁϭⲓⲛⲉ ⲛⲟⲩⲛⲟϭ ⲛⲁⲛⲁⲭⲱⲣⲏⲧⲏⲥ ⲡⲁⲓ ⲉⲧⲉⲙⲡⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ ⲙⲡϣⲁ ⲁⲛ ⲛⲟⲩⲥϣ ⲛⲧⲁϭⲥⲉ ⲛⲟⲩⲱⲧ ⲛⲧⲉⲛⲉϥⲟⲩⲉⲣⲏⲧⲉ ·
 1-3	ⲕⲛⲁϭⲓⲛⲉ	_	_	_	_	_	_	_	_
 1	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
@@ -12150,7 +12152,7 @@
 27	ⲟⲩⲉⲣⲏⲧⲉ	ⲟⲩⲉⲣⲏⲧⲉ	NOUN	N	_	20	nmod	_	Orig=ⲟⲩⲟⲩⲣⲏⲏⲧⲉ
 28	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0006
+# sent_id = life_cyrus-life_cyrus_01_s0006
 # text = ⲛⲧⲟϥ ⲇⲉ ⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲁϥⲧⲱⲟⲩⲛ ⲁϥⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ ϩⲙⲡⲧⲟⲟⲩ ϩⲓⲧⲛⲧϭⲟⲙ ⲙⲡⲛⲟⲩⲧⲉ ⲉⲧϣⲟⲟⲡ ⲛⲙⲙⲁϥ ⲛⲧϩⲉ ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲛⲧⲱⲛⲓⲟⲥ · ϩⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲛⲧⲁϥⲙⲟⲟϣⲉ ⲁϥⲃⲱⲕ ϣⲁⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲡⲁ ⲡⲁⲩⲗⲟⲥ ⲡⲙⲉϩⲥⲛⲁⲩ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	10	advmod	_	_
@@ -12221,7 +12223,7 @@
 52	ⲙⲉϩⲥⲛⲁⲩ	ⲙⲉϩⲥⲛⲁⲩ	NOUN	N	_	45	obl:npmod	_	Morphs=ⲙⲉϩ-ⲥⲛⲁⲩ
 53	·	·	PUNCT	PUNCT	_	10	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0007
+# sent_id = life_cyrus-life_cyrus_01_s0007
 # text = ⲛⲧⲟϥ ⲇⲉ ⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲡⲁ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲁϥⲧⲱⲟⲩⲛ ⲁϥⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ ϩⲙⲡϫⲁⲓⲉ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	11	advmod	_	_
@@ -12248,7 +12250,7 @@
 18	ϫⲁⲓⲉ	ϫⲁⲓⲉ	NOUN	N	_	14	obl	_	_
 19	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0008
+# sent_id = life_cyrus-life_cyrus_01_s0008
 # text = ⲁϥⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲛⲟⲩⲕⲁⲧⲁⲅⲁⲓⲟⲛ ·
 1-3	ⲁϥⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -12261,7 +12263,7 @@
 7	ⲕⲁⲧⲁⲅⲁⲓⲟⲛ	ⲕⲁⲧⲁⲅⲁⲓⲟⲛ	NOUN	N	_	3	obl	_	Orig=ⲕⲁⲧⲁⲅⲓⲟⲛ
 8	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0009
+# sent_id = life_cyrus-life_cyrus_01_s0009
 # text = ⲁϥⲁϩⲉⲣⲁⲧϥ ⲁϥⲕⲱⲗϩ ⲉϩⲟⲩⲛ ⲉⲡⲣⲟ ⲛⲁⲧϣⲁⲩ ⲛⲟⲩⲟⲩⲛⲟⲩ
 1-5	ⲁϥⲁϩⲉⲣⲁⲧϥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -12286,7 +12288,7 @@
 16	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
 17	ⲟⲩⲛⲟⲩ	ⲟⲩⲛⲟⲩ	NOUN	N	_	8	obl	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0010
+# sent_id = life_cyrus-life_cyrus_01_s0010
 # text = ⲁϥⲙⲟⲩⲧⲉ ⲛϣⲟⲙⲛⲧ ⲛⲥⲟⲡ · ⲕⲁⲧⲁⲡⲕⲁⲛⲱⲛ ⲛⲛⲉⲥⲛⲏⲩ ⲙⲙⲟⲛⲁⲭⲟⲥ · ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲥⲙⲟⲩ ⲉⲣⲟⲓ ·
 1-3	ⲁϥⲙⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -12326,7 +12328,7 @@
 26	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	24	obl	_	Orig=ⲓ̈
 27	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0011
+# sent_id = life_cyrus-life_cyrus_01_s0011
 # text = ⲁⲩⲱ ⲉⲧⲓ ⲉⲓⲁϩⲉⲣⲁⲧ ϩⲓⲡⲣⲟ ⲁⲛⲟⲕ ⲡⲁⲙⲃⲱ · ⲁⲡⲥⲟⲛ ⲣⲟⲩⲱ ⲛⲁⲓ ϩⲙⲡⲥⲁ ⲛϩⲟⲩⲛ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲭⲁⲓⲣⲉ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲛϣⲓⲏⲧ ⲡⲛⲟϭ ⲛϫⲟⲓ ⲉⲧⲣϩⲱⲧ ϩⲙⲡϫⲁⲓⲉ ⲛⲁⲧⲙⲟⲟⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	16	cc	_	_
 2	ⲉⲧⲓ	ⲉⲧⲓ	ADV	ADV	_	5	advmod	_	Orig=ⲉⲧⲉⲓ
@@ -12394,7 +12396,7 @@
 48	ⲁⲧⲙⲟⲟⲩ	ⲁⲧⲙⲟⲟⲩ	NOUN	N	_	46	nmod	_	Morphs=ⲁⲧ-ⲙⲟⲟⲩ
 49	·	·	PUNCT	PUNCT	_	16	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0012
+# sent_id = life_cyrus-life_cyrus_01_s0012
 # text = ⲉⲓⲥⲛⲟϭ ⲅⲁⲣ ⲛⲟⲩⲟⲉⲓϣ ϯⲉⲡⲓⲑⲩⲙⲉⲓ ⲉⲛⲁⲩ ⲉⲣⲟⲕ ·
 1-2	ⲉⲓⲥⲛⲟϭ	_	_	_	_	_	_	_	_
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	2	advmod	_	Orig=Ⲉⲓⲥ
@@ -12414,7 +12416,7 @@
 11	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obl	_	_
 12	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0013
+# sent_id = life_cyrus-life_cyrus_01_s0013
 # text = ⲉⲓⲥ ⲡⲁⲟⲩⲱϣ ⲁⲡⲛⲟⲩⲧⲉ ϫⲟⲕϥ ⲛⲁⲓ ⲉⲃⲟⲗ · ⲙⲡⲟⲟⲩ ·
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	7	advmod	_	_
 2-3	ⲡⲁⲟⲩⲱϣ	_	_	_	_	_	_	_	_
@@ -12438,7 +12440,7 @@
 15	ⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	7	obl	_	_
 16	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0014
+# sent_id = life_cyrus-life_cyrus_01_s0014
 # text = ⲁⲙⲟⲩ ⲉϩⲟⲩⲛ ⲡⲣⲱⲙⲉ ⲉⲧⲥⲙⲁⲙⲁⲁⲧ ⁛ —
 1	ⲁⲙⲟⲩ	ⲉⲓ	VERB	VIMP	VerbForm=Fin	0	root	_	_
 2	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	1	advmod	_	_
@@ -12451,7 +12453,7 @@
 7	⁛	⁛	PUNCT	PUNCT	_	1	punct	_	_
 8	—	—	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0015
+# sent_id = life_cyrus-life_cyrus_01_s0015
 # text = ⲁϥⲟⲩⲱϣⲃ ⲛϭⲓⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲭⲁⲓⲣⲉ · ⲁⲡⲁ ϩⲓⲉⲣⲁⲝ · ⲡⲉⲛⲧⲁϥⲣϣⲃⲏⲣ ⲉⲛⲁⲅⲅⲉⲗⲟⲥ ⲙⲡⲛⲟⲩⲧⲉ ⲉⲧⲃⲉⲡⲉϥⲧⲃⲃⲟ ·
 1-3	ⲁϥⲟⲩⲱϣⲃ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=Ⲁ
@@ -12496,7 +12498,7 @@
 32	ⲧⲃⲃⲟ	ⲧⲃⲃⲟ	NOUN	N	_	23	obl	_	Orig=ⲧⲃ̅ⲃⲟ
 33	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0016
+# sent_id = life_cyrus-life_cyrus_01_s0016
 # text = ⲛⲧⲟϥ ⲇⲉ ⲟⲛ ⲁⲡⲁ ϩⲓⲉⲣⲁⲝ ⲁϥⲟⲩⲱⲛ ⲙⲡⲣⲟ · ⲁϥϫⲓⲧϥ · ⲉϩⲟⲩⲛ ⲁⲩϩⲙⲟⲟⲥ ⲙⲛⲛⲉⲩⲉⲣⲏⲩ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	8	advmod	_	_
@@ -12529,7 +12531,7 @@
 24	ⲉⲣⲏⲩ	ⲉⲣⲏⲩ	NOUN	N	PronType=Rcp	21	obl	_	_
 25	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0017
+# sent_id = life_cyrus-life_cyrus_01_s0017
 # text = ⲡⲉϫⲁϥ ⲛⲁϥ ⲛϭⲓⲁⲡⲁ ⲡⲁⲙⲃⲱ ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲁⲡⲁ ϩⲓⲉⲣⲁⲝ · ⲉⲓⲥ ⲁⲟⲩⲏⲣ ⲛⲣⲟⲙⲡⲉ · ϫⲓⲛⲛⲧⲁⲕⲉⲓ ⲉϩⲟⲩⲛ ⲉⲡⲉⲓⲙⲁ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
@@ -12570,7 +12572,7 @@
 29	ⲙⲁ	ⲙⲁ	NOUN	N	_	25	obl	_	_
 30	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0018
+# sent_id = life_cyrus-life_cyrus_01_s0018
 # text = ⲡⲉϫⲁϥ ϫⲉⲉⲓⲥⲙⲛⲧϣⲙⲏⲛ ⲛⲣⲟⲙⲡⲉ ϯ ⲙⲡⲉⲓⲙⲁ · ⲁⲩⲱ ⲙⲡⲓⲟⲩⲉⲙⲗⲁⲁⲩ ⲛⲧⲣⲟⲫⲏ ⲉⲡⲁⲡⲉⲓⲕⲟⲥⲙⲟⲥ ⲡⲉ ⲁⲗⲗⲁ ⲉⲓⲟⲛϩ ⲛⲕⲁⲣⲡⲟⲥ ⲛⲛϣⲏⲛ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲁ
@@ -12617,7 +12619,7 @@
 33	ϣⲏⲛ	ϣⲏⲛ	NOUN	N	_	30	nmod	_	_
 34	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0019
+# sent_id = life_cyrus-life_cyrus_01_s0019
 # text = ⲛⲉⲩⲛⲟⲩⲃⲛⲛⲉ · ⲇⲉ ⲣⲏⲧ · ⲛⲥⲁⲃⲟⲗ ⲙⲡⲉϥⲙⲁ ⲛϣⲱⲡⲉ · ⲉⲥⲧⲁⲩⲟ ⲉⲃⲟⲗ ⲙⲙⲛⲧⲥⲛⲟⲟⲩⲥ ⲛⲗⲟⲟⲩ ⲟⲩⲗⲟⲟⲩ ⲕⲁⲧⲁⲉⲃⲟⲧ ·
 1-4	ⲛⲉⲩⲛⲟⲩⲃⲛⲛⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	7	aux	_	_
@@ -12658,7 +12660,7 @@
 28	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	26	nmod	_	_
 29	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0020
+# sent_id = life_cyrus-life_cyrus_01_s0020
 # text = ⲉϥⲟⲛϩ ⲉⲡⲉⲥⲕⲁⲣⲡⲟⲥ ·
 1-3	ⲉϥⲟⲛϩ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
@@ -12670,7 +12672,7 @@
 6	ⲕⲁⲣⲡⲟⲥ	ⲕⲁⲣⲡⲟⲥ	NOUN	N	_	3	obl	_	_
 7	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0021
+# sent_id = life_cyrus-life_cyrus_01_s0021
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲡⲁⲙⲃⲱ ⲡⲉϫⲁⲓ ⲛⲁϥ ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ⲁⲣⲁ ⲟⲩⲛⲥⲟⲛ ⲙⲡⲉⲕϩⲟⲩⲛ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	4	advmod	_	_
@@ -12698,7 +12700,7 @@
 18	ϩⲟⲩⲛ	ϩⲟⲩⲛ	NOUN	N	_	14	obl	_	_
 19	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0022
+# sent_id = life_cyrus-life_cyrus_01_s0022
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉⲟⲩⲛⲟⲩⲟⲛ
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
@@ -12711,7 +12713,7 @@
 6	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	1	ccomp	_	Orig=ⲟⲩⲛ̅
 7	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	6	nsubj	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0023
+# sent_id = life_cyrus-life_cyrus_01_s0023
 # text = ⲥⲙⲟⲩ ⲉⲣⲟⲓ ⲛⲅⲃⲱⲕ ϣⲁⲣⲟⲟⲩ · ⲛⲅϫⲓⲥⲙⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ ·
 1	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
 2-3	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
@@ -12735,7 +12737,7 @@
 15	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	obl	_	_
 16	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0024
+# sent_id = life_cyrus-life_cyrus_01_s0024
 # text = ⲛⲧⲉⲣⲓⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲉϩⲟⲩⲛ ϩⲙⲡⲧⲟⲟⲩ ⲁⲓⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲛⲟⲩⲕⲟⲩⲓ ⲛⲕⲁⲧⲁⲅⲉⲓⲟⲛ ·
 1-3	ⲛⲧⲉⲣⲓⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -12764,7 +12766,7 @@
 19	ⲕⲁⲧⲁⲅⲉⲓⲟⲛ	ⲕⲁⲧⲁⲅⲉⲓⲟⲛ	NOUN	N	_	17	nmod	_	Orig=ⲕⲁⲧⲁⲅⲓⲟⲛ
 20	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0025
+# sent_id = life_cyrus-life_cyrus_01_s0025
 # text = ⲁⲓⲙⲟⲩⲧⲉ ⲉϩⲟⲩⲛ ⲕⲁⲧⲁⲡⲕⲁⲛⲱⲛ ⲛⲛⲉⲥⲛⲏⲩ ⲙⲙⲟⲛⲁⲭⲟⲥ ·
 1-3	ⲁⲓⲙⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -12784,7 +12786,7 @@
 12	ⲙⲟⲛⲁⲭⲟⲥ	ⲙⲟⲛⲁⲭⲟⲥ	NOUN	N	_	10	nmod	_	Orig=ⲙⲟⲛⲟⲭⲟⲥ
 13	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0026
+# sent_id = life_cyrus-life_cyrus_01_s0026
 # text = ⲉⲧⲓ ⲉⲓⲁϩⲉⲣⲁⲧ ϩⲓⲡⲥⲁ ⲛⲃⲟⲗ ⲁⲡⲥⲟⲛ ⲣⲟⲩⲱ ⲛⲁⲓ ϩⲙⲡⲥⲁ ⲛϩⲟⲩⲛ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲭⲁⲓⲣⲉ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲡⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ · ⲛϣⲓⲏⲧ · ⲁⲩⲱ ⲡⲛⲟϭ ⲛϫⲟⲓ ⲉⲧⲣϩⲱⲧ ϩⲙⲡϫⲁⲓⲉ ⲛⲁⲧⲙⲟⲟⲩ ·
 1	ⲉⲧⲓ	ⲉⲧⲓ	ADV	ADV	_	4	advmod	_	Orig=ⲉⲧⲉⲓ
 2-5	ⲉⲓⲁϩⲉⲣⲁⲧ	_	_	_	_	_	_	_	_
@@ -12857,7 +12859,7 @@
 52	ⲁⲧⲙⲟⲟⲩ	ⲁⲧⲙⲟⲟⲩ	NOUN	N	_	50	nmod	_	Morphs=ⲁⲧ-ⲙⲟⲟⲩ
 53	·	·	PUNCT	PUNCT	_	14	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0027
+# sent_id = life_cyrus-life_cyrus_01_s0027
 # text = ⲉⲓⲥⲟⲩⲙⲏⲏϣⲉ ⲛϩⲟⲟⲩ ϯⲉⲡⲓⲑⲩⲙⲉⲓ ⲉⲛⲁⲩ ⲉⲣⲟⲕ ·
 1-3	ⲉⲓⲥⲟⲩⲙⲏⲏϣⲉ	_	_	_	_	_	_	_	_
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	3	advmod	_	Orig=ⲉⲓ̈ⲥ
@@ -12877,7 +12879,7 @@
 11	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obl	_	_
 12	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0028
+# sent_id = life_cyrus-life_cyrus_01_s0028
 # text = ⲗⲟⲓⲡⲟⲛ ⲁⲡϫⲟⲉⲓⲥ ϫⲱⲕ ⲉⲃⲟⲗ ⲙⲡⲁⲟⲩⲱϣ ⲛⲁⲓ ⲙⲡⲟⲟⲩ ·
 1	ⲗⲟⲓⲡⲟⲛ	ⲗⲟⲓⲡⲟⲛ	ADV	ADV	_	5	advmod	_	_
 2-4	ⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
@@ -12899,7 +12901,7 @@
 14	ⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	5	obl	_	_
 15	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0029
+# sent_id = life_cyrus-life_cyrus_01_s0029
 # text = ⲁⲙⲟⲩ ⲉϩⲟⲩⲛ ⲙⲡⲣⲁϩⲉⲣⲁⲧⲕ ϩⲓⲡⲥⲁ ⲛⲃⲟⲗ ·
 1	ⲁⲙⲟⲩ	ⲉⲓ	VERB	VIMP	VerbForm=Fin	0	root	_	_
 2	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	1	advmod	_	_
@@ -12917,7 +12919,7 @@
 11	ⲃⲟⲗ	ⲃⲟⲗ	NOUN	N	_	9	nmod	_	_
 12	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0030
+# sent_id = life_cyrus-life_cyrus_01_s0030
 # text = ⲁⲓⲟⲩⲱϣⲃ ⲛⲁϥ · ⲁⲛⲟⲕ ⲡⲁⲙⲃⲱ ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ⲁⲡⲁ ⲡⲁⲙⲟⲩⲛ · ⲡⲁⲙⲡⲟⲣⲕ ⲕⲩⲣⲓⲟⲥ ⲭⲁⲓⲣⲉ ⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲡⲁⲧⲉϣⲧⲏⲛ ⲛⲁⲩⲁⲛ ⲁⲩⲁⲛ ⲛⲧϩⲉ ⲛⲧⲉϣⲧⲏⲛ · ⲛⲓⲱⲥⲏⲫ ⲡⲇⲓⲕⲁⲓⲟⲥ ·
 1-3	ⲁⲓⲟⲩⲱϣⲃ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -12976,7 +12978,7 @@
 42	ⲇⲓⲕⲁⲓⲟⲥ	ⲇⲓⲕⲁⲓⲟⲥ	NOUN	N	_	40	appos	_	_
 43	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0031
+# sent_id = life_cyrus-life_cyrus_01_s0031
 # text = ⲛⲛⲁϩⲣⲙ ⲡⲛⲟⲩⲧⲉ ⲇⲉ ⲥⲧⲁⲓⲏⲩ ⲛϩⲟⲩⲟ ⲉⲡⲟⲣⲫⲩⲣⲁ ⲛⲓⲙ ⲛⲣⲣⲟ ⲛⲧⲉⲡⲉⲓⲕⲟⲥⲙⲟⲥ ·
 1	ⲛⲛⲁϩⲣⲙ	ⲛⲛⲁϩⲣⲛ	ADP	PREP	_	3	case	_	Orig=ⲛ̅ⲛⲁϩⲣⲙ̅
 2-3	ⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
@@ -13002,7 +13004,7 @@
 16	ⲕⲟⲥⲙⲟⲥ	ⲕⲟⲥⲙⲟⲥ	NOUN	N	_	13	nmod	_	_
 17	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0032
+# sent_id = life_cyrus-life_cyrus_01_s0032
 # text = ⲡⲓⲥⲧⲉⲩⲉ ⲛⲁⲓ ⲛⲁⲥⲛⲏⲩ ⲁⲩⲱ ⲛⲁⲉⲓⲟⲧⲉ · ⲁⲛⲟⲕ ⲡⲁⲙⲃⲱ ⲡⲉⲓⲉⲗⲁⲭⲓⲥⲧⲟⲥ ⲁⲓϣⲱⲗⲙ ⲙⲡⲉⲥϯⲛⲟⲩϥⲉ ⲙⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ⲛⲁⲟⲩⲙⲓⲗⲓⲟⲛ ⲙⲡⲁⲧⲓⲡⲱϩ ⲉⲣⲟϥ ·
 1	ⲡⲓⲥⲧⲉⲩⲉ	ⲡⲓⲥⲧⲉⲩⲉ	VERB	V	VerbForm=Fin	0	root	_	_
 2-3	ⲛⲁⲓ	_	_	_	_	_	_	_	_
@@ -13049,7 +13051,7 @@
 32	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obl	_	_
 33	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0033
+# sent_id = life_cyrus-life_cyrus_01_s0033
 # text = ⲛⲧⲉⲣⲛⲁⲥⲡⲁⲍⲉ ⲇⲉ ⲛⲛⲉⲛⲉⲣⲏⲩ ⲁⲛϣⲗⲏⲗ ⲁⲛϩⲙⲟⲟⲥ
 1-3	ⲛⲧⲉⲣⲛⲁⲥⲡⲁⲍⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=Ⲛ̅ⲧⲉⲣ
@@ -13069,7 +13071,7 @@
 12	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
 13	ϩⲙⲟⲟⲥ	ϩⲙⲟⲟⲥ	VERB	V	VerbForm=Fin	10	parataxis	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0034
+# sent_id = life_cyrus-life_cyrus_01_s0034
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ ϫⲉⲡⲁⲉⲓⲱⲧ ⲉⲓⲉ ⲙⲉⲕⲱϭⲃ ⲛⲧⲉⲡⲣⲱ · ⲟⲩⲇⲉ ⲙⲉⲕⲥⲱϣⲙ ϩⲙⲡϣⲱⲙ ⲉⲕⲫⲟⲣⲉⲓ · ⲛⲧⲉϣⲧⲏⲛ ⲛⲧⲉⲓⲙⲓⲛⲉ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
@@ -13115,7 +13117,7 @@
 32	ⲙⲓⲛⲉ	ⲙⲓⲛⲉ	NOUN	N	_	25	obl	_	_
 33	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0035
+# sent_id = life_cyrus-life_cyrus_01_s0035
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ⲛϭⲓⲁⲡⲁ ⲡⲁⲙⲟⲩⲛ · ⲡⲁⲙⲡⲟⲣⲕ ⲉⲃⲟⲗ ϫⲉⲡⲁⲓ ⲙⲙⲁⲧⲉ · ⲡⲉ ⲡⲉϥⲣⲁⲛ · ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲡⲓⲥⲧⲉⲩⲉ ⲛⲁⲓ ⲱ ⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ϫⲉⲉⲓⲥϫⲟⲩⲱⲧⲉ ⲛⲣⲟⲙⲡⲉ · ϫⲓⲛⲛⲧⲁⲓⲉⲓ ⲉⲡⲉⲓⲙⲁ ⲧⲉⲓϩⲃⲥⲱ ⲛⲟⲩⲱⲧ ⲧⲉⲧⲓϭⲓⲛⲉ ⲛⲧⲁϩⲙⲙⲉ ⲛϩⲏⲧⲥ · ⲛⲧⲉⲡⲣⲱ · ⲁⲩⲱ ⲧⲕⲉⲕⲣⲁⲥⲓⲥ ⲙⲡⲁⲏⲣ ⲙⲡϣⲱⲙ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
@@ -13221,7 +13223,7 @@
 78	ϣⲱⲙ	ϣⲱⲙ	NOUN	N	_	75	parataxis	_	_
 79	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0036
+# sent_id = life_cyrus-life_cyrus_01_s0036
 # text = ⲁⲩⲱ ϯϩⲟⲙⲟⲗⲟⲅⲉⲓ ⲛⲁⲕ · ϫⲉⲧⲁⲓ ⲣⲱϣⲉ ⲉⲣⲟⲓ ϣⲁⲡⲉϩⲟⲟⲩ ⲙⲡⲁⲙⲟⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
 2-3	ϯϩⲟⲙⲟⲗⲟⲅⲉⲓ	_	_	_	_	_	_	_	_
@@ -13248,7 +13250,7 @@
 17	ⲙⲟⲩ	ⲙⲟⲩ	NOUN	N	_	14	nmod	_	_
 18	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0037
+# sent_id = life_cyrus-life_cyrus_01_s0037
 # text = ⲁⲩⲱ ϩⲙⲡⲁⲕⲉⲙⲟⲩ ⲟⲛ ⲥⲣⲱϣⲉ ⲉⲣⲟⲓ ⲛⲥⲉⲥⲟⲩⲗⲟⲩⲱⲗⲧ ⲙⲙⲟⲥ ϣⲁⲡⲉϩⲟⲟⲩ ⲙⲡϩⲁⲡ ⲙⲙⲉ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	_
 2-5	ϩⲙⲡⲁⲕⲉⲙⲟⲩ	_	_	_	_	_	_	_	_
@@ -13284,7 +13286,7 @@
 24	ⲙⲉ	ⲙⲉ	NOUN	N	_	22	nmod	_	_
 25	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0038
+# sent_id = life_cyrus-life_cyrus_01_s0038
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ϫⲉⲁⲣⲁ ⲟⲩⲛⲥⲟⲛ ⲙⲡⲉⲕⲥⲁ ⲛϩⲟⲩⲛ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲁ
@@ -13312,7 +13314,7 @@
 17	ⲛϩⲟⲩⲛ	ⲛϩⲟⲩⲛ	ADV	ADV	_	16	advmod	_	_
 18	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0039
+# sent_id = life_cyrus-life_cyrus_01_s0039
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉⲥⲉ ⲟⲩⲛⲟⲩⲁ ⲙⲙⲁⲩ · ⲉⲣⲉⲡⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ ⲙⲡϣⲁ ⲁⲛ ⲛⲟⲩⲥϣⲛⲧⲁϭⲥⲉ ⲛⲟⲩⲱⲧ · ⲛⲧⲉⲛⲉϥⲟⲩⲣⲏⲏⲧⲉ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
@@ -13353,7 +13355,7 @@
 28	ⲟⲩⲣⲏⲏⲧⲉ	ⲟⲩⲉⲣⲏⲧⲉ	NOUN	N	_	20	nmod	_	_
 29	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0040
+# sent_id = life_cyrus-life_cyrus_01_s0040
 # text = ⲁⲓⲃⲱⲕ ϣⲁⲣⲟϥ ⲛϩⲁϩ ⲛⲥⲟⲡ ⲉⲓⲟⲩⲱϣ ⲉϭⲙⲡϣⲓⲛⲉ ·
 1-3	ⲁⲓⲃⲱⲕ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -13379,7 +13381,7 @@
 16	ϣⲓⲛⲉ	ϣⲓⲛⲉ	NOUN	N	_	14	obj	_	_
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0041
+# sent_id = life_cyrus-life_cyrus_01_s0041
 # text = ⲁⲩⲱ ⲛⲉϣⲁϥⲣⲟⲩⲱ ⲛⲁⲓ ϩⲙⲡⲥⲁ ⲛϩⲟⲩⲛ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲁⲗⲟⲕ ⲉⲕϯϩⲓⲥⲉ ⲛⲁⲕ ⲉⲕⲛⲏⲩ · ⲉⲡⲉⲓⲙⲁ
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2-5	ⲛⲉϣⲁϥⲣⲟⲩⲱ	_	_	_	_	_	_	_	_
@@ -13423,7 +13425,7 @@
 30	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	31	det	_	_
 31	ⲙⲁ	ⲙⲁ	NOUN	N	_	27	obl	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0042
+# sent_id = life_cyrus-life_cyrus_01_s0042
 # text = ⲉⲡⲉⲓ ⲙⲛϭⲟⲙ ⲛⲣⲙⲛⲥⲁⲣⲝ ⲉⲛⲁⲩ ⲉⲡⲁϩⲟ · ⲉⲓⲙⲏⲧⲓ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ · ⲛϣⲓⲏⲧ ·
 1	ⲉⲡⲉⲓ	ⲉⲡⲉⲓ	CCONJ	CONJ	_	2	mark	_	_
 2-3	ⲙⲛϭⲟⲙ	_	_	_	_	_	_	_	_
@@ -13454,7 +13456,7 @@
 20	ϣⲓⲏⲧ	ϣⲓⲏⲧ	PROPN	NPROP	_	17	nmod	_	_
 21	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0043
+# sent_id = life_cyrus-life_cyrus_01_s0043
 # text = ⲧⲉⲛⲟⲩ ⲇⲉ ⲙⲉϣⲁⲕ ⲱ ⲡⲁⲉⲓⲱⲧ ⲡⲧⲱϣ ⲡⲉ ⲡⲁⲓ ⲉⲧⲣⲁⲉⲓ ⲛⲙⲙⲁⲕ ⲛⲧⲁⲛⲁⲩ ⲉⲣⲟϥ ⲁⲩⲱ ⲛⲧⲁϫⲓⲥⲙⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲙⲡⲁⲧⲓⲙⲟⲩ ⁛ —
 1	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	8	advmod	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	8	advmod	_	_
@@ -13499,7 +13501,7 @@
 32	⁛	⁛	PUNCT	PUNCT	_	8	punct	_	_
 33	—	—	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0044
+# sent_id = life_cyrus-life_cyrus_01_s0044
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ · ϫⲉⲙⲙⲟⲛ · ⲡⲧⲱϣ ⲁⲛ ⲡⲉ ⲡⲁⲓ · ⲉⲧⲃⲉⲡⲁⲓ ⲣⲱ · ⲛⲧⲁⲓⲉⲓ ϣⲁⲣⲟⲕ ⲉⲡⲉⲓⲙⲁ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲁ
@@ -13538,7 +13540,7 @@
 27	ⲙⲁ	ⲙⲁ	NOUN	N	_	22	obl	_	_
 28	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0045
+# sent_id = life_cyrus-life_cyrus_01_s0045
 # text = ⲁⲗⲗⲁ ϯⲛⲁⲣⲡⲉⲕⲙⲉⲉⲩⲉ ⲉⲣϣⲁⲛⲡϫⲟⲉⲓⲥ ⲥⲟⲟⲩⲧⲛ ⲛⲧⲁϩⲓⲏ ⲛⲧⲁⲁⲡⲁⲛⲧⲁ · ⲉⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ·
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	4	cc	_	_
 2-6	ϯⲛⲁⲣⲡⲉⲕⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
@@ -13570,7 +13572,7 @@
 22	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	20	acl	_	Orig=ⲙ̅ⲙⲁⲩ
 23	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0046
+# sent_id = life_cyrus-life_cyrus_01_s0046
 # text = ⲡⲗⲏⲛ ⲱ ⲡⲁⲉⲓⲱⲧ ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ ϣⲁⲛⲧⲓⲁⲡⲟⲗⲁⲩⲉ ⲙⲡⲉⲥⲙⲟⲩ ⲙⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ·
 1	ⲡⲗⲏⲛ	ⲡⲗⲏⲛ	CCONJ	CONJ	_	5	advmod	_	_
 2	ⲱ	ⲱ	PART	PTC	_	4	discourse	_	Orig=ⲱ̅
@@ -13598,7 +13600,7 @@
 18	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	16	acl	_	Orig=ⲙ̅ⲙⲁⲩ
 19	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0047
+# sent_id = life_cyrus-life_cyrus_01_s0047
 # text = ⲛⲧⲉⲣⲓⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ ϩⲙⲡⲧⲟⲟⲩ ⲡⲁⲣⲁⲟⲩⲙⲓⲗⲓⲟⲛ · ϯⲱⲣⲕ ⲛⲏⲧⲛ ⲙⲡⲃⲏⲙⲁ · ⲉⲧϩⲁϩⲟⲧⲉ · ⲙⲡⲛⲟⲩⲧⲉ · ⲁⲛⲟⲕ ⲡⲁⲙⲃⲱ ⲡⲉⲓⲉⲗⲁⲭⲓⲥⲧⲟⲥ · ϫⲉⲛϯϫⲓϭⲟⲗ ⲁⲛ ϩⲙⲡⲉⲧⲓⲛⲁϫⲟⲟϥ · ⲧⲉⲛⲟⲩ ϫⲉⲡⲉⲛⲧⲁϥⲁⲙⲁϩⲧⲉ ⲛⲁⲃⲃⲁⲕⲟⲩⲙ ⲡⲉⲡⲣⲟⲫⲏⲧⲏⲥ ⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲁϥⲉⲓⲛⲉ ⲙⲙⲟϥ ⲙⲛⲡⲁⲣⲓⲥⲧⲟⲛ ⲉⲧⲛⲧⲟⲟⲧϥ · ⲁϥⲛⲧϥ ⲉϫⲙⲡϣⲏⲓ ⲛⲙⲙⲟⲩⲓ · ⲁϥⲧⲁⲁϥ ⲛⲇⲁⲛⲓⲏⲗ · ϩⲙⲡϣⲏⲓ ⲛⲙⲙⲟⲩⲓ · ⲛⲧⲟϥ ⲟⲛ ⲡⲉ ⲛⲧⲁϥⲁⲙⲁϩⲧⲉ ⲙⲙⲟⲓ ϩⲛⲧϩⲟⲣⲙⲏ ⲙⲡⲉⲡⲛⲉⲩⲙⲁ ⲁϥⲉⲓⲛⲉ ⲙⲙⲟⲓ ⲉϫⲙⲡⲕⲁⲧⲁⲅⲉⲓⲟⲛ ⲙⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ·
 1-3	ⲛⲧⲉⲣⲓⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -13761,7 +13763,7 @@
 124	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	122	acl	_	Orig=ⲙ̅ⲙⲁⲩ
 125	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0048
+# sent_id = life_cyrus-life_cyrus_01_s0048
 # text = ⲁⲩⲱ ⲁⲓⲕⲱⲗϩ ⲉⲡⲣⲟ ⲕⲁⲧⲁⲡⲕⲁⲛⲱⲛ ⲛⲛⲉⲥⲛⲏⲩ ⲙⲙⲟⲛⲁⲭⲟⲥ · ⲁⲩⲱ ⲛⲉⲓⲁϩⲉⲣⲁⲧ ϩⲓⲣⲙⲡⲣⲟ · ⲛⲟⲩⲛⲟϭ ⲛⲛⲁⲩ
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲁⲓⲕⲱⲗϩ	_	_	_	_	_	_	_	_
@@ -13803,7 +13805,7 @@
 29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	Orig=ⲛ̅
 30	ⲛⲁⲩ	ⲛⲁⲩ	NOUN	N	_	28	nmod	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0049
+# sent_id = life_cyrus-life_cyrus_01_s0049
 # text = ⲙⲛⲛⲥⲁⲛⲁⲓ ⲁⲡⲥⲟⲛ ⲣⲟⲩⲱ ⲛⲁⲓ ϩⲙⲡⲥⲁ ⲛϩⲟⲩⲛ · ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲭⲁⲓⲣⲉ ⲁⲡⲁ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ · ⲛϣⲓⲏⲧ ⲁⲩⲱ ⲡⲛⲟϭ ⲛϫⲟⲓ ⲉⲧⲣϩⲱⲧ ϩⲙⲡϫⲁⲓⲉ ⲛⲁⲧⲙⲟⲟⲩ ·
 1-2	ⲙⲛⲛⲥⲁⲛⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲙⲛⲛⲥⲁ	ⲙⲛⲛⲥⲁ	ADP	PREP	_	2	case	_	Orig=Ⲙⲛ̅ⲛ̅ⲥⲁ
@@ -13865,7 +13867,7 @@
 43	ⲁⲧⲙⲟⲟⲩ	ⲁⲧⲙⲟⲟⲩ	NOUN	N	_	41	nmod	_	Morphs=ⲁⲧ-ⲙⲟⲟⲩⲧ|Orig=ⲁⲧⲙⲟⲟⲩⲧ
 44	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0050
+# sent_id = life_cyrus-life_cyrus_01_s0050
 # text = ⲉⲓⲥⲟⲩⲙⲏⲏϣⲉ ⲛϩⲟⲟⲩ ϯⲉⲡⲓⲑⲩⲙⲉⲓ ⲉⲛⲁⲩ ⲉⲣⲟⲕ ·
 1-3	ⲉⲓⲥⲟⲩⲙⲏⲏϣⲉ	_	_	_	_	_	_	_	_
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	3	advmod	_	_
@@ -13885,7 +13887,7 @@
 11	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obl	_	_
 12	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0051
+# sent_id = life_cyrus-life_cyrus_01_s0051
 # text = ⲉⲓⲥ ⲡⲁⲟⲩⲱϣ ⲁⲡⲛⲟⲩⲧⲉ ϫⲟⲕϥ ⲛⲁⲓ ⲉⲃⲟⲗ ⲙⲡϩⲟⲟⲩ ·
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	7	advmod	_	_
 2-3	ⲡⲁⲟⲩⲱϣ	_	_	_	_	_	_	_	_
@@ -13908,7 +13910,7 @@
 14	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	7	obl	_	Orig=ⲟⲟⲩ
 15	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0052
+# sent_id = life_cyrus-life_cyrus_01_s0052
 # text = ⲁⲙⲟⲩ ⲉϩⲟⲩⲛ ⲙⲡⲣⲁϩⲉⲣⲁⲧⲕ ϩⲓⲡⲥⲁ ⲛⲃⲟⲗ ·
 1	ⲁⲙⲟⲩ	ⲉⲓ	VERB	VIMP	VerbForm=Fin	0	root	_	_
 2	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	1	advmod	_	_
@@ -13926,7 +13928,7 @@
 11	ⲃⲟⲗ	ⲃⲟⲗ	NOUN	N	_	9	nmod	_	_
 12	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0053
+# sent_id = life_cyrus-life_cyrus_01_s0053
 # text = ⲛⲧⲉⲣⲓⲣⲡϩⲟⲩⲛ ⲙⲡⲣⲟ ⲙⲡⲕⲁⲧⲁⲅⲉⲓⲟⲛ ⲁⲓϭⲱϣⲧ ⲁⲓⲛⲁⲩ ⲉⲩⲛⲟϭ ⲛⲱⲛⲉ ⲙⲟⲅⲓⲥ · ⲛⲧⲉⲙⲛⲧⲥⲛⲟⲟⲩⲥ ⲛⲣⲱⲙⲉ ⲉϣⲧⲱⲟⲩⲛ ⲙⲙⲟϥ ⲉⲡⲟⲛϥ ·
 1-5	ⲛⲧⲉⲣⲓⲣⲡϩⲟⲩⲛ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -13977,7 +13979,7 @@
 35	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obj	_	Orig=ϥ̅
 36	·	·	PUNCT	PUNCT	_	14	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0054
+# sent_id = life_cyrus-life_cyrus_01_s0054
 # text = ⲁϥϯ ⲡⲉϥⲟⲩⲟⲓ ⲛϭⲓⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ⲁϥⲥⲕⲟⲣⲕⲣ ⲙⲡⲱⲛⲉ · ⲁϥⲧⲟϭϥ ⲉⲡⲣⲟ ⲙⲡⲕⲁⲧⲁⲅⲉⲓⲟⲛ ·
 1-3	ⲁϥϯ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -14017,7 +14019,7 @@
 27	ⲕⲁⲧⲁⲅⲉⲓⲟⲛ	ⲕⲁⲧⲁⲅⲉⲓⲟⲛ	NOUN	N	_	24	nmod	_	Orig=ⲕⲁⲧⲁⲅⲓⲟⲛ
 28	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0055
+# sent_id = life_cyrus-life_cyrus_01_s0055
 # text = ⲛⲧⲉⲣⲓⲛⲁⲩ ⲉⲣⲟϥ ⲁⲓⲣϣⲡⲏⲏⲣⲉ ⲉⲙⲁⲧⲉ ·
 1-3	ⲛⲧⲉⲣⲓⲛⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -14033,7 +14035,7 @@
 9	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	8	advmod	_	_
 10	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0056
+# sent_id = life_cyrus-life_cyrus_01_s0056
 # text = ⲡⲗⲏⲛ ⲁⲓⲣⲡⲙⲉⲉⲩⲉ ⲙⲡⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ · ⲓⲁⲕⲱⲃ ϫⲉⲛⲧⲟϥ ϩⲱⲱϥ ⲟⲛ ⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲛⲧⲁϥⲡⲱⲧ · ϩⲁⲡϩⲟ ⲛⲏⲥⲁⲩ · ⲡⲉϥⲥⲟⲛ ⲁϥⲃⲱⲕ ⲉⲧⲙⲉⲥⲟⲡⲟⲧⲁⲙⲓⲁ ⲛⲧⲥⲩⲣⲓⲁ ⲁϥⲉⲓ ⲉϫⲙⲡⲙⲁ ⲉⲧⲉⲣⲉⲛⲉⲥⲟⲟⲩ ⲛⲗⲁⲃⲁⲛ ⲛϩⲏⲧϥ ·
 1	ⲡⲗⲏⲛ	ⲡⲗⲏⲛ	CCONJ	CONJ	_	4	advmod	_	Orig=Ⲡⲗⲏⲛ
 2-6	ⲁⲓⲣⲡⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
@@ -14108,7 +14110,7 @@
 54	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	47	acl	_	Orig=ϥ̅
 55	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0057
+# sent_id = life_cyrus-life_cyrus_01_s0057
 # text = ⲁϥϯⲡⲉϥⲟⲩⲟⲓ ⲉⲧϣⲱⲧⲉ ⲁϥⲥⲕⲟⲣⲕⲣ ⲡⲱⲛⲉ ⲉⲧϩⲓϫⲛⲣⲱⲥ ⲭⲱⲣⲓⲥ ⲧⲣⲉⲣⲱⲙⲉ ϯⲧⲟⲟⲧϥ · ⲁϥⲧⲥⲟ ⲛⲛⲉⲥⲟⲟⲩ ⲛⲗⲁⲃⲁⲛ ⲁϥⲕⲁⲁⲩ ⲉⲃⲟⲗ ⲁⲩⲙⲟⲟⲛⲉ ·
 1-5	ⲁϥϯⲡⲉϥⲟⲩⲟⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -14164,7 +14166,7 @@
 40	ⲙⲟⲟⲛⲉ	ⲙⲟⲟⲛⲉ	VERB	V	VerbForm=Fin	35	parataxis	_	_
 41	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0058
+# sent_id = life_cyrus-life_cyrus_01_s0058
 # text = ⲧⲟⲧⲉ ⲗⲟⲓⲡⲟⲛ ⲁⲓⲉⲓⲙⲉ ⲉⲡⲁⲓ ϫⲉϩⲱⲃ ⲛⲓⲙ ⲉⲧⲉⲣⲉⲛⲉⲧⲟⲩⲁⲁⲃ ⲉⲓⲣⲉ ⲙⲙⲟⲟⲩ ⲡⲛⲟⲩⲧⲉ ϯ ⲛⲧⲟⲟⲧⲟⲩ ·
 1	ⲧⲟⲧⲉ	ⲧⲟⲧⲉ	ADV	ADV	_	5	advmod	_	_
 2	ⲗⲟⲓⲡⲟⲛ	ⲗⲟⲓⲡⲟⲛ	ADV	ADV	_	5	advmod	_	_
@@ -14197,7 +14199,7 @@
 22	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	20	obl	_	_
 23	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0059
+# sent_id = life_cyrus-life_cyrus_01_s0059
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ ϫⲉⲡⲁⲉⲓⲱⲧ ⲉⲧⲟⲩⲁⲁⲃ ⲙⲁⲧⲁⲙⲟⲓ ⲉⲡⲉⲕⲣⲁⲛ ⲉⲧⲟⲩⲁⲁⲃ · ϫⲉⲁⲡϫⲟⲉⲓⲥ ϩⲉⲡⲡⲁⲓ ⲉⲣⲟⲓ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
@@ -14237,7 +14239,7 @@
 26	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	23	obl	_	_
 27	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0060
+# sent_id = life_cyrus-life_cyrus_01_s0060
 # text = ⲛⲧⲟϥ ⲇⲉ ⲡⲉϫⲁϥ ϫⲉⲕⲩⲣⲟⲥ · ⲡⲉ ⲡⲁⲣⲁⲛ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
@@ -14254,7 +14256,7 @@
 10	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	6	nsubj	_	_
 11	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0061
+# sent_id = life_cyrus-life_cyrus_01_s0061
 # text = ⲁⲛⲟⲕ ⲡⲉ ⲡⲥⲟⲛ ⲛⲑⲉⲟⲇⲱⲥⲓⲟⲥ ⲡⲣⲣⲟ · ⲁⲩⲱ ⲛⲧⲁⲩⲥⲁⲛⲟⲩϣⲧ ⲙⲛⲁⲣⲕⲁⲇⲓⲟⲥ · ⲙⲛⲟⲛⲟⲣⲓⲟⲥ ϩⲓϫⲛⲟⲩⲧⲣⲁⲡⲉⲍⲁ ⲛⲟⲩⲱⲧ ⲛⲙⲙⲁⲩ ⲁⲩⲱ ⲛⲁⲙⲉ · ⲁⲟⲛⲟⲣⲓⲟⲥ ϫⲟⲟⲥ ⲉⲣⲟⲓ ⲛϩⲁϩ ⲛⲥⲟⲡ ϫⲉϫⲓⲧ ⲉⲧⲉⲣⲏⲙⲟⲥ · ⲛⲙⲙⲁⲕ ⲧⲁⲣⲙⲟⲛⲁⲭⲟⲥ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	0	root	_	_
 2	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	1	cop	_	_
@@ -14327,7 +14329,7 @@
 51	ⲣⲙⲟⲛⲁⲭⲟⲥ	ⲣⲙⲟⲛⲁⲭⲟⲥ	VERB	V	VerbForm=Fin	42	advcl	_	Morphs=ⲣ-ⲙⲟⲛⲁⲭⲟⲥ|Orig=ⲣ̅ⲙⲟⲛⲟⲭⲟⲥ
 52	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0062
+# sent_id = life_cyrus-life_cyrus_01_s0062
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲙⲡⲓⲉϣϫⲓⲧϥ ⲇⲉ ϫⲉⲡϣⲏⲣⲉ ⲡⲉ ⲙⲡⲣⲣⲟ ⲡⲉ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	6	advmod	_	_
@@ -14350,7 +14352,7 @@
 16	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	6	cop	_	_
 17	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0063
+# sent_id = life_cyrus-life_cyrus_01_s0063
 # text = ⲛⲧⲉⲣⲛⲛⲁⲩ ⲇⲉ ϫⲉⲁⲡϫⲓⲛϭⲟⲛⲥ · ⲁϣⲁⲓ ⲁⲛⲣⲣⲱⲟⲩ ⲡⲁⲣⲁⲛⲟⲙⲉⲓ ⲁⲛⲁⲣⲭⲱⲛ ϫⲓ ⲛⲛϩⲏⲕⲉ ⲛϭⲟⲛⲥ ⲁⲟⲩⲟⲛ ⲛⲓⲙ ⲣⲓⲕⲉ ⲉⲃⲟⲗ ⲁⲩⲧⲁⲕⲟ ⲛⲧⲉⲩϩⲓⲏ ⲙⲡⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲡⲛⲟⲩⲧⲉ ⲁⲓⲧⲱⲟⲩⲛ ⲁⲓⲕⲁⲣⲁⲧ ⲉⲃⲟⲗ ⲁⲓⲉⲓ ⲉⲡⲉⲓϫⲁⲓⲉ ⲁⲓⲟⲩⲱⲛϩ · ⲛϩⲏⲧϥ ⲉⲧⲃⲉⲡⲁϣⲁⲓ ⲛⲛⲁⲛⲟⲃⲉ
 1-3	ⲛⲧⲉⲣⲛⲛⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -14439,7 +14441,7 @@
 66	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	67	det	_	_
 67	ⲛⲟⲃⲉ	ⲛⲟⲃⲉ	NOUN	N	_	64	nmod	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0064
+# sent_id = life_cyrus-life_cyrus_01_s0064
 # text = ⲧⲁⲣⲉⲡⲛⲟⲩⲧⲉ ⲕⲁⲁⲩ ⲛⲁⲓ ⲉⲃⲟⲗ
 1-3	ⲧⲁⲣⲉⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲧⲁⲣⲉ	ⲧⲁⲣⲉ	AUX	AFUTCONJ	_	4	aux	_	_
@@ -14453,7 +14455,7 @@
 7	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
 8	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	4	advmod	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0065
+# sent_id = life_cyrus-life_cyrus_01_s0065
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ ⲁⲛⲟⲕ ⲡⲁⲙⲃⲱ ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ⲉϣⲁⲕϭⲛⲣⲱⲙⲉ ⲧⲱⲛ ϩⲛⲧⲉⲓⲉⲣⲏⲙⲁ · ⲛϥⲥⲗⲥⲱⲗⲕ ϩⲛⲛⲉⲕϩⲓⲥⲉ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲁ
@@ -14492,7 +14494,7 @@
 27	ϩⲓⲥⲉ	ϩⲓⲥⲉ	NOUN	N	_	23	obl	_	_
 28	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0066
+# sent_id = life_cyrus-life_cyrus_01_s0066
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ⲁⲡⲁ ⲕⲩⲣⲟⲥ ϫⲉⲡⲓⲥⲧⲉⲩⲉ ⲛⲁⲓ ⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲡⲁⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲡⲁϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ ⲡⲉⲧϭⲓⲛⲉ ⲙⲡⲁϣⲓⲛⲉ ϩⲙⲡⲉⲓϫⲁⲓⲉ ⲉⲧⲓϣⲟⲟⲡ ⲛϩⲏⲧϥ
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
@@ -14548,7 +14550,7 @@
 38	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	39	case	_	Orig=ⲛ̅ϩⲏⲧ
 39	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	obl	_	Orig=ϥ̅
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0067
+# sent_id = life_cyrus-life_cyrus_01_s0067
 # text = ⲙⲡⲓⲛⲁⲩ ⲅⲁⲣ ⲉⲣⲱⲙⲉ ⲉϥⲛⲏⲩ ϣⲁⲣⲟⲓ ⲉⲓⲙⲏⲧⲓ ⲉⲩⲥⲟⲛ ⲙⲙⲟⲛⲁⲭⲟⲥ ⲉϥⲛⲏⲩ ϣⲁⲣⲟⲓ ⲉϥⲱϣ ⲉⲛⲁⲩ ⲉⲡⲁϩⲟ ⲁⲩⲱ ⲙⲡⲉⲡⲉⲓⲕⲉⲧ ⲛⲁⲩ ⲉⲣⲟⲓ ·
 1-3	ⲙⲡⲓⲛⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	3	aux	_	Orig=ⲙ̅ⲡ
@@ -14602,7 +14604,7 @@
 37	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	35	obl	_	_
 38	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0068
+# sent_id = life_cyrus-life_cyrus_01_s0068
 # text = ⲁⲗⲗⲁ ϩⲓⲧⲛⲧϩⲉ ⲉⲧϥⲙⲏⲛ ⲉⲃⲟⲗ ⲉϥⲛⲏⲩ ϣⲁⲣⲟⲓ ⲁⲓϩⲱⲛ ⲉⲧⲟⲟⲧϥ ϩⲙⲡⲥⲁ ⲛϩⲟⲩⲛ ⲉⲓϫⲱ ⲙⲙⲟⲥ ϫⲉⲁⲗⲟⲕ ⲉⲕϯϩⲓⲥⲉ ⲛⲁⲕ · ⲉⲕⲛⲏⲩ ϣⲁⲣⲟⲓ
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	16	cc	_	_
 2-4	ϩⲓⲧⲛⲧϩⲉ	_	_	_	_	_	_	_	_
@@ -14660,7 +14662,7 @@
 40	ϣⲁⲣⲟ	ϣⲁ	ADP	PREP	_	41	case	_	_
 41	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	39	obl	_	_
 
-# sent_id = life_cyrus-BritMusOriental6783_23a_27a_s0069
+# sent_id = life_cyrus-life_cyrus_01_s0069
 # text = ⲙⲙⲟⲛ ⲙⲛϣϭⲟⲙ ⲛⲣⲙⲛⲥⲁⲣⲝ ⲉⲛⲁⲩ ⲉⲡⲁϩⲟ ⲉⲓⲙⲏⲧⲓ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲛϣⲓⲏⲧ ⁛—
 1	ⲙⲙⲟⲛ	ⲙⲙⲟⲛ	ADV	NEG	Polarity=Neg	2	discourse	_	Orig=ⲙ̅ⲙⲟⲛ
 2-3	ⲙⲛϣϭⲟⲙ	_	_	_	_	_	_	_	_
