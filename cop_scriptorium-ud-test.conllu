@@ -7480,7 +7480,7 @@
 3-4	ϩⲱⲟⲩ	_	_	_	_	_	_	_	_
 3	ϩⲱ	ϩⲱⲱ	ADV	IMOD	_	2	advmod	_	_
 4	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	3	det	_	_
-5-9	ⲛⲉⲛⲧⲁⲩϫⲟⲟⲩ	_	_	_	_	_	_	_	_
+5-10	ⲛⲉⲛⲧⲁⲩϫⲟⲟⲩ	_	_	_	_	_	_	_	_
 5	ⲛ	ⲡⲉ	PRON	COP	Number=Plur	2	cop	_	_
 6	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
 7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
@@ -7562,7 +7562,7 @@
 2-3	ϩⲉⲛⲕⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
 2	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	3	det	_	_
 3	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	0	root	_	_
-4-8	ⲛⲉⲛⲧⲁⲩϫⲟⲟⲩ	_	_	_	_	_	_	_	_
+4-9	ⲛⲉⲛⲧⲁⲩϫⲟⲟⲩ	_	_	_	_	_	_	_	_
 4	ⲛ	ⲡⲉ	PRON	COP	Number=Plur	3	cop	_	_
 5	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	8	mark	_	_
 6	ⲁ	ⲁ	AUX	APST	_	8	aux	_	_
