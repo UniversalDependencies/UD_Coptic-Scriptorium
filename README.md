@@ -4,7 +4,7 @@ UD Coptic contains manually annotated Sahidic Coptic texts, including Biblical t
 
 # Introduction
 
-The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahidic Coptic texts, currently containing excerpts from the Sahidic New Testament Gospel of Mark, Archmandrite Shenoute of Atripe's "Not Because a Fox Barks", the Letters of Besa, lives of Sts. Cyrus and Onnophrius, Epistle of Ephraim, the Repose of John the Apostle and short stories from the Apophthegmata Patrum (Sayings of the Desert Fathers). Detailed information about the treebank is available here:
+The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahidic Coptic texts, currently containing excerpts from the Sahidic New Testament Gospel of Mark, Works by Archmandrite Shenoute of Atripe, the Letters of Besa, lives of Sts. Cyrus and Onnophrius, Epistle of Pseudo-Ephrem, the Dormition of John the Apostle and short stories from the Apophthegmata Patrum (Sayings of the Desert Fathers). Detailed information about the treebank is available here:
 
 http://copticscriptorium.org/treebank.html
 
@@ -17,21 +17,22 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 # Further details
 
 ## Basic statistics
-|      subcorpus          |        documents            | tokens  |
-| ----------------------- | --------------------------- | ------- |
-| Not Because a Fox Barks | MONB XH204-216              |   2,547 |
-| Abraham our Father      | MONB XL93-94, YA518-520     |   1,197 |
-| Acephalous Work 22      | MONB YA421-428              |   1,700 |
-| Epistle of Ephraim      | BritMusOriental6783_63b_67b |   1,926 |
-| Gospel of Mark          | Chapters 1 - 9              |  10,805 |
-| 1 Corinthians           | Chapters 1 - 6              |   3,571 |
-| Letters of Besa         | #1,2,13,15,25               |   3,939 |
-| Life of Cyrus           | BritMusOriental6783_23a_27a |   1,962 |
-| Life of Onnophrius      | BritMusOriental7027_01a_07b |   2,745 |
-| Apophthegmata Patrum    | #1-6,18-19,23-32,114-139    |   4,152 |
-| Martyrdom of St. Victor | Chapters 1 - 6              |   1,985 |
-| Repose of John          | BritMusOriental6782_2a_9a   |   3,064 |
-|                         | Total:                      |  39,593 |
+|      subcorpus           |        documents            | tokens  |
+| ------------------------ | --------------------------- | ------- |
+| Not Because a Fox Barks  | MONB XH204-216              |   2,547 |
+| Abraham our Father       | MONB XL93-94, YA518-520     |   1,197 |
+| Acephalous Work 22       | MONB YA421-428              |   1,700 |
+| I See Your Eagerness     | MONB GF31-32                |     439 |
+| Epistle of Pseudo-Ephrem | psephrem.letter             |   1,926 |
+| Gospel of Mark           | Chapters 1 - 9              |  10,807 |
+| 1 Corinthians            | Chapters 1 - 6              |   3,571 |
+| Letters of Besa          | #1,2,13,15,25               |   3,939 |
+| Life of Cyrus            | life.cyrus.01               |   1,962 |
+| Life of Onnophrius       | life.onnophrius.01          |   2,745 |
+| Apophthegmata Patrum     | #1-6,18-19,23-32,114-139    |   4,152 |
+| Martyrdom of St. Victor  | Chapters 1 - 6              |   1,985 |
+| Dormition of John        | dormition.john.mercad       |   3,064 |
+|                          | Total:                      |  40,034 |
 
 ## Tokenization
 
@@ -75,9 +76,9 @@ Further information on relevant annotation standards and NLP tools used prior to
 
 # Changelog
 
-  * CHANGELOG
+  * CHANGELOG 2.4 -> 2.5
 
-Added Besa's Letters 1-2 (On Vigilance, Exhortations), Life of Cyrus, Life of Onnophrius, Epistle of Ephraim, Repose of John and Apophthegmata Patrum 114-139, numerous corrections and stabilized splits. 
+Added Besa's Letters 1-2 (On Vigilance, Exhortations), Excerpt from Shenoute's I See Your Eagerness, Life of Cyrus, Life of Onnophrius, Epistle of Pseudo-Ephrem, Dormition of John and Apophthegmata Patrum 114-139, numerous corrections and stabilized splits. 
 
 The corpus is now larger than 30K word forms, and train/dev/test splits should now be stable, with only the train partition growing.
 
