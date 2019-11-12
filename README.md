@@ -1,10 +1,10 @@
 # Summary
 
-UD Coptic contains manually annotated Sahidic Coptic texts, currently from the Gospel of Mark, Shenoute of Atripe's "Not Because a Fox Barks", the Letters of Besa, and several short stories from the Apophthegmata Patrum.
+UD Coptic contains manually annotated Sahidic Coptic texts, including Biblical texts, sermons, letters, and hagiography.
 
 # Introduction
 
-The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahidic Coptic texts, currently containing excerpts from the Sahidic New Testament Gospel of Mark, Archmandrite Shenoute of Atripe's "Not Because a Fox Barks", the Letters of Besa, and several short stories from the Apophthegmata Patrum (Sayings of the Desert Fathers). Detailed information about the treebank is available here:
+The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahidic Coptic texts, currently containing excerpts from the Sahidic New Testament Gospel of Mark, Works by Archmandrite Shenoute of Atripe, the Letters of Besa, lives of Sts. Cyrus and Onnophrius, Epistle of Pseudo-Ephrem, the Dormition of John the Apostle and short stories from the Apophthegmata Patrum (Sayings of the Desert Fathers). Detailed information about the treebank is available here:
 
 http://copticscriptorium.org/treebank.html
 
@@ -17,17 +17,22 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 # Further details
 
 ## Basic statistics
-|      subcorpus          |        documents        | tokens  |
-| ----------------------- | ------------------------| ------- |
-| Not Because a Fox Barks | MONB XH204-216          |   2,553 |
-| Abraham our Father      | MONB XL93-94, YA518-520 |   1,198 |
-| Acephalous Work 22      | MONB YA421-428          |   1,703 |
-| Gospel of Mark          | Chapters 1 - 9          |  10,788 |
-| 1 Corinthians           | Chapters 1 - 6          |   3,570 |
-| Letters of Besa         | #13,15,25               |   1,981 |
-| Apophthegmata Patrum    | #1-6,18-19,23-32        |   1,978 |
-| Martyrdom of St. Victor | Chapters 1 - 6          |   1,985 |
-|                         | Total:                  |  25,756 |
+|      subcorpus           |        documents            | tokens  |
+| ------------------------ | --------------------------- | ------- |
+| Not Because a Fox Barks  | MONB XH204-216              |   2,547 |
+| Abraham our Father       | MONB XL93-94, YA518-520     |   1,197 |
+| Acephalous Work 22       | MONB YA421-428              |   1,700 |
+| I See Your Eagerness     | MONB GF31-32                |     439 |
+| Epistle of Pseudo-Ephrem | psephrem.letter             |   1,926 |
+| Gospel of Mark           | Chapters 1 - 9              |  10,807 |
+| 1 Corinthians            | Chapters 1 - 6              |   3,571 |
+| Letters of Besa          | #1,2,13,15,25               |   3,939 |
+| Life of Cyrus            | life.cyrus.01               |   1,962 |
+| Life of Onnophrius       | life.onnophrius.01          |   2,745 |
+| Apophthegmata Patrum     | #1-6,18-19,23-32,114-139    |   4,152 |
+| Martyrdom of St. Victor  | Chapters 1 - 6              |   1,985 |
+| Dormition of John        | dormition.john.mercad       |   3,064 |
+|                          | Total:                      |  40,034 |
 
 ## Tokenization
 
@@ -70,6 +75,12 @@ Further information on relevant annotation standards and NLP tools used prior to
   * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
+
+  * CHANGELOG 2.4 -> 2.5
+
+Added Besa's Letters 1-2 (On Vigilance, Exhortations), Excerpt from Shenoute's I See Your Eagerness, Life of Cyrus, Life of Onnophrius, Epistle of Pseudo-Ephrem, Dormition of John and Apophthegmata Patrum 114-139, numerous corrections and stabilized splits. 
+
+The corpus is now larger than 30K word forms, and train/dev/test splits should now be stable, with only the train partition growing.
 
   * CHANGELOG 2.3 -> 2.4
 
