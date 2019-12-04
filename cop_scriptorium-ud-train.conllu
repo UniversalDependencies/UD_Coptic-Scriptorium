@@ -5596,7 +5596,7 @@
 # sent_id = apophthegmata_patrum-AP_018_n372_anger_s0005
 # text = ⲛⲧⲉⲣⲉ ⲡⲁⲓ ⲇⲉ ϣⲱⲡⲉ ⲁϥⲗⲟ ⲉϥϭⲟⲛⲧ .
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	4	aux	_	Orig=ⲛ̇ⲧⲉⲣⲉ
-2	ⲡⲁⲓ	ⲡⲁⲓ	AUX	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	aux	_	Orig=ⲡⲁⲓ̇
+2	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	aux	_	Orig=ⲡⲁⲓ̇
 3	ⲇⲉ	ⲇⲉ	PART	PTC	_	4	advmod	_	_
 4	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	7	advcl	_	_
 5-7	ⲁϥⲗⲟ	_	_	_	_	_	_	_	_
@@ -5609,7 +5609,7 @@
 10	ϭⲟⲛⲧ	ϭⲱⲛⲧ	VERB	VSTAT	VerbForm=Fin	7	advcl	_	_
 11	.	.	PUNCT	PUNCT	_	7	punct	_	Orig=·ⲻ
 
-# newdoc id = apophthegmata.patrum:AP.019.presbyter
+# newdoc id = apophthegmata.patrum:AP.019.n161.presbyter
 # sent_id = apophthegmata_patrum-AP_019_presbyter_s0001
 # text = ⲁϥⲃⲱⲕ ⲛⲟⲩⲟⲉⲓϣ ⲛϭⲓⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛϣⲓⲏⲧ ϣⲁⲡⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲛⲣⲁⲕⲟⲧⲉ .
 1-3	ⲁϥⲃⲱⲕ	_	_	_	_	_	_	_	_
@@ -8178,8 +8178,8 @@
 20	ⲟⲩⲱϣ	ⲟⲩⲱϣ	VERB	V	_	4	ccomp	_	_
 21-24	ⲉⲧⲣⲁϫⲟⲟⲥ	_	_	_	_	_	_	_	_
 21	ⲉ	ⲉ	PART	PREP	_	23	mark	_	_
-22	ⲧⲣⲁ	ⲧⲣⲉ_ⲁⲛⲟⲕ	AUX	AUX	_	23	aux	_	_
-23	ϫⲟⲟ	ϫⲱ	VERB	V	_	20	xcomp	_	_
+22	ⲧⲣⲁ	ⲧⲣⲉ_ⲁⲛⲟⲕ	VERB	ACAUS_PPERS	_	20	xcomp	_	_
+23	ϫⲟⲟ	ϫⲱ	VERB	V	_	22	xcomp	_	_
 24	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	23	obj	_	_
 25-26	ⲛⲁϥ	_	_	_	_	_	_	_	_
 25	ⲛⲁ	ⲛ	ADP	PREP	_	26	case	_	_

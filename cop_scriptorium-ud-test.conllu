@@ -3976,7 +3976,7 @@
 24	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	22	advmod	_	_
 25-30	ⲉⲙⲁϥⲕⲁⲛⲇⲁⲓⲙⲱⲛⲓⲟⲛ	_	_	_	_	_	_	_	_
 25	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	28	mark	_	_
-26	ⲙⲁ	ⲙⲁ	AUX	AAOR	_	28	aux	_	_
+26	ⲙⲁ	ⲙⲉ	AUX	ANEGAOR	_	28	aux	_	_
 27	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
 28	ⲕⲁ	ⲕⲱ	VERB	V	VerbForm=Fin	22	advcl	_	_
 29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
@@ -13043,7 +13043,7 @@
 26	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	27	det	_	_
 27	ⲙⲓⲗⲓⲟⲛ	ⲙⲓⲗⲓⲟⲛ	NOUN	N	_	16	obl	_	Orig=ⲙⲏⲗⲓⲟⲛ
 28-30	ⲙⲡⲁⲧⲓⲡⲱϩ	_	_	_	_	_	_	_	_
-28	ⲙⲡⲁⲧ	ⲙⲡⲁⲧ	AUX	ANY	Polarity=Neg	30	aux	_	Orig=ⲙ̅ⲡⲁ·
+28	ⲙⲡⲁⲧ	ⲙⲡⲁⲧⲉ	AUX	ANY	Polarity=Neg	30	aux	_	Orig=ⲙ̅ⲡⲁ·
 29	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	Orig=ϯ
 30	ⲡⲱϩ	ⲡⲱϩ	VERB	V	VerbForm=Fin	16	advcl	_	_
 31-32	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
@@ -13550,7 +13550,7 @@
 5	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	6	det	_	_
 6	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	NOUN	N	_	4	obj	_	_
 7-9	ⲉⲣϣⲁⲛⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
-7	ⲉⲣϣⲁⲛ	ⲣϣⲁⲛ	AUX	ACOND	_	10	aux	_	Orig=ⲣ̅ϣⲁⲛ
+7	ⲉⲣϣⲁⲛ	ⲉⲣϣⲁⲛ	AUX	ACOND	_	10	aux	_	Orig=ⲣ̅ϣⲁⲛ
 8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	10	nsubj	_	Orig=ϫⲥ̅
 10	ⲥⲟⲟⲩⲧⲛ	ⲥⲟⲟⲩⲧⲛ	VERB	V	VerbForm=Fin	4	advcl	_	Orig=ⲥⲟⲟⲩⲧⲛ̅
@@ -14022,7 +14022,7 @@
 # sent_id = life_cyrus-life_cyrus_01_s0055
 # text = ⲛⲧⲉⲣⲓⲛⲁⲩ ⲉⲣⲟϥ ⲁⲓⲣϣⲡⲏⲏⲣⲉ ⲉⲙⲁⲧⲉ ·
 1-3	ⲛⲧⲉⲣⲓⲛⲁⲩ	_	_	_	_	_	_	_	_
-1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
+1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
 2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Orig=ⲉⲓ
 3	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Fin	8	advcl	_	_
 4-5	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
