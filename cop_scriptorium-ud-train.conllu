@@ -14174,7 +14174,7 @@
 # text = ⲉⲣⲟⲩⲱϣ ⲉⲧⲁⲕⲉⲧⲟⲩⲯⲩⲭⲏ ⲉⲧⲉⲙⲡⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ ⲙⲡϣⲁ ⲙⲙⲟⲥ ⲁⲛ · ⲁⲩⲱ ⲉⲥⲱⲣⲙ ⲛⲛⲟⲩϩⲓⲥⲉ ⲉⲡϫⲓⲛϫⲏ ·
 1-2	ⲉⲣⲟⲩⲱϣ	_	_	_	_	_	_	_	_
 1	ⲉⲣ	ⲉⲣⲉ_ⲛⲧⲟ	PRON	CFOC_PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	ⲟⲩⲱϣ	ⲟⲩⲱϣ	NOUN	N	_	0	root	_	_
+2	ⲟⲩⲱϣ	ⲟⲩⲱϣ	VERB	V	_	0	root	_	_
 3-6	ⲉⲧⲁⲕⲉⲧⲟⲩⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
 3	ⲉ	ⲉ	PART	PREP	_	4	mark	_	_
 4	ⲧⲁⲕⲉ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Inf	2	xcomp	_	_
@@ -14366,7 +14366,7 @@
 6	ⲙⲓϣⲉ	ⲙⲓϣⲉ	VERB	V	VerbForm=Fin	2	advcl	_	_
 7-8	ⲛⲙⲙⲉ	_	_	_	_	_	_	_	_
 7	ⲛⲙⲙ	ⲛⲙⲙ	ADP	PREP	_	8	case	_	Orig=ⲛ︤ⲙ︥ⲙ
-8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	6	obl	_	_
+8	ⲉ	ⲛⲧⲟ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
 9	ⲟⲩⲧⲉ	ⲟⲩⲧⲉ	CCONJ	CONJ	_	12	cc	_	_
 10-12	ⲙⲡⲟⲩϩⲟⲟⲩϣ	_	_	_	_	_	_	_	_
 10	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	12	aux	_	Orig=ⲙ̄ⲡ
@@ -15473,7 +15473,7 @@
 19	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	21	cc	_	_
 20-21	ⲛⲉⲛⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
 20	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
-21	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	18	conj	_	_
+21	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	16	conj	_	_
 22-24	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
 22	ⲁ	ⲁ	AUX	APST	_	24	aux	_	_
 23	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
