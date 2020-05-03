@@ -12560,7 +12560,7 @@
 38	ⲙ	ⲛ	ADP	PREP	_	40	case	_	Orig=Ⲙ̄
 39	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	Orig=Ⲡ
 40	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	37	nmod	_	Orig=ⲈⲂⲞⲦ
-41	ⲫⲁⲣⲙⲟⲩⲧⲉ	ⲫⲁⲣⲙⲟⲩⲧⲉ	PROPN	NPROP	_	40	appos	_	Orig=ⲪⲀⲢⲘⲞⲨⲦⲈ
+41	ⲫⲁⲣⲙⲟⲩⲧⲉ	ⲡⲁⲣⲙⲟⲩⲧⲉ	PROPN	NPROP	_	40	appos	_	Orig=ⲪⲀⲢⲘⲞⲨⲦⲈ
 42	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = martyrdom_victor-martyrdom_victor_01_s0002

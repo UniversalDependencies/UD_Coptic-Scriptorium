@@ -14101,7 +14101,7 @@
 47	ⲙⲁ	ⲙⲁ	NOUN	N	_	44	obl	_	_
 48-50	ⲉⲧⲉⲣⲉⲛⲉⲥⲟⲟⲩ	_	_	_	_	_	_	_	_
 48	ⲉⲧⲉⲣⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	54	mark	_	_
-49	ⲛ	ⲛ	ADP	PREP	_	50	case	_	_
+49	ⲛ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	50	det	_	_
 50	ⲉⲥⲟⲟⲩ	ⲉⲥⲟⲟⲩ	NOUN	N	_	54	nsubj	_	_
 51-52	ⲛⲗⲁⲃⲁⲛ	_	_	_	_	_	_	_	_
 51	ⲛ	ⲛ	ADP	PREP	_	52	case	_	Orig=ⲛ̅

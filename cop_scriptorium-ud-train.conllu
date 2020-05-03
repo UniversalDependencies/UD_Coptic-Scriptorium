@@ -16684,7 +16684,7 @@
 52	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_onnophrius-life_onnophrius_01_s0032
-# text = ⲛⲧⲟϥ ⲇⲉ ⲁϥⲁⲣⲭⲉⲓ ⲛϣⲁϫⲉ ⲛⲙⲙⲁⲓ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲁⲛⲅⲟⲩⲣⲱⲙⲉ ⲙⲙⲟⲛⲁⲭⲟⲥ · ⲉⲓⲟⲩⲏϩ ϩⲛⲟⲩⲥⲟⲟⲩϩⲥ · ⲙⲙⲟⲛⲁⲭⲟⲥ ⲛⲁⲩⲏⲧ ϩⲛⲑⲏⲃⲁⲉⲓⲥ ·
+# text = ⲛⲧⲟϥ ⲇⲉ ⲁϥⲁⲣⲭⲉⲓ ⲛϣⲁϫⲉ ⲛⲙⲙⲁⲓ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲁⲛⲅⲟⲩⲣⲱⲙⲉ ⲙⲙⲟⲛⲁⲭⲟⲥ · ⲉⲓⲟⲩⲏϩ ϩⲛⲟⲩⲥⲟⲟⲩϩⲥ · ⲙⲙⲟⲛⲁⲭⲟⲥ ⲛⲁⲩⲏⲧ ϩⲛⲑⲏⲃⲁⲓⲥ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	5	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
 3-5	ⲁϥⲁⲣⲭⲉⲓ	_	_	_	_	_	_	_	_
@@ -16729,9 +16729,9 @@
 32-33	ⲛⲁⲩⲏⲧ	_	_	_	_	_	_	_	_
 32	ⲛ	ⲛ	ADP	PREP	_	33	case	_	Orig=ⲛ̅
 33	ⲁⲩⲏⲧ	ⲁⲩⲏⲧ	NOUN	N	_	25	obl	_	_
-34-35	ϩⲛⲑⲏⲃⲁⲉⲓⲥ	_	_	_	_	_	_	_	_
+34-35	ϩⲛⲑⲏⲃⲁⲓⲥ	_	_	_	_	_	_	_	_
 34	ϩⲛ	ϩⲛ	ADP	PREP	_	35	case	_	Orig=ϩⲛ̅
-35	ⲑⲏⲃⲁⲉⲓⲥ	ⲑⲏⲃⲁⲉⲓⲥ	PROPN	NPROP	_	25	obl	_	_
+35	ⲑⲏⲃⲁⲓⲥ	ⲑⲏⲃⲁⲓⲥ	PROPN	NPROP	_	25	obl	_	Orig=ⲑⲏⲃⲁⲉⲓⲥ
 36	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = life_onnophrius-life_onnophrius_01_s0033
@@ -18757,7 +18757,7 @@
 18	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_onnophrius-life_onnophrius_01_s0089
-# text = ⲛⲧⲉⲣⲉϥⲉⲓ ⲇⲉ ⲁϥⲛⲟϫϥ ⲛⲟⲩⲕⲟⲩⲓ · ϩⲁⲧϩⲁⲓⲃⲥ ⲛⲟⲩⲕⲱϩ ⲛⲧⲟⲟⲩ · ⲛϥⲑⲗⲓⲃⲉ ⲉⲙⲁⲧⲉ ⲉⲧⲃⲉⲛϩⲓⲥⲉ ⲉⲧϥϣⲟⲟⲡ ⲛϩⲏⲧⲟⲩ · ⲡⲉϩⲕⲟ · ⲙⲛⲡⲉⲓⲃⲉ · ⲛϥⲕⲓⲛⲇⲩⲛⲉⲩⲉ ⲉⲙⲁⲧⲉ ·
+# text = ⲛⲧⲉⲣⲉϥⲉⲓ ⲇⲉ ⲁϥⲛⲟϫϥ ⲛⲟⲩⲕⲟⲩⲓ · ϩⲁⲧϩⲁⲓⲃⲉⲥ ⲛⲟⲩⲕⲱϩ ⲛⲧⲟⲟⲩ · ⲛϥⲑⲗⲓⲃⲉ ⲉⲙⲁⲧⲉ ⲉⲧⲃⲉⲛϩⲓⲥⲉ ⲉⲧϥϣⲟⲟⲡ ⲛϩⲏⲧⲟⲩ · ⲡⲉϩⲕⲟ · ⲙⲛⲡⲉⲓⲃⲉ · ⲛϥⲕⲓⲛⲇⲩⲛⲉⲩⲉ ⲉⲙⲁⲧⲉ ·
 1-3	ⲛⲧⲉⲣⲉϥⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	AUX	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣⲉ
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	3	nsubj	_	_
@@ -18773,10 +18773,10 @@
 10	ⲟⲩ	ⲟⲩ	DET	ART	_	11	det	_	_
 11	ⲕⲟⲩⲓ	ⲕⲟⲩⲓ	NOUN	N	_	7	obl	_	_
 12	·	·	PUNCT	PUNCT	_	15	punct	_	_
-13-15	ϩⲁⲧϩⲁⲓⲃⲥ	_	_	_	_	_	_	_	_
+13-15	ϩⲁⲧϩⲁⲓⲃⲉⲥ	_	_	_	_	_	_	_	_
 13	ϩⲁ	ϩⲁ	ADP	PREP	_	15	case	_	_
 14	ⲧ	ⲡ	DET	ART	_	15	det	_	_
-15	ϩⲁⲓⲃⲥ	ϩⲁⲓⲃⲥ	NOUN	N	_	7	obl	_	Orig=ϩⲁⲓⲃⲥ̅
+15	ϩⲁⲓⲃⲉⲥ	ϩⲁⲓⲃⲉⲥ	NOUN	N	_	7	obl	_	Orig=ϩⲁⲓⲃⲥ̅
 16-18	ⲛⲟⲩⲕⲱϩ	_	_	_	_	_	_	_	_
 16	ⲛ	ⲛ	ADP	PREP	_	18	case	_	Orig=ⲛ̅
 17	ⲟⲩ	ⲟⲩ	DET	ART	_	18	det	_	_
@@ -18972,7 +18972,7 @@
 6	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	3	obl	_	_
 7-8	ϫⲉⲟⲛⲛⲟⲫⲣⲓⲟⲥ	_	_	_	_	_	_	_	_
 7	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	8	mark	_	_
-8	ⲟⲛⲛⲟⲫⲣⲓⲟⲥ	ⲟⲛⲛⲟⲫⲣⲓⲟⲥ	NOUN	N	_	3	ccomp	_	_
+8	ⲟⲛⲛⲟⲫⲣⲓⲟⲥ	ⲟⲛⲛⲟⲫⲣⲓⲟⲥ	PROPN	NPROP	_	3	ccomp	_	_
 9	ⲡⲉ	ⲡⲉ	PRON	COP	_	8	cop	_	_
 10-11	ⲡⲁⲣⲁⲛ	_	_	_	_	_	_	_	_
 10	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
@@ -23117,7 +23117,7 @@
 25	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = dormition_john-dormition.john.mercad_s0025
-# text = ⲟⲩⲉⲛⲧⲏⲧⲛ ⲙⲙⲁⲩ ⲙⲡⲁⲣⲏⲃ ⲛⲧⲉϥⲙⲛⲧⲉⲣⲟ ·
+# text = ⲟⲩⲉⲛⲧⲏⲧⲛ ⲙⲙⲁⲩ ⲙⲡⲁⲣⲏⲃ ⲛⲧⲉϥⲙⲛⲧⲣⲣⲟ ·
 1-2	ⲟⲩⲉⲛⲧⲏⲧⲛ	_	_	_	_	_	_	_	_
 1	ⲟⲩⲉⲛⲧⲏ	ⲟⲩⲉⲛⲧⲏ	VERB	EXIST	_	0	root	_	Orig=Ⲟⲩⲉⲛⲧⲏ
 2	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	_	1	iobj	_	Orig=ⲧⲛ̅
@@ -23126,10 +23126,10 @@
 4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	Orig=ⲙ̅
 5	ⲡ	ⲡ	DET	ART	_	6	det	_	_
 6	ⲁⲣⲏⲃ	ⲁⲣⲏⲃ	NOUN	N	_	1	obj	_	_
-7-9	ⲛⲧⲉϥⲙⲛⲧⲉⲣⲟ	_	_	_	_	_	_	_	_
+7-9	ⲛⲧⲉϥⲙⲛⲧⲣⲣⲟ	_	_	_	_	_	_	_	_
 7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̅
 8	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	_	9	det	_	_
-9	ⲙⲛⲧⲉⲣⲟ	ⲙⲛⲧⲉⲣⲟ	NOUN	N	_	6	nmod	_	Morphs=ⲙⲛⲧ-ⲉⲣⲟ|Orig=ⲙⲛ̅ⲧ̅ⲉⲣⲟ
+9	ⲙⲛⲧⲣⲣⲟ	ⲙⲛⲧⲣⲣⲟ	NOUN	N	_	6	nmod	_	Morphs=ⲙⲛⲧ-ⲣⲣⲟ|Orig=ⲙⲛ̅ⲧ̅ⲉⲣⲟ
 10	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = dormition_john-dormition.john.mercad_s0026
