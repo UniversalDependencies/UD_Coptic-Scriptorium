@@ -72,14 +72,13 @@
 52	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	1	xcomp	_	_
 53	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	54	nsubj	_	_
 54	ϣⲓⲛⲉ	ϣⲓⲛⲉ	VERB	V	VerbForm=Fin	52	xcomp	_	_
-55-57	ⲛⲧⲟⲟⲧϥ	_	_	_	_	_	_	_	_
-55	ⲛ	ⲛ	ADP	PREP	_	56	case	_	Orig=ⲛ̄
-56	ⲧⲟⲟⲧ	ⲧⲱⲣⲉ	NOUN	N	_	54	obl	_	Orig=ⲧⲟⲟⲧ︤
-57	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	56	det	_	Orig=ϥ︥
-58-60	ⲙⲡϩⲗⲗⲟ	_	_	_	_	_	_	_	_
-58	ⲙ	ⲛ	ADP	PREP	_	60	case	_	Orig=ⲙ̄
-59	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	60	det	_	_
-60	ϩⲗⲗⲟ	ϩⲗⲗⲟ	NOUN	N	_	54	obl	_	Orig=ϩ︤ⲗ︥ⲗⲟ
+55-56	ⲛⲧⲟⲟⲧϥ	_	_	_	_	_	_	_	_
+55	ⲛⲧⲟⲟⲧ	ⲛⲧⲛ	ADP	PREP	_	56	case	_	Orig=ⲛ̄ⲧⲟⲟⲧ︤
+56	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	54	obl	_	Orig=ϥ︥
+57-59	ⲙⲡϩⲗⲗⲟ	_	_	_	_	_	_	_	_
+57	ⲙ	ⲛ	ADP	PREP	_	59	case	_	Orig=ⲙ̄
+58	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	59	det	_	_
+59	ϩⲗⲗⲟ	ϩⲗⲗⲟ	NOUN	N	_	54	dislocated	_	Orig=ϩ︤ⲗ︥ⲗⲟ
 
 # sent_id = shenoute_a22-MONB_YA_421_428_s0002
 # text = ⲁⲩⲱ ⲉⲣϣⲁⲛⲟⲩⲁⲛⲁⲅⲕⲏ ϣⲱⲡⲉ ⲉⲧⲣⲉϩⲓⲟⲛⲉ ⲣⲭⲣⲉⲓⲁ ⲛϩⲱⲃ ⲛⲧⲉⲓϩⲉ ϩⲣⲁⲓ ⲛϩⲏⲧⲛ ⲉⲧⲣⲉⲩⲥⲣⲣⲁⲧⲟⲩ ⲉϩⲣⲁⲓ ⲉⲗⲁⲁⲩ ⲛϩⲛⲁⲁⲩ ⲛⲧⲉⲓⲙⲓⲛⲉ ⲉⲧⲃⲉⲧⲁⲛⲁⲅⲕⲏ ⲛⲟⲩⲡⲗⲏⲅⲏ · ⲏ ⲟⲩϫⲣⲟⲡ ⲉⲁϥϣⲱⲡⲉ ϩⲓⲧⲟⲩⲉⲣⲏⲧⲉ ⲛⲟⲩⲁ ⲉⲙⲛϭⲟⲙ ⲙⲙⲟϥ ⲉⲙⲟⲟϣⲉ ⲉⲉⲓ ⲉⲃⲟⲗ ⲉⲩⲉϫⲛⲉⲡϩⲗⲗⲟ
@@ -367,14 +366,14 @@
 16-18	ⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
 16	ⲙ	ⲛ	ADP	PREP	_	18	case	_	Orig=ⲙ̄
 17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	2	obl	_	_
+18	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	13	nmod	_	_
 19	·	·	PUNCT	PUNCT	_	21	punct	_	_
 20-23	ⲉⲧⲣⲉⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 20	ⲉ	ⲉ	PART	PREP	_	21	mark	_	_
 21	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	2	xcomp	_	_
 22	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	24	nsubj	_	Orig=ⲛⲟⲩ[ⲧⲉ]
-24	ϭⲱⲛⲧ	ϭⲱⲛⲧ	NOUN	N	_	21	xcomp	_	Orig=ϭⲱⲛ︤ⲧ︥
+24	ϭⲱⲛⲧ	ϭⲱⲛⲧ	VERB	V	_	21	xcomp	_	Orig=ϭⲱⲛ︤ⲧ︥
 25-27	ⲉⲩⲛⲟϭ	_	_	_	_	_	_	_	_
 25	ⲉ	ⲉ	ADP	PREP	_	27	case	_	_
 26	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	27	det	_	_
@@ -415,17 +414,16 @@
 52	ϩⲛ	ϩⲛ	ADP	PREP	_	54	case	_	Orig=ϩ︤ⲛ︥
 53	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	54	det	_	_
 54	ϩⲱⲡ	ϩⲱⲡ	NOUN	N	_	48	obl	_	_
-55	ⲏ	ⲏ	CCONJ	CONJ	_	58	cc	_	Orig=ⲏ̂
-56-58	ϩⲛⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
-56	ϩⲛ	ϩⲛ	ADP	PREP	_	58	case	_	Orig=ϩ︤ⲛ︥
-57	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	58	det	_	_
-58	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	54	conj	_	Orig=ⲱⲛ︤ϩ︥
-59	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	58	advmod	_	_
-60	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	48	advmod	_	Orig=ϩⲣⲁⲓ̈
-61-62	ⲛϩⲏⲧⲛ	_	_	_	_	_	_	_	_
-61	ⲛ	ⲛ	ADP	PREP	_	62	case	_	Orig=ⲛ̄
-62	ϩⲏⲧⲛ	ϩⲏⲧⲛ	NOUN	N	_	48	obl	_	Orig=ϩⲏⲧ︤ⲛ︥
-63	·	·	PUNCT	PUNCT	_	2	punct	_	_
+55	ⲏ	ⲏ	CCONJ	CONJ	_	57	cc	_	Orig=ⲏ̂
+56-57	ϩⲛⲟⲩⲱⲛϩ	_	_	_	_	_	_	_	_
+56	ϩⲛ	ϩⲛ	ADP	PREP	_	57	case	_	Orig=ϩ︤ⲛ︥
+57	ⲟⲩⲱⲛϩ	ⲟⲩⲱⲛϩ	NOUN	N	_	54	conj	_	Orig=ⲟⲩⲱⲛ︤ϩ︥
+58	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	57	advmod	_	_
+59	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	48	advmod	_	Orig=ϩⲣⲁⲓ̈
+60-61	ⲛϩⲏⲧⲛ	_	_	_	_	_	_	_	_
+60	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	61	case	_	Orig=ⲛ̄
+61	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	_	48	obl	_	Orig=ϩⲏⲧ︤ⲛ︥
+62	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = shenoute_a22-MONB_YA_421_428_s0008
 # text = ⲁⲩⲱ ⲟⲩⲟⲓ ⲛⲛⲉⲧⲉⲣⲉⲡⲛⲟⲩⲧⲉ ⲛⲁϩⲟϫϩϫ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ ⲁⲩⲱ ⲛϥⲕⲱⲧⲉ ⲛⲥⲁⲧϩⲉ ⲛⲉⲓ ⲉⲉⲃⲟⲗ ϩⲛⲧⲉⲩⲙⲏⲧⲉ · ⲛⲧϩⲉ ⲛⲟⲩⲣⲱⲙⲉ ⲛⲇⲓⲕⲁⲓⲟⲥ ⲉⲁϥⲕⲱⲧⲉ ⲛⲥⲁⲧϩⲉ ⲛⲕⲱ ⲛⲥⲱϥ ⲛⲟⲩⲗⲁⲟⲥ ⲉⲧⲃⲉⲛⲉⲩϩⲃⲏⲩⲉ ⲉⲧϩⲟⲟⲩ ⲕⲁⲧⲁⲡϣⲁϫⲉ ⲙⲡⲉⲡⲣⲟⲫⲏⲧⲏⲥ ϫⲉⲛⲓⲙ ⲡⲉⲧⲛⲁϯⲛⲁⲓ ϩⲙⲡϫⲁⲓⲉ ⲛⲟⲩⲙⲁ ⲛϣⲱⲡⲉ ⲉϥⲟⲩⲏⲩ ⲛⲧⲁⲕⲱ ⲛⲥⲱⲓ ⲙⲡⲉⲓⲗⲁⲟⲥ ⲛⲧⲁⲟⲩⲉ ⲉⲃⲟⲗ ⲙⲙⲟⲟⲩ ·
@@ -556,7 +554,7 @@
 94	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = shenoute_a22-MONB_YA_421_428_s0009
-# text = ⲛⲁⲉⲓⲁⲧⲟⲩ ⲇⲉ ⲛⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲉⲣⲉⲡⲛⲟⲩⲧⲉ ⲛⲁⲧⲱⲧⲛϩⲏⲧ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ ⲉⲧⲣⲉϥⲣϩⲛⲁϥ ⲉϭⲱ ϩⲛⲧⲉⲩⲙⲏⲧⲉ · ⲛⲧϩⲉ ⲛⲟⲩⲣⲱⲙⲉ ⲛⲇⲓⲕⲁⲓⲟⲥ ⲉⲁϥⲧⲱⲧ ⲛϩⲏⲧ ⲛⲧⲟⲟⲧⲟⲩ ⲛϩⲉⲛⲣⲱⲙⲉ ⲙⲡⲓⲥⲧⲟⲥ ⲁⲩⲱ ⲉⲁϥⲣϩⲛⲁϥ ⲉϭⲱ ⲛⲟⲩⲟⲉⲓϣ ⲛⲓⲙ ϩⲛⲧⲉⲩⲙⲏⲧⲉ · ⲉⲧⲃⲉϫⲉⲛⲧⲟϥ ϩⲱⲱϥ ⲡϫⲟⲉⲓⲥ ϥⲱⲟⲟⲡ ϩⲛⲧⲉⲩⲙⲏⲧⲉ ⲛⲟⲩⲟⲉⲓϣ ⲛⲓⲙ ⲉⲧⲃⲉⲛⲉⲩϩⲃⲏⲩⲉ ⲙⲙⲉ ⲁⲩⲱ ⲛⲇⲓⲕⲁⲓⲟⲛ ·
+# text = ⲛⲁⲉⲓⲁⲧⲟⲩ ⲇⲉ ⲛⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲉⲣⲉⲡⲛⲟⲩⲧⲉ ⲛⲁⲧⲱⲧ ⲛϩⲏⲧ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ ⲉⲧⲣⲉϥⲣϩⲛⲁϥ ⲉϭⲱ ϩⲛⲧⲉⲩⲙⲏⲧⲉ · ⲛⲧϩⲉ ⲛⲟⲩⲣⲱⲙⲉ ⲛⲇⲓⲕⲁⲓⲟⲥ ⲉⲁϥⲧⲱⲧ ⲛϩⲏⲧ ⲛⲧⲟⲟⲧⲟⲩ ⲛϩⲉⲛⲣⲱⲙⲉ ⲙⲡⲓⲥⲧⲟⲥ ⲁⲩⲱ ⲉⲁϥⲣϩⲛⲁϥ ⲉϭⲱ ⲛⲟⲩⲟⲉⲓϣ ⲛⲓⲙ ϩⲛⲧⲉⲩⲙⲏⲧⲉ · ⲉⲧⲃⲉϫⲉⲛⲧⲟϥ ϩⲱⲱϥ ⲡϫⲟⲉⲓⲥ ϥⲱⲟⲟⲡ ϩⲛⲧⲉⲩⲙⲏⲧⲉ ⲛⲟⲩⲟⲉⲓϣ ⲛⲓⲙ ⲉⲧⲃⲉⲛⲉⲩϩⲃⲏⲩⲉ ⲙⲙⲉ ⲁⲩⲱ ⲛⲇⲓⲕⲁⲓⲟⲛ ·
 1-2	ⲛⲁⲉⲓⲁⲧⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲛⲁⲉⲓⲁⲧ	ⲛⲁⲉⲓⲁⲧ	VERB	VBD	VerbForm=Fin	0	root	_	Morphs=ⲛⲁ-ⲉⲓⲁⲧ
 2	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
@@ -569,9 +567,10 @@
 7	ⲉⲧⲉⲣⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
 8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	11	nsubj	_	_
-10-13	ⲛⲁⲧⲱⲧⲛϩⲏⲧ	_	_	_	_	_	_	_	_
-10	ⲛⲁ	ⲛⲁ	ADP	PREP	_	11	case	_	_
-11	ⲧⲱⲧ	ⲧⲱⲧ	NOUN	N	_	5	acl	_	_
+10-11	ⲛⲁⲧⲱⲧ	_	_	_	_	_	_	_	_
+10	ⲛⲁ	ⲛⲁ	AUX	FUT	_	11	aux	_	_
+11	ⲧⲱⲧ	ⲧⲱⲧ	VERB	V	_	5	acl	_	_
+12-13	ⲛϩⲏⲧ	_	_	_	_	_	_	_	_
 12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲛ̄
 13	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	11	obl	_	Orig=ϩⲏⲧ`
 14	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	16	case	_	_
@@ -612,75 +611,74 @@
 41-42	ⲛϩⲏⲧ	_	_	_	_	_	_	_	_
 41	ⲛ	ⲛ	ADP	PREP	_	42	case	_	_
 42	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	40	obl	_	_
-43-45	ⲛⲧⲟⲟⲧⲟⲩ	_	_	_	_	_	_	_	_
-43	ⲛ	ⲛ	ADP	PREP	_	44	case	_	Orig=ⲛ̣̄
-44	ⲧⲟⲟⲧ	ⲧⲱⲣⲉ	NOUN	N	_	40	obl	_	Orig=ⲧ̣ⲟⲟⲧ
-45	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	44	det	_	_
-46-48	ⲛϩⲉⲛⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
-46	ⲛ	ⲛ	ADP	PREP	_	48	case	_	Orig=ⲛ̄
-47	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	48	det	_	_
-48	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	40	obl	_	_
-49-50	ⲙⲡⲓⲥⲧⲟⲥ	_	_	_	_	_	_	_	_
-49	ⲙ	ⲛ	ADP	PREP	_	50	case	_	Orig=ⲙ̄
-50	ⲡⲓⲥⲧⲟⲥ	ⲡⲓⲥⲧⲟⲥ	NOUN	N	_	48	nmod	_	_
-51	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	55	cc	_	_
-52-57	ⲉⲁϥⲣϩⲛⲁϥ	_	_	_	_	_	_	_	_
-52	ⲉ	ⲉⲣⲉ	PART	CFOC	_	55	mark	_	_
-53	ⲁ	ⲁ	AUX	APST	_	55	aux	_	_
-54	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	55	nsubj	_	_
-55	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	40	conj	_	Orig=ⲣ̄
-56	ϩⲛⲁ	ϩⲛⲉ	NOUN	N	_	55	obj	_	_
-57	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	56	det	_	_
-58-59	ⲉϭⲱ	_	_	_	_	_	_	_	_
-58	ⲉ	ⲉ	PART	PREP	_	59	mark	_	_
-59	ϭⲱ	ϭⲱ	VERB	V	VerbForm=Inf	55	xcomp	_	_
-60-61	ⲛⲟⲩⲟⲉⲓϣ	_	_	_	_	_	_	_	_
-60	ⲛ	ⲛ	ADP	PREP	_	61	case	_	Orig=ⲛ̄
-61	ⲟⲩⲟⲉⲓϣ	ⲟⲩⲟⲉⲓϣ	NOUN	N	_	59	obl	_	_
-62	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	61	det	_	_
-63-65	ϩⲛⲧⲉⲩⲙⲏⲧⲉ	_	_	_	_	_	_	_	_
-63	ϩⲛ	ϩⲛ	ADP	PREP	_	65	case	_	Orig=ϩ︤ⲛ︥
-64	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	65	det	_	_
-65	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	59	obl	_	_
-66	·	·	PUNCT	PUNCT	_	75	punct	_	_
-67-69	ⲉⲧⲃⲉϫⲉⲛⲧⲟϥ	_	_	_	_	_	_	_	_
-67	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	PART	PREP	_	75	mark	_	_
-68	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	75	mark	_	_
-69	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	75	dislocated	_	Orig=ⲛ̄ⲧⲟϥ
-70-71	ϩⲱⲱϥ	_	_	_	_	_	_	_	_
-70	ϩⲱⲱ	ϩⲱⲱ	ADV	IMOD	_	75	advmod	_	_
-71	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	70	det	_	_
-72-73	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
-72	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	73	det	_	_
-73	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	75	dislocated	_	Orig=ϫⲟⲓ̈ⲥ
-74-75	ϥⲱⲟⲟⲡ	_	_	_	_	_	_	_	_
-74	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	75	nsubj	_	_
-75	ⲱⲟⲟⲡ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	40	advcl	_	Orig=ⲱⲟⲟⲡ`
-76-78	ϩⲛⲧⲉⲩⲙⲏⲧⲉ	_	_	_	_	_	_	_	_
-76	ϩⲛ	ϩⲛ	ADP	PREP	_	78	case	_	Orig=ϩ︤ⲛ︥
-77	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	78	det	_	_
-78	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	75	obl	_	_
-79-80	ⲛⲟⲩⲟⲉⲓϣ	_	_	_	_	_	_	_	_
-79	ⲛ	ⲛ	ADP	PREP	_	80	case	_	Orig=ⲛ̄
-80	ⲟⲩⲟⲉⲓϣ	ⲟⲩⲟⲉⲓϣ	NOUN	N	_	75	obl	_	Orig=ⲟⲩⲟⲓ̈ϣ
-81	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	80	det	_	_
-82-84	ⲉⲧⲃⲉⲛⲉⲩϩⲃⲏⲩⲉ	_	_	_	_	_	_	_	_
-82	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	84	case	_	_
-83	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	84	det	_	_
-84	ϩⲃⲏⲩⲉ	ϩⲱⲃ	NOUN	N	_	75	obl	_	_
-85-86	ⲙⲙⲉ	_	_	_	_	_	_	_	_
-85	ⲙ	ⲛ	ADP	PREP	_	86	case	_	Orig=ⲙ̄
-86	ⲙⲉ	ⲙⲉ	NOUN	N	_	84	nmod	_	_
-87	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	89	cc	_	_
-88-89	ⲛⲇⲓⲕⲁⲓⲟⲛ	_	_	_	_	_	_	_	_
-88	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	89	det	_	Orig=ⲛ̄
-89	ⲇⲓⲕⲁⲓⲟⲛ	ⲇⲓⲕⲁⲓⲟⲛ	NOUN	N	_	86	conj	_	_
-90	·	·	PUNCT	PUNCT	_	1	punct	_	_
+43-44	ⲛⲧⲟⲟⲧⲟⲩ	_	_	_	_	_	_	_	_
+43	ⲛⲧⲟⲟⲧ	ⲛⲧⲛ	ADP	PREP	_	44	case	_	Orig=ⲛ̣̄ⲧ̣ⲟⲟⲧ
+44	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	40	obl	_	_
+45-47	ⲛϩⲉⲛⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
+45	ⲛ	ⲛ	ADP	PREP	_	47	case	_	Orig=ⲛ̄
+46	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	47	det	_	_
+47	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	40	obl	_	_
+48-49	ⲙⲡⲓⲥⲧⲟⲥ	_	_	_	_	_	_	_	_
+48	ⲙ	ⲛ	ADP	PREP	_	49	case	_	Orig=ⲙ̄
+49	ⲡⲓⲥⲧⲟⲥ	ⲡⲓⲥⲧⲟⲥ	NOUN	N	_	47	nmod	_	_
+50	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	54	cc	_	_
+51-56	ⲉⲁϥⲣϩⲛⲁϥ	_	_	_	_	_	_	_	_
+51	ⲉ	ⲉⲣⲉ	PART	CFOC	_	54	mark	_	_
+52	ⲁ	ⲁ	AUX	APST	_	54	aux	_	_
+53	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	54	nsubj	_	_
+54	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	40	conj	_	Orig=ⲣ̄
+55	ϩⲛⲁ	ϩⲛⲉ	NOUN	N	_	54	obj	_	_
+56	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	55	det	_	_
+57-58	ⲉϭⲱ	_	_	_	_	_	_	_	_
+57	ⲉ	ⲉ	PART	PREP	_	58	mark	_	_
+58	ϭⲱ	ϭⲱ	VERB	V	VerbForm=Inf	54	xcomp	_	_
+59-60	ⲛⲟⲩⲟⲉⲓϣ	_	_	_	_	_	_	_	_
+59	ⲛ	ⲛ	ADP	PREP	_	60	case	_	Orig=ⲛ̄
+60	ⲟⲩⲟⲉⲓϣ	ⲟⲩⲟⲉⲓϣ	NOUN	N	_	58	obl	_	_
+61	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	60	det	_	_
+62-64	ϩⲛⲧⲉⲩⲙⲏⲧⲉ	_	_	_	_	_	_	_	_
+62	ϩⲛ	ϩⲛ	ADP	PREP	_	64	case	_	Orig=ϩ︤ⲛ︥
+63	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	64	det	_	_
+64	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	58	obl	_	_
+65	·	·	PUNCT	PUNCT	_	74	punct	_	_
+66-68	ⲉⲧⲃⲉϫⲉⲛⲧⲟϥ	_	_	_	_	_	_	_	_
+66	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	PART	PREP	_	74	mark	_	_
+67	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	74	mark	_	_
+68	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	74	dislocated	_	Orig=ⲛ̄ⲧⲟϥ
+69-70	ϩⲱⲱϥ	_	_	_	_	_	_	_	_
+69	ϩⲱⲱ	ϩⲱⲱ	ADV	IMOD	_	74	advmod	_	_
+70	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	69	det	_	_
+71-72	ⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
+71	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	72	det	_	_
+72	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	74	dislocated	_	Orig=ϫⲟⲓ̈ⲥ
+73-74	ϥⲱⲟⲟⲡ	_	_	_	_	_	_	_	_
+73	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	74	nsubj	_	_
+74	ⲱⲟⲟⲡ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	40	advcl	_	Orig=ⲱⲟⲟⲡ`
+75-77	ϩⲛⲧⲉⲩⲙⲏⲧⲉ	_	_	_	_	_	_	_	_
+75	ϩⲛ	ϩⲛ	ADP	PREP	_	77	case	_	Orig=ϩ︤ⲛ︥
+76	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	77	det	_	_
+77	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	74	obl	_	_
+78-79	ⲛⲟⲩⲟⲉⲓϣ	_	_	_	_	_	_	_	_
+78	ⲛ	ⲛ	ADP	PREP	_	79	case	_	Orig=ⲛ̄
+79	ⲟⲩⲟⲉⲓϣ	ⲟⲩⲟⲉⲓϣ	NOUN	N	_	74	obl	_	Orig=ⲟⲩⲟⲓ̈ϣ
+80	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	79	det	_	_
+81-83	ⲉⲧⲃⲉⲛⲉⲩϩⲃⲏⲩⲉ	_	_	_	_	_	_	_	_
+81	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	83	case	_	_
+82	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	83	det	_	_
+83	ϩⲃⲏⲩⲉ	ϩⲱⲃ	NOUN	N	_	74	obl	_	_
+84-85	ⲙⲙⲉ	_	_	_	_	_	_	_	_
+84	ⲙ	ⲛ	ADP	PREP	_	85	case	_	Orig=ⲙ̄
+85	ⲙⲉ	ⲙⲉ	NOUN	N	_	83	nmod	_	_
+86	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	88	cc	_	_
+87-88	ⲛⲇⲓⲕⲁⲓⲟⲛ	_	_	_	_	_	_	_	_
+87	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	88	det	_	Orig=ⲛ̄
+88	ⲇⲓⲕⲁⲓⲟⲛ	ⲇⲓⲕⲁⲓⲟⲛ	NOUN	N	_	85	conj	_	_
+89	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = shenoute_a22-MONB_YA_421_428_s0010
 # text = ⲟⲩⲟⲛ ⲇⲉ ⲛⲓⲙ ϩⲣⲁⲓ ⲛϩⲏⲧⲛ ⲉⲧⲛⲁⲛⲁⲩ ⲉⲩϩⲱⲃ ⲛⲕⲣⲟϥ ϩⲛⲟⲩϫⲱϩⲙ · ⲏ ϩⲛⲟⲩϫⲓⲟⲩⲉ ⲏ ϩⲛϭⲉⲗⲁⲁⲩ ⲛⲛⲟⲃⲉ ⲉϥϫⲓ ⲉϩⲟⲩⲛ ⲉⲡⲙⲟⲩ ⲁⲩⲱ ⲛⲧⲟⲟⲩ ⲛⲥⲉⲧⲙⲧⲁⲙⲟⲓ ϫⲉⲛⲓⲙ ⲡⲉ ⲏ ϫⲉⲟⲩ ⲛⲉ ⲛⲉϩⲃⲏⲩⲉ ⲛⲡⲟⲛⲏⲣⲟⲛ ⲉⲧⲙⲙⲁⲩ · ⲉⲩⲉⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲱⲟⲩ ⲛϭⲓⲛⲉⲓⲥⲁϩⲟⲩ ⲧⲏⲣⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲛⲡⲛⲟⲩⲧⲉ ⲉϣⲱⲡⲉ ⲉⲩϩⲟⲟⲩⲧ ⲡⲉ ⲉϣⲱⲡⲉ ⲉⲩⲥϩⲓⲙⲉ ⲧⲉ ·
-1	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	57	dislocated	_	Orig=Ⲟⲩⲟⲛ
-2	ⲇⲉ	ⲇⲉ	PART	PTC	_	57	advmod	_	_
+1	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	58	dislocated	_	Orig=Ⲟⲩⲟⲛ
+2	ⲇⲉ	ⲇⲉ	PART	PTC	_	58	advmod	_	_
 3	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	1	det	_	_
 4	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	6	advmod	_	Orig=ϩⲣⲁⲓ̈
 5-6	ⲛϩⲏⲧⲛ	_	_	_	_	_	_	_	_
@@ -706,7 +704,7 @@
 20-22	ϩⲛⲟⲩϫⲓⲟⲩⲉ	_	_	_	_	_	_	_	_
 20	ϩⲛ	ϩⲛ	ADP	PREP	_	22	case	_	Orig=ϩ︤ⲛ︥
 21	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
-22	ϫⲓⲟⲩⲉ	ϫⲓⲟⲩⲉ	VERB	V	VerbForm=Fin	17	conj	_	Orig=ϫⲓⲟⲩⲉ`
+22	ϫⲓⲟⲩⲉ	ϫⲓⲟⲩⲉ	NOUN	N	_	17	conj	_	Orig=ϫⲓⲟⲩⲉ`
 23	ⲏ	ⲏ	CCONJ	CONJ	_	26	cc	_	Orig=ⲏ̂
 24-26	ϩⲛϭⲉⲗⲁⲁⲩ	_	_	_	_	_	_	_	_
 24	ϩⲛ	ϩⲛ	ADP	PREP	_	26	case	_	_
@@ -726,62 +724,63 @@
 35	ⲙⲟⲩ	ⲙⲟⲩ	VERB	V	VerbForm=Inf	31	obl	_	_
 36	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	41	cc	_	Orig=Ⲁⲩⲱ
 37	ⲛⲧⲟⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERI	Definite=Def|Number=Plur|Person=3|PronType=Prs	41	dislocated	_	Orig=ⲛ̄ⲧⲟⲟⲩ
-38-41	ⲛⲥⲉⲧⲙⲧⲁⲙⲟⲓ	_	_	_	_	_	_	_	_
+38-42	ⲛⲥⲉⲧⲙⲧⲁⲙⲟⲓ	_	_	_	_	_	_	_	_
 38	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	41	aux	_	Orig=ⲛ̄
 39	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	41	nsubj	_	_
 40	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	41	advmod	_	Orig=ⲧ︤ⲙ︥
-41	ⲧⲁⲙⲟⲓ	ⲧⲁⲙⲟ	NOUN	N	_	9	conj	_	Orig=ⲧⲁⲙⲟⲓ̈
-42-43	ϫⲉⲛⲓⲙ	_	_	_	_	_	_	_	_
-42	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	43	mark	_	_
-43	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	41	ccomp	_	_
-44	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	43	cop	_	_
-45	ⲏ	ⲏ	CCONJ	CONJ	_	47	cc	_	Orig=ⲏ̂
-46-47	ϫⲉⲟⲩ	_	_	_	_	_	_	_	_
-46	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	47	mark	_	_
-47	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	43	conj	_	_
-48	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	47	cop	_	Orig=ⲛⲉ`
-49-50	ⲛⲉϩⲃⲏⲩⲉ	_	_	_	_	_	_	_	_
-49	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	50	det	_	_
-50	ϩⲃⲏⲩⲉ	ϩⲱⲃ	NOUN	N	_	47	nsubj	_	_
-51-52	ⲛⲡⲟⲛⲏⲣⲟⲛ	_	_	_	_	_	_	_	_
-51	ⲛ	ⲛ	ADP	PREP	_	52	case	_	Orig=ⲛ̄
-52	ⲡⲟⲛⲏⲣⲟⲛ	ⲡⲟⲛⲏⲣⲟⲛ	NOUN	N	_	50	nmod	_	_
-53-54	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
-53	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	54	mark	_	Orig=ⲉⲧ︤
-54	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	50	acl	_	Orig=ⲙ︥ⲙⲁⲩ
-55	·	·	PUNCT	PUNCT	_	9	punct	_	_
-56-57	ⲉⲩⲉⲉⲓ	_	_	_	_	_	_	_	_
-56	ⲉⲩⲉ	ⲉⲣⲉ_ⲛⲧⲟⲟⲩ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	57	nsubj	_	Orig=Ⲉⲩⲉ
-57	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲉⲓ`
-58	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	57	advmod	_	Orig=ⲉϩⲣⲁⲓ̈
-59-60	ⲉϫⲱⲟⲩ	_	_	_	_	_	_	_	_
-59	ⲉϫⲱ	ⲉϫⲛ	ADP	PREP	_	60	case	_	_
-60	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	57	obl	_	_
-61-63	ⲛϭⲓⲛⲉⲓⲥⲁϩⲟⲩ	_	_	_	_	_	_	_	_
-61	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	63	case	_	Orig=ⲛ̄ϭⲓ
-62	ⲛⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	63	det	_	Orig=ⲛⲉⲓ̈
-63	ⲥⲁϩⲟⲩ	ⲥⲁϩⲟⲩ	NOUN	N	_	57	dislocated	_	_
-64-65	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
-64	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	63	advmod	_	_
-65	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	64	det	_	_
-66	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	69	case	_	_
-67-69	ϩⲓⲧⲛⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
-67	ϩⲓⲧⲛ	ϩⲓⲧⲛ	ADP	PREP	_	66	fixed	_	Orig=ϩⲓⲧ︤ⲛ︥
-68	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	69	det	_	_
-69	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	57	obl	_	Orig=ⲛⲟⲩⲧⲉ`
-70	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	73	mark	_	Orig=ⲉϣⲱⲡⲉ`
-71-73	ⲉⲩϩⲟⲟⲩⲧ	_	_	_	_	_	_	_	_
-71	ⲉ	ⲉ	PART	CFOC	_	73	case	_	_
-72	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	73	det	_	_
-73	ϩⲟⲟⲩⲧ	ϩⲟⲟⲩⲧ	NOUN	N	_	57	advcl	_	Orig=ϩⲟⲟⲩⲧ`
-74	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	73	cop	_	Orig=ⲡⲉ`
-75	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	78	mark	_	_
-76-78	ⲉⲩⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
-76	ⲉ	ⲉ	PART	CFOC	_	78	case	_	_
-77	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	78	det	_	_
-78	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	57	advcl	_	_
-79	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	78	cop	_	_
-80	·	·	PUNCT	PUNCT	_	57	punct	_	_
+41	ⲧⲁⲙⲟ	ⲧⲁⲙⲟ	VERB	V	VerbForm=Fin	9	conj	_	_
+42	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	41	obj	_	Orig=ⲓ̈
+43-44	ϫⲉⲛⲓⲙ	_	_	_	_	_	_	_	_
+43	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	44	mark	_	_
+44	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	41	ccomp	_	_
+45	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	44	cop	_	_
+46	ⲏ	ⲏ	CCONJ	CONJ	_	48	cc	_	Orig=ⲏ̂
+47-48	ϫⲉⲟⲩ	_	_	_	_	_	_	_	_
+47	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	48	mark	_	_
+48	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	44	conj	_	_
+49	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	48	cop	_	Orig=ⲛⲉ`
+50-51	ⲛⲉϩⲃⲏⲩⲉ	_	_	_	_	_	_	_	_
+50	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	51	det	_	_
+51	ϩⲃⲏⲩⲉ	ϩⲱⲃ	NOUN	N	_	48	nsubj	_	_
+52-53	ⲛⲡⲟⲛⲏⲣⲟⲛ	_	_	_	_	_	_	_	_
+52	ⲛ	ⲛ	ADP	PREP	_	53	case	_	Orig=ⲛ̄
+53	ⲡⲟⲛⲏⲣⲟⲛ	ⲡⲟⲛⲏⲣⲟⲛ	NOUN	N	_	51	nmod	_	_
+54-55	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
+54	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	55	mark	_	Orig=ⲉⲧ︤
+55	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	51	acl	_	Orig=ⲙ︥ⲙⲁⲩ
+56	·	·	PUNCT	PUNCT	_	9	punct	_	_
+57-58	ⲉⲩⲉⲉⲓ	_	_	_	_	_	_	_	_
+57	ⲉⲩⲉ	ⲉⲣⲉ_ⲛⲧⲟⲟⲩ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	58	nsubj	_	Orig=Ⲉⲩⲉ
+58	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲉⲓ`
+59	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	58	advmod	_	Orig=ⲉϩⲣⲁⲓ̈
+60-61	ⲉϫⲱⲟⲩ	_	_	_	_	_	_	_	_
+60	ⲉϫⲱ	ⲉϫⲛ	ADP	PREP	_	61	case	_	_
+61	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	58	obl	_	_
+62-64	ⲛϭⲓⲛⲉⲓⲥⲁϩⲟⲩ	_	_	_	_	_	_	_	_
+62	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	64	case	_	Orig=ⲛ̄ϭⲓ
+63	ⲛⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	64	det	_	Orig=ⲛⲉⲓ̈
+64	ⲥⲁϩⲟⲩ	ⲥⲁϩⲟⲩ	NOUN	N	_	58	dislocated	_	_
+65-66	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
+65	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	64	advmod	_	_
+66	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	65	det	_	_
+67	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	70	case	_	_
+68-70	ϩⲓⲧⲛⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+68	ϩⲓⲧⲛ	ϩⲓⲧⲛ	ADP	PREP	_	67	fixed	_	Orig=ϩⲓⲧ︤ⲛ︥
+69	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	70	det	_	_
+70	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	58	obl	_	Orig=ⲛⲟⲩⲧⲉ`
+71	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	74	mark	_	Orig=ⲉϣⲱⲡⲉ`
+72-74	ⲉⲩϩⲟⲟⲩⲧ	_	_	_	_	_	_	_	_
+72	ⲉ	ⲉ	PART	CFOC	_	74	case	_	_
+73	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	74	det	_	_
+74	ϩⲟⲟⲩⲧ	ϩⲟⲟⲩⲧ	NOUN	N	_	58	advcl	_	Orig=ϩⲟⲟⲩⲧ`
+75	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	74	cop	_	Orig=ⲡⲉ`
+76	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	79	mark	_	_
+77-79	ⲉⲩⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
+77	ⲉ	ⲉ	PART	CFOC	_	79	case	_	_
+78	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	79	det	_	_
+79	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	58	advcl	_	_
+80	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	79	cop	_	_
+81	·	·	PUNCT	PUNCT	_	58	punct	_	_
 
 # sent_id = shenoute_a22-MONB_YA_421_428_s0011
 # text = ⲛⲕⲟⲟⲩⲉ ⲇⲉ ⲧⲏⲣⲟⲩ ⲉⲧⲉϣϣⲉ ⲉⲥⲁϩⲟⲩ ⲉϩⲣⲁⲓ ⲉⲧⲉⲓⲉⲡⲓⲥⲧⲟⲗⲏ · ⲁⲩⲱ ⲙⲡⲛⲥⲁϩⲟⲩ · ⲉⲓⲥϩⲏⲏⲛⲉ ⲥⲉⲥⲏϩ ⲧⲏⲣⲟⲩ ϩⲛⲛⲉⲭⲁⲣⲧⲏⲥ ⲉⲧⲥⲏϩ ϫⲓⲛⲛϣⲟⲣⲡ ·
@@ -791,7 +790,7 @@
 3	ⲇⲉ	ⲇⲉ	PART	PTC	_	25	advmod	_	_
 4-5	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
 4	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	2	advmod	_	_
-5	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
+5	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	det	_	_
 6-7	ⲉⲧⲉϣϣⲉ	_	_	_	_	_	_	_	_
 6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
 7	ⲉϣϣⲉ	ϣϣⲉ	VERB	V	VerbForm=Fin	2	acl	_	_
@@ -837,7 +836,7 @@
 # sent_id = shenoute_a22-MONB_YA_421_428_s0012
 # text = ⲛϣⲁϫⲉ ⲇⲉ ⲉⲧⲟⲩⲁⲁⲃ ⲛⲧⲉⲡⲉⲛϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲉⲧⲥⲏϩ ϩⲛⲛⲉⲅⲣⲁⲫⲏ · ⲁⲩⲱ ϩⲛϯⲉⲡⲓⲥⲧⲟⲗⲏ ϯⲛⲁⲧⲁⲙⲱⲧⲛ ϫⲉⲉⲩⲧⲛⲧⲱⲛ ⲉⲟⲩ ·
 1-2	ⲛϣⲁϫⲉ	_	_	_	_	_	_	_	_
-1	ⲛ	ⲛ	ADP	PREP	_	2	case	_	Orig=ⲛ̄
+1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	det	_	Orig=ⲛ̄
 2	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	22	dislocated	_	_
 3	ⲇⲉ	ⲇⲉ	PART	PTC	_	22	advmod	_	_
 4-5	ⲉⲧⲟⲩⲁⲁⲃ	_	_	_	_	_	_	_	_
@@ -1085,7 +1084,7 @@
 51-53	ϩⲛⲛⲉⲅⲣⲁⲫⲏ	_	_	_	_	_	_	_	_
 51	ϩⲛ	ϩⲛ	ADP	PREP	_	50	fixed	_	Orig=ϩ︤ⲛ︥
 52	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	53	det	_	_
-53	ⲅⲣⲁⲫⲏ	ⲅⲣⲁⲫⲏ	NOUN	N	_	41	appos	_	_
+53	ⲅⲣⲁⲫⲏ	ⲅⲣⲁⲫⲏ	NOUN	N	_	41	parataxis	_	_
 54	·	·	PUNCT	PUNCT	_	60	punct	_	_
 55	ⲉⲓⲧⲉ	ⲉⲓⲧⲉ	CCONJ	CONJ	_	60	cc	_	Orig=Ⲉⲓⲧⲉ
 56-57	ⲛⲉⲉⲃⲟⲗ	_	_	_	_	_	_	_	_
@@ -1105,7 +1104,7 @@
 67	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	41	conj	_	_
 68-69	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
 68	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	67	advmod	_	_
-69	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	68	det	_	_
+69	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	68	det	_	_
 70-71	ⲉⲧⲥⲏϩ	_	_	_	_	_	_	_	_
 70	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	71	mark	_	_
 71	ⲥⲏϩ	ⲥϩⲁⲓ	VERB	VSTAT	VerbForm=Fin	67	acl	_	_
@@ -1273,7 +1272,7 @@
 29	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
 # sent_id = shenoute_a22-MONB_YA_421_428_s0023
-# text = ⲉⲧⲃⲉⲡⲁⲓ ⲛⲁⲓⲁⲧⲟⲩ ⲛⲛϣⲏⲣⲉ ⲙⲡⲟⲩⲟⲉⲓⲛ ⲉⲧⲉⲛⲉⲧⲙⲟⲟϣⲉ ⲛⲉ ϩⲛⲧⲡⲁⲣⲣⲏⲥⲓⲁ ⲛϩⲩⲡⲟⲧⲁⲅⲏ ⲛⲓⲙ ϩⲓⲙⲛⲧⲥⲧⲙⲏⲧ ⲛⲓⲙ ϩⲓϩⲱⲃ ⲛⲓⲙ ⲛⲁⲅⲁⲑⲟⲛ ⲟⲩⲟⲓ ⲇⲉ ⲛⲛϣⲏⲣⲉ ⲙⲡⲕⲁⲕⲉ ⲉⲧⲉⲛⲉⲧⲙⲟⲟϣⲉ ⲛⲉ ϩⲛⲙⲛⲧⲁⲧⲥⲱⲧⲙ ⲛⲓⲙ ϩⲓⲙⲛⲧⲁⲧⲥⲃⲱ ⲛⲓⲙ ·
+# text = ⲉⲧⲃⲉⲡⲁⲓ ⲛⲁⲓⲁⲧⲟⲩ ⲛⲛϣⲏⲣⲉ ⲙⲡⲟⲩⲟⲉⲓⲛ ⲉⲧⲉⲛⲉⲧⲙⲟⲟϣⲉ ⲛⲉ ϩⲛⲧⲡⲁⲣⲣⲏⲥⲓⲁ ⲛϩⲩⲡⲟⲧⲁⲅⲏ ⲛⲓⲙ ϩⲓⲙⲛⲧⲥⲧⲙⲏⲧ ⲛⲓⲙ ϩⲓϩⲱⲃ ⲛⲓⲙ ⲛⲁⲅⲁⲑⲟⲛ
 1-2	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	Orig=Ⲉⲧⲃⲉ
 2	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	Orig=ⲡⲁⲓ̈
@@ -1303,7 +1302,7 @@
 20	ϩⲩⲡⲟⲧⲁⲅⲏ	ϩⲩⲡⲟⲧⲁⲅⲏ	NOUN	N	_	18	nmod	_	_
 21	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	20	det	_	_
 22-23	ϩⲓⲙⲛⲧⲥⲧⲙⲏⲧ	_	_	_	_	_	_	_	_
-22	ϩⲓ	ϩⲓ	ADP	PREP	_	23	case	_	_
+22	ϩⲓ	ϩⲓ	ADP	PREP	_	23	cc	_	_
 23	ⲙⲛⲧⲥⲧⲙⲏⲧ	ⲙⲛⲧⲥⲧⲙⲏⲧ	NOUN	N	_	20	conj	_	Morphs=ⲙⲛⲧ-ⲥⲧⲙⲏⲧ|Orig=ⲙ︤ⲛ︦ⲧ︥ⲥⲧⲙⲏⲧ
 24	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	23	det	_	_
 25-26	ϩⲓϩⲱⲃ	_	_	_	_	_	_	_	_
@@ -1313,33 +1312,36 @@
 28-29	ⲛⲁⲅⲁⲑⲟⲛ	_	_	_	_	_	_	_	_
 28	ⲛ	ⲛ	ADP	PREP	_	29	case	_	Orig=ⲛ̄
 29	ⲁⲅⲁⲑⲟⲛ	ⲁⲅⲁⲑⲟⲛ	NOUN	N	_	26	nmod	_	Orig=ⲁⲅⲁⲑⲟⲛ`
-30	ⲟⲩⲟⲓ	ⲟⲩⲟⲓ	NOUN	N	_	3	parataxis	_	Orig=ⲟⲩⲟⲓ̈
-31	ⲇⲉ	ⲇⲉ	PART	PTC	_	30	advmod	_	_
-32-34	ⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
-32	ⲛ	ⲛ	ADP	PREP	_	34	case	_	Orig=ⲛ̄
-33	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	34	det	_	_
-34	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	30	obl	_	_
-35-37	ⲙⲡⲕⲁⲕⲉ	_	_	_	_	_	_	_	_
-35	ⲙ	ⲛ	ADP	PREP	_	37	case	_	Orig=ⲙ̄
-36	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
-37	ⲕⲁⲕⲉ	ⲕⲁⲕⲉ	NOUN	N	_	34	nmod	_	_
-38-41	ⲉⲧⲉⲛⲉⲧⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
-38	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	39	mark	_	_
-39	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	34	acl	_	_
-40	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	41	mark	_	_
-41	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	VerbForm=Fin	39	acl	_	_
-42	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	41	cop	_	Orig=ⲛⲉ`
-43-44	ϩⲛⲙⲛⲧⲁⲧⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
-43	ϩⲛ	ϩⲛ	ADP	PREP	_	44	case	_	Orig=ϩ︤ⲛ︥
-44	ⲙⲛⲧⲁⲧⲥⲱⲧⲙ	ⲙⲛⲧⲁⲧⲥⲱⲧⲙ	NOUN	N	_	41	obl	_	Morphs=ⲙⲛⲧ-ⲁⲧ-ⲥⲱⲧⲙ|Orig=ⲙ︤ⲛ︦ⲧ︥ⲁⲧⲥⲱⲧ︤ⲙ︥
-45	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	44	det	_	Orig=ⲛⲓⲙ`
-46-47	ϩⲓⲙⲛⲧⲁⲧⲥⲃⲱ	_	_	_	_	_	_	_	_
-46	ϩⲓ	ϩⲓ	ADP	PREP	_	47	cc	_	_
-47	ⲙⲛⲧⲁⲧⲥⲃⲱ	ⲙⲛⲧⲁⲧⲥⲃⲱ	NOUN	N	_	44	conj	_	Morphs=ⲙⲛⲧ-ⲁⲧ-ⲥⲃⲱ|Orig=ⲙ︤ⲛ︦ⲧ︥ⲁⲧⲥⲃⲱ
-48	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	47	det	_	_
-49	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = shenoute_a22-MONB_YA_421_428_s0024
+# text = ⲟⲩⲟⲓ ⲇⲉ ⲛⲛϣⲏⲣⲉ ⲙⲡⲕⲁⲕⲉ ⲉⲧⲉⲛⲉⲧⲙⲟⲟϣⲉ ⲛⲉ ϩⲛⲙⲛⲧⲁⲧⲥⲱⲧⲙ ⲛⲓⲙ ϩⲓⲙⲛⲧⲁⲧⲥⲃⲱ ⲛⲓⲙ ·
+1	ⲟⲩⲟⲓ	ⲟⲩⲟⲓ	NOUN	N	_	0	root	_	Orig=ⲟⲩⲟⲓ̈
+2	ⲇⲉ	ⲇⲉ	PART	PTC	_	1	advmod	_	_
+3-5	ⲛⲛϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+3	ⲛ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲛ̄
+4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	1	obl	_	_
+6-8	ⲙⲡⲕⲁⲕⲉ	_	_	_	_	_	_	_	_
+6	ⲙ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲙ̄
+7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ⲕⲁⲕⲉ	ⲕⲁⲕⲉ	NOUN	N	_	5	nmod	_	_
+9-12	ⲉⲧⲉⲛⲉⲧⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
+9	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	10	mark	_	_
+10	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	acl	_	_
+11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
+12	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	VerbForm=Fin	10	acl	_	_
+13	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	12	cop	_	Orig=ⲛⲉ`
+14-15	ϩⲛⲙⲛⲧⲁⲧⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
+14	ϩⲛ	ϩⲛ	ADP	PREP	_	15	case	_	Orig=ϩ︤ⲛ︥
+15	ⲙⲛⲧⲁⲧⲥⲱⲧⲙ	ⲙⲛⲧⲁⲧⲥⲱⲧⲙ	NOUN	N	_	12	obl	_	Morphs=ⲙⲛⲧ-ⲁⲧ-ⲥⲱⲧⲙ|Orig=ⲙ︤ⲛ︦ⲧ︥ⲁⲧⲥⲱⲧ︤ⲙ︥
+16	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	15	det	_	Orig=ⲛⲓⲙ`
+17-18	ϩⲓⲙⲛⲧⲁⲧⲥⲃⲱ	_	_	_	_	_	_	_	_
+17	ϩⲓ	ϩⲓ	ADP	PREP	_	18	cc	_	_
+18	ⲙⲛⲧⲁⲧⲥⲃⲱ	ⲙⲛⲧⲁⲧⲥⲃⲱ	NOUN	N	_	15	conj	_	Morphs=ⲙⲛⲧ-ⲁⲧ-ⲥⲃⲱ|Orig=ⲙ︤ⲛ︦ⲧ︥ⲁⲧⲥⲃⲱ
+19	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	18	det	_	_
+20	·	·	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = shenoute_a22-MONB_YA_421_428_s0025
 # text = ⲉⲩⲡⲏⲧ ⲉϩⲟⲩⲛ ⲏ ⲉϩⲣⲁⲓ ⲉⲡⲕⲁⲕⲉ ⲛϩⲱⲃ ⲛⲓⲙ ⲉϥϩⲟⲟⲩ ⲛⲧϩⲉ ⲛⲛⲛⲩⲕⲧⲉⲣⲓⲥ ⲉⲧⲡⲏⲧ ⲉϩⲟⲩⲛ ⲏ ⲉϩⲣⲁⲓ ⲉϩⲉⲛⲙⲁ ⲛⲕⲁⲕⲉ ⲉⲩϣⲟⲕϩ ⲉⲙⲁⲧⲉ ·
 1-3	ⲉⲩⲡⲏⲧ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
@@ -1388,7 +1390,7 @@
 35	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	34	advmod	_	_
 36	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0025
+# sent_id = shenoute_a22-MONB_YA_421_428_s0026
 # text = ⲁϩⲣⲟϥ ⲁϥϫⲟⲟⲥ ⲛϭⲓⲡϫⲟⲉⲓⲥ ⲡⲛⲟⲩⲧⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ ⲛⲛⲉϥⲡⲉⲧⲟⲩⲁⲁⲃ ϫⲉⲉⲣϣⲁⲛⲡⲉⲕϫⲁϫⲉ ϩⲕⲟ ⲙⲁⲧⲙⲙⲟϥ ⲁⲩⲱ ⲉϥϣⲁⲛⲉⲓⲃⲉ ⲙⲁⲧⲥⲟϥ
 1-2	ⲁϩⲣⲟϥ	_	_	_	_	_	_	_	_
 1	ⲁϩⲣⲟ	ⲁϩⲣⲟ	VERB	VBD	VerbForm=Fin	0	root	_	Orig=Ⲁϩⲣⲟ
@@ -1421,18 +1423,18 @@
 22	ϩⲕⲟ	ϩⲕⲟ	VERB	V	VerbForm=Fin	23	advcl	_	_
 23-25	ⲙⲁⲧⲙⲙⲟϥ	_	_	_	_	_	_	_	_
 23	ⲙⲁ	ϯ	VERB	VIMP	VerbForm=Fin	5	ccomp	_	_
-24	ⲧⲙⲙⲟ	ⲧⲙⲙⲟ	VERB	V	VerbForm=Fin	23	xcomp	_	Orig=ⲧ︤ⲙ︥ⲙⲟ
+24	ⲧⲙⲙⲟ	ⲧⲙⲙⲟ	VERB	V	VerbForm=Inf	23	xcomp	_	Orig=ⲧ︤ⲙ︥ⲙⲟ
 25	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	Orig=ϥ`
 26	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	29	cc	_	_
 27-28	ⲉϥϣⲁⲛⲉⲓⲃⲉ	_	_	_	_	_	_	_	_
 27	ⲉϥϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ	PRON	ACOND_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
 28	ⲉⲓⲃⲉ	ⲉⲓⲃⲉ	VERB	V	VerbForm=Fin	29	advcl	_	_
 29-31	ⲙⲁⲧⲥⲟϥ	_	_	_	_	_	_	_	_
-29	ⲙⲁ	ⲙⲁ	NOUN	N	_	23	conj	_	_
-30	ⲧⲥⲟ	ⲧⲥⲟ	VERB	V	VerbForm=Fin	29	xcomp	_	_
+29	ⲙⲁ	ϯ	VERB	VIMP	VerbForm=Fin	23	conj	_	_
+30	ⲧⲥⲟ	ⲧⲥⲟ	VERB	V	VerbForm=Inf	29	xcomp	_	_
 31	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obj	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0026
+# sent_id = shenoute_a22-MONB_YA_421_428_s0027
 # text = ⲉⲧⲃⲉⲟⲩ ϩⲱⲱϥ ⲁϥϫⲟⲟⲥ ϫⲉⲉⲣϣⲁⲛⲧⲙⲡⲉⲕⲥⲟⲛ ⲥⲱⲧⲙ ⲛⲥⲱⲕ ⲙⲁⲣⲉϥϣⲱⲡⲉ ⲛⲁⲕ ⲛⲧϩⲉ ⲛⲟⲩϩⲉⲑⲛⲓⲕⲟⲥ ⲙⲛⲟⲩⲧⲉⲗⲱⲛⲏⲥ ·
 1-2	ⲉⲧⲃⲉⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
@@ -1476,7 +1478,7 @@
 30	ⲧⲉⲗⲱⲛⲏⲥ	ⲧⲉⲗⲱⲛⲏⲥ	NOUN	N	_	27	conj	_	_
 31	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0027
+# sent_id = shenoute_a22-MONB_YA_421_428_s0028
 # text = ϩⲙⲡⲧⲣⲉϥϫⲟⲟⲥ ⲇⲉ ϫⲉⲣⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲛⲓⲙ ⲛⲛⲉⲧⲛϫⲓϫⲉⲉⲩⲉ ⲕⲁⲧⲁⲧⲉⲛⲧⲟⲗⲏ · ⲉϥⲟⲩⲱϣ ⲉⲧⲣⲉⲡⲁⲅⲁⲑⲟⲥ ⲛⲣⲱⲙⲉ ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ϫⲱⲕ ⲉⲃⲟⲗ ⲛⲟⲩⲙⲛⲧⲁⲅⲁⲑⲟⲥ ϩⲓⲧⲛⲧⲡⲟⲛⲏⲣⲓⲁ ⲙⲡⲡⲟⲛⲏⲣⲟⲥ ⲛⲣⲱⲙⲉ ⲉⲧⲏⲡ ⲉⲡⲣⲉϥⲣⲛⲟⲃⲉ ⲡⲥⲁⲧⲁⲛⲁⲥ
 1-6	ϩⲙⲡⲧⲣⲉϥϫⲟⲟⲥ	_	_	_	_	_	_	_	_
 1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	Orig=Ϩⲙ
@@ -1544,7 +1546,7 @@
 49	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	50	det	_	_
 50	ⲥⲁⲧⲁⲛⲁⲥ	ⲥⲁⲧⲁⲛⲁⲥ	PROPN	NPROP	_	48	appos	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0028
+# sent_id = shenoute_a22-MONB_YA_421_428_s0029
 # text = ⲉⲡⲉⲓⲇⲏ ⲉⲡⲙⲁ ⲛⲧⲡⲟⲛⲏⲣⲓⲁ ⲙⲡⲡⲟⲛⲏⲣⲟⲥ ⲛⲣⲱⲙⲉ ϣⲁⲣⲉⲧⲙⲛⲧⲁⲅⲁⲑⲟⲥ ⲙⲡⲁⲅⲁⲑⲟⲥ ⲛⲣⲱⲙⲉ ϥⲓ ⲙⲙⲁⲩ ⲛⲧⲡⲟⲛⲏⲣⲓⲁ ⲙⲡⲣⲱⲙⲉ ⲛϫⲁϫⲉ ·
 1	ⲉⲡⲉⲓⲇⲏ	ⲉⲡⲉⲓⲇⲏ	CCONJ	CONJ	_	21	mark	_	Orig=ⲉⲡⲉⲓⲇⲏ`
 2-4	ⲉⲡⲙⲁ	_	_	_	_	_	_	_	_
@@ -1588,7 +1590,7 @@
 30	ϫⲁϫⲉ	ϫⲁϫⲉ	NOUN	N	_	28	nmod	_	_
 31	·	·	PUNCT	PUNCT	_	21	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0029
+# sent_id = shenoute_a22-MONB_YA_421_428_s0030
 # text = ϩⲙⲡⲧⲣⲉⲡⲣⲱⲙⲉ ⲧⲱⲱⲃⲉ ⲛⲟⲩⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲉⲡⲙⲁ ⲛⲟⲩⲡⲉⲧϩⲟⲟⲩ ⲉϣⲁϥϫⲱⲕ ⲉⲃⲟⲗ ⲛⲧⲙⲛⲧⲛⲟⲩⲧⲉ ⲙⲡⲛⲟⲩⲧⲉ ·
 1-5	ϩⲙⲡⲧⲣⲉⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	Orig=ϩ︤ⲙ︥
@@ -1625,7 +1627,7 @@
 26	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	23	nmod	_	_
 27	·	·	PUNCT	PUNCT	_	19	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0030
+# sent_id = shenoute_a22-MONB_YA_421_428_s0031
 # text = ϩⲙⲡⲧⲣⲉⲡⲣⲱⲙⲉ ⲇⲉ ⲧⲱⲱⲃⲉ ⲛⲟⲩⲡⲉⲧϩⲟⲟⲩ ⲉⲡⲙⲁ ⲛⲟⲩⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲉϣⲁϥϫⲱⲕ ⲉⲃⲟⲗ ⲛⲧⲙⲛⲧⲁⲧⲛⲟⲩⲧⲉ ⲙⲡⲁⲧⲛⲟⲩⲧⲉ ⲛⲇⲓⲁⲃⲟⲗⲟⲥ ·
 1-5	ϩⲙⲡⲧⲣⲉⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	Orig=ϩ︤ⲙ︥
@@ -1666,7 +1668,7 @@
 29	ⲇⲓⲁⲃⲟⲗⲟⲥ	ⲇⲓⲁⲃⲟⲗⲟⲥ	NOUN	N	_	27	nmod	_	_
 30	·	·	PUNCT	PUNCT	_	20	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0031
+# sent_id = shenoute_a22-MONB_YA_421_428_s0032
 # text = ϩⲙⲡⲧⲣⲉϥϫⲟⲟⲥ ⲇⲉ ϫⲉⲉⲣϣⲁⲛⲧⲙⲡⲉⲕⲥⲟⲛ ⲥⲱⲧⲙ ⲛⲥⲱⲕ ⲙⲁⲣⲉϥϣⲱⲡⲉ ⲛⲁⲕ ⲉⲩϫⲁϫⲉ ⲛⲧϩⲉ ⲙⲡⲉⲧⲉⲙⲡⲕⲛⲁⲩ ⲉⲣⲟϥ ⲉⲛⲉϩ · ϣⲟⲣⲡ ⲙⲉⲛ ⲉϥⲟⲩⲱϣ ⲛϭⲓⲡϫⲟⲉⲓⲥ ⲉⲧⲣⲉⲛϣⲁⲁⲧϥ ⲉⲃⲟⲗ ⲙⲙⲟⲛ ⲙⲛⲛⲥⲁⲧⲣⲉⲛϫⲡⲓⲟϥ ϫⲉⲁⲣⲏⲩ ⲣⲱ ⲛϥⲣϩⲧⲏϥ ⲙⲛⲛⲥⲁⲧⲣⲉϥϣⲱⲡⲉ ⲛⲧϩⲉ ⲛⲟⲩϣⲙⲙⲟ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ⲉⲡⲉⲛⲥⲟⲛ ⲡⲉ ⲁⲩⲱ ⲛϥⲕⲧⲟϥ ⲛϥⲙⲉⲧⲁⲛⲟⲉⲓ ⲛⲧⲛⲕⲱ ⲛⲁϥ ⲉⲃⲟⲗ ϣⲁⲥⲁϣϥ ⲛϣϥⲉ ⲛⲥⲟⲡ ϩⲟⲧⲁⲛ ⲉϥϣⲁⲛⲧⲙⲟⲩⲁϩⲙⲉϥ ⲉϩⲣⲁⲓ ⲉⲡⲛⲟⲃⲉ ⲉⲛⲧⲁⲛⲙⲉⲉⲩⲉ ⲉϣⲁⲁⲧϥ ⲉⲃⲟⲗ ⲙⲙⲟⲛ ⲉⲧⲃⲏⲏⲧϥ ·
 1-6	ϩⲙⲡⲧⲣⲉϥϫⲟⲟⲥ	_	_	_	_	_	_	_	_
 1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	Orig=ϩ︤ⲙ︥
@@ -1815,7 +1817,7 @@
 114	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	115	nsubj	_	_
 115	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	VERB	V	VerbForm=Fin	111	acl	_	_
 116-118	ⲉϣⲁⲁⲧϥ	_	_	_	_	_	_	_	_
-116	ⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	117	mark	_	_
+116	ⲉ	ⲉ	PART	PREP	_	117	mark	_	_
 117	ϣⲁⲁⲧ	ϣⲓⲧⲉ	VERB	V	VerbForm=Fin	115	xcomp	_	Orig=ϣⲁⲁⲧ︤
 118	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	117	obj	_	Orig=ϥ︥
 119	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	121	case	_	_
@@ -1827,7 +1829,7 @@
 123	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	117	obl	_	Orig=ϥ̄
 124	·	·	PUNCT	PUNCT	_	41	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0032
+# sent_id = shenoute_a22-MONB_YA_421_428_s0033
 # text = ⲁⲗⲗⲁ ⲉϣⲱⲡⲉ ⲉϥϣⲁⲛⲧⲙⲣϩⲛⲁϥ ⲉⲕⲧⲟϥ ⲉⲃⲟⲗ ϩⲙⲡⲛⲟⲃⲉ ⲉⲛⲧⲁⲛⲙⲉⲉⲩⲉ ⲉϣⲁⲁⲧϥ ⲉⲃⲟⲗ ⲙⲙⲟⲛ ⲉⲧⲃⲏⲏⲧϥ ⲉⲛⲛⲁϣⲁⲁⲧϥ ⲉⲃⲟⲗ ⲙⲙⲟⲛ ⲁⲩⲱ ⲛⲛⲉϥⲕⲧⲟϥ ⲉⲣⲟⲛ ⲁⲩⲱ ⲛⲛⲉⲛⲙⲉⲣⲓⲧϥ
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	30	cc	_	_
 2	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	5	mark	_	Orig=Ⲉϣⲱⲡⲉ
@@ -1849,10 +1851,10 @@
 15-18	ⲉⲛⲧⲁⲛⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 15	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	18	mark	_	_
 16	ⲁ	ⲁ	AUX	APST	_	18	aux	_	_
-17	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	18	nsubj	_	_
-18	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	NOUN	N	_	14	acl	_	Orig=ⲙⲉⲉⲩⲉ`
+17	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
+18	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	VERB	V	_	14	acl	_	Orig=ⲙⲉⲉⲩⲉ`
 19-21	ⲉϣⲁⲁⲧϥ	_	_	_	_	_	_	_	_
-19	ⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	20	mark	_	_
+19	ⲉ	ⲉ	PART	PREP	_	20	mark	_	_
 20	ϣⲁⲁⲧ	ϣⲓⲧⲉ	VERB	V	VerbForm=Fin	18	xcomp	_	_
 21	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	Orig=ϥ̄
 22	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	24	case	_	_
@@ -1888,7 +1890,7 @@
 45	ⲙⲉⲣⲓⲧ	ⲙⲉ	VERB	V	VerbForm=Fin	30	conj	_	Orig=ⲙⲉⲣⲓⲧ︤
 46	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	obj	_	Orig=ϥ︥`
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0033
+# sent_id = shenoute_a22-MONB_YA_421_428_s0034
 # text = ⲁⲗⲗⲁ ⲉϥⲉϣⲱⲡⲉ ⲛⲁⲛⲛⲟⲩϫⲁϫⲉ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉⲉⲡⲉⲛⲥⲟⲛ ⲡⲉ
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	3	cc	_	_
 2-3	ⲉϥⲉϣⲱⲡⲉ	_	_	_	_	_	_	_	_
@@ -1909,7 +1911,7 @@
 14	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	3	advcl	_	Orig=ⲥⲟⲛ`
 15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	14	cop	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0034
+# sent_id = shenoute_a22-MONB_YA_421_428_s0035
 # text = ⲁⲩⲱ ⲛⲧⲉⲓϩⲉ ϣⲁⲣⲉⲡⲙⲁⲓⲛⲟⲩⲧⲉ ⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ⲙⲡⲉϥⲟⲩⲱϣ ⲧⲏⲣϥ ⲉϩⲟⲩⲛ ⲉⲡϫⲟⲉⲓⲥ ϫⲉⲁϥⲙⲉⲣⲓⲧϥ ⲉϩⲟⲩo ⲉⲡⲉϥⲥⲟⲛ · ⲁⲩⲱ ⲛϩⲟⲩⲟ ⲉⲡⲉϥⲉⲓⲱⲧ ⲙⲛⲧⲉϥⲙⲁⲁⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	Orig=Ⲁⲩⲱ
 2-4	ⲛⲧⲉⲓϩⲉ	_	_	_	_	_	_	_	_
@@ -1962,7 +1964,7 @@
 38	ⲙⲁⲁⲩ	ⲙⲁⲁⲩ	NOUN	N	_	35	conj	_	_
 39	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0035
+# sent_id = shenoute_a22-MONB_YA_421_428_s0036
 # text = ⲟⲩⲛⲟϭ ⲅⲁⲣ ⲙⲙⲛⲧⲧⲉⲗⲓⲟⲥ ⲧⲉ ⲉⲧⲣⲉⲡⲣⲱⲙⲉ ϣⲱⲱⲧ ⲉⲃⲟⲗ ⲙⲙⲟϥ ⲙⲡⲉϥⲥⲟⲛ ⲏ ⲡⲉϥϣⲏⲣⲉ ⲏ ⲧⲉϥϣⲉⲉⲣⲉ ⲏ ⲡⲉϥⲉⲓⲱⲧ ⲏ ⲧⲉϥⲙⲁⲁⲩ ⲏ ϭⲉⲗⲁⲁⲩ ⲛⲣⲱⲙⲉ ⲛⲧⲁϥ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ·
 1-2	ⲟⲩⲛⲟϭ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	2	det	_	_
@@ -2018,7 +2020,7 @@
 39	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	11	obl	_	_
 40	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0036
+# sent_id = shenoute_a22-MONB_YA_421_428_s0037
 # text = ϩⲟⲧⲁⲛ ⲉⲩϣⲁⲛⲣⲛⲟⲃⲉ ⲉⲡⲉⲛⲧⲁϥⲧⲁⲙⲓⲟⲟⲩ ⲉⲧⲉⲡⲛⲟⲩⲧⲉ ⲡⲉ ·
 1	ϩⲟⲧⲁⲛ	ϩⲟⲧⲁⲛ	CCONJ	CONJ	_	3	advmod	_	_
 2-3	ⲉⲩϣⲁⲛⲣⲛⲟⲃⲉ	_	_	_	_	_	_	_	_
@@ -2031,7 +2033,7 @@
 7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
 8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 9	ⲧⲁⲙⲓⲟ	ⲧⲁⲙⲓⲟ	VERB	V	VerbForm=Fin	5	acl	_	_
-10	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	obj	_	Orig=ⲟⲩ`
+10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	obj	_	Orig=ⲟⲩ`
 11-13	ⲉⲧⲉⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 11	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	13	mark	_	_
 12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -2039,7 +2041,7 @@
 14	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	13	cop	_	_
 15	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0037
+# sent_id = shenoute_a22-MONB_YA_421_428_s0038
 # text = ⲁⲩⲱ ⲟⲩⲛⲟϭⲙⲙⲛⲧϫⲱⲱⲣⲉ ⲧⲉ ⲉⲧⲣⲉⲡⲣⲱⲙⲉ ⲙⲉⲣⲉⲛⲉϥϫⲓϫⲉⲉⲩⲉ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲛϥϣⲗⲏⲗ ⲉϫⲛⲛⲉⲧⲡⲏⲧ ⲛⲥⲱϥ ⲉⲧⲣⲡⲉⲧϩⲟⲟⲩ ⲛⲁϥ ⲁⲩⲱ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ⲛϥⲥⲙⲟⲩ ⲉⲛⲉⲧⲥⲁϩⲟⲩ ⲙⲙⲟϥ ⲉⲧⲣⲛⲟⲃⲉ ⲉⲣⲟϥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	Orig=Ⲁⲩⲱ
 2-5	ⲟⲩⲛⲟϭⲙⲙⲛⲧϫⲱⲱⲣⲉ	_	_	_	_	_	_	_	_
@@ -2108,7 +2110,7 @@
 50	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	48	obl	_	_
 51	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0038
+# sent_id = shenoute_a22-MONB_YA_421_428_s0039
 # text = ⲁⲩⲱ ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲛⲧⲁϥϫⲟⲟⲥ ϫⲉⲙⲁⲣⲉⲡⲉⲕⲥⲟⲛ ϣⲱⲡⲉ ⲛⲁⲕ ⲛⲟⲩϩⲉⲑⲛⲓⲕⲟⲥ ⲙⲛⲟⲩⲧⲉⲗⲱⲛⲏⲥ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ϩⲟⲧⲁⲛ ⲉϥϣⲁⲛⲣⲛⲟⲃⲉ ⲙⲡⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲡϫⲟⲉⲓⲥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	Orig=Ⲁⲩⲱ
 2	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Orig=ⲧⲁⲓ̈
@@ -2158,7 +2160,7 @@
 36	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	32	nmod	_	_
 37	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0039
+# sent_id = shenoute_a22-MONB_YA_421_428_s0040
 # text = ⲡⲉⲕϫⲁϫⲉ ⲇⲉ ϩⲱⲱϥ ⲉⲧⲣⲛⲟⲃⲉ ⲉⲣⲟⲕ ⲛⲅⲙⲉⲣⲓⲧϥ ⲁⲩⲱ ⲛⲅⲥⲙⲟⲩ ⲉⲣⲟϥ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ·
 1-2	ⲡⲉⲕϫⲁϫⲉ	_	_	_	_	_	_	_	_
 1	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	2	det	_	_
@@ -2192,7 +2194,7 @@
 22	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	12	obl	_	_
 23	·	·	PUNCT	PUNCT	_	12	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0040
+# sent_id = shenoute_a22-MONB_YA_421_428_s0041
 # text = ⲁⲛⲟⲛ ⲇⲉ ϩⲱⲱⲛ ⲉⲥⲛⲏⲩ ⲉⲛϩⲟⲥⲟⲛ ⲉⲛⲟ ⲛⲕⲟⲓⲛⲱⲛⲟⲥ ⲙⲛⲛⲉⲛⲉⲣⲏⲩ ⲁⲛⲟⲛ ⲛϣⲏⲣⲉ ⲛⲟⲩⲣⲱⲙⲉ ⲛⲟⲩⲱⲧ ⲉⲧⲉⲡⲛⲟⲩⲧⲉ ⲡⲉ ·
 1	ⲁⲛⲟⲛ	ⲁⲛⲟⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=1|PronType=Prs	20	dislocated	_	Orig=Ⲁⲛⲟⲛ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	20	advmod	_	_
@@ -2235,7 +2237,7 @@
 29	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	28	cop	_	_
 30	·	·	PUNCT	PUNCT	_	20	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0041
+# sent_id = shenoute_a22-MONB_YA_421_428_s0042
 # text = ⲁⲩⲱ ⲁⲛⲟⲛ ⲛϣⲏⲣⲉ ⲛⲟⲩⲙⲁⲁⲩ ⲛⲟⲩⲱⲧ ⲉⲧⲉⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ⲛⲧⲡⲉ ⲧⲉ ⲕⲁⲧⲁⲛⲉⲅⲣⲁⲫⲏ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	Orig=Ⲁⲩⲱ
 2	ⲁⲛⲟⲛ	ⲁⲛⲟⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
@@ -2264,7 +2266,7 @@
 19	ⲅⲣⲁⲫⲏ	ⲅⲣⲁⲫⲏ	NOUN	N	_	4	obl	_	Orig=ⲅⲣⲁⲫⲏ̂`
 20	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0042
+# sent_id = shenoute_a22-MONB_YA_421_428_s0043
 # text = ⲙⲏ ⲁⲣⲁ ϭⲉ ⲉϥⲥⲟⲧⲡ ⲛϭⲓⲡⲉⲛⲉⲓⲱⲧ ⲙⲛⲧⲉⲛⲙⲁⲁⲩ ⲉⲛⲧⲁⲩϫⲡⲟⲛ ⲁⲩⲱ ⲉⲁⲩⲥⲁⲛⲟⲩϣⲛ ⲕⲁⲧⲁⲥⲁⲣⲝ ⲛϩⲟⲩⲟ ⲉⲡⲉⲛϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲛⲉⲓⲱⲧ ⲁⲩⲱ ⲧⲉⲛⲙⲁⲁⲩ ⲛⲁⲙⲉ ·
 1	ⲙⲏ	ⲙⲏ	CCONJ	CONJ	_	6	advmod	_	Orig=Ⲙⲏ
 2	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	_	6	advmod	_	_
@@ -2315,7 +2317,7 @@
 37	ⲛⲁⲙⲉ	ⲛⲁⲙⲉ	ADV	ADV	_	30	advmod	_	Orig=ⲙⲉ
 38	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = shenoute_a22-MONB_YA_421_428_s0043
+# sent_id = shenoute_a22-MONB_YA_421_428_s0044
 # text = ⲡⲁⲓ ⲉⲛⲧⲁϥϫⲡⲟⲛ ϩⲣⲁⲓ ϩⲙⲡⲉϥⲥⲛⲟϥ ⲉⲧⲟⲩⲁⲁⲃ
 1	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Orig=ⲡⲁⲓ̈
 2-6	ⲉⲛⲧⲁϥϫⲡⲟⲛ	_	_	_	_	_	_	_	_
@@ -2745,7 +2747,7 @@
 
 # sent_id = sahidica_mark-Mark_05_s0002
 # text = ⲁⲩⲱ ⲛⲧⲉⲣⲉϥⲫⲱϭⲉ ⲉⲡⲉⲕⲣⲟ ⲛⲧⲉⲩⲛⲟⲩ ⲁϥⲧⲱⲙⲛⲧ ⲉⲣⲟϥ ⲛϭⲓⲟⲩⲣⲱⲙⲉ ⲉϥⲛⲏⲩ ⲉⲃⲟⲗ ϩⲛⲛⲉⲙϩⲁⲟⲩ ⲉⲣⲉⲟⲩⲡⲛⲉⲩⲙⲁ ⲛⲁⲕⲁⲑⲁⲣⲧⲟⲛ ⲛⲙⲙⲁϥ
-1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
 2-4	ⲛⲧⲉⲣⲉϥⲫⲱϭⲉ	_	_	_	_	_	_	_	_
 2	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	4	aux	_	_
 3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -2772,22 +2774,22 @@
 19-21	ⲉϥⲛⲏⲩ	_	_	_	_	_	_	_	_
 19	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	21	mark	_	_
 20	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
-21	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	13	advcl	_	_
-22	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	21	advmod	_	_
+21	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	18	acl	_	_
+22	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	25	case	_	_
 23-25	ϩⲛⲛⲉⲙϩⲁⲟⲩ	_	_	_	_	_	_	_	_
-23	ϩⲛ	ϩⲛ	ADP	PREP	_	25	case	_	_
+23	ϩⲛ	ϩⲛ	ADP	PREP	_	22	fixed	_	_
 24	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
 25	ⲙϩⲁⲟⲩ	ⲙϩⲁⲟⲩ	NOUN	N	_	21	obl	_	_
 26-28	ⲉⲣⲉⲟⲩⲡⲛⲉⲩⲙⲁ	_	_	_	_	_	_	_	_
-26	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	28	mark	_	_
+26	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	32	mark	_	_
 27	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	28	det	_	_
-28	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	_	13	advcl	_	_
+28	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	_	32	nsubj	_	_
 29-30	ⲛⲁⲕⲁⲑⲁⲣⲧⲟⲛ	_	_	_	_	_	_	_	_
 29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	_
 30	ⲁⲕⲁⲑⲁⲣⲧⲟⲛ	ⲁⲕⲁⲑⲁⲣⲧⲟⲛ	NOUN	N	_	28	nmod	_	_
 31-32	ⲛⲙⲙⲁϥ	_	_	_	_	_	_	_	_
 31	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	32	case	_	_
-32	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nmod	_	_
+32	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	acl	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0003
 # text = ⲉϥϣⲟⲟⲡ ϩⲛⲛⲉⲙϩⲁⲟⲩ ⲉⲙⲡⲉϣⲗⲁⲁⲩ ϭⲉ ϭⲙϭⲟⲙ ⲉⲙⲟⲣϥ ϩⲛϩⲁⲗⲩⲥⲓⲥ ⲉⲃⲟⲗ
@@ -3145,7 +3147,7 @@
 17-19	ⲉⲛⲉϣⲁⲩ	_	_	_	_	_	_	_	_
 17	ⲉ	ⲉ	ADP	PREP	_	19	case	_	_
 18	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
-19	ⲉϣⲁⲩ	ⲉϣⲁⲩ	NOUN	N	_	14	obl	_	_
+19	ⲉϣⲁⲩ	ⲉϣⲱ	NOUN	N	_	14	obl	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0013
 # text = ⲁⲩⲱ ⲁⲩⲕⲁⲁⲩ ⲉⲧⲣⲉⲩⲃⲱⲕ ⲛⲧⲉⲣⲉⲛⲉⲡⲛⲉⲩⲙⲁ ⲇⲉ ⲛⲁⲕⲁⲑⲁⲣⲧⲟⲛ ⲉⲓ ⲉⲃⲟⲗ ⲁⲩⲃⲱⲕ ⲉϩⲟⲩⲛ ⲉⲛⲉϣⲁⲩ ⲁⲩⲱ ⲁⲥⲣⲱϩⲧ ⲛϭⲓⲧⲁⲅⲉⲗⲏ ⲛⲣⲓⲣ ϩⲓϫⲛ ⲧϣⲱⲙⲉ ⲉⲡⲉⲕϩⲏⲧ ⲉⲩⲛⲁⲣϫⲟⲩⲱⲧ ⲛϣⲉ ⲁⲩⲙⲟⲩ ϩⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ .
@@ -3178,7 +3180,7 @@
 22-24	ⲉⲛⲉϣⲁⲩ	_	_	_	_	_	_	_	_
 22	ⲉ	ⲉ	ADP	PREP	_	24	case	_	_
 23	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
-24	ⲉϣⲁⲩ	ⲉϣⲁⲩ	NOUN	N	_	20	obl	_	_
+24	ⲉϣⲁⲩ	ⲉϣⲱ	NOUN	N	_	20	obl	_	_
 25	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	28	cc	_	_
 26-28	ⲁⲥⲣⲱϩⲧ	_	_	_	_	_	_	_	_
 26	ⲁ	ⲁ	AUX	APST	_	28	aux	_	_
@@ -3194,7 +3196,7 @@
 34	ϩⲓϫⲛ	ϩⲓϫⲛ	ADP	PREP	_	36	case	_	_
 35-36	ⲧϣⲱⲙⲉ	_	_	_	_	_	_	_	_
 35	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
-36	ϣⲱⲙⲉ	ϣⲱⲙⲉ	NOUN	N	_	28	obl	_	_
+36	ϣⲱⲙⲉ	ϣⲱⲱⲙⲉ	NOUN	N	_	28	obl	_	_
 37-39	ⲉⲡⲉⲕϩⲏⲧ	_	_	_	_	_	_	_	_
 37	ⲉ	ⲉ	ADP	PREP	_	39	case	_	_
 38	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	39	det	_	Orig=ⲡⲉⲭ
@@ -3224,7 +3226,7 @@
 1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	dislocated	_	_
 2	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	3	mark	_	_
 3	ⲙⲟⲟⲛⲉ	ⲙⲟⲟⲛⲉ	VERB	V	VerbForm=Fin	1	acl	_	_
-4	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	_	9	advmod	_	_
 5-6	ⲙⲙⲟⲟⲩ	_	_	_	_	_	_	_	_
 5	ⲙⲙⲟ	ⲛ	ADP	PREP	_	6	case	_	_
 6	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	obl	_	_
@@ -3257,8 +3259,8 @@
 27	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Inf	24	xcomp	_	_
 28-33	ⲉⲡⲉⲛⲧⲁϥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
 28	ⲉ	ⲉ	ADP	PREP	_	29	case	_	_
-29	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	obl	_	_
-30	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	33	mark	_	_
+29	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	obl	_	_
+30	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	33	mark	_	_
 31	ⲁ	ⲁ	AUX	APST	_	33	aux	_	_
 32	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	nsubj	_	_
 33	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	29	acl	_	_
@@ -3361,7 +3363,7 @@
 26	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	28	case	_	_
 27-28	ⲛⲉϣⲁⲩ	_	_	_	_	_	_	_	_
 27	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	28	det	_	_
-28	ⲉϣⲁⲩ	ⲉϣⲁⲩ	NOUN	N	_	9	conj	_	_
+28	ⲉϣⲁⲩ	ⲉϣⲱ	NOUN	N	_	9	conj	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0017
 # text = ⲁⲩⲥⲉⲡⲥⲱⲡϥ ⲇⲉ ⲉⲧⲣⲉϥⲡⲱⲱⲛⲉ ⲉⲃⲟⲗ ϩⲛⲛⲉⲩⲧⲟϣ
@@ -3623,7 +3625,7 @@
 18	ϫⲉⲕⲁⲁⲥ	ϫⲉⲕⲁⲁⲥ	CCONJ	CONJ	_	21	mark	_	_
 19	ϭⲉ	ϭⲉ	PART	PTC	_	21	advmod	_	_
 20-21	ⲉⲕⲉⲉⲓ	_	_	_	_	_	_	_	_
-20	ⲉⲕⲉ	ⲉⲕⲉ	PRON	AOPT_PPERS	_	21	nsubj	_	_
+20	ⲉⲕⲉ	ⲉⲕⲉ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	21	nsubj	_	_
 21	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	15	advcl	_	_
 22-26	ⲛⲅⲕⲁⲧⲟⲟⲧⲕ	_	_	_	_	_	_	_	_
 22	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	24	aux	_	_
@@ -3642,7 +3644,7 @@
 33-35	ⲛⲥⲱⲛϩ	_	_	_	_	_	_	_	_
 33	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	35	aux	_	_
 34	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	nsubj	_	_
-35	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	32	advcl	_	_
+35	ⲱⲛϩ	ⲱⲛϩ	VERB	V	VerbForm=Fin	32	advcl	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0024
 # text = ⲁϥⲃⲱⲕ ⲇⲉ ⲛⲙⲙⲁϥ . ⲁⲩⲱ ⲁϥⲟⲩⲁϩϥ ⲛⲥⲱϥ ⲛϭⲓⲟⲩⲛⲟϭ ⲙⲙⲏⲏϣⲉ ⲛⲉⲩⲑⲗⲓⲃⲉ ⲇⲉ ⲙⲙⲟϥ .
@@ -3752,11 +3754,10 @@
 35	ⲁ	ⲁ	AUX	APST	_	37	aux	_	_
 36	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	_
 37	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	17	conj	_	_
-38-40	ⲛⲧϩⲟ	_	_	_	_	_	_	_	_
-38	ⲛ	ⲛ	ADP	PREP	_	40	case	_	_
-39	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
-40	ϩⲟ	ϩⲟ	NOUN	N	_	37	obl	_	_
-41	.	.	PUNCT	PUNCT	_	4	punct	_	_
+38-39	ⲛⲧϩⲟ	_	_	_	_	_	_	_	_
+38	ⲛ	ⲛ	ADP	PREP	_	39	case	_	_
+39	ⲧϩⲟ	ⲧϩⲟ	NOUN	N	_	37	obl	_	_
+40	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0027
 # text = ⲛⲧⲉⲣⲉⲥⲥⲱⲧⲙ ⲉⲧⲃⲉ ⲓⲏⲥⲟⲩⲥ ⲁⲥⲟϣⲥ ⲉϩⲟⲩⲛ ϩⲙⲡⲙⲏⲏϣⲉ ⲁⲥⲉⲓ ⲉⲡⲁϩⲟⲩ ⲙⲙⲟϥ ⲁⲥϫⲱϩ ⲉⲧⲉϥϣⲧⲏⲛ
@@ -3862,7 +3863,7 @@
 32	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	acl	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0030
-# text = ⲓⲏⲥⲟⲩⲥ ⲇⲉ ⲛⲧⲉⲣⲉϥⲉⲓⲙⲉ ⲛⲧⲉⲩⲛⲟⲩ ϩⲣⲁⲓ ⲛϩⲏⲧϥ ⲉⲧϭⲟⲙ ⲉⲛⲧⲁⲥⲉⲓ ⲉⲃⲟⲗ ⲙⲙⲟϥ ⲁϥⲕⲧⲟϥ ϩⲙⲡⲙⲏⲏϣⲉ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲛⲓⲙ ⲡⲉ ⲛⲧⲁϥϫⲱϩ ⲉⲛⲁϩⲟⲉⲓⲧⲉ
+# text = ⲓⲏⲥⲟⲩⲥ ⲇⲉ ⲛⲧⲉⲣⲉϥⲉⲓⲙⲉ ⲛⲧⲉⲩⲛⲟⲩ ϩⲣⲁⲓ ⲛϩⲏⲧϥ ⲉⲧϭⲟⲙ ⲉⲛⲧⲁⲥⲉⲓ ⲉⲃⲟⲗ ⲙⲙⲟϥ ⲁϥⲕⲧⲟϥ ϩⲙⲡⲙⲏⲏϣⲉ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲛⲓⲙ ⲡⲉⲛⲧⲁϥϫⲱϩ ⲉⲛⲁϩⲟⲉⲓⲧⲉ
 1	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	_	5	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
 3-5	ⲛⲧⲉⲣⲉϥⲉⲓⲙⲉ	_	_	_	_	_	_	_	_
@@ -3909,9 +3910,9 @@
 34-35	ϫⲉⲛⲓⲙ	_	_	_	_	_	_	_	_
 34	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	35	mark	_	_
 35	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	31	ccomp	_	_
-36	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	35	cop	_	_
-37-40	ⲛⲧⲁϥϫⲱϩ	_	_	_	_	_	_	_	_
-37	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	40	mark	_	_
+36-40	ⲡⲉⲛⲧⲁϥϫⲱϩ	_	_	_	_	_	_	_	_
+36	ⲡ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	35	cop	_	_
+37	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	40	mark	_	_
 38	ⲁ	ⲁ	AUX	APST	_	40	aux	_	_
 39	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	nsubj	_	_
 40	ϫⲱϩ	ϫⲱϩ	VERB	V	VerbForm=Fin	35	csubj	_	_
@@ -3921,7 +3922,7 @@
 43	ϩⲟⲉⲓⲧⲉ	ϩⲟⲉⲓⲧⲉ	NOUN	N	_	40	obl	_	Orig=ϩⲟⲓⲧⲉ
 
 # sent_id = sahidica_mark-Mark_05_s0031
-# text = ⲡⲉϫⲉⲛⲉϥⲙⲁⲑⲏⲧⲏⲥ ⲛⲁϥ ϫⲉⲕⲛⲁⲩ ⲉⲡⲙⲏⲏϣⲉ ⲉⲧⲑⲗⲓⲃⲉ ⲙⲙⲟⲕ ⲉⲧⲃⲉ ⲡⲁⲓ ⲕϫⲱ ⲙⲙⲟⲥ ϫⲉⲛⲓⲙ ⲡⲉ ⲛⲧⲁϥϫⲱϩ ⲉⲣⲟⲓ .
+# text = ⲡⲉϫⲉⲛⲉϥⲙⲁⲑⲏⲧⲏⲥ ⲛⲁϥ ϫⲉⲕⲛⲁⲩ ⲉⲡⲙⲏⲏϣⲉ ⲉⲧⲑⲗⲓⲃⲉ ⲙⲙⲟⲕ ⲉⲧⲃⲉ ⲡⲁⲓ ⲕϫⲱ ⲙⲙⲟⲥ ϫⲉⲛⲓⲙ ⲡⲉⲛⲧⲁϥϫⲱϩ ⲉⲣⲟⲓ .
 1-3	ⲡⲉϫⲉⲛⲉϥⲙⲁⲑⲏⲧⲏⲥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
 2	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
@@ -3954,9 +3955,9 @@
 22-23	ϫⲉⲛⲓⲙ	_	_	_	_	_	_	_	_
 22	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	23	mark	_	_
 23	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	19	ccomp	_	_
-24	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	23	cop	_	_
-25-28	ⲛⲧⲁϥϫⲱϩ	_	_	_	_	_	_	_	_
-25	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	28	mark	_	_
+24-28	ⲡⲉⲛⲧⲁϥϫⲱϩ	_	_	_	_	_	_	_	_
+24	ⲡ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	23	cop	_	_
+25	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	28	mark	_	_
 26	ⲁ	ⲁ	AUX	APST	_	28	aux	_	_
 27	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
 28	ϫⲱϩ	ϫⲱϩ	VERB	V	VerbForm=Fin	23	csubj	_	_
@@ -3970,19 +3971,21 @@
 1-4	ⲁϥⲕⲧⲉⲓⲁⲧϥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	ⲕⲧⲉⲓⲁⲧ	ⲕⲧⲉⲓⲁⲧ	VERB	V	VerbForm=Fin	0	root	_	_
-4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-5	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
-6-7	ⲉⲛⲁⲩ	_	_	_	_	_	_	_	_
-6	ⲉ	ⲉ	PART	PREP	_	7	mark	_	_
-7	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Inf	3	xcomp	_	_
-8-13	ⲉⲧⲉⲛⲧⲁⲥⲣⲡⲁⲓ	_	_	_	_	_	_	_	_
-8	ⲉ	ⲉ	ADP	PREP	_	9	case	_	_
-9	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	obl	_	_
-10	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	13	mark	_	_
-11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
-12	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
-13	ⲣⲡⲁⲓ	ⲣⲡⲁⲓ	VERB	V	VerbForm=Fin	9	acl	_	Morphs=ⲣ-ⲡⲁⲓ
+3	ⲕⲧⲉ	ⲕⲧⲟ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲓⲁⲧ	ⲉⲓⲁ	NOUN	N	_	3	obj	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	det	_	_
+6	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
+7-8	ⲉⲛⲁⲩ	_	_	_	_	_	_	_	_
+7	ⲉ	ⲉ	PART	PREP	_	8	mark	_	_
+8	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Inf	3	xcomp	_	_
+9-14	ⲉⲧⲉⲛⲧⲁⲥⲣⲡⲁⲓ	_	_	_	_	_	_	_	_
+9	ⲉ	ⲉ	ADP	PREP	_	10	case	_	_
+10	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	obl	_	_
+11	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	14	mark	_	_
+12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
+13	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	10	acl	_	_
+15	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	obj	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0033
 # text = ⲧⲉⲥϩⲓⲙⲉ ⲇⲉ ⲁⲥⲣϩⲟⲧⲉ ⲁⲩⲱ ⲁⲥⲥⲧⲱⲧ ⲉⲥⲥⲟⲟⲩⲛ ⲙⲡⲉⲛⲧⲁϥϣⲱⲡⲉ ⲙⲙⲟⲥ ⲁⲥⲉⲓ ⲁⲥⲡⲁϩⲧⲥ ϩⲁⲣⲁⲧϥ ⲁⲥⲧⲁⲟⲩⲟ ⲉⲣⲟϥ ⲛⲧⲙⲉ ⲧⲏⲣⲥ
@@ -4041,7 +4044,7 @@
 40	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	39	det	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0034
-# text = ⲛⲧⲟϥ ⲇⲉ ⲡⲉϫⲁϥ ⲛⲁⲥ ϫⲉⲧⲁϣⲉⲉⲣⲉ ⲧⲟⲩⲡⲓⲥⲧⲓⲥⲧⲉ ⲛⲧⲁⲥⲛⲁϩⲙⲉ ⲃⲱⲕ ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ . ⲛⲧⲉⲗⲟ ⲉⲃⲟⲗ ϩⲛⲧⲟⲩⲙⲁⲥⲧⲓⲅⲝ .
+# text = ⲛⲧⲟϥ ⲇⲉ ⲡⲉϫⲁϥ ⲛⲁⲥ ϫⲉⲧⲁϣⲉⲉⲣⲉ ⲧⲟⲩⲡⲓⲥⲧⲓⲥ ⲧⲉⲛⲧⲁⲥⲛⲁϩⲙⲉ ⲃⲱⲕ ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ . ⲛⲧⲉⲗⲟ ⲉⲃⲟⲗ ϩⲛⲧⲟⲩⲙⲁⲥⲧⲓⲅⲝ .
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
 3-4	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
@@ -4054,30 +4057,31 @@
 7	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	11	mark	_	_
 8	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	ϣⲉⲉⲣⲉ	ϣⲉⲉⲣⲉ	NOUN	N	_	11	vocative	_	_
-10-12	ⲧⲟⲩⲡⲓⲥⲧⲓⲥⲧⲉ	_	_	_	_	_	_	_	_
+10-11	ⲧⲟⲩⲡⲓⲥⲧⲓⲥ	_	_	_	_	_	_	_	_
 10	ⲧⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	11	det	_	_
 11	ⲡⲓⲥⲧⲓⲥ	ⲡⲓⲥⲧⲓⲥ	NOUN	N	_	3	ccomp	_	_
-12	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	11	cop	_	_
-13-16	ⲛⲧⲁⲥⲛⲁϩⲙⲉ	_	_	_	_	_	_	_	_
-13	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
+12-17	ⲧⲉⲛⲧⲁⲥⲛⲁϩⲙⲉ	_	_	_	_	_	_	_	_
+12	ⲧ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	11	cop	_	_
+13	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	16	mark	_	_
 14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
 15	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
-16	ⲛⲁϩⲙⲉ	ⲛⲟⲩϩⲙ	VERB	V	VerbForm=Fin	11	csubj	_	_
-17	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	11	parataxis	_	_
-18-20	ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ	_	_	_	_	_	_	_	_
-18	ϩⲛ	ϩⲛ	ADP	PREP	_	20	case	_	_
-19	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
-20	ⲉⲓⲣⲏⲛⲏ	ⲉⲓⲣⲏⲛⲏ	NOUN	N	_	17	obl	_	_
-21	.	.	PUNCT	PUNCT	_	17	punct	_	_
-22-23	ⲛⲧⲉⲗⲟ	_	_	_	_	_	_	_	_
-22	ⲛⲧⲉ	ⲛⲧⲉ	AUX	ACONJ	_	23	aux	_	_
-23	ⲗⲟ	ⲗⲟ	VERB	V	VerbForm=Fin	17	advcl	_	_
-24	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	23	advmod	_	_
-25-27	ϩⲛⲧⲟⲩⲙⲁⲥⲧⲓⲅⲝ	_	_	_	_	_	_	_	_
-25	ϩⲛ	ϩⲛ	ADP	PREP	_	27	case	_	_
-26	ⲧⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	27	det	_	_
-27	ⲙⲁⲥⲧⲓⲅⲝ	ⲙⲁⲥⲧⲓⲅⲝ	NOUN	N	_	23	obl	_	_
-28	.	.	PUNCT	PUNCT	_	3	punct	_	_
+16	ⲛⲁϩⲙ	ⲛⲟⲩϩⲙ	VERB	V	VerbForm=Fin	11	csubj	_	_
+17	ⲉ	ⲛⲧⲟ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	16	obj	_	_
+18	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	11	parataxis	_	_
+19-21	ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ	_	_	_	_	_	_	_	_
+19	ϩⲛ	ϩⲛ	ADP	PREP	_	21	case	_	_
+20	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	21	det	_	_
+21	ⲉⲓⲣⲏⲛⲏ	ⲉⲓⲣⲏⲛⲏ	NOUN	N	_	18	obl	_	_
+22	.	.	PUNCT	PUNCT	_	18	punct	_	_
+23-24	ⲛⲧⲉⲗⲟ	_	_	_	_	_	_	_	_
+23	ⲛⲧⲉ	ⲛⲧⲉ	AUX	ACONJ	_	24	aux	_	_
+24	ⲗⲟ	ⲗⲟ	VERB	V	VerbForm=Fin	18	advcl	_	_
+25	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	24	advmod	_	_
+26-28	ϩⲛⲧⲟⲩⲙⲁⲥⲧⲓⲅⲝ	_	_	_	_	_	_	_	_
+26	ϩⲛ	ϩⲛ	ADP	PREP	_	28	case	_	_
+27	ⲧⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	28	det	_	_
+28	ⲙⲁⲥⲧⲓⲅⲝ	ⲙⲁⲥⲧⲓⲅⲝ	NOUN	N	_	24	obl	_	_
+29	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0035
 # text = ⲉⲧⲓ ⲛⲧⲟϥ ⲉϥϣⲁϫⲉ . ⲁⲩⲉⲓ ⲛϭⲓⲛⲣⲱⲙⲉ ⲙⲡⲁⲣⲭⲓⲥⲩⲛⲁⲅⲱⲅⲟⲥ ⲉⲩϫⲱ ⲙⲙⲟⲥ ⲛⲁϥ ϫⲉⲧⲉⲕϣⲉⲉⲣⲉ ⲁⲥⲙⲟⲩ ⲉⲕⲛⲁϯϩⲟⲓ ϭⲉ ⲙⲡⲥⲁϩ ⲉⲧⲃⲉ ⲟⲩ
@@ -4286,7 +4290,7 @@
 4	ⲛⲥⲱ	ⲛⲥⲁ	ADP	PREP	_	5	case	_	_
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 6	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	dislocated	_	_
-7	ⲇⲉ	ⲇⲉ	PART	PTC	_	10	advmod	_	_
+7	ⲇⲉ	ⲇⲉ	PART	PTC	_	17	advmod	_	_
 8-11	ⲛⲧⲉⲣⲉϥⲛⲟϫⲟⲩ	_	_	_	_	_	_	_	_
 8	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	10	aux	_	_
 9	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
@@ -4587,12 +4591,11 @@
 59	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	57	obj	_	_
 
 # sent_id = sahidica_mark-Mark_06_s0003
-# text = ⲙⲡⲁⲓ ⲁⲙⲡⲉ ⲡϩⲁⲙϣⲉ ⲡϣⲏⲣⲉ ⲙⲙⲁⲣⲓⲁ . ⲁⲩⲱ ⲡⲥⲟⲛ ⲛⲓⲁⲕⲱⲃⲟⲥ ⲛⲙⲓⲱⲥⲏ ⲛⲙⲓⲟⲩⲇⲁ ⲛⲙⲥⲓⲙⲱⲛ . ⲁⲩⲱ ⲛⲉϥⲥⲱⲛⲉ ⲛⲉⲩⲛⲡⲉⲓⲙⲁ ⲁⲛ ϩⲁϩⲧⲏⲛ ⲁⲩⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ ϩⲣⲁⲓ ⲛϩⲏⲧϥ .
+# text = ⲙⲡⲁⲓ ⲁⲛ ⲡⲉ ⲡϩⲁⲙϣⲉ ⲡϣⲏⲣⲉ ⲙⲙⲁⲣⲓⲁ . ⲁⲩⲱ ⲡⲥⲟⲛ ⲛⲓⲁⲕⲱⲃⲟⲥ ⲛⲙⲓⲱⲥⲏ ⲛⲙⲓⲟⲩⲇⲁ ⲛⲙⲥⲓⲙⲱⲛ . ⲁⲩⲱ ⲛⲉϥⲥⲱⲛⲉ ⲛⲉⲩⲛⲡⲉⲓⲙⲁ ⲁⲛ ϩⲁϩⲧⲏⲛ ⲁⲩⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ ϩⲣⲁⲓ ⲛϩⲏⲧϥ .
 1-2	ⲙⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲙ	ⲛ	ADV	NEG	Polarity=Neg	2	advmod	_	_
 2	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
-3-4	ⲁⲙⲡⲉ	_	_	_	_	_	_	_	_
-3	ⲁⲙ	ⲁⲛ	ADV	NEG	Polarity=Neg	2	advmod	_	_
+3	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	2	advmod	_	_
 4	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	2	cop	_	_
 5-6	ⲡϩⲁⲙϣⲉ	_	_	_	_	_	_	_	_
 5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -4607,7 +4610,7 @@
 12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
 13-14	ⲡⲥⲟⲛ	_	_	_	_	_	_	_	_
 13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	6	conj	_	_
+14	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	8	conj	_	_
 15-16	ⲛⲓⲁⲕⲱⲃⲟⲥ	_	_	_	_	_	_	_	_
 15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
 16	ⲓⲁⲕⲱⲃⲟⲥ	ⲓⲁⲕⲱⲃⲟⲥ	PROPN	NPROP	_	14	nmod	_	_
@@ -6545,8 +6548,8 @@
 42	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	45	cc	_	_
 43-45	ⲛⲉϥⲟⲩⲱϣ	_	_	_	_	_	_	_	_
 43	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	45	aux	_	_
-44	ϥ	ϥ	DET	PPOS	_	45	det	_	_
-45	ⲟⲩⲱϣ	ⲟⲩⲱϣ	NOUN	N	_	33	conj	_	_
+44	ϥ	ϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	nsubj	_	_
+45	ⲟⲩⲱϣ	ⲟⲩⲱϣ	VERB	V	_	33	conj	_	_
 46-47	ⲉⲡⲁⲣⲁⲅⲉ	_	_	_	_	_	_	_	_
 46	ⲉ	ⲉⲣⲉ	PART	PREP	_	47	mark	_	_
 47	ⲡⲁⲣⲁⲅⲉ	ⲡⲁⲣⲁⲅⲉ	VERB	V	VerbForm=Inf	45	xcomp	_	_
@@ -7001,7 +7004,7 @@
 31	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	32	det	_	_
 32	ⲁⲡⲟⲧ	ⲁⲡⲟⲧ	NOUN	N	_	19	appos	_	_
 33-35	ⲉϩⲟⲣⲡⲟⲩ	_	_	_	_	_	_	_	_
-33	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	34	mark	_	_
+33	ⲉ	ⲉ	PART	PREP	_	34	mark	_	_
 34	ϩⲟⲣⲡ	ϩⲟⲣⲡ	VERB	V	VerbForm=Fin	32	acl	_	_
 35	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	34	obj	_	_
 36-38	ⲛⲙϩⲉⲛⲝⲉⲥⲧⲏⲥ	_	_	_	_	_	_	_	_
@@ -7684,7 +7687,7 @@
 23	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = sahidica_mark-Mark_07_s0022
-# text = ϩⲉⲛϩⲱⲧⲃ ϩⲉⲛⲙⲛⲧⲛⲟⲉⲓⲕ . ϩⲉⲛⲙⲛⲧⲙⲁⲓ ⲧⲟ ⲛϩⲟⲩⲟ ϩⲉⲛⲡⲟⲛⲏⲣⲓⲁ ⲟⲩⲙⲛⲧⲣⲉϥϫⲱϩⲙ ⲟⲩⲃⲁⲗ ⲉϥϩⲟⲟⲩ ⲟⲩⲙⲛⲧⲣⲉϥϫⲓⲟⲩⲁ ⲟⲩⲙⲛⲧϫⲁⲥⲓϩⲏⲧ ⲟⲩⲙⲛⲧⲁⲧϩⲏⲧ
+# text = ϩⲉⲛϩⲱⲧⲃ ϩⲉⲛⲙⲛⲧⲛⲟⲉⲓⲕ . ϩⲉⲛⲙⲛⲧⲙⲁⲓⲧⲟ ⲛϩⲟⲩⲟ ϩⲉⲛⲡⲟⲛⲏⲣⲓⲁ ⲟⲩⲙⲛⲧⲣⲉϥϫⲱϩⲙ ⲟⲩⲃⲁⲗ ⲉϥϩⲟⲟⲩ ⲟⲩⲙⲛⲧⲣⲉϥϫⲓⲟⲩⲁ ⲟⲩⲙⲛⲧϫⲁⲥⲓϩⲏⲧ ⲟⲩⲙⲛⲧⲁⲧϩⲏⲧ
 1-2	ϩⲉⲛϩⲱⲧⲃ	_	_	_	_	_	_	_	_
 1	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	2	det	_	_
 2	ϩⲱⲧⲃ	ϩⲱⲧⲃ	NOUN	N	_	0	root	_	_
@@ -7694,33 +7697,32 @@
 5	.	.	PUNCT	PUNCT	_	2	punct	_	_
 6-7	ϩⲉⲛⲙⲛⲧⲙⲁⲓ	_	_	_	_	_	_	_	_
 6	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
-7	ⲙⲛⲧⲙⲁⲓ	ⲙⲛⲧⲙⲁⲓ	NOUN	N	_	2	conj	_	Morphs=ⲙⲛⲧ-ⲙⲁⲓ
-8	ⲧⲟ	ⲧⲟ	NOUN	N	_	7	obj	_	_
-9-10	ⲛϩⲟⲩⲟ	_	_	_	_	_	_	_	_
-9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
-10	ϩⲟⲩⲟ	ϩⲟⲩⲟ	NOUN	N	_	8	nmod	_	_
-11-12	ϩⲉⲛⲡⲟⲛⲏⲣⲓⲁ	_	_	_	_	_	_	_	_
-11	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
-12	ⲡⲟⲛⲏⲣⲓⲁ	ⲡⲟⲛⲏⲣⲓⲁ	NOUN	N	_	2	conj	_	_
-13-14	ⲟⲩⲙⲛⲧⲣⲉϥϫⲱϩⲙ	_	_	_	_	_	_	_	_
-13	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
-14	ⲙⲛⲧⲣⲉϥϫⲱϩⲙ	ⲙⲛⲧⲣⲉϥϫⲱϩⲙ	NOUN	N	_	2	conj	_	Morphs=ⲙⲛⲧ-ⲣⲉϥ-ϫⲱϩⲙ
-15-16	ⲟⲩⲃⲁⲗ	_	_	_	_	_	_	_	_
-15	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	16	det	_	_
-16	ⲃⲁⲗ	ⲃⲁⲗ	NOUN	N	_	2	conj	_	_
-17-19	ⲉϥϩⲟⲟⲩ	_	_	_	_	_	_	_	_
-17	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	19	mark	_	_
-18	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
-19	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	16	acl	_	_
-20-21	ⲟⲩⲙⲛⲧⲣⲉϥϫⲓⲟⲩⲁ	_	_	_	_	_	_	_	_
-20	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	21	det	_	_
-21	ⲙⲛⲧⲣⲉϥϫⲓⲟⲩⲁ	ⲙⲛⲧⲣⲉϥϫⲓⲟⲩⲁ	NOUN	N	_	2	conj	_	Morphs=ⲙⲛⲧ-ⲣⲉϥ-ϫⲓⲟⲩⲁ
-22-23	ⲟⲩⲙⲛⲧϫⲁⲥⲓϩⲏⲧ	_	_	_	_	_	_	_	_
-22	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	23	det	_	_
-23	ⲙⲛⲧϫⲁⲥⲓϩⲏⲧ	ⲙⲛⲧϫⲁⲥⲓϩⲏⲧ	NOUN	N	_	2	conj	_	Morphs=ⲙⲛⲧ-ϫⲁⲥⲓϩⲏⲧ
-24-25	ⲟⲩⲙⲛⲧⲁⲧϩⲏⲧ	_	_	_	_	_	_	_	_
-24	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	25	det	_	_
-25	ⲙⲛⲧⲁⲧϩⲏⲧ	ⲙⲛⲧⲁⲧϩⲏⲧ	NOUN	N	_	2	conj	_	Morphs=ⲙⲛⲧ-ⲁⲧ-ϩⲏⲧ
+7	ⲙⲛⲧⲙⲁⲓⲧⲟ	ⲙⲛⲧⲙⲁⲓⲧⲟ	NOUN	N	_	2	conj	_	Morphs=ⲙⲛⲧ-ⲙⲁⲓ-ⲧⲟ
+8-9	ⲛϩⲟⲩⲟ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ϩⲟⲩⲟ	ϩⲟⲩⲟ	NOUN	N	_	7	nmod	_	_
+10-11	ϩⲉⲛⲡⲟⲛⲏⲣⲓⲁ	_	_	_	_	_	_	_	_
+10	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
+11	ⲡⲟⲛⲏⲣⲓⲁ	ⲡⲟⲛⲏⲣⲓⲁ	NOUN	N	_	2	conj	_	_
+12-13	ⲟⲩⲙⲛⲧⲣⲉϥϫⲱϩⲙ	_	_	_	_	_	_	_	_
+12	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	13	det	_	_
+13	ⲙⲛⲧⲣⲉϥϫⲱϩⲙ	ⲙⲛⲧⲣⲉϥϫⲱϩⲙ	NOUN	N	_	2	conj	_	Morphs=ⲙⲛⲧ-ⲣⲉϥ-ϫⲱϩⲙ
+14-15	ⲟⲩⲃⲁⲗ	_	_	_	_	_	_	_	_
+14	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
+15	ⲃⲁⲗ	ⲃⲁⲗ	NOUN	N	_	2	conj	_	_
+16-18	ⲉϥϩⲟⲟⲩ	_	_	_	_	_	_	_	_
+16	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	18	mark	_	_
+17	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+18	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	15	acl	_	_
+19-20	ⲟⲩⲙⲛⲧⲣⲉϥϫⲓⲟⲩⲁ	_	_	_	_	_	_	_	_
+19	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
+20	ⲙⲛⲧⲣⲉϥϫⲓⲟⲩⲁ	ⲙⲛⲧⲣⲉϥϫⲓⲟⲩⲁ	NOUN	N	_	2	conj	_	Morphs=ⲙⲛⲧ-ⲣⲉϥ-ϫⲓⲟⲩⲁ
+21-22	ⲟⲩⲙⲛⲧϫⲁⲥⲓϩⲏⲧ	_	_	_	_	_	_	_	_
+21	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
+22	ⲙⲛⲧϫⲁⲥⲓϩⲏⲧ	ⲙⲛⲧϫⲁⲥⲓϩⲏⲧ	NOUN	N	_	2	conj	_	Morphs=ⲙⲛⲧ-ϫⲁⲥⲓϩⲏⲧ
+23-24	ⲟⲩⲙⲛⲧⲁⲧϩⲏⲧ	_	_	_	_	_	_	_	_
+23	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	24	det	_	_
+24	ⲙⲛⲧⲁⲧϩⲏⲧ	ⲙⲛⲧⲁⲧϩⲏⲧ	NOUN	N	_	2	conj	_	Morphs=ⲙⲛⲧ-ⲁⲧ-ϩⲏⲧ
 
 # sent_id = sahidica_mark-Mark_07_s0023
 # text = ⲛⲁⲓ ⲧⲏⲣⲟⲩ ⲉⲧϩⲟⲟⲩ ⲉⲩⲛⲏⲩ ⲉⲃⲟⲗ ϩⲓ ϩⲟⲩⲛ ⲉⲩϫⲱϩⲙ ⲙⲡⲣⲱⲙⲉ .
@@ -8428,14 +8430,13 @@
 43	ϩⲙ	ϩⲛ	ADP	PREP	_	44	case	_	_
 44	ⲙⲁ	ⲙⲁ	NOUN	N	_	33	obl	_	_
 45	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	44	det	_	_
-46-48	ⲛⲧⲁⲩ	_	_	_	_	_	_	_	_
-46	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	50	mark	_	_
-47	ⲁ	ⲁ	AUX	APST	_	50	aux	_	_
-48	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	50	nsubj	_	_
-49-50	ⲛⲙⲙⲁⲛ	_	_	_	_	_	_	_	_
-49	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	50	case	_	_
-50	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	44	acl	_	_
-51	.	.	PUNCT	PUNCT	_	3	punct	_	_
+46-47	ⲛⲧⲁⲩ	_	_	_	_	_	_	_	_
+46	ⲛⲧⲁ	ⲛⲧⲉ	ADP	PREP	_	47	case	_	_
+47	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	44	nmod	_	_
+48-49	ⲛⲙⲙⲁⲛ	_	_	_	_	_	_	_	_
+48	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	49	case	_	_
+49	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	47	nmod	_	_
+50	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = sahidica_1corinthians-1Corinthians_01_s0003
 # text = ⲧⲉⲭⲁⲣⲓⲥ ⲛⲏⲧⲛ ⲙⲛⲧⲉⲓⲣⲏⲛⲏ ⲉⲃⲟⲗ ϩⲓⲧⲙⲡⲛⲟⲩⲧⲉ ⲡⲉⲛⲉⲓⲱⲧ ⲙⲛⲡⲉⲛϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ .
@@ -10373,8 +10374,8 @@
 21	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	24	advmod	_	_
 22	ⲇⲉ	ⲇⲉ	PART	PTC	_	24	advmod	_	_
 23-24	ⲛⲟⲩⲟⲉⲓⲛ	_	_	_	_	_	_	_	_
-23	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	24	det	_	Orig=ⲛ̄
-24	ⲟⲩⲟⲉⲓⲛ	ⲟⲩⲟⲉⲓⲛ	NOUN	N	_	16	conj	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	24	case	_	Orig=ⲛ̄
+24	ⲟⲩⲟⲉⲓⲛ	ⲟⲩⲟⲉⲓⲛ	NOUN	N	_	16	parataxis	_	_
 25-27	ϩⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
 25	ϩⲙ	ϩⲙ	ADP	PREP	_	27	case	_	Orig=ϩ︤ⲙ︥
 26	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
@@ -11587,8 +11588,8 @@
 7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	ϫⲁϫⲉ	ϫⲁϫⲉ	NOUN	N	_	6	obj	_	_
 9-10	ⲉⲧⲁⲕⲟ	_	_	_	_	_	_	_	_
-9	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
-10	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Fin	6	vocative	_	_
+9	ⲉ	ⲉ	PART	PREP	_	10	mark	_	_
+10	ⲧⲁⲕⲟ	ⲧⲁⲕⲟ	VERB	V	VerbForm=Fin	6	xcomp	_	_
 11-13	ⲙⲡⲉⲛⲡⲉⲧⲛⲁⲛⲟⲩϥ	_	_	_	_	_	_	_	_
 11	ⲙ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲙ̄
 12	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
@@ -12469,7 +12470,7 @@
 17	ⲉ	ⲉ	PART	PREP	_	18	mark	_	_
 18	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	5	xcomp	_	_
 19	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	PROPN	NPROP	_	21	nsubj	_	Orig=ⲭ︤ⲥ︥
+20	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	21	nsubj	_	Orig=ⲭ︤ⲥ︥
 21-23	ⲕⲁⲡⲉϥⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
 21	ⲕⲁ	ⲕⲱ	VERB	V	VerbForm=Fin	18	xcomp	_	_
 22	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
@@ -12528,7 +12529,7 @@
 14-16	ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ	_	_	_	_	_	_	_	_
 14	ⲙ	ⲛ	ADP	PREP	_	16	case	_	Orig=Ⲙ̄
 15	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Orig=ⲠⲈ
-16	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	PROPN	NPROP	_	13	obl	_	Orig=ⲬⲢⲤ̄
+16	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	13	obl	_	Orig=ⲬⲢⲤ̄
 17	·	·	PUNCT	PUNCT	_	20	punct	_	_
 18	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	20	cc	_	Orig=ⲀⲨⲰ
 19-20	ⲡϥⲁⲓⲕⲗⲟⲙ	_	_	_	_	_	_	_	_
@@ -12771,7 +12772,7 @@
 21	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	_	20	appos	_	Orig=ⲓⲥ̄
 22-23	ⲡⲉⲭⲣⲓⲥⲧⲟⲥ	_	_	_	_	_	_	_	_
 22	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-23	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	PROPN	NPROP	_	20	appos	_	Orig=ⲭⲥ̄
+23	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	20	appos	_	Orig=ⲭⲥ̄
 24	·	·	PUNCT	PUNCT	_	31	punct	_	_
 25	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	31	cc	_	_
 26	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	31	nsubj	_	_
@@ -13052,12 +13053,12 @@
 # sent_id = martyrdom_victor-martyrdom_victor_01_s0014
 # text = ϫⲉⲛⲁⲓ ⲛⲉ ⲛⲛⲟⲩⲧⲉ ⲉⲧϯ ⲛⲁⲛ ⲙⲡⲉϫⲣⲟ ϩⲙⲡⲡⲟⲗⲉⲙⲟⲥ · ⲁⲩⲱ ⲛⲧⲱⲧⲛ ϩⲱⲧⲧⲏⲩⲧⲛ ⲛⲥⲉϣⲱⲡⲉ ⲛⲏⲧⲛ ⲛⲛⲁϣⲧⲉ · ⲉⲩϯϭⲟⲙ ⲛⲏⲧⲛ ⲙⲛⲡⲉⲥⲧⲣⲁⲧⲉⲩⲙⲁ ⲧⲏⲣϥ ·
 1-2	ϫⲉⲛⲁⲓ	_	_	_	_	_	_	_	_
-1	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	5	mark	_	_
-2	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	5	nsubj	_	_
+1	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	2	mark	_	_
+2	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	0	root	_	_
 3	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	5	cop	_	_
 4-5	ⲛⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Orig=ⲛ̄
-5	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	0	root	_	_
+5	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	2	nsubj	_	_
 6-7	ⲉⲧϯ	_	_	_	_	_	_	_	_
 6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
 7	ϯ	ϯ	VERB	V	VerbForm=Fin	5	acl	_	_
@@ -13081,7 +13082,7 @@
 21-23	ⲛⲥⲉϣⲱⲡⲉ	_	_	_	_	_	_	_	_
 21	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	23	aux	_	Orig=ⲛ̄
 22	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
-23	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	5	conj	_	_
+23	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	2	conj	_	_
 24-25	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
 24	ⲛⲏ	ⲛⲁ	ADP	PREP	_	25	case	_	_
 25	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	23	obl	_	Orig=ⲧⲛ̄
@@ -13103,7 +13104,7 @@
 37-38	ⲧⲏⲣϥ	_	_	_	_	_	_	_	_
 37	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	36	advmod	_	_
 38	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	37	det	_	Orig=ϥ̄
-39	·	·	PUNCT	PUNCT	_	5	punct	_	_
+39	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = martyrdom_victor-martyrdom_victor_01_s0015
 # text = ϫⲉⲕⲁⲥ ⲡⲉⲧⲉⲛϥⲛⲁϣⲟⲣⲡϥ ⲁⲛ · ⲛϥⲉⲓ ⲉϩⲧⲟⲟⲩⲉ ⲛⲧⲛⲃⲱⲕ ⲉⲡⲣⲡⲉ ϩⲓⲟⲩⲥⲟⲡ · ⲛⲧⲛⲑⲩⲥⲓⲁⲍⲉ ⲛⲛⲛⲟⲩⲧⲉ ·
