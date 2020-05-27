@@ -3267,7 +3267,7 @@
 34	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0015
-# text = ⲁⲩⲉⲓ ⲇⲉ ⲉⲣⲁⲧϥ ⲛⲓⲏⲥⲟⲩⲥ ⲁⲩⲛⲁⲩ ⲉⲡⲉⲧⲟ ⲛⲣⲉϥϣⲟⲟⲣ ⲉϥϩⲙⲟⲟⲥ ⲉϩⲣⲁⲓ ⲉⲣⲉⲛⲉϥϩⲟⲓⲧⲉ ϩⲓⲱⲱϥ ⲁⲩⲱ ⲉⲣⲉⲡⲉϥϩⲏⲧ ⲥⲙⲟⲛⲧ . ⲡⲉⲛⲧⲁⲗⲉⲅⲉⲱⲛ ϣⲱⲡⲉ ⲛⲙⲙⲁϥ ⲁⲩⲱ ⲁⲩⲣϩⲟⲧⲉ .
+# text = ⲁⲩⲉⲓ ⲇⲉ ⲉⲣⲁⲧϥ ⲛⲓⲏⲥⲟⲩⲥ ⲁⲩⲛⲁⲩ ⲉⲡⲉⲧⲟ ⲛⲣⲉϥϣⲟⲟⲣ ⲉϥϩⲙⲟⲟⲥ ⲉϩⲣⲁⲓ ⲉⲣⲉⲛⲉϥϩⲟⲓⲧⲉ ϩⲓⲱⲱϥ ⲁⲩⲱ ⲉⲣⲉⲡⲉϥϩⲏⲧ ⲥⲙⲟⲛⲧ . ⲡⲉⲛⲧⲁⲗⲉⲅⲓⲱⲛ ϣⲱⲡⲉ ⲛⲙⲙⲁϥ ⲁⲩⲱ ⲁⲩⲣϩⲟⲧⲉ .
 1-3	ⲁⲩⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
 2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
@@ -3310,11 +3310,11 @@
 30	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	31	nsubj	_	_
 31	ⲥⲙⲟⲛⲧ	ⲥⲙⲓⲛⲉ	VERB	VSTAT	VerbForm=Fin	26	conj	_	_
 32	.	.	PUNCT	PUNCT	_	11	punct	_	_
-33-36	ⲡⲉⲛⲧⲁⲗⲉⲅⲉⲱⲛ	_	_	_	_	_	_	_	_
+33-36	ⲡⲉⲛⲧⲁⲗⲉⲅⲓⲱⲛ	_	_	_	_	_	_	_	_
 33	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	nsubj	_	_
 34	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	37	mark	_	_
 35	ⲁ	ⲁ	AUX	APST	_	37	aux	_	_
-36	ⲗⲉⲅⲉⲱⲛ	ⲗⲉⲅⲉⲱⲛ	PROPN	NPROP	_	37	nsubj	_	_
+36	ⲗⲉⲅⲓⲱⲛ	ⲗⲉⲅⲓⲱⲛ	PROPN	NPROP	_	37	nsubj	_	Orig=ⲗⲉⲅⲉⲱⲛ
 37	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	33	acl	_	_
 38-39	ⲛⲙⲙⲁϥ	_	_	_	_	_	_	_	_
 38	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	39	case	_	_
