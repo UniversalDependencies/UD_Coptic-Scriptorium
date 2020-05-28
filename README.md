@@ -21,19 +21,20 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | ------------------------ | --------------------------- | ------- |
 | Not Because a Fox Barks  | MONB XH204-216              |   2,547 |
 | Abraham our Father       | MONB XL93-94, YA518-520     |   1,197 |
-| Acephalous Work 22       | MONB YA421-428              |   1,700 |
+| Acephalous Work 22       | MONB YA421-428              |   1,698 |
 | I See Your Eagerness     | MONB GF31-32                |     439 |
 | Epistle of Pseudo-Ephrem | psephrem.letter             |   1,926 |
-| Gospel of Mark           | Chapters 1 - 9              |  10,808 |
-| 1 Corinthians            | Chapters 1 - 6              |   3,571 |
+| Gospel of Mark           | Chapters 1 - 9              |  10,809 |
+| 1 Corinthians            | Chapters 1 - 6              |   3,570 |
+| Book of Ruth             | Chapters 1 - 4 (complete)   |   3,470 |
 | Letters of Besa          | #1,2,13,15,25               |   3,939 |
 | Life of Cyrus            | life.cyrus.01               |   1,962 |
 | Life of Onnophrius       | life.onnophrius.01          |   2,745 |
 | Apophthegmata Patrum     | #1-6,18-19,23-32,114-139    |   4,152 |
 | Martyrdom of St. Victor  | Chapters 1 - 6              |   1,985 |
 | Dormition of John        | dormition.john.mercad       |   3,064 |
-| Pseudo-Athanasius        | mercy_judgment              |   2,783 |
-|                          | Total:                      |  42,818 |
+| Pseudo-Athanasius        | mercy_judgment              |   2,781 |
+|                          | Total:                      |  46,283 |
 
 ## Tokenization
 
