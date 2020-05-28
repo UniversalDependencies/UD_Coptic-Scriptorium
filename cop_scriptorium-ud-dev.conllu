@@ -4073,15 +4073,16 @@
 20	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	21	det	_	_
 21	ⲉⲓⲣⲏⲛⲏ	ⲉⲓⲣⲏⲛⲏ	NOUN	N	_	18	obl	_	_
 22	.	.	PUNCT	PUNCT	_	18	punct	_	_
-23-24	ⲛⲧⲉⲗⲟ	_	_	_	_	_	_	_	_
-23	ⲛⲧⲉ	ⲛⲧⲉ	AUX	ACONJ	_	24	aux	_	_
-24	ⲗⲟ	ⲗⲟ	VERB	V	VerbForm=Fin	18	advcl	_	_
-25	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	24	advmod	_	_
-26-28	ϩⲛⲧⲟⲩⲙⲁⲥⲧⲓⲅⲝ	_	_	_	_	_	_	_	_
-26	ϩⲛ	ϩⲛ	ADP	PREP	_	28	case	_	_
-27	ⲧⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	28	det	_	_
-28	ⲙⲁⲥⲧⲓⲅⲝ	ⲙⲁⲥⲧⲓⲅⲝ	NOUN	N	_	24	obl	_	_
-29	.	.	PUNCT	PUNCT	_	3	punct	_	_
+23-25	ⲛⲧⲉⲗⲟ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	25	aux	_	_
+24	ⲧⲉ	ⲛⲧⲟ	PRON	PPERS	_	25	nsubj	_	_
+25	ⲗⲟ	ⲗⲟ	VERB	V	VerbForm=Fin	18	advcl	_	_
+26	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	25	advmod	_	_
+27-29	ϩⲛⲧⲟⲩⲙⲁⲥⲧⲓⲅⲝ	_	_	_	_	_	_	_	_
+27	ϩⲛ	ϩⲛ	ADP	PREP	_	29	case	_	_
+28	ⲧⲟⲩ	ⲡⲟⲩ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	29	det	_	_
+29	ⲙⲁⲥⲧⲓⲅⲝ	ⲙⲁⲥⲧⲓⲅⲝ	NOUN	N	_	25	obl	_	_
+30	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = sahidica_mark-Mark_05_s0035
 # text = ⲉⲧⲓ ⲛⲧⲟϥ ⲉϥϣⲁϫⲉ . ⲁⲩⲉⲓ ⲛϭⲓⲛⲣⲱⲙⲉ ⲙⲡⲁⲣⲭⲓⲥⲩⲛⲁⲅⲱⲅⲟⲥ ⲉⲩϫⲱ ⲙⲙⲟⲥ ⲛⲁϥ ϫⲉⲧⲉⲕϣⲉⲉⲣⲉ ⲁⲥⲙⲟⲩ ⲉⲕⲛⲁϯϩⲟⲓ ϭⲉ ⲙⲡⲥⲁϩ ⲉⲧⲃⲉ ⲟⲩ
