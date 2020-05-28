@@ -11192,7 +11192,7 @@
 # sent_id = besa_letters-on_vigilance_s0021
 # text = ⲙⲡⲓϣⲱϣ ⲅⲁⲣ ⲁⲛ ⲛⲟⲩⲱⲧ ⲡⲉ ⲡϫⲓⲟⲩⲉ ⲛⲟⲩϩⲁⲧ ⲙⲛⲟⲩⲛⲟⲩⲃ · ⲁⲗⲗⲁ ⲛⲧϩⲉ ⲉⲧⲉⲣⲉⲧⲙⲛⲧⲡⲁⲣⲑⲉⲛⲟⲥ ⲁⲩⲱ ⲧⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ ⲧⲁⲓⲏⲩ ⲙⲙⲟⲥ · ⲛⲧⲉⲓϩⲉ ⲟⲛ ϥⲥⲡⲟⲩⲇⲁⲍⲉ ⲉϥⲓⲧⲟⲩ ⲛϫⲓⲟⲩⲉ ⲛϭⲓⲡϫⲁϫⲉ ·
 1-3	ⲙⲡⲓϣⲱϣ	_	_	_	_	_	_	_	_
-1	ⲙ	ⲛ	ADP	PREP	_	3	case	_	Orig=ⲙ̄
+1	ⲙ	ⲛ	ADV	NEG	Polarity=Neg	3	advmod	_	Orig=ⲙ̄
 2	ⲡⲓ	ⲡⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	ϣⲱϣ	ϣⲱϣ	NOUN	N	_	0	root	_	_
 4	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	3	advmod	_	_
