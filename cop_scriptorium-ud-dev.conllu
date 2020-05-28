@@ -270,13 +270,13 @@
 20	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	19	advmod	_	Orig=ⲁⲛ`
 21	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	24	mark	_	_
 22-24	ⲉⲩϩⲟⲟⲩⲧ	_	_	_	_	_	_	_	_
-22	ⲉ	ⲉⲣⲉ	PART	CFOC	_	24	mark	_	_
+22	ⲉ	ⲉⲣϣⲁⲛ	AUX	ACOND	_	24	aux	_	_
 23	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	24	det	_	_
 24	ϩⲟⲟⲩⲧ	ϩⲟⲟⲩⲧ	NOUN	N	_	14	advcl	_	_
 25	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	24	cop	_	_
 26	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	29	mark	_	_
 27-29	ⲉⲩⲥϩⲓⲙⲉ	_	_	_	_	_	_	_	_
-27	ⲉ	ⲉ	PART	CFOC	_	29	mark	_	_
+27	ⲉ	ⲉⲣϣⲁⲛ	AUX	COND	_	29	aux	_	_
 28	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	29	det	_	_
 29	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	14	advcl	_	_
 30	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	29	cop	_	_
