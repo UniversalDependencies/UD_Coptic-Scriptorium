@@ -3742,7 +3742,7 @@
 25	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	20	advmod	_	_
 26	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	25	det	_	_
 27-30	ⲉⲙⲡⲥⲙⲧⲟⲛ	_	_	_	_	_	_	_	_
-27	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	30	advcl	_	_
+27	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	30	mark	_	_
 28	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	30	aux	_	_
 29	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
 30	ⲙⲧⲟⲛ	ⲙⲧⲟⲛ	VERB	V	VerbForm=Fin	17	advcl	_	_
