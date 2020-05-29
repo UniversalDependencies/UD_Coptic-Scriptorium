@@ -1243,7 +1243,7 @@
 
 # sent_id = shenoute_fox-MONB_XH_204_216_s0029
 # text = ⲁⲗⲗⲁ ⲛⲧⲕⲟⲩϣⲟⲛⲧⲉ ⲙⲛⲟⲩⲁⲣⲟⲟⲩⲉ ⲉⲕϩⲓⲛⲉϩⲓⲟⲟⲩⲉ ⲉⲕⲟ ⲛϫⲣⲟⲡ ⲛⲛⲉⲧⲙⲟⲟϣⲉ ,
-1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	7	cc	_	_
+1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲛⲧⲕⲟⲩϣⲟⲛⲧⲉ	_	_	_	_	_	_	_	_
 2	ⲛⲧⲕ	ⲛⲧⲟⲕ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Orig=ⲛ̄ⲧ︤ⲕ︥
 3	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
@@ -1253,18 +1253,18 @@
 6	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
 7	ⲁⲣⲟⲟⲩⲉ	ⲁⲣⲟⲟⲩⲉ	NOUN	N	_	4	conj	_	Orig=ⲁⲣⲟⲟⲩⲉ⳿
 8-12	ⲉⲕϩⲓⲛⲉϩⲓⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
-8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
-9	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
-10	ϩⲓ	ϩⲓ	VERB	V	VerbForm=Fin	4	advcl	_	_
+8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	12	mark	_	_
+9	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
+10	ϩⲓ	ϩⲓ	VERB	V	VerbForm=Fin	12	case	_	_
 11	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
-12	ϩⲓⲟⲟⲩⲉ	ϩⲓⲟⲟⲩⲉ	NOUN	N	_	10	obj	_	_
+12	ϩⲓⲟⲟⲩⲉ	ϩⲓⲏ	NOUN	N	_	4	advcl	_	_
 13-15	ⲉⲕⲟ	_	_	_	_	_	_	_	_
 13	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	15	mark	_	_
 14	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
-15	ⲟ	ⲉⲓⲣⲉ	VERB	VSTAT	VerbForm=Fin	10	advcl	_	Orig=ⲟ̂
+15	ⲟ	ⲉⲓⲣⲉ	VERB	VSTAT	VerbForm=Fin	4	advcl	_	Orig=ⲟ̂
 16-17	ⲛϫⲣⲟⲡ	_	_	_	_	_	_	_	_
 16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	Orig=ⲛ̄
-17	ϫⲣⲟⲡ	ϫⲣⲟⲡ	NOUN	N	_	15	obj	_	Orig=ϫⲣⲟⲡ̂
+17	ϫⲣⲟⲡ	ϫⲣⲟⲡ	NOUN	N	_	15	obl	_	Orig=ϫⲣⲟⲡ̂
 18-21	ⲛⲛⲉⲧⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
 18	ⲛ	ⲛ	ADP	PREP	_	19	case	_	Orig=ⲛ̄
 19	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	15	obl	_	_
