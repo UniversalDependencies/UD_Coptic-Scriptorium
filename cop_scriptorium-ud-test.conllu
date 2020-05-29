@@ -8414,7 +8414,7 @@
 9	ⲙ	ⲛ	ADP	PREP	_	11	case	_	_
 10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	ⲧⲏⲩ	ⲧⲏⲩ	NOUN	N	_	8	obj	_	_
-12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	28	cc	_	_
+12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	29	cc	_	_
 13-14	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 13	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	8	conj	_	_
 14	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
@@ -8426,25 +8426,26 @@
 18	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	19	mark	_	_
 19	ⲕⲁ	ⲕⲁ	VERB	VIMP	VerbForm=Fin	17	ccomp	_	_
 20	ⲣⲱ	ⲣⲟ	PRON	N_PPERO	_	19	obj	_	_
-21-23	ⲛⲧⲉϣⲧⲙⲣⲱ	_	_	_	_	_	_	_	_
-21	ⲛⲧⲉ	ⲛⲧⲉ	AUX	ACONJ	_	22	aux	_	_
-22	ϣⲧⲙ	ϣⲧⲙ	VERB	VIMP	VerbForm=Fin	19	conj	_	_
-23	ⲣⲱ	ⲣⲟ	PRON	N_PPERO	_	22	obj	_	_
-24	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	28	cc	_	_
-25-27	ⲁⲡⲧⲏⲩ	_	_	_	_	_	_	_	_
-25	ⲁ	ⲁ	AUX	APST	_	28	aux	_	_
-26	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-27	ⲧⲏⲩ	ⲧⲏⲩ	NOUN	N	_	28	nsubj	_	_
-28	ϩⲣⲏϭ	ϩⲣⲏϭ	VERB	V	VerbForm=Fin	8	conj	_	_
-29-31	ⲁⲩⲛⲟϭ	_	_	_	_	_	_	_	_
-29	ⲁ	ⲁ	AUX	APST	_	31	aux	_	_
-30	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	31	det	_	_
-31	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	34	nsubj	_	_
-32-33	ⲛϫⲁⲙⲏ	_	_	_	_	_	_	_	_
-32	ⲛ	ⲛ	ADP	PREP	_	33	case	_	_
-33	ϫⲁⲙⲏ	ϫⲁⲙⲏ	NOUN	N	_	31	nmod	_	_
-34	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	28	parataxis	_	_
-35	.	.	PUNCT	PUNCT	_	3	punct	_	_
+21-24	ⲛⲧⲉϣⲧⲙⲣⲱ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	23	aux	_	_
+22	ⲧⲉ	ⲛⲧⲟ	PRON	PPERS	_	23	nsubj	_	_
+23	ϣⲧⲙ	ϣⲧⲙ	VERB	VIMP	VerbForm=Fin	19	advcl	_	_
+24	ⲣⲱ	ⲣⲟ	PRON	N_PPERO	_	23	obj	_	_
+25	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	29	cc	_	_
+26-28	ⲁⲡⲧⲏⲩ	_	_	_	_	_	_	_	_
+26	ⲁ	ⲁ	AUX	APST	_	29	aux	_	_
+27	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	ⲧⲏⲩ	ⲧⲏⲩ	NOUN	N	_	29	nsubj	_	_
+29	ϩⲣⲏϭ	ϩⲣⲏϭ	VERB	V	VerbForm=Fin	8	conj	_	_
+30-32	ⲁⲩⲛⲟϭ	_	_	_	_	_	_	_	_
+30	ⲁ	ⲁ	AUX	APST	_	32	aux	_	_
+31	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	32	det	_	_
+32	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	35	nsubj	_	_
+33-34	ⲛϫⲁⲙⲏ	_	_	_	_	_	_	_	_
+33	ⲛ	ⲛ	ADP	PREP	_	34	case	_	_
+34	ϫⲁⲙⲏ	ϫⲁⲙⲏ	NOUN	N	_	32	nmod	_	_
+35	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	29	parataxis	_	_
+36	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = sahidica_mark-Mark_04_s0040
 # text = ⲁⲩⲱ ⲡⲉϫⲁϥ ⲛⲁⲩ ϫⲉⲁϩⲣⲱⲧⲛ ⲧⲉⲧⲛⲟ ⲛϭⲁⲃϩⲏⲧ ⲙⲡⲁⲧⲉⲧⲛⲕⲁⲡⲓⲥⲧⲓⲥ ⲛⲏⲧⲛ .
