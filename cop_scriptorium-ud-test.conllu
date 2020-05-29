@@ -6476,33 +6476,34 @@
 
 # sent_id = sahidica_mark-Mark_03_s0024
 # text = ⲁⲩⲱ ⲉⲣϣⲁⲛⲟⲩⲙⲛⲧⲣⲣⲟ ⲡⲱⲣϫ ⲉⲛⲉⲥⲉⲣⲏⲩ ⲛⲥⲛⲁϣⲁϩⲉ ⲁⲛ ⲉⲣⲁⲧⲥ ⲛϭⲓ ⲧⲙⲛⲧⲣⲣⲟ ⲉⲧⲙⲙⲁⲩ .
-1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	12	cc	_	_
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
 2-4	ⲉⲣϣⲁⲛⲟⲩⲙⲛⲧⲣⲣⲟ	_	_	_	_	_	_	_	_
 2	ⲉⲣϣⲁⲛ	ⲉⲣϣⲁⲛ	AUX	ACOND	_	5	aux	_	_
 3	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
 4	ⲙⲛⲧⲣⲣⲟ	ⲙⲛⲧⲣⲣⲟ	NOUN	N	_	5	nsubj	_	Morphs=ⲙⲛⲧ-ⲣⲣⲟ
-5	ⲡⲱⲣϫ	ⲡⲱⲣϫ	VERB	V	VerbForm=Fin	12	advcl	_	_
+5	ⲡⲱⲣϫ	ⲡⲱⲣϫ	VERB	V	VerbForm=Fin	13	advcl	_	_
 6-8	ⲉⲛⲉⲥⲉⲣⲏⲩ	_	_	_	_	_	_	_	_
 6	ⲉ	ⲉ	ADP	PREP	_	8	case	_	_
 7	ⲛⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	ⲉⲣⲏⲩ	ⲉⲣⲏⲩ	NOUN	N	PronType=Rcp	5	obl	_	_
-9-12	ⲛⲥⲛⲁϣⲁϩⲉ	_	_	_	_	_	_	_	_
-9	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	12	advmod	_	_
-10	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-11	ⲛⲁ	ⲛⲁ	AUX	FUT	_	12	aux	_	_
-12	ϣⲁϩⲉ	ϣⲁϩⲉ	VERB	V	VerbForm=Fin	0	root	_	_
-13	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	12	advmod	_	_
-14-15	ⲉⲣⲁⲧⲥ	_	_	_	_	_	_	_	_
-14	ⲉⲣⲁⲧ	ⲉⲣⲁⲧ	ADP	PREP	_	15	case	_	_
-15	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obl	_	_
-16	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	18	case	_	_
-17-18	ⲧⲙⲛⲧⲣⲣⲟ	_	_	_	_	_	_	_	_
-17	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-18	ⲙⲛⲧⲣⲣⲟ	ⲙⲛⲧⲣⲣⲟ	NOUN	N	_	12	dislocated	_	Morphs=ⲙⲛⲧ-ⲣⲣⲟ
-19-20	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
-19	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	20	mark	_	_
-20	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	18	acl	_	_
-21	.	.	PUNCT	PUNCT	_	12	punct	_	_
+9-13	ⲛⲥⲛⲁϣⲁϩⲉ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	13	advmod	_	_
+10	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+11	ⲛⲁ	ⲛⲁ	AUX	FUT	_	13	aux	_	_
+12	ϣ	ϣ	V	V	_	13	aux	_	_
+13	ⲁϩⲉ	ⲱϩⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+14	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	13	advmod	_	_
+15-16	ⲉⲣⲁⲧⲥ	_	_	_	_	_	_	_	_
+15	ⲉⲣⲁⲧ	ⲉⲣⲁⲧ	ADP	PREP	_	16	case	_	_
+16	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
+17	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	19	case	_	_
+18-19	ⲧⲙⲛⲧⲣⲣⲟ	_	_	_	_	_	_	_	_
+18	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	ⲙⲛⲧⲣⲣⲟ	ⲙⲛⲧⲣⲣⲟ	NOUN	N	_	13	dislocated	_	Morphs=ⲙⲛⲧ-ⲣⲣⲟ
+20-21	ⲉⲧⲙⲙⲁⲩ	_	_	_	_	_	_	_	_
+20	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	21	mark	_	_
+21	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	19	acl	_	_
+22	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
 # sent_id = sahidica_mark-Mark_03_s0025
 # text = ⲁⲩⲱ ⲉⲣϣⲁⲛⲟⲩⲏⲓ ⲡⲱⲣϫ ⲉⲛⲉϥⲉⲣⲏⲩ ⲛⲛⲉϣⲡⲏⲓ ⲉⲧⲙⲙⲁⲩ ⲁϩⲉⲣⲁⲧϥ .
