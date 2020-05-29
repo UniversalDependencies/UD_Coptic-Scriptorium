@@ -13040,7 +13040,7 @@
 # sent_id = sahidica_1corinthians-1Corinthians_05_s0010
 # text = ⲟⲩ ⲡⲁⲛⲧⲱⲥ ⲉⲓϫⲱ ⲙⲙⲟⲥ ϫⲉⲙⲡⲟⲣⲛⲟⲥ ⲙⲡⲉⲓⲕⲟⲥⲙⲟⲥ ⲏ ⲙⲙⲁⲓⲧⲟⲉ ⲛϩⲟⲩⲟ ⲏ ⲛⲣⲉϥⲧⲱⲣⲡ ⲏ ⲛⲣⲉϥϣⲙϣⲉⲉⲓⲇⲱⲗⲟⲛ ⲉϣϫⲉⲉϩⲉ ⲉⲓⲉ ϣϣⲉ ⲉⲣⲱⲧⲛ ⲉⲉⲓ ⲉⲃⲟⲗ ϩⲙⲡⲕⲟⲥⲙⲟⲥ .
 1	ⲟⲩ	ⲟⲩ	ADV	NEG	Polarity=Neg	2	advmod	_	_
-2	ⲡⲁⲛⲧⲱⲥ	ⲡⲁⲛⲧⲱⲥ	NOUN	N	_	5	obl:npmod	_	_
+2	ⲡⲁⲛⲧⲱⲥ	ⲡⲁⲛⲧⲱⲥ	ADV	ADV	_	5	advmod	_	_
 3-5	ⲉⲓϫⲱ	_	_	_	_	_	_	_	_
 3	ⲉ	ⲉⲣⲉ	PART	CFOC	_	5	mark	_	_
 4	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
