@@ -25630,7 +25630,7 @@
 5	ⲥⲟⲃⲧⲉ	ⲥⲟⲃⲧⲉ	VERB	V	_	1	acl	_	Orig=ⲥⲟⲃⲧⲉ`
 6-8	ⲛⲧⲁϭⲓⲛⲃⲱⲕ	_	_	_	_	_	_	_	_
 6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲛ̅
-7	ⲧⲁ	ⲡⲁ	PRON	PPERS	_	8	nsubj	_	_
+7	ⲧⲁ	ⲡⲁ	DET	PPOS	_	8	det	_	_
 8	ϭⲓⲛⲃⲱⲕ	ϭⲓⲛⲃⲱⲕ	NOUN	N	_	5	obj	_	Morphs=ϭⲓⲛ-ⲃⲱⲕ
 9-10	ϣⲁⲣⲟϥ	_	_	_	_	_	_	_	_
 9	ϣⲁⲣⲟ	ϣⲁ	ADP	PREP	_	10	case	_	_
