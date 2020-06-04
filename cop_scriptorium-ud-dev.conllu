@@ -11414,7 +11414,7 @@
 40	ⲛⲛⲉ	ⲛⲛⲉ	AUX	ANEGOPT	Polarity=Neg	43	aux	_	Orig=ⲛ̄ⲛⲉ
 41	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	Entity=(person
 42	ϫⲁϫⲉ	ϫⲁϫⲉ	NOUN	N	_	43	nsubj	_	Entity=person)
-43	ϥⲓ	ϥⲓ	VERB	V	VerbForm=Fin	38	ccomp	_	_
+43	ϥⲓ	ϥⲓ	VERB	V	VerbForm=Fin	38	advcl	_	_
 44-45	ⲛϫⲓⲟⲩⲉ	_	_	_	_	_	_	_	_
 44	ⲛ	ⲛ	ADP	PREP	_	45	case	_	Orig=ⲛ̄
 45	ϫⲓⲟⲩⲉ	ϫⲓⲟⲩⲉ	NOUN	N	_	43	obl	_	Entity=(abstract
@@ -11425,7 +11425,7 @@
 49-51	ⲉⲧⲛⲉⲓⲣⲉ	_	_	_	_	_	_	_	_
 49	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	51	mark	_	_
 50	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	51	nsubj	_	Orig=ⲧ︤ⲛ︥
-51	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	48	advcl	_	_
+51	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	43	advcl	_	_
 52-53	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
 52	ⲙⲙⲟ	ⲛ	ADP	PREP	_	53	case	_	Orig=ⲙ︤ⲙⲟ
 53	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	51	obl	_	_
@@ -11433,7 +11433,7 @@
 55	:	:	PUNCT	PUNCT	_	57	punct	_	_
 56-57	ⲛⲉⲛϣⲗⲏⲗ	_	_	_	_	_	_	_	_
 56	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	57	det	_	Entity=(abstract
-57	ϣⲗⲏⲗ	ϣⲗⲏⲗ	NOUN	N	_	48	appos	_	Entity=abstract)
+57	ϣⲗⲏⲗ	ϣⲗⲏⲗ	NOUN	N	_	32	parataxis	_	Entity=abstract)
 58	·	·	PUNCT	PUNCT	_	61	punct	_	_
 59-61	ⲙⲛⲛⲉⲛⲛⲏⲥⲧⲉⲓⲁ	_	_	_	_	_	_	_	_
 59	ⲙⲛ	ⲙⲛ	ADP	PREP	_	61	cc	_	Orig=ⲙ︤ⲛ︥
@@ -11761,7 +11761,7 @@
 3	ϫⲓⲛϫⲏ	ϫⲓⲛϫⲏ	NOUN	N	_	0	root	_	Entity=abstract)|Orig=ϫⲓ⳯ϫⲏ̂
 4-5	ⲛⲁⲩ	_	_	_	_	_	_	_	_
 4	ⲛⲁ	ⲛⲁ	ADP	PREP	_	5	case	_	_
-5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nmod	_	_
+5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	obl	_	_
 6	ⲟⲛ	ⲟⲛ	ADV	ADV	_	3	advmod	_	_
 7	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	3	cop	_	_
 8-9	ⲧⲉⲩϩⲩⲡⲟⲙⲟⲛⲏ	_	_	_	_	_	_	_	_
