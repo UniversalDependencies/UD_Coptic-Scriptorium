@@ -2647,7 +2647,7 @@
 26	ⲭⲣⲏⲙⲁ	ⲭⲣⲏⲙⲁ	NOUN	N	_	23	obj	_	Orig=ⲭ̇ⲣⲏⲙⲁ
 27-28	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
 27	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	26	advmod	_	_
-28	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	27	det	_	Entity=abstract)
+28	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	27	det	_	Entity=abstract)person)
 
 # sent_id = apophthegmata_patrum-AP_026_cassian_07_s0002
 # text = ⲁϥⲧⲁⲁⲩ ⲛⲛϩⲏⲕⲉ ·
@@ -2660,7 +2660,7 @@
 5-7	ⲛⲛϩⲏⲕⲉ	_	_	_	_	_	_	_	_
 5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̇
 6	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	7	det	_	Entity=(person|Orig=ⲛ̇
-7	ϩⲏⲕⲉ	ϩⲏⲕⲉ	NOUN	N	_	3	obl	_	Entity=person)person)
+7	ϩⲏⲕⲉ	ϩⲏⲕⲉ	NOUN	N	_	3	obl	_	Entity=person)
 8	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = apophthegmata_patrum-AP_026_cassian_07_s0003
@@ -4712,7 +4712,7 @@
 9-10	ⲙⲙⲁⲣⲓⲁ	_	_	_	_	_	_	_	_
 9	ⲙ	ⲛ	ADP	PREP	_	10	case	_	_
 10	ⲙⲁⲣⲓⲁ	ⲙⲁⲣⲓⲁ	PROPN	NPROP	_	8	nmod	_	Entity=(person)
-11	.	.	PUNCT	PUNCT	_	6	punct	_	_
+11	.	.	PUNCT	PUNCT	_	14	punct	_	_
 12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
 13-14	ⲡⲥⲟⲛ	_	_	_	_	_	_	_	_
 13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -11429,7 +11429,7 @@
 52-53	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
 52	ⲙⲙⲟ	ⲛ	ADP	PREP	_	53	case	_	Orig=ⲙ︤ⲙⲟ
 53	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	51	obl	_	_
-54	·	·	PUNCT	PUNCT	_	48	punct	_	_
+54	·	·	PUNCT	PUNCT	_	51	punct	_	_
 55	:	:	PUNCT	PUNCT	_	57	punct	_	_
 56-57	ⲛⲉⲛϣⲗⲏⲗ	_	_	_	_	_	_	_	_
 56	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	57	det	_	Entity=(abstract
@@ -13345,7 +13345,7 @@
 18	·	·	PUNCT	PUNCT	_	24	punct	_	_
 19	ϫⲉⲕⲁⲥ	ϫⲉⲕⲁⲥ	CCONJ	CONJ	_	24	mark	_	_
 20-21	ⲉⲣⲉⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
-20	ⲉⲣⲉ	ⲉⲣⲉ	AUX	AOPT	_	24	mark	_	_
+20	ⲉⲣⲉ	ⲉⲣⲉ	AUX	AOPT	_	24	aux	_	_
 21	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	24	nsubj	_	Entity=(person
 22	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	21	det	_	Entity=person)
 23-24	ⲛⲁϣⲙϣⲉ	_	_	_	_	_	_	_	_
@@ -13975,7 +13975,7 @@
 7	ⲛ	ⲛ	ADP	PREP	_	10	case	_	Orig=ⲛ̄
 8	ⲧⲁⲉⲓⲟⲩ	ⲧⲁⲉⲓⲟⲩ	NUM	NUM	NumType=Card	10	nummod	_	Entity=(object|Orig=ⲧⲁⲓⲟⲩ
 9-10	ⲛⲕⲉⲛⲧⲏⲛⲁⲣⲓⲟⲛ	_	_	_	_	_	_	_	_
-9	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	10	case	_	Orig=ⲛ̄
+9	ⲛ	ⲛ	ADP	PREP	Definite=Def|Number=Plur|PronType=Art	10	case	_	Orig=ⲛ̄
 10	ⲕⲉⲛⲧⲏⲛⲁⲣⲓⲟⲛ	ⲕⲉⲛⲧⲏⲛⲁⲣⲓⲟⲛ	NOUN	N	_	3	obj	_	Orig=ⲕⲉⲛⲇⲩⲛⲁⲣⲓⲟⲛ
 11-12	ⲛⲛⲟⲩⲃ	_	_	_	_	_	_	_	_
 11	ⲛ	ⲛ	ADP	PREP	_	12	case	_	Orig=ⲛ̄
@@ -15327,7 +15327,7 @@
 17	·	·	PUNCT	PUNCT	_	20	punct	_	_
 18	ⲭⲱⲣⲓⲥ	ⲭⲱⲣⲓⲥ	ADP	PREP	_	20	case	_	_
 19-20	ⲛⲧⲁⲉⲓⲟ	_	_	_	_	_	_	_	_
-19	ⲛ	ⲛ	ADP	PREP	_	20	det	_	Entity=(abstract|Orig=ⲛ̄
+19	ⲛ	ⲛ	DET	ART	_	20	det	_	Entity=(abstract|Orig=ⲛ̄
 20	ⲧⲁⲉⲓⲟ	ⲧⲁⲉⲓⲟ	NOUN	N	_	14	nmod	_	Entity=abstract)|Orig=ⲧⲁⲓⲟ
 21	·	·	PUNCT	PUNCT	_	25	punct	_	_
 22	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	25	cc	_	_

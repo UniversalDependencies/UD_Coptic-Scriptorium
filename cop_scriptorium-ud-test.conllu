@@ -2127,7 +2127,7 @@
 7	·	·	PUNCT	PUNCT	_	11	punct	_	_
 8-11	ϫⲉⲛⲉⲟⲩⲁⲅⲁⲑⲟⲛ	_	_	_	_	_	_	_	_
 8	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	11	mark	_	_
-9	ⲛⲉ	ⲛⲉ	PART	PTC	_	11	advmod	_	_
+9	ⲛⲉ	ⲉⲛⲉ	PART	PTC	_	11	advmod	_	_
 10	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	11	det	_	Entity=(abstract
 11	ⲁⲅⲁⲑⲟⲛ	ⲁⲅⲁⲑⲟⲛ	NOUN	N	_	3	ccomp	_	_
 12-14	ⲉϥϫⲏⲕ	_	_	_	_	_	_	_	_
@@ -11098,7 +11098,7 @@
 9	ϩⲉ	ϩⲉ	NOUN	N	_	4	obl	_	Orig=ⲉ
 10-15	ⲛⲛⲉⲧϩⲛⲧⲡⲁϣⲉ	_	_	_	_	_	_	_	_
 10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	Orig=ⲛ̄
-11	ⲛ	ⲛ	NOUN	N	_	9	nmod	_	Entity=(person
+11	ⲛ	ⲡ	DET	ART	_	9	nmod	_	Entity=(person
 12	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	15	mark	_	_
 13	ϩⲛ	ϩⲛ	ADP	PREP	_	15	case	_	Orig=ϩ︤ⲛ︥
 14	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Entity=(time
@@ -13009,10 +13009,10 @@
 24	ⲗⲟⲟⲩ	ⲗⲟⲟⲩ	NOUN	N	_	19	obj	_	Entity=plant)plant)
 25-26	ⲟⲩⲗⲟⲟⲩ	_	_	_	_	_	_	_	_
 25	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	26	det	_	Entity=(plant
-26	ⲗⲟⲟⲩ	ⲗⲟⲟⲩ	NOUN	N	_	19	obl:npmod	_	Entity=plant)
+26	ⲗⲟⲟⲩ	ⲗⲟⲟⲩ	NOUN	N	_	19	parataxis	_	Entity=plant)
 27-28	ⲕⲁⲧⲁⲉⲃⲟⲧ	_	_	_	_	_	_	_	_
 27	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	_	28	case	_	_
-28	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	26	nmod	_	Entity=(time)
+28	ⲉⲃⲟⲧ	ⲉⲃⲟⲧ	NOUN	N	_	26	orphan	_	Entity=(time)
 29	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0020
@@ -14696,7 +14696,7 @@
 30	·	·	PUNCT	PUNCT	_	29	punct	_	_
 31-32	ⲁⲟⲛⲟⲣⲓⲟⲥ	_	_	_	_	_	_	_	_
 31	ⲁ	ⲁ	AUX	APST	_	33	aux	_	_
-32	ⲟⲛⲟⲣⲓⲟⲥ	ⲟⲛⲟⲣⲓⲟⲥ	PRON	PPERS	_	33	nsubj	_	Entity=(person)|Orig=ⲱⲛⲛⲱⲣⲓⲟⲥ
+32	ⲟⲛⲟⲣⲓⲟⲥ	ⲟⲛⲟⲣⲓⲟⲥ	PROPN	NPROP	_	33	nsubj	_	Entity=(person)|Orig=ⲱⲛⲛⲱⲣⲓⲟⲥ
 33-34	ϫⲟⲟⲥ	_	_	_	_	_	_	_	_
 33	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	1	conj	_	_
 34	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	obj	_	_
