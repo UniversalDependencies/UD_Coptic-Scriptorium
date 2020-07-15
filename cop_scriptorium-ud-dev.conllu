@@ -2079,12 +2079,13 @@
 15	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0038
-# text = ⲁⲩⲱ ⲟⲩⲛⲟϭⲙⲙⲛⲧϫⲱⲱⲣⲉ ⲧⲉ ⲉⲧⲣⲉⲡⲣⲱⲙⲉ ⲙⲉⲣⲉⲛⲉϥϫⲓϫⲉⲉⲩⲉ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲛϥϣⲗⲏⲗ ⲉϫⲛⲛⲉⲧⲡⲏⲧ ⲛⲥⲱϥ ⲉⲧⲣⲡⲉⲧϩⲟⲟⲩ ⲛⲁϥ ⲁⲩⲱ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ⲛϥⲥⲙⲟⲩ ⲉⲛⲉⲧⲥⲁϩⲟⲩ ⲙⲙⲟϥ ⲉⲧⲣⲛⲟⲃⲉ ⲉⲣⲟϥ ·
+# text = ⲁⲩⲱ ⲟⲩⲛⲟϭ ⲙⲙⲛⲧϫⲱⲱⲣⲉ ⲧⲉ ⲉⲧⲣⲉⲡⲣⲱⲙⲉ ⲙⲉⲣⲉⲛⲉϥϫⲓϫⲉⲉⲩⲉ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲛϥϣⲗⲏⲗ ⲉϫⲛⲛⲉⲧⲡⲏⲧ ⲛⲥⲱϥ ⲉⲧⲣⲡⲉⲧϩⲟⲟⲩ ⲛⲁϥ ⲁⲩⲱ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ⲛϥⲥⲙⲟⲩ ⲉⲛⲉⲧⲥⲁϩⲟⲩ ⲙⲙⲟϥ ⲉⲧⲣⲛⲟⲃⲉ ⲉⲣⲟϥ ·
 # text_en = ...
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
-2-5	ⲟⲩⲛⲟϭⲙⲙⲛⲧϫⲱⲱⲣⲉ	_	_	_	_	_	_	_	_
+2-3	ⲟⲩⲛⲟϭ	_	_	_	_	_	_	_	_
 2	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	3	det	_	Entity=(abstract
 3	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	0	root	_	_
+4-5	ⲙⲙⲛⲧϫⲱⲱⲣⲉ	_	_	_	_	_	_	_	_
 4	ⲙ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲙ̄
 5	ⲙⲛⲧϫⲱⲱⲣⲉ	ⲙⲛⲧϫⲱⲱⲣⲉ	NOUN	N	_	3	nmod	_	Entity=abstract)|Morphs=ⲙⲛⲧ-ϫⲱⲱⲣⲉ|Orig=ⲙ︤ⲛ︦ⲧ︥ϫⲱⲱⲣⲉ
 6	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	3	cop	_	_
@@ -2419,8 +2420,8 @@
 26	ⲧⲟⲉⲓⲥ	ⲧⲟⲉⲓⲥ	NOUN	N	_	19	acl	_	Entity=object)object)|Orig=ⲧⲟⲉⲓ̇ⲥ
 27-29	ⲙⲛϩⲉⲛϣⲧⲏⲛ	_	_	_	_	_	_	_	_
 27	ⲙⲛ	ⲙⲛ	ADP	PREP	_	29	cc	_	Orig=ⲙⲛ̇
-28	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	29	det	_	Orig=ϩⲛ̇
-29	ϣⲧⲏⲛ	ϣⲧⲏⲛ	NOUN	N	_	19	conj	_	Entity=(object|Orig=ϣ̇ⲧⲏⲛ
+28	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	29	det	_	Entity=(object|Orig=ϩⲛ̇
+29	ϣⲧⲏⲛ	ϣⲧⲏⲛ	NOUN	N	_	19	conj	_	Orig=ϣ̇ⲧⲏⲛ
 30-31	ⲛϣⲃⲛⲛⲉ	_	_	_	_	_	_	_	_
 30	ⲛ	ⲛ	ADP	PREP	_	31	case	_	Orig=ⲛ̇
 31	ϣⲃⲛⲛⲉ	ϣⲃⲛⲛⲉ	NOUN	N	_	29	nmod	_	Entity=(substance)object)|Orig=ϣ̇ⲃⲛ̇ⲛⲉ
@@ -2611,7 +2612,7 @@
 # newdoc id = apophthegmata.patrum:AP.026.cassian.07
 # sent_id = apophthegmata_patrum-AP_026_cassian_07_s0001
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲁⲡⲁ ⲕⲁⲥⲓⲁⲛⲟⲥ · ϫⲉⲁϥϫⲟⲟⲥ ⲛϭⲓⲟⲩⲁ ⲛⲛⲥⲩⲛⲕⲗⲏⲧⲓⲕⲟⲥ · ⲉⲁϥⲁⲡⲟⲧⲁⲥⲥⲉ ⲛⲛⲉϥⲭⲣⲏⲙⲁ ⲧⲏⲣⲟⲩ
-# text_en = ...
+# text_en = Apa Cassian said, 'A nobleman (senator?) said, after he renounced all his possessions,
 1-4	ⲁϥϫⲟⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -2651,7 +2652,7 @@
 
 # sent_id = apophthegmata_patrum-AP_026_cassian_07_s0002
 # text = ⲁϥⲧⲁⲁⲩ ⲛⲛϩⲏⲕⲉ ·
-# text_en = ...
+# text_en = he gave them to the poor.
 1-4	ⲁϥⲧⲁⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=ⲁ̇
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -2665,7 +2666,7 @@
 
 # sent_id = apophthegmata_patrum-AP_026_cassian_07_s0003
 # text = ⲁϥⲕⲁ ϩⲉⲛⲕⲟⲩⲓ ⲛⲁϥ ⲉⲧⲃⲉⲧⲉϥⲭⲣⲉⲓⲁ ⲙⲁⲩⲁⲁϥ ·
-# text_en = ...
+# text_en = He set a little for himself because of his own needs.
 1-3	ⲁϥⲕⲁ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=ⲁ̇
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -2687,7 +2688,7 @@
 
 # sent_id = apophthegmata_patrum-AP_026_cassian_07_s0004
 # text = ⲙⲡⲉϥⲟⲩⲱϣ ⲉⲱⲛϩ ϩⲛⲟⲩⲙⲛⲧⲁⲡⲟⲧⲁⲕⲧⲓⲕⲟⲥ ⲉⲧϫⲏⲕ ⲉⲃⲟⲗ · ⲻ ⲛⲧⲉⲡⲉⲑⲃⲃⲓⲟ ⲛϩⲏⲧ · ⲻ
-# text_en = ...
+# text_en = He did not wish to live in complete renunciation, of humility of heart.
 1-3	ⲙⲡⲉϥⲟⲩⲱϣ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	3	aux	_	Orig=ⲙ̇ⲡⲉ
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -2717,7 +2718,7 @@
 
 # sent_id = apophthegmata_patrum-AP_026_cassian_07_s0005
 # text = ⲡⲁⲓ ⲇⲉ ⲁϥϫⲱ ⲛⲟⲩϣⲁϫⲉ ⲛⲁϩⲣⲁϥ ⲛϭⲓⲃⲁⲥⲓⲙⲟⲥ ⲡⲉⲧϣⲟⲟⲡ ϩⲛⲛⲉⲧⲟⲩⲁⲁⲃ · ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲧⲙⲛⲧⲥⲩⲛⲕⲗⲏⲧⲓⲕⲟⲥ ⲁⲕⲥⲟⲣⲙⲉⲥ ·
-# text_en = ...
+# text_en = who said, 'The elite (senatorial?) rank, you lost it; and monasticism, you did not find it.
 1	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	dislocated	_	Entity=(abstract)|Orig=Ⲡⲁⲓ̇
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
 3-5	ⲁϥϫⲱ	_	_	_	_	_	_	_	_
@@ -2764,7 +2765,7 @@
 
 # sent_id = apophthegmata_patrum-AP_026_cassian_07_s0006
 # text = ⲁⲩⲱ ⲧⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ ⲙⲡⲉⲕϩⲉ ⲉⲣⲟⲥ · ⲻ
-# text_en = ...
+# text_en = who said, 'The elite (senatorial?) rank, you lost it; and monasticism, you did not find it.
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	Orig=ⲁ̇ⲩⲱ̇
 2-3	ⲧⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	_	_	_	_	_	_	_	_
 2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Entity=(abstract|Orig=ⲧ̇
@@ -4712,7 +4713,7 @@
 9-10	ⲙⲙⲁⲣⲓⲁ	_	_	_	_	_	_	_	_
 9	ⲙ	ⲛ	ADP	PREP	_	10	case	_	_
 10	ⲙⲁⲣⲓⲁ	ⲙⲁⲣⲓⲁ	PROPN	NPROP	_	8	nmod	_	Entity=(person)
-11	.	.	PUNCT	PUNCT	_	14	punct	_	_
+11	.	.	PUNCT	PUNCT	_	6	punct	_	_
 12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
 13-14	ⲡⲥⲟⲛ	_	_	_	_	_	_	_	_
 13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -8534,7 +8535,7 @@
 34	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	32	xcomp	_	_
 35	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
-# newdoc id = sahidica.1corinthians:1Corinthians_01
+# newdoc id = sahidica.1corinthians:1Cor_01
 # sent_id = sahidica_1corinthians-1Cor_01_s0001
 # text = ⲡⲁⲩⲗⲟⲥ ⲡⲁⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲧⲧⲁϩⲙ ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ ⲓⲏⲥⲟⲩⲥ ϩⲓⲧⲙⲡⲟⲩⲱϣ ⲙⲡⲛⲟⲩⲧⲉ ⲙⲛⲥⲱⲥⲑⲉⲛⲏⲥ ⲡⲥⲟⲛ
 # text_en = Paul, called to be an apostle of Jesus Christ through the will of God, and our brother Sosthenes,
@@ -9776,7 +9777,7 @@
 20	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	15	obl	_	Entity=person)
 21	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
-# newdoc id = sahidica.1corinthians:1Corinthians_02
+# newdoc id = sahidica.1corinthians:1Cor_02
 # sent_id = sahidica_1corinthians-1Cor_02_s0001
 # text = ⲁⲛⲟⲕ ⲇⲉ ϩⲱ ⲛⲧⲉⲣⲓⲉⲓ ϣⲁⲣⲱⲧⲛ ⲛⲁⲥⲛⲏⲩ ⲛⲧⲁⲓⲉⲓ ϩⲛⲟⲩϫⲓⲥⲉ ⲁⲛ ⲛϣⲁϫⲉ ⲏ ⲛⲥⲟⲫⲓⲁ ⲉⲓϫⲱ ⲉⲣⲱⲧⲛ ⲛⲧⲙⲛⲧⲙⲛⲧⲣⲉ ⲙⲡⲛⲟⲩⲧⲉ .
 # text_en = When I came to you, brothers, I didn't come with excellence of speech or of wisdom, proclaiming to you the testimony of God.
@@ -10163,8 +10164,8 @@
 39	ⲥⲃⲧⲱⲧ	ⲥⲟⲃⲧⲉ	VERB	V	VerbForm=Fin	34	acl	_	_
 40	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	39	obj	_	_
 41-44	ⲛⲛⲉⲧⲙⲉ	_	_	_	_	_	_	_	_
-41	ⲛ	ⲛ	ADP	PREP	_	42	case	_	Entity=(person
-42	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	39	obl	_	_
+41	ⲛ	ⲛ	ADP	PREP	_	42	case	_	_
+42	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	39	obl	_	Entity=(person
 43	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	44	mark	_	_
 44	ⲙⲉ	ⲙⲉ	VERB	V	VerbForm=Fin	42	acl	_	_
 45-46	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
@@ -11417,11 +11418,11 @@
 43	ϥⲓ	ϥⲓ	VERB	V	VerbForm=Fin	38	advcl	_	_
 44-45	ⲛϫⲓⲟⲩⲉ	_	_	_	_	_	_	_	_
 44	ⲛ	ⲛ	ADP	PREP	_	45	case	_	Orig=ⲛ̄
-45	ϫⲓⲟⲩⲉ	ϫⲓⲟⲩⲉ	NOUN	N	_	43	obl	_	Entity=(abstract
+45	ϫⲓⲟⲩⲉ	ϫⲓⲟⲩⲉ	NOUN	N	_	43	obl	_	Entity=(abstract)
 46-48	ⲙⲡⲉⲛⲡⲉⲧⲛⲁⲛⲟⲩϥ	_	_	_	_	_	_	_	_
 46	ⲙ	ⲛ	ADP	PREP	_	48	case	_	Orig=ⲙ̄
 47	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	48	det	_	Entity=(abstract
-48	ⲡⲉⲧⲛⲁⲛⲟⲩϥ	ⲡⲉⲧⲛⲁⲛⲟⲩϥ	NOUN	N	_	43	obj	_	Entity=abstract)abstract)|Morphs=ⲡ-ⲉⲧ-ⲛⲁⲛⲟⲩ-ϥ
+48	ⲡⲉⲧⲛⲁⲛⲟⲩϥ	ⲡⲉⲧⲛⲁⲛⲟⲩϥ	NOUN	N	_	43	obj	_	Entity=abstract)|Morphs=ⲡ-ⲉⲧ-ⲛⲁⲛⲟⲩ-ϥ
 49-51	ⲉⲧⲛⲉⲓⲣⲉ	_	_	_	_	_	_	_	_
 49	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	51	mark	_	_
 50	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	51	nsubj	_	Orig=ⲧ︤ⲛ︥
@@ -11429,7 +11430,7 @@
 52-53	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
 52	ⲙⲙⲟ	ⲛ	ADP	PREP	_	53	case	_	Orig=ⲙ︤ⲙⲟ
 53	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	51	obl	_	_
-54	·	·	PUNCT	PUNCT	_	51	punct	_	_
+54	·	·	PUNCT	PUNCT	_	48	punct	_	_
 55	:	:	PUNCT	PUNCT	_	57	punct	_	_
 56-57	ⲛⲉⲛϣⲗⲏⲗ	_	_	_	_	_	_	_	_
 56	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	57	det	_	Entity=(abstract
@@ -11457,12 +11458,12 @@
 1-3	ⲙⲡⲓϣⲱϣ	_	_	_	_	_	_	_	_
 1	ⲙ	ⲛ	ADV	NEG	Polarity=Neg	3	advmod	_	Orig=ⲙ̄
 2	ⲡⲓ	ⲡⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Entity=(abstract
-3	ϣⲱϣ	ϣⲱϣ	NOUN	N	_	0	root	_	_
+3	ϣⲱϣ	ϣⲱϣ	NOUN	N	_	0	root	_	Entity=abstract)
 4	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	3	advmod	_	_
 5	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	3	advmod	_	_
 6-7	ⲛⲟⲩⲱⲧ	_	_	_	_	_	_	_	_
 6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̄
-7	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	3	parataxis	_	Entity=abstract)|Orig=ⲟⲩⲱⲧ⳿
+7	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	3	parataxis	_	Orig=ⲟⲩⲱⲧ⳿
 8	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	7	cop	_	_
 9-10	ⲡϫⲓⲟⲩⲉ	_	_	_	_	_	_	_	_
 9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(abstract
@@ -11602,7 +11603,7 @@
 1	ⲙⲁⲣ	ⲙⲁⲣⲉ	AUX	AJUS	_	3	aux	_	Orig=ⲙⲁⲣ︤
 2	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Orig=ⲛ︥
 3	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲣ̄
-4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(abstract
+4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	NOUN	N	_	3	obj	_	_
 6-11	ⲛⲛⲉⲛⲧⲁⲡⲉⲛⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
 6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̄
@@ -11613,7 +11614,7 @@
 11	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	12	nsubj	_	Entity=person)|Orig=ⲉⲓⲱⲧ⳿
 12-13	ϫⲟⲟⲩ	_	_	_	_	_	_	_	_
 12	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	7	acl	_	_
-13	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	obj	_	Entity=abstract)abstract)
+13	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	obj	_	Entity=abstract)
 14-16	ϫⲉϩⲉⲛⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
 14	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	16	mark	_	_
 15	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	16	det	_	Entity=(person
@@ -11621,7 +11622,7 @@
 17-19	ⲕⲁⲧⲁⲡⲉⲛⲃⲓⲟⲥ	_	_	_	_	_	_	_	_
 17	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	_	19	case	_	_
 18	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	19	det	_	Entity=(abstract
-19	ⲃⲓⲟⲥ	ⲃⲓⲟⲥ	NOUN	N	_	16	nmod	_	Entity=abstract)person)
+19	ⲃⲓⲟⲥ	ⲃⲓⲟⲥ	NOUN	N	_	16	nmod	_	Entity=abstract)
 20	,	,	PUNCT	PUNCT	_	23	punct	_	_
 21-23	ⲉⲩⲛⲏⲥⲧⲉⲩⲉ	_	_	_	_	_	_	_	_
 21	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	23	mark	_	_
@@ -11717,7 +11718,7 @@
 92-94	ⲉϥϩⲟⲟⲩ	_	_	_	_	_	_	_	_
 92	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	94	mark	_	_
 93	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	94	nsubj	_	_
-94	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	90	acl	_	Entity=abstract)
+94	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	90	acl	_	Entity=abstract)person)
 95	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0025
@@ -11866,14 +11867,14 @@
 11-13	ⲙⲡⲉⲛⲡⲉⲧⲛⲁⲛⲟⲩϥ	_	_	_	_	_	_	_	_
 11	ⲙ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲙ̄
 12	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	13	det	_	Entity=(abstract
-13	ⲡⲉⲧⲛⲁⲛⲟⲩϥ	ⲡⲉⲧⲛⲁⲛⲟⲩϥ	NOUN	N	_	10	obj	_	Morphs=ⲡ-ⲉⲧ-ⲛⲁⲛⲟⲩ-ϥ
+13	ⲡⲉⲧⲛⲁⲛⲟⲩϥ	ⲡⲉⲧⲛⲁⲛⲟⲩϥ	NOUN	N	_	10	obj	_	Entity=abstract)|Morphs=ⲡ-ⲉⲧ-ⲛⲁⲛⲟⲩ-ϥ
 14-16	ⲉⲧⲛⲉⲓⲣⲉ	_	_	_	_	_	_	_	_
 14	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	16	mark	_	_
 15	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	Orig=ⲧⲛ̄
 16	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	10	advcl	_	_
 17-18	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
 17	ⲙⲙⲟ	ⲛ	ADP	PREP	_	18	case	_	Orig=ⲙ̄ⲙⲟ
-18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	Entity=abstract)
+18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
 19	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0031
@@ -11893,7 +11894,7 @@
 10-11	ϩⲛⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 10	ϩⲛ	ϩⲛ	ADP	PREP	_	9	fixed	_	Orig=ϩ︤ⲛ︥
 11	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	NOUN	N	_	5	obl	_	Entity=(abstract
-12	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	11	det	_	Entity=abstract)
+12	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	11	det	_	_
 13-15	ⲉϥϫⲁϩⲙ	_	_	_	_	_	_	_	_
 13	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	15	mark	_	_
 14	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
@@ -11901,7 +11902,7 @@
 16-18	ⲛⲧⲉⲡⲇⲓⲁⲃⲟⲗⲟⲥ	_	_	_	_	_	_	_	_
 16	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	18	case	_	Orig=ⲛ̄ⲧⲉ
 17	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Entity=(person
-18	ⲇⲓⲁⲃⲟⲗⲟⲥ	ⲇⲓⲁⲃⲟⲗⲟⲥ	NOUN	N	_	11	nmod	_	Entity=person)
+18	ⲇⲓⲁⲃⲟⲗⲟⲥ	ⲇⲓⲁⲃⲟⲗⲟⲥ	NOUN	N	_	11	nmod	_	Entity=person)abstract)
 19	·	·	PUNCT	PUNCT	_	24	punct	_	_
 20	ϫⲉⲕⲁⲥ	ϫⲉⲕⲁⲥ	CCONJ	CONJ	_	24	mark	_	_
 21-24	ⲉⲛⲛⲁⲣⲙⲡϣⲁ	_	_	_	_	_	_	_	_
@@ -11972,7 +11973,7 @@
 9-11	ⲉⲟⲩⲏⲓ	_	_	_	_	_	_	_	_
 9	ⲉ	ⲉ	ADP	PREP	_	11	case	_	_
 10	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	11	det	_	Entity=(place
-11	ⲏⲓ	ⲏⲓ	NOUN	N	_	7	obl	_	Entity=place)|Orig=ⲏⲓ̈
+11	ⲏⲓ	ⲏⲓ	NOUN	N	_	7	obl	_	Orig=ⲏⲓ̈
 12	,	,	PUNCT	PUNCT	_	15	punct	_	_
 13	ⲏ	ⲏ	CCONJ	CONJ	_	15	cc	_	Orig=ⲏ̂
 14-15	ⲟⲩⲙⲁ	_	_	_	_	_	_	_	_
@@ -11984,7 +11985,7 @@
 18	ⲭⲣⲏⲙⲁ	ⲭⲣⲏⲙⲁ	NOUN	N	_	17	nsubj	_	Entity=(object)
 19-20	ⲛϩⲏⲧϥ	_	_	_	_	_	_	_	_
 19	ⲛϩⲏⲧ	ϩⲏⲧ	ADP	PREP	_	20	case	_	Morphs=ⲛ-ϩⲏⲧ|Orig=ⲛ̄ϩⲏⲧ︤
-20	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	Entity=place)|Orig=ϥ︥
+20	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	Entity=place)place)|Orig=ϥ︥
 21	·	·	PUNCT	PUNCT	_	26	punct	_	_
 22	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	26	cc	_	_
 23-26	ⲉϣⲁⲩϭⲱⲧϩ	_	_	_	_	_	_	_	_
@@ -12203,10 +12204,10 @@
 12	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	9	acl	_	_
 13-14	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
 13	ⲙⲙⲟ	ⲙⲙⲟ	ADP	PREP	_	14	case	_	Orig=ⲙ̄ⲙⲟ
-14	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+14	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	Entity=abstract)
 15-16	ⲁϫⲛϯⲥⲟ	_	_	_	_	_	_	_	_
 15	ⲁϫⲛ	ⲁϫⲛ	ADP	PREP	_	16	case	_	Orig=ⲁϫ︤ⲛ︥
-16	ϯⲥⲟ	ϯⲥⲟ	NOUN	N	_	6	obl	_	Entity=(abstract)abstract)|Morphs=ϯ-ⲥⲟ|Orig=ϯⲥⲟ̂
+16	ϯⲥⲟ	ϯⲥⲟ	NOUN	N	_	6	obl	_	Entity=(abstract)|Morphs=ϯ-ⲥⲟ|Orig=ϯⲥⲟ̂
 17	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0038
@@ -12219,7 +12220,7 @@
 4-5	ⲛⲉⲥⲛⲏⲩ	_	_	_	_	_	_	_	_
 4	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(person
 5	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	46	vocative	_	Entity=person)
-6	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	46	vocative	_	Entity=(abstract
+6	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	46	vocative	_	Entity=(person
 7	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	6	det	_	_
 8-9	ⲉⲧⲟ	_	_	_	_	_	_	_	_
 8	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
@@ -12230,7 +12231,7 @@
 12	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	9	obl	_	Orig=ϩⲏⲧ⳿
 13-14	ⲛⲟⲩⲱⲧ	_	_	_	_	_	_	_	_
 13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲛ̄
-14	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	12	nmod	_	_
+14	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	12	nmod	_	Entity=abstract)
 15-17	ⲙⲛⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 15	ⲙⲛ	ⲙⲛ	ADP	PREP	_	17	case	_	Orig=ⲙ︤ⲛ︥
 16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Entity=(person
@@ -12259,7 +12260,7 @@
 35	ⲉⲓⲧⲉ	ⲉⲓⲧⲉ	CCONJ	CONJ	_	36	cc	_	_
 36	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	31	conj	_	Entity=(person)
 37	ⲉⲓⲧⲉ	ⲉⲓⲧⲉ	CCONJ	CONJ	_	38	cc	_	_
-38	ⲕⲟⲩⲓ	ⲕⲟⲩⲓ	NOUN	N	_	36	conj	_	Entity=(person)abstract)abstract)|Orig=ⲕⲟⲩⲉⲓ
+38	ⲕⲟⲩⲓ	ⲕⲟⲩⲓ	NOUN	N	_	36	conj	_	Entity=(person)|Orig=ⲕⲟⲩⲉⲓ
 39	·	·	PUNCT	PUNCT	_	41	punct	_	_
 40-41	ϩⲁⲧⲏⲛ	_	_	_	_	_	_	_	_
 40	ϩⲁⲧⲏ	ϩⲁϩⲧⲛ	ADP	PREP	_	41	case	_	_
@@ -12268,7 +12269,7 @@
 43	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	45	cc	_	_
 44-45	ϩⲁⲧⲉⲧⲏⲩⲧⲛ	_	_	_	_	_	_	_	_
 44	ϩⲁⲧⲉ	ϩⲁϩⲧⲛ	ADP	PREP	_	45	case	_	_
-45	ⲧⲏⲩⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	41	conj	_	Orig=ⲧⲏⲩⲧⲛ̄
+45	ⲧⲏⲩⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	41	conj	_	Entity=person)|Orig=ⲧⲏⲩⲧⲛ̄
 46	ⲧⲱⲕ	ⲧⲱⲕ	VERB	V	VerbForm=Fin	0	root	_	_
 47-48	ⲛϩⲏⲧ	_	_	_	_	_	_	_	_
 47	ⲛ	ⲛ	ADP	PREP	_	48	case	_	Orig=ⲛ̄
@@ -12280,15 +12281,15 @@
 52	ϯϩⲓⲛⲏⲃ	ϯϩⲓⲛⲏⲃ	VERB	V	VerbForm=Fin	46	parataxis	_	Morphs=ϯ-ϩⲓⲛⲏⲃ
 53-55	ⲛⲛⲉⲛⲃⲁⲗ	_	_	_	_	_	_	_	_
 53	ⲛ	ⲛ	ADP	PREP	_	55	case	_	Orig=ⲛ̄
-54	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	55	det	_	Entity=(abstract
-55	ⲃⲁⲗ	ⲃⲁⲗ	NOUN	N	_	52	obj	_	Entity=abstract)
+54	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	55	det	_	Entity=(object
+55	ⲃⲁⲗ	ⲃⲁⲗ	NOUN	N	_	52	obj	_	Entity=object)
 56	·	·	PUNCT	PUNCT	_	58	punct	_	_
 57	ⲟⲩⲧⲉ	ⲟⲩⲧⲉ	CCONJ	CONJ	_	58	cc	_	_
 58	ⲣⲉⲕⲣⲓⲕⲉ	ⲣⲉⲕⲣⲓⲕⲉ	VERB	V	VerbForm=Fin	52	conj	_	Morphs=ⲣⲉⲕ-ⲣⲓⲕⲉ
 59-61	ⲛⲛⲉⲛⲃⲟⲩϩⲉ	_	_	_	_	_	_	_	_
 59	ⲛ	ⲛ	ADP	PREP	_	61	case	_	Orig=ⲛ̄
-60	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	61	det	_	Entity=(person
-61	ⲃⲟⲩϩⲉ	ⲃⲟⲩϩⲉ	NOUN	N	_	58	obl	_	Entity=person)
+60	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	61	det	_	Entity=(object
+61	ⲃⲟⲩϩⲉ	ⲃⲟⲩϩⲉ	NOUN	N	_	58	obl	_	Entity=object)
 62	·	·	PUNCT	PUNCT	_	66	punct	_	_
 63-65	ϣⲁⲛⲧⲉⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
 63	ϣⲁⲛⲧⲉ	ϣⲁⲛⲧⲉ	AUX	ALIM	_	66	aux	_	_
@@ -12904,7 +12905,7 @@
 
 # sent_id = martyrdom_victor-martyrdom_victor_01_s0003
 # text = ⲁⲥϣⲱⲡⲉ ⲇⲉ ϩⲛⲧⲙⲛⲧⲣⲣⲟ ⲛⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ ⲡⲣⲣⲟ ϩⲛⲧⲙⲉϩϣⲟⲙⲧⲉ ⲛⲣⲟⲙⲡⲉ ⲛⲧⲉϥⲙⲛⲧⲣⲣⲟ · ϩⲙⲡϣⲟⲣⲡ ⲛⲉⲃⲟⲧ · ⲡⲇⲓⲁⲃⲟⲗⲟⲥ ⲁϥⲥⲱⲣⲙ ⲙⲡⲉϥϩⲏⲧ ⲛⲥⲁⲃⲟⲗ ⲙⲡⲛⲟⲩⲧⲉ · ⲉⲧⲣⲉϥⲉⲓⲣⲉ ⲛⲛⲉⲧⲉⲙⲉϣϣⲉ ·
-# text_en = And it came to pass in the kingdom (i. e. reign) of the Emperor Diocletian/ in the third year of his reign, in the first month, that the Devil led his heart astray from God, and made him to do the things that were not seemly.
+# text_en = And it came to pass in the kingdom (i. e. reign) of the Emperor Diocletian in the third year of his reign, in the first month, that the Devil led his heart astray from God, and made him to do the things that were not seemly.
 1-3	ⲁⲥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=Ⲁ
 2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -12942,7 +12943,7 @@
 26	·	·	PUNCT	PUNCT	_	31	punct	_	_
 27-28	ⲡⲇⲓⲁⲃⲟⲗⲟⲥ	_	_	_	_	_	_	_	_
 27	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	Entity=(person
-28	ⲇⲓⲁⲃⲟⲗⲟⲥ	ⲇⲓⲁⲃⲟⲗⲟⲥ	NOUN	N	_	31	dislocated	_	Entity=person)
+28	ⲇⲓⲁⲃⲟⲗⲟⲥ	ⲇⲓⲁⲃⲟⲗⲟⲥ	PROPN	NPROP	_	31	dislocated	_	Entity=person)
 29-31	ⲁϥⲥⲱⲣⲙ	_	_	_	_	_	_	_	_
 29	ⲁ	ⲁ	AUX	APST	_	31	aux	_	_
 30	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	_
@@ -13345,7 +13346,7 @@
 18	·	·	PUNCT	PUNCT	_	24	punct	_	_
 19	ϫⲉⲕⲁⲥ	ϫⲉⲕⲁⲥ	CCONJ	CONJ	_	24	mark	_	_
 20-21	ⲉⲣⲉⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
-20	ⲉⲣⲉ	ⲉⲣⲉ	AUX	AOPT	_	24	aux	_	_
+20	ⲉⲣⲉ	ⲉⲣⲉ	AUX	AOPT	_	24	mark	_	_
 21	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	24	nsubj	_	Entity=(person
 22	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	21	det	_	Entity=person)
 23-24	ⲛⲁϣⲙϣⲉ	_	_	_	_	_	_	_	_
@@ -13975,7 +13976,7 @@
 7	ⲛ	ⲛ	ADP	PREP	_	10	case	_	Orig=ⲛ̄
 8	ⲧⲁⲉⲓⲟⲩ	ⲧⲁⲉⲓⲟⲩ	NUM	NUM	NumType=Card	10	nummod	_	Entity=(object|Orig=ⲧⲁⲓⲟⲩ
 9-10	ⲛⲕⲉⲛⲧⲏⲛⲁⲣⲓⲟⲛ	_	_	_	_	_	_	_	_
-9	ⲛ	ⲛ	ADP	PREP	Definite=Def|Number=Plur|PronType=Art	10	case	_	Orig=ⲛ̄
+9	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	10	case	_	Orig=ⲛ̄
 10	ⲕⲉⲛⲧⲏⲛⲁⲣⲓⲟⲛ	ⲕⲉⲛⲧⲏⲛⲁⲣⲓⲟⲛ	NOUN	N	_	3	obj	_	Orig=ⲕⲉⲛⲇⲩⲛⲁⲣⲓⲟⲛ
 11-12	ⲛⲛⲟⲩⲃ	_	_	_	_	_	_	_	_
 11	ⲛ	ⲛ	ADP	PREP	_	12	case	_	Orig=ⲛ̄
@@ -15327,7 +15328,7 @@
 17	·	·	PUNCT	PUNCT	_	20	punct	_	_
 18	ⲭⲱⲣⲓⲥ	ⲭⲱⲣⲓⲥ	ADP	PREP	_	20	case	_	_
 19-20	ⲛⲧⲁⲉⲓⲟ	_	_	_	_	_	_	_	_
-19	ⲛ	ⲛ	DET	ART	_	20	det	_	Entity=(abstract|Orig=ⲛ̄
+19	ⲛ	ⲛ	ADP	PREP	_	20	det	_	Entity=(abstract|Orig=ⲛ̄
 20	ⲧⲁⲉⲓⲟ	ⲧⲁⲉⲓⲟ	NOUN	N	_	14	nmod	_	Entity=abstract)|Orig=ⲧⲁⲓⲟ
 21	·	·	PUNCT	PUNCT	_	25	punct	_	_
 22	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	25	cc	_	_
