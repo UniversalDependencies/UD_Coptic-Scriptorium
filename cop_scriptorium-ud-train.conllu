@@ -36217,7 +36217,7 @@
 19	ⲉⲡⲓⲥⲕⲟⲡⲟⲥ	ⲉⲡⲓⲥⲕⲟⲡⲟⲥ	NOUN	N	_	17	appos	_	Orig=ⲈⲠⲒⲤⲔⲞⲠⲞⲤ
 20-21	ⲛⲕⲩⲍⲓⲕⲟⲥ	_	_	_	_	_	_	_	_
 20	ⲛ	ⲛ	ADP	PREP	_	21	case	_	Orig=Ⲛ̅
-21	ⲕⲩⲍⲓⲕⲟⲥ	ⲕⲩⲍⲓⲕⲟⲥ	NOUN	N	_	19	nmod	_	Entity=(place)person)|Orig=ⲔⲨⲌⲒⲔⲞⲤ
+21	ⲕⲩⲍⲓⲕⲟⲥ	ⲕⲩⲍⲓⲕⲟⲥ	PROPN	NPROP	_	19	nmod	_	Entity=(place)person)|Orig=ⲔⲨⲌⲒⲔⲞⲤ
 22-24	ϩⲛⲧⲕⲩⲣⲓⲁⲕⲏ	_	_	_	_	_	_	_	_
 22	ϩⲛ	ϩⲛ	ADP	PREP	_	24	case	_	Orig=ϨⲚ̅
 23	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	Entity=(time|Orig=Ⲧ
