@@ -36263,22 +36263,23 @@
 # sent_id = proclus_homilies-proclus_13_easter_s0002
 # text = ⲙⲁⲣⲉⲧⲉϣⲡⲏⲣⲉ ⲙⲡϣⲁ ⲙⲡⲉⲛⲥⲱⲧⲏⲣ ϫⲣⲟ ⲉⲛⲉⲛϣⲁϫⲉ ·
 1-3	ⲙⲁⲣⲉⲧⲉϣⲡⲏⲣⲉ	_	_	_	_	_	_	_	_
-1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	9	aux	_	Orig=Ⲙⲁⲣⲉ
+1	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	10	aux	_	Orig=Ⲙⲁⲣⲉ
 2	ⲧⲉ	ⲧⲉ	DET	ART	_	3	det	_	_
-3	ϣⲡⲏⲣⲉ	ϣⲡⲏⲣⲉ	NOUN	N	_	9	nsubj	_	_
+3	ϣⲡⲏⲣⲉ	ϣⲡⲏⲣⲉ	NOUN	N	_	10	nsubj	_	_
 4-5	ⲙⲡϣⲁ	_	_	_	_	_	_	_	_
-4	ⲙ	ⲙ	ADP	PREP	_	5	case	_	Orig=ⲙ̅
-5	ⲡϣⲁ	ⲡϣⲁ	NOUN	N	_	3	nmod	_	Orig=ⲡϣⲁ̅
-6-8	ⲙⲡⲉⲛⲥⲱⲧⲏⲣ	_	_	_	_	_	_	_	_
-6	ⲙ	ⲙ	ADP	PREP	_	8	case	_	Orig=ⲙ̅
-7	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	_	8	det	_	_
-8	ⲥⲱⲧⲏⲣ	ⲥⲱⲧⲏⲣ	NOUN	N	_	5	nmod	_	_
-9	ϫⲣⲟ	ϫⲣⲟ	VERB	V	_	0	root	_	Orig=ϫⲣⲟ̅
-10-12	ⲉⲛⲉⲛϣⲁϫⲉ	_	_	_	_	_	_	_	_
-10	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
-11	ⲛⲉⲛ	ⲛⲉⲛ	DET	PPOS	_	12	det	_	_
-12	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	9	obl	_	_
-13	·	·	PUNCT	PUNCT	_	9	punct	_	_
+4	ⲙ	ⲙ	ADP	PREP	_	6	case	_	Orig=ⲙ̅
+5	ⲡ	ⲡ	DET	ART	_	6	det	_	_
+6	ϣⲁ	ⲡϣⲁ	NOUN	N	_	3	nmod	_	Orig=ϣⲁ̅
+7-9	ⲙⲡⲉⲛⲥⲱⲧⲏⲣ	_	_	_	_	_	_	_	_
+7	ⲙ	ⲙ	ADP	PREP	_	9	case	_	Orig=ⲙ̅
+8	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	_	9	det	_	_
+9	ⲥⲱⲧⲏⲣ	ⲥⲱⲧⲏⲣ	NOUN	N	_	6	nmod	_	_
+10	ϫⲣⲟ	ϫⲣⲟ	VERB	V	_	0	root	_	Orig=ϫⲣⲟ̅
+11-13	ⲉⲛⲉⲛϣⲁϫⲉ	_	_	_	_	_	_	_	_
+11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
+12	ⲛⲉⲛ	ⲛⲉⲛ	DET	PPOS	_	13	det	_	_
+13	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	10	obl	_	_
+14	·	·	PUNCT	PUNCT	_	10	punct	_	_
 
 # sent_id = proclus_homilies-proclus_13_easter_s0003
 # text = ⲙⲁⲣⲉⲥϭⲱϫⲃ ⲛϭⲓⲧⲙⲛⲧⲣⲉϥϫⲉ ⲛⲟϭ ⲛϣⲁϫⲉ ⲙⲡⲉⲛⲗⲁⲥ ⲛⲛⲁϩⲣⲛⲧⲉⲓϣⲡⲏⲣⲉ ⲙⲡϩⲟⲟⲩ · ⲉⲃⲟⲗ ϫⲉⲥⲛⲁϣⲡⲱϩ ⲁⲛ ⲉⲡϣⲓ ⲛⲛⲧⲁϣⲉⲟⲉⲓϣ ⲛⲧⲙⲛⲧⲣⲉϥⲣⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲙⲡⲉⲛⲧⲁⲩⲥⲧⲁⲩⲣⲟⲩ ⲙⲙⲟϥ ϩⲁⲣⲟⲛ · ⲕⲁⲧⲁⲡⲉⲥⲙϣⲁ ·
@@ -37478,26 +37479,25 @@
 
 # sent_id = proclus_homilies-proclus_13_easter_s0045
 # text = ⲉⲩϯⲉⲟⲟⲩ ϩⲛⲟⲩⲟⲩⲥⲓⲁ ⲛⲟⲩⲱⲧ · ⲛϣⲟⲙⲧⲉ ⲛϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ ·
-1-4	ⲉⲩϯⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
+1-3	ⲉⲩϯⲉⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉ	PART	CFOC	_	3	mark	_	_
 2	ⲩ	ⲩ	PRON	PPERS	_	3	nsubj	_	_
-3	ϯ	ϯ	VERB	V	_	0	root	_	_
-4	ⲉⲟⲟⲩ	ⲉⲟⲟⲩ	NOUN	N	_	3	obj	_	_
-5-7	ϩⲛⲟⲩⲟⲩⲥⲓⲁ	_	_	_	_	_	_	_	_
-5	ϩⲛ	ϩⲛ	ADP	PREP	_	7	case	_	Orig=ϩⲛ̅
-6	ⲟⲩ	ⲟⲩ	DET	ART	_	7	det	_	_
-7	ⲟⲩⲥⲓⲁ	ⲟⲩⲥⲓⲁ	NOUN	N	_	3	obl	_	_
-8-9	ⲛⲟⲩⲱⲧ	_	_	_	_	_	_	_	_
-8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̅
-9	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	7	nmod	_	Orig=ⲟⲩⲱⲧ̅
-10	·	·	PUNCT	PUNCT	_	14	punct	_	_
-11-12	ⲛϣⲟⲙⲧⲉ	_	_	_	_	_	_	_	_
-11	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲛ̅
-12	ϣⲟⲙⲧⲉ	ϣⲟⲙⲧⲉ	NUM	NUM	_	14	nummod	_	_
-13-14	ⲛϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ	_	_	_	_	_	_	_	_
-13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲛ̅
-14	ϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ	ϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ	NOUN	N	_	7	nmod	_	_
-15	·	·	PUNCT	PUNCT	_	3	punct	_	_
+3	ϯⲉⲟⲟⲩ	ϯⲉⲟⲟⲩ	VERB	V	_	0	root	_	Morphs=ϯ-ⲉⲟⲟⲩ
+4-6	ϩⲛⲟⲩⲟⲩⲥⲓⲁ	_	_	_	_	_	_	_	_
+4	ϩⲛ	ϩⲛ	ADP	PREP	_	6	case	_	Orig=ϩⲛ̅
+5	ⲟⲩ	ⲟⲩ	DET	ART	_	6	det	_	_
+6	ⲟⲩⲥⲓⲁ	ⲟⲩⲥⲓⲁ	NOUN	N	_	3	obl	_	_
+7-8	ⲛⲟⲩⲱⲧ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲛ̅
+8	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	6	nmod	_	Orig=ⲟⲩⲱⲧ̅
+9	·	·	PUNCT	PUNCT	_	13	punct	_	_
+10-11	ⲛϣⲟⲙⲧⲉ	_	_	_	_	_	_	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲛ̅
+11	ϣⲟⲙⲧⲉ	ϣⲟⲙⲧⲉ	NUM	NUM	_	13	nummod	_	_
+12-13	ⲛϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲛ̅
+13	ϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ	ϩⲩⲡⲟⲥⲧⲁⲥⲓⲥ	NOUN	N	_	6	nmod	_	_
+14	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = proclus_homilies-proclus_13_easter_s0046
 # text = ⲛⲁⲓ ⲛⲉ ⲧⲉϥⲧⲁϣⲉⲟⲉⲓϣ ⲙⲙⲟϥ ⲛⲁⲛ ⲛϭⲓⲡⲉⲡⲣⲟⲫⲏⲧⲏⲥ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉϩⲙⲡⲉϩⲟⲟⲩ ⲉⲧⲙⲙⲁⲩ ⲡⲛⲟⲩⲧⲉ ⲛⲁⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ⲛⲟⲩϣⲟϫⲛⲉ ⲙⲛⲟⲩⲉⲟⲟⲩ ϩⲓϫⲙⲡⲕⲁϩ ·
@@ -37999,7 +37999,7 @@
 1-5	ⲡⲉⲧⲉⲙⲁⲣⲉⲛⲥⲉⲣⲁⲫⲓⲛ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	_	0	root	_	Orig=Ⲡ
 2	ⲉⲧⲉ	ⲉⲧⲉ	SCONJ	CREL	_	7	mark	_	_
-3	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AUX	_	7	aux	_	_
+3	ⲙⲁⲣⲉ	ⲙⲉⲣⲉ	AUX	ANEGAOR	_	7	aux	_	_
 4	ⲛ	ⲛ	DET	ART	_	5	det	_	Orig=ⲛ̅
 5	ⲥⲉⲣⲁⲫⲓⲛ	ⲥⲉⲣⲁⲫⲓⲛ	NOUN	N	_	7	nsubj	_	_
 6	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	1	advmod	_	_
@@ -38742,7 +38742,7 @@
 15	ϥ	ϥ	PRON	PPERO	_	13	obj	_	_
 16-17	ϩⲓⲧⲛⲙⲁⲛⲁⲥⲥⲏ	_	_	_	_	_	_	_	_
 16	ϩⲓⲧⲛ	ϩⲓⲧⲛ	ADP	PREP	_	17	case	_	Orig=ϩⲓⲧⲛ̅
-17	ⲙⲁⲛⲁⲥⲥⲏ	ⲙⲁⲛⲁⲥⲥⲏ	NOUN	N	_	13	obl	_	_
+17	ⲙⲁⲛⲁⲥⲥⲏ	ⲙⲁⲛⲁⲥⲥⲏ	PROPN	NPROP	_	13	obl	_	_
 18	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = proclus_homilies-proclus_13_easter_s0092
@@ -39117,7 +39117,7 @@
 12-14	ⲛⲧⲉϥⲥⲁⲣⲝ	_	_	_	_	_	_	_	_
 12	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲛ̅
 13	ⲧⲉϥ	ⲧⲉϥ	DET	PPOS	_	14	det	_	_
-14	ⲥⲁⲣⲝ	ⲥⲁⲣⲝ	NOUN	N	_	11	nmod	_	Orig=ⲥⲁⲣⲝ̅
+14	ⲥⲁⲣⲝ	ⲥⲁⲣⲝ	NOUN	N	_	6	obj	_	Orig=ⲥⲁⲣⲝ̅
 15-17	ϩⲙⲡⲟⲩⲟⲙϥ	_	_	_	_	_	_	_	_
 15	ϩⲙ	ϩⲙ	ADP	PREP	_	17	case	_	Orig=ϩⲙ̅
 16	ⲡ	ⲡ	DET	ART	_	17	det	_	_
