@@ -23,8 +23,8 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | Abraham our Father       | MONB XL93-94, YA518-520     |   1,197 |
 | Acephalous Work 22       | MONB YA421-428              |   1,698 |
 | I See Your Eagerness     | MONB GF31-32                |     439 |
-| Epistle of Pseudo-Ephrem | psephrem.letter             |   1,926 |
-| Gospel of Mark           | Chapters 1 - 9              |  10,809 |
+| Epistle of Pseudo-Ephrem | psephrem.letter             |   1,925 |
+| Gospel of Mark           | Chapters 1 - 9              |  10,812 |
 | 1 Corinthians            | Chapters 1 - 6              |   3,570 |
 | Book of Ruth             | Chapters 1 - 4 (complete)   |   3,470 |
 | Letters of Besa          | #1,2,13,15,25               |   3,939 |
@@ -33,8 +33,9 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | Apophthegmata Patrum     | #1-6,18-19,23-32,114-139    |   4,152 |
 | Martyrdom of St. Victor  | Chapters 1 - 6              |   1,985 |
 | Dormition of John        | dormition.john.mercad       |   3,064 |
-| Pseudo-Athanasius        | mercy_judgment              |   2,781 |
-|                          | Total:                      |  46,283 |
+| Pseudo-Athanasius        | mercy_judgment              |   2,782 |
+| Proclus Homilies         | #13 On Easter               |   2,344 |
+|                          | Total:                      |  48,631 |
 
 ## Tokenization
 
@@ -77,6 +78,10 @@ Further information on relevant annotation standards and NLP tools used prior to
   * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
+
+  * CHANGELOG
+
+Added Proclus of Cyzicus Homily 13, On Easter. Nested named and non-named entity annotations have been added to the entire corpus.
 
   * CHANGELOG 2.5 -> 2.6
 
