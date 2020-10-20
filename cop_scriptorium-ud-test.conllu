@@ -572,7 +572,7 @@
 33	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	36	case	_	Orig=ⲉϩⲣⲁⲓ̈
 34-36	ⲉⲙⲡⲏⲩⲉ	_	_	_	_	_	_	_	_
 34	ⲉ	ⲉ	ADP	PREP	_	33	fixed	_	_
-35	ⲙ	ⲡ	DET	ART	_	36	det	_	Entity=(place
+35	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	36	det	_	Entity=(place
 36	ⲡⲏⲩⲉ	ⲡⲉ	NOUN	N	_	29	obl	_	Entity=place)|Orig=ⲡⲏⲩⲉ`
 37-39	ⲕⲁⲧⲁⲛⲉⲅⲣⲁⲫⲏ	_	_	_	_	_	_	_	_
 37	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	_	39	case	_	_
@@ -2351,7 +2351,7 @@
 12	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	9	advmod	_	Orig=ⲉ̇ϩⲟⲩⲛ
 13-15	ϩⲛⲙⲡⲏⲩⲉ	_	_	_	_	_	_	_	_
 13	ϩⲛ	ϩⲛ	ADP	PREP	_	15	case	_	Orig=ϩⲛ̇
-14	ⲙ	ⲡ	DET	ART	_	15	det	_	Entity=(place|Orig=ⲙ̇
+14	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	15	det	_	Entity=(place|Orig=ⲙ̇
 15	ⲡⲏⲩⲉ	ⲡⲉ	NOUN	N	_	9	obl	_	Entity=place)
 16	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -2734,7 +2734,7 @@
 2	ⲱⲡ	ⲱⲡ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲱ̇ⲡ
 3-5	ⲛⲥⲁⲙⲙⲓⲗⲓⲟⲛ	_	_	_	_	_	_	_	_
 3	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	5	case	_	Orig=ⲛ̇ⲥⲁ
-4	ⲙ	ⲡ	DET	ART	_	5	det	_	Entity=(abstract|Orig=ⲙ̇
+4	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(abstract|Orig=ⲙ̇
 5	ⲙⲓⲗⲓⲟⲛ	ⲙⲓⲗⲓⲟⲛ	NOUN	N	_	2	obl	_	Entity=abstract)|Orig=ⲙⲓ̇ⲗⲓ̇ⲟⲛ
 6	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	10	cc	_	Orig=ⲁⲩⲱ̇
 7-10	ⲛⲧⲉⲧⲛⲁϣⲱⲥⲙ	_	_	_	_	_	_	_	_
@@ -3145,7 +3145,7 @@
 14	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Fin	0	root	_	_
 15-17	ⲉⲙⲡⲏⲩⲉ	_	_	_	_	_	_	_	_
 15	ⲉ	ⲉ	ADP	PREP	_	17	case	_	_
-16	ⲙ	ⲡ	DET	ART	_	17	det	_	Entity=(place
+16	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	17	det	_	Entity=(place
 17	ⲡⲏⲩⲉ	ⲡⲉ	NOUN	N	_	14	obl	_	Entity=place)
 18-21	ⲉⲁⲩⲟⲩⲱⲛ	_	_	_	_	_	_	_	_
 18	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	21	mark	_	_
@@ -3190,7 +3190,7 @@
 7	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	10	case	_	_
 8-10	ϩⲛⲙⲡⲏⲩⲉ	_	_	_	_	_	_	_	_
 8	ϩⲛ	ϩⲛ	ADP	PREP	_	7	fixed	_	_
-9	ⲙ	ⲡ	DET	ART	_	10	det	_	Entity=(place
+9	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	10	det	_	Entity=(place
 10	ⲡⲏⲩⲉ	ⲡⲉ	NOUN	N	_	6	obl	_	Entity=place)
 11-12	ϫⲉⲛⲧⲟⲕ	_	_	_	_	_	_	_	_
 11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
@@ -5277,7 +5277,7 @@
 # text_en = John's disciples and the Pharisees were fasting, and they came and asked him, 'Why do John's disciples and the disciples of the Pharisees fast, but your disciples don't fast?'
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	12	cc	_	_
 2-3	ⲙⲙⲁⲑⲏⲧⲏⲥ	_	_	_	_	_	_	_	_
-2	ⲙ	ⲡ	DET	ART	_	3	det	_	Entity=(person
+2	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	det	_	Entity=(person
 3	ⲙⲁⲑⲏⲧⲏⲥ	ⲙⲁⲑⲏⲧⲏⲥ	NOUN	N	_	12	dislocated	_	_
 4-5	ⲛⲓⲱϩⲁⲛⲛⲏⲥ	_	_	_	_	_	_	_	_
 4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
@@ -5319,7 +5319,7 @@
 31	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	_	29	nmod	_	Entity=(person-John_the_Baptist)person)
 32	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	34	cc	_	_
 33-34	ⲙⲙⲁⲑⲏⲧⲏⲥ	_	_	_	_	_	_	_	_
-33	ⲙ	ⲡ	DET	ART	_	34	det	_	Entity=(person
+33	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	34	det	_	Entity=(person
 34	ⲙⲁⲑⲏⲧⲏⲥ	ⲙⲁⲑⲏⲧⲏⲥ	NOUN	N	_	29	conj	_	_
 35-37	ⲛⲛⲉⲫⲁⲣⲓⲥⲥⲁⲓⲟⲥ	_	_	_	_	_	_	_	_
 35	ⲛ	ⲛ	ADP	PREP	_	37	case	_	_
@@ -6188,7 +6188,7 @@
 25-28	ⲛⲉⲧⲉⲙⲙⲁⲥⲧⲓⲅⲝ	_	_	_	_	_	_	_	_
 25	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	conj	_	Entity=(person
 26	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	28	mark	_	_
-27	ⲙ	ⲡ	DET	ART	_	28	det	_	_
+27	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	28	det	_	_
 28	ⲙⲁⲥⲧⲓⲅⲝ	ⲙⲁⲥⲧⲓⲅⲝ	NOUN	N	_	25	acl	_	_
 29-30	ϩⲓⲱⲟⲩ	_	_	_	_	_	_	_	_
 29	ϩⲓⲱ	ϩⲓ	ADP	PREP	_	30	case	_	_
@@ -7698,7 +7698,7 @@
 10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
 11-13	ϩⲓϫⲛⲙⲙⲁ	_	_	_	_	_	_	_	_
 11	ϩⲓϫⲛ	ϩⲓϫⲛ	ADP	PREP	_	13	case	_	_
-12	ⲙ	ⲡ	DET	ART	_	13	det	_	Entity=(place
+12	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	13	det	_	Entity=(place
 13	ⲙⲁ	ⲙⲁ	NOUN	N	_	10	obl	_	_
 14-15	ⲙⲡⲉⲧⲣⲁ	_	_	_	_	_	_	_	_
 14	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
@@ -9517,7 +9517,7 @@
 6	ⲥⲟⲟⲩⲛ	ⲥⲟⲟⲩⲛ	VERB	V	VerbForm=Fin	0	root	_	_
 7-9	ⲛⲙⲙⲟⲕⲙⲉⲕ	_	_	_	_	_	_	_	_
 7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
-8	ⲙ	ⲡ	DET	ART	_	9	det	_	Entity=(abstract
+8	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	det	_	Entity=(abstract
 9	ⲙⲟⲕⲙⲉⲕ	ⲙⲟⲕⲙⲉⲕ	NOUN	N	_	6	obj	_	_
 10-12	ⲛⲛⲥⲟⲫⲟⲥ	_	_	_	_	_	_	_	_
 10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
@@ -9634,7 +9634,7 @@
 18	ⲟⲓⲕⲟⲛⲟⲙⲟⲥ	ⲟⲓⲕⲟⲛⲟⲙⲟⲥ	NOUN	N	_	11	conj	_	_
 19-21	ⲛⲙⲙⲩⲥⲧⲏⲣⲓⲟⲛ	_	_	_	_	_	_	_	_
 19	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
-20	ⲙ	ⲡ	DET	ART	_	21	det	_	Entity=(abstract
+20	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	21	det	_	Entity=(abstract
 21	ⲙⲩⲥⲧⲏⲣⲓⲟⲛ	ⲙⲩⲥⲧⲏⲣⲓⲟⲛ	NOUN	N	_	18	nmod	_	_
 22-24	ⲙⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 22	ⲙ	ⲛ	ADP	PREP	_	24	case	_	_
@@ -10320,7 +10320,7 @@
 15	ⲙⲉⲣⲓⲧ	ⲙⲉⲣⲓⲧ	NOUN	N	_	13	nmod	_	_
 16	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	18	cc	_	_
 17-18	ⲙⲡⲓⲥⲧⲟⲥ	_	_	_	_	_	_	_	_
-17	ⲙ	ⲡ	DET	ART	_	18	det	_	_
+17	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	ⲡⲓⲥⲧⲟⲥ	ⲡⲓⲥⲧⲟⲥ	NOUN	N	_	15	conj	_	_
 19-21	ϩⲙⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
 19	ϩⲙ	ϩⲛ	ADP	PREP	_	21	case	_	_
@@ -10527,7 +10527,7 @@
 18	ϫⲱϩⲙ	ϫⲱϩⲙ	VERB	V	VerbForm=Fin	14	advcl	_	Orig=ϫⲱϩ︤ⲙ︥
 19-21	ⲛⲙⲙⲁ	_	_	_	_	_	_	_	_
 19	ⲛ	ⲛ	ADP	PREP	_	21	case	_	Orig=ⲛ̄
-20	ⲙ	ⲡ	DET	ART	_	21	det	_	Entity=(place|Orig=ⲙ̄
+20	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	21	det	_	Entity=(place|Orig=ⲙ̄
 21	ⲙⲁ	ⲙⲁ	NOUN	N	_	18	obj	_	_
 22-23	ⲉⲧⲟⲩⲁⲁⲃ	_	_	_	_	_	_	_	_
 22	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	23	mark	_	_
@@ -11679,7 +11679,7 @@
 19	·	·	PUNCT	PUNCT	_	22	punct	_	_
 20-22	ⲙⲛⲙⲙⲛⲧⲣⲉϥϣⲙϣⲉⲉⲓⲇⲱⲗⲟⲛ	_	_	_	_	_	_	_	_
 20	ⲙⲛ	ⲙⲛ	ADP	PREP	_	22	cc	_	Orig=ⲙ︤ⲛ︥
-21	ⲙ	ⲡ	DET	ART	_	22	det	_	Entity=(abstract|Orig=ⲙ̄
+21	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	22	det	_	Entity=(abstract|Orig=ⲙ̄
 22	ⲙⲛⲧⲣⲉϥϣⲙϣⲉⲉⲓⲇⲱⲗⲟⲛ	ⲙⲛⲧⲣⲉϥϣⲙϣⲉⲉⲓⲇⲱⲗⲟⲛ	NOUN	N	_	7	conj	_	Morphs=ⲙⲛⲧ-ⲣⲉϥ-ϣⲙϣⲉ-ⲉⲓⲇⲱⲗⲟⲛ|Orig=ⲙ︤ⲛ︦ⲧ︥ⲣⲉϥϣⲙ̄︥ϣⲉⲉⲓⲇⲱⲗⲟⲛ
 23-24	ⲉⲧϫⲁϩⲙ	_	_	_	_	_	_	_	_
 23	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	24	mark	_	_
@@ -14085,7 +14085,7 @@
 78	ϣⲏⲓ	ϣⲏⲓ	NOUN	N	_	74	obl	_	Orig=ϣⲏⲓ̈
 79-81	ⲛⲙⲙⲟⲩⲓ	_	_	_	_	_	_	_	_
 79	ⲛ	ⲛ	ADP	PREP	_	81	case	_	Orig=ⲛ̅
-80	ⲙ	ⲡ	DET	ART	_	81	det	_	Entity=(animal|Orig=ⲙ̅
+80	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	81	det	_	Entity=(animal|Orig=ⲙ̅
 81	ⲙⲟⲩⲓ	ⲙⲟⲩⲓ	NOUN	N	_	78	nmod	_	Entity=animal)place)|Orig=ⲙⲟⲩⲓ̈
 82	·	·	PUNCT	PUNCT	_	85	punct	_	_
 83-86	ⲁϥⲧⲁⲁϥ	_	_	_	_	_	_	_	_
@@ -14103,7 +14103,7 @@
 92	ϣⲏⲓ	ϣⲏⲓ	NOUN	N	_	85	obl	_	_
 93-95	ⲛⲙⲙⲟⲩⲓ	_	_	_	_	_	_	_	_
 93	ⲛ	ⲛ	ADP	PREP	_	95	case	_	Orig=ⲛ̅
-94	ⲙ	ⲡ	DET	ART	_	95	det	_	Entity=(animal|Orig=ⲙ̅
+94	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	95	det	_	Entity=(animal|Orig=ⲙ̅
 95	ⲙⲟⲩⲓ	ⲙⲟⲩⲓ	NOUN	N	_	92	nmod	_	Entity=animal)place)
 96	·	·	PUNCT	PUNCT	_	48	punct	_	_
 97	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	43	ccomp	_	Orig=ⲛ̅ⲧⲟϥ
