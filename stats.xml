@@ -5,21 +5,21 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>1873</sentences><tokens>22992</tokens><words>48631</words><fused>14302</fused></total>
-    <train><sentences>1089</sentences><tokens>12926</tokens><words>27298</words><fused>7968</fused></train>
+    <total><sentences>1873</sentences><tokens>22992</tokens><words>48632</words><fused>14302</fused></total>
+    <train><sentences>1089</sentences><tokens>12926</tokens><words>27299</words><fused>7968</fused></train>
     <dev><sentences>381</sentences><tokens>5165</tokens><words>10960</words><fused>3236</fused></dev>
     <test><sentences>403</sentences><tokens>4901</tokens><words>10373</words><fused>3098</fused></test>
   </size>
-  <lemmas unique="2360" /><!-- ⲡ, ⲛ, ⲛⲧⲟϥ, ·, ⲛⲧⲟⲟⲩ, ⲁ, ⲉ, ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ⲟⲩ, ⲛⲁ, ϩⲛ, ϫⲉ, ⲁⲩⲱ, ⲁⲛⲟⲕ -->
-  <forms unique="2635" /><!-- ⲛ, ϥ, ·, ⲉ, ⲡ, ⲁ, ⲟⲩ, ⲙ, ⲩ, ⲛⲁ, ϫⲉ, ⲁⲩⲱ, ., ⲥ, ⲧ -->
-  <fusions unique="7918" /><!-- ⲙⲙⲟⲥ, ⲛⲁϥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲛⲁⲓ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ -->
+  <lemmas unique="2358" /><!-- ⲡ, ⲛ, ⲛⲧⲟϥ, ·, ⲛⲧⲟⲟⲩ, ⲁ, ⲉ, ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ⲟⲩ, ⲛⲁ, ϩⲛ, ϫⲉ, ⲁⲩⲱ, ⲁⲛⲟⲕ -->
+  <forms unique="2634" /><!-- ⲛ, ϥ, ·, ⲉ, ⲡ, ⲁ, ⲟⲩ, ⲙ, ⲩ, ⲛⲁ, ϫⲉ, ⲁⲩⲱ, ., ⲥ, ⲧ -->
+  <fusions unique="7917" /><!-- ⲙⲙⲟⲥ, ⲛⲁϥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲛⲁⲓ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
     <tag name="ADJ">31</tag><!-- ϣⲏⲙ, ⲕⲟⲩⲓ, ⲕⲁⲑⲟⲗⲓⲕⲏ, ⲟⲩⲱⲧ -->
     <tag name="ADP">7135</tag><!-- ⲛ, ⲉ, ϩⲛ, ⲙⲛ, ⲛⲁ, ⲉⲧⲃⲉ, ϩⲓ, ⲛⲥⲁ, ⲉϫⲛ, ϣⲁ -->
     <tag name="ADV">1948</tag><!-- ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲧⲏⲣ, ⲟⲛ, ⲛ, ⲉϩⲣⲁⲓ, ⲙⲙⲁⲩ, ⲧⲙ, ⲙⲡⲣ -->
     <tag name="AUX">2952</tag><!-- ⲁ, ⲛⲁ, ⲛⲧⲉ, ⲛⲧⲉⲣⲉ, ⲛⲉⲣⲉ, ⲙⲡⲉ, ϣⲁⲣⲉ, ⲙⲁⲣⲉ, ⲛⲛⲉ, ϣ -->
-    <tag name="CCONJ">1351</tag><!-- ⲁⲩⲱ, ϫⲉ, ⲁⲗⲗⲁ, ⲏ, ⲟⲩⲇⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲕⲁⲛ, ⲟⲩⲧⲉ, ⲡⲗⲏⲛ -->
+    <tag name="CCONJ">1206</tag><!-- ⲁⲩⲱ, ⲁⲗⲗⲁ, ⲏ, ⲟⲩⲇⲉ, ϫⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲟⲩⲧⲉ, ⲡⲗⲏⲛ, ⲕⲁⲛ -->
     <tag name="DET">6222</tag><!-- ⲡ, ⲟⲩ, ⲡⲉϥ, ⲡⲁ, ⲡⲁⲓ, ⲡⲉⲓ, ⲡⲉⲕ, ⲡⲉⲛ, ⲡⲉⲩ, ⲕⲉ -->
     <tag name="NOUN">6807</tag><!-- ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ⲥⲟⲛ, ϩⲱⲃ, ϣⲏⲣⲉ, ϣⲁϫⲉ -->
     <tag name="NUM">242</tag><!-- ⲟⲩⲁ, ⲥⲛⲁⲩ, ϣⲉ, ⲙⲛⲧⲥⲛⲟⲟⲩⲥ, ⲙⲏⲧ, ϣⲟⲙⲛⲧ, ⲥⲁϣϥ, ⲙⲁⲁⲃ, ⲧⲃⲁ, ϥⲧⲟⲟⲩ -->
@@ -27,14 +27,15 @@
     <tag name="PRON">7970</tag><!-- ⲛⲧⲟϥ, ⲛⲧⲟⲟⲩ, ⲁⲛⲟⲕ, ⲛⲧⲟⲥ, ⲛⲧⲟⲕ, ⲛⲧⲱⲧⲛ, ⲡⲉ, ⲁⲛⲟⲛ, ⲛⲓⲙ, ⲛⲧⲟ -->
     <tag name="PROPN">639</tag><!-- ⲓⲏⲥⲟⲩⲥ, ⲓⲱϩⲁⲛⲛⲏⲥ, ⲃⲟⲉⲥ, ϩⲣⲟⲩⲑ, ⲛⲟⲉⲙⲓⲛ, ⲡⲁⲙⲃⲱ, ⲓⲁⲕⲱⲃ, ⲥⲁⲧⲁⲛⲁⲥ, ⲇⲓⲁⲃⲟⲗⲟⲥ, ⲡⲁⲩⲗⲟⲥ -->
     <tag name="PUNCT">3089</tag><!-- ·, ., ,, —, :, ⲻ, ◈, ⁛, ═════, [ -->
-    <tag name="SCONJ">2724</tag><!-- ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ϫⲉ, ϫⲉⲕⲁⲁⲥ, ⲉϣⲱⲡⲉ, ϩⲱⲥⲧⲉ, ϩⲱⲥ, ⲉϣϫⲉ, ϫⲉⲕⲁⲥ, ⲉⲓⲙⲏⲧⲓ -->
-    <tag name="VERB">5787</tag><!-- ϫⲱ, ⲉⲓⲣⲉ, ⲉⲓ, ϣⲱⲡⲉ, ⲡⲉϫⲉ, ⲧⲣⲉ, ϯ, ⲃⲱⲕ, ⲕⲱ, ⲛⲁⲩ -->
+    <tag name="SCONJ">2869</tag><!-- ⲉⲧⲉⲣⲉ, ϫⲉ, ⲉⲣⲉ, ϫⲉⲕⲁⲁⲥ, ⲉϣⲱⲡⲉ, ϩⲱⲥⲧⲉ, ϩⲱⲥ, ⲉϣϫⲉ, ϫⲉⲕⲁⲥ, ⲉⲛⲉ -->
+    <tag name="VERB">5788</tag><!-- ϫⲱ, ⲉⲓⲣⲉ, ⲉⲓ, ϣⲱⲡⲉ, ⲡⲉϫⲉ, ⲧⲣⲉ, ϯ, ⲃⲱⲕ, ⲕⲱ, ⲛⲁⲩ -->
     <tag name="X">46</tag><!-- unknown, ⲙⲟⲛⲟⲛ, ⲟⲩ, .., ....., [...], ...., [..], ......, ......... -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="26">
+  <feats unique="27">
     <feat name="Definite" value="Def" upos="ADV,DET,PRON">12519</feat><!-- ϥ, ⲡ, ⲛ, ⲩ, ⲥ, ⲧ, ⲟⲩ, ⲓ, ⲕ, ⲡⲉ -->
     <feat name="Definite" value="Ind" upos="DET">813</feat><!-- ⲟⲩ, ϩⲉⲛ, ⲩ -->
+    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB,X">3933</feat><!-- ⲇⲉ, ⲅⲁⲣ, ⲁⲗⲗⲁ, ⲏ, ⲓⲏⲥⲟⲩⲥ, ⲭⲣⲓⲥⲧⲟⲥ, ⲟⲩⲇⲉ, ⲕⲁⲧⲁ, ⲡⲛⲉⲩⲙⲁ, ⲁⲡⲁ -->
     <feat name="Gender" value="Fem" upos="DET,PRON">2000</feat><!-- ⲥ, ⲧ, ⲧⲉ, ⲧⲉⲓ, ⲧⲉϥ, ⲧⲁ, ⲉ, ⲧⲁⲓ, ⲧⲉⲕ, ⲧⲉⲥ -->
     <feat name="Gender" value="Masc" upos="DET,PRON">6238</feat><!-- ϥ, ⲡ, ⲡⲉ, ⲕ, ⲡⲉϥ, ⲡⲁ, ⲡⲁⲓ, ⲡⲉⲓ, ⲡⲉⲕ, ⲡⲉⲛ -->
     <feat name="Gender[psor]" value="Fem" upos="DET">100</feat><!-- ⲧⲉⲥ, ⲡⲟⲩ, ⲧⲟⲩ, ⲡⲉⲥ, ⲛⲟⲩ, ⲛⲉⲥ -->
@@ -57,8 +58,8 @@
     <feat name="PronType" value="Rcp" upos="NOUN">40</feat><!-- ⲉⲣⲏⲩ -->
     <feat name="PronType" value="Tot" upos="ADV">127</feat><!-- ⲧⲏⲣ -->
     <feat name="Reflex" value="Yes" upos="ADV,PRON">10</feat><!-- ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ -->
-    <feat name="VerbForm" value="Fin" upos="AUX,PRON,VERB">5299</feat><!-- ⲡⲉϫⲁ, ⲉⲓ, ϫⲱ, ϣⲱⲡⲉ, ⲃⲱⲕ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ, ⲥⲱⲧⲙ -->
-    <feat name="VerbForm" value="Inf" upos="VERB">221</feat><!-- ϯ, ⲛⲁⲩ, ⲣ, ϫⲓ, ⲁⲁ, ⲃⲱⲕ, ϣⲁϫⲉ, ϣⲁⲁⲧ, ϫⲟⲟ, ⲕⲁ -->
+    <feat name="VerbForm" value="Fin" upos="AUX,PRON,VERB">5300</feat><!-- ⲡⲉϫⲁ, ⲉⲓ, ϫⲱ, ϣⲱⲡⲉ, ⲃⲱⲕ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ, ⲥⲱⲧⲙ -->
+    <feat name="VerbForm" value="Inf" upos="VERB">220</feat><!-- ϯ, ⲛⲁⲩ, ⲣ, ϫⲓ, ⲁⲁ, ⲃⲱⲕ, ϣⲁϫⲉ, ϣⲁⲁⲧ, ⲕⲁ, ⲥⲱⲧⲙ -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="34">
@@ -84,7 +85,7 @@
     <dep name="iobj">67</dep>
     <dep name="mark">3540</dep>
     <dep name="nmod">1630</dep>
-    <dep name="nsubj">4890</dep>
+    <dep name="nsubj">4891</dep>
     <dep name="nummod">104</dep>
     <dep name="obj">2060</dep>
     <dep name="obl">3958</dep>
