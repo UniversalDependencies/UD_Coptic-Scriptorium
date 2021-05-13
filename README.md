@@ -79,7 +79,11 @@ Further information on relevant annotation standards and NLP tools used prior to
 
 # Changelog
 
-  * CHANGELOG
+  * CHANGELOG 2.7 -> 2.8
+
+Added `Foreign` feature and `OrigLang` annotation in MISC for loanwords
+
+  * CHANGELOG 2.6 -> 2.7
 
 Added Proclus of Cyzicus Homily 13, On Easter. Nested named and non-named entity annotations have been added to the entire corpus.
 
