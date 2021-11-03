@@ -24,18 +24,19 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | Acephalous Work 22       | MONB YA421-428              |   1,698 |
 | I See Your Eagerness     | MONB GF31-32                |     439 |
 | Epistle of Pseudo-Ephrem | psephrem.letter             |   1,925 |
-| Gospel of Mark           | Chapters 1 - 9              |  10,812 |
+| Gospel of Mark           | Chapters 1 - 9              |  10,810 |
 | 1 Corinthians            | Chapters 1 - 6              |   3,570 |
 | Book of Ruth             | Chapters 1 - 4 (complete)   |   3,470 |
 | Letters of Besa          | #1,2,13,15,25               |   3,939 |
 | Life of Cyrus            | life.cyrus.01               |   1,962 |
 | Life of Onnophrius       | life.onnophrius.01          |   2,745 |
-| Apophthegmata Patrum     | #1-6,18-19,23-32,114-139    |   4,152 |
+| Apophthegmata Patrum     | #1-6,18-19,23-32,114-139    |   4,155 |
 | Martyrdom of St. Victor  | Chapters 1 - 6              |   1,985 |
 | Dormition of John        | dormition.john.mercad       |   3,064 |
 | Pseudo-Athanasius        | mercy_judgment              |   2,782 |
 | Proclus Homilies         | #13 On Easter               |   2,344 |
-|                          | Total:                      |  48,631 |
+| Pseudo-Flavianus         | Part 1 of 2                 |   3,537 |
+|                          | Total:                      |  52,169 |
 
 ## Tokenization
 
@@ -78,6 +79,10 @@ Further information on relevant annotation standards and NLP tools used prior to
   * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
+
+  * CHANGELOG 2.8 -> 2.9
+
+Added Pseudo-Flavianus to train, minor corrections.
 
   * CHANGELOG 2.7 -> 2.8
 
