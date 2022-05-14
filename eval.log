@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Coptic-Scriptorium:
-commit 50bea2e85e073d4f1a83ea95af3b73afc2c7e136
-Merge: 02977a4 098377c
+commit 13957475f3b61079683e665f105ca3d4f4d6faeb
+Merge: fa05f2a 26ac2dc
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 52169 of 52169 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.90897689749263.
+Size: counted 52170 of 52170 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.9090152340686.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -15,14 +15,14 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 26218 out of 52169 total words have one or more features.
+Features: 26218 out of 52170 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
                TOTAL       7263
 Udapi: found 7263 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 52169 words.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 52170 words.
 Genres: found 3 out of 17 known.
 validate.py --lang cop --max-err=10 UD_Coptic-Scriptorium/cop_scriptorium-ud-dev.conllu
 *** PASSED ***
@@ -34,11 +34,11 @@ Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.572470837346892) = 0.146787394191511
+(weight=0.256410256410256) * (score{size}=0.572473612240792) = 0.146788105702767
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.445319048017282) * (availability=1) * (validity=1) = 0.445319048017282
+(TOTAL score=0.445319759528539) * (availability=1) * (validity=1) = 0.445319759528539
 STARS = 2
-UD_Coptic-Scriptorium	0.445319048017282	2
+UD_Coptic-Scriptorium	0.445319759528539	2
