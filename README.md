@@ -25,7 +25,7 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | I See Your Eagerness     | MONB GF31-32                |     439 |
 | Epistle of Pseudo-Ephrem | psephrem.letter             |   1,925 |
 | Gospel of Mark           | Chapters 1 - 9              |  10,810 |
-| 1 Corinthians            | Chapters 1 - 6              |   3,570 |
+| 1 Corinthians            | Chapters 1 - 6              |   3,571 |
 | Book of Ruth             | Chapters 1 - 4 (complete)   |   3,470 |
 | Letters of Besa          | #1,2,13,15,25               |   3,939 |
 | Life of Cyrus            | life.cyrus.01               |   1,962 |
@@ -36,17 +36,64 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | Pseudo-Athanasius        | mercy_judgment              |   2,782 |
 | Proclus Homilies         | #13 On Easter               |   2,344 |
 | Pseudo-Flavianus         | Part 1 of 2                 |   3,537 |
-|                          | Total:                      |  52,169 |
+|                          | Total:                      |  52,170 |
 
 ## Tokenization
 
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.
 
-The Coptic Treebank now annotates these bound groups as 'multi-unit' tokens. However, morphological units below the POS level, including affixes and fused compounds, are now annotated in the treebank in the MISC column, using an attribute Morphs=A-B-C, where A, B and C are constituent morphemes of a complex word. There is also a further attribute in the MISC column, called Orig, which appears whenever normalization has taken place and renders the word form as it appeared in the original manuscript. This can include removal of optional diacritics and contracted forms of nomina sacra, which appear expanded in the word form column.
+The Coptic Treebank now annotates these bound groups as 'multi-unit' tokens. However, morphological units below the POS level, including affixes and fused compounds, are now annotated in the treebank in the MISC column, using an attribute MSeg=A-B-C, where A, B and C are constituent morphemes of a complex word. There is also a further attribute in the MISC column, called Orig, which appears whenever normalization has taken place and renders the word form as it appeared in the original manuscript. This can include removal of optional diacritics and contracted forms of nomina sacra, which appear expanded in the word form column.
 
 Note that for some fused forms carrying multiple parts of speech, the native Coptic POS tag set assigns portmanteau tags, such as APST_PPERS (auxiliary, past, fused with a subject personal pronoun). In the UD guidelines for Coptic, these forms are tolerated by always selecting the argument as the function-determining unit. Thus APST_PPERS, the past auxiliary with fused pronoun, is attached as *nsubj*, ignoring the *aux* dependency. In a future version, we are considering integrating a more subtle analysis using enhanced dependencies.
 
 For more information on Coptic tokenization, see the Coptic Scriptorium website.
+
+## Entities and Wikification
+
+The data contains full annotation of typed named and non-named entities, using the same ten entity types as UD_English-GUM:
+
+  * abstract
+  * animal
+  * event
+  * object
+  * organization
+  * person
+  * place
+  * plant
+  * substance
+  * time
+
+These annotations appear in the MISC column and are bracketed in the conllua convention described by [Universal Anaphora](https://universalanaphora.org/) and the [CorefUD](https://ufal.mff.cuni.cz/corefud) format. Named entities for which corresponding Wikipedia articles exist are also suffixed with a Wikification identifier corresponding to the title of their Wikipedia page, as seen for example for Alexandria and Wadi El-Natrun in the following example:
+
+```CoNLL-U
+# newdoc id = apophthegmata.patrum:AP.019.n161.presbyter
+# global.Entity = etype-identity
+# sent_id = apophthegmata_patrum-AP_019_n161_presbyter_s0001
+# text_en = He went once, that is the presbyter of Scetis, to the archbishop of Alexandria
+# text = ⲁϥⲃⲱⲕ ⲛⲟⲩⲟⲉⲓϣ ⲛϭⲓⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛϣⲓⲏⲧ ϣⲁⲡⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲛⲣⲁⲕⲟⲧⲉ .
+1-3	ⲁϥⲃⲱⲕ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=Ⲁ
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	0	root	_	_
+4-5	ⲛⲟⲩⲟⲉⲓϣ	_	_	_	_	_	_	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲟⲩⲟⲉⲓϣ	ⲟⲩⲟⲉⲓϣ	NOUN	N	_	3	obl	_	Orig=ⲟⲩⲟ̇ⲉⲓ̇ϣ
+6-8	ⲛϭⲓⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	_	_	_	_	_	_	_	_
+6	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	8	case	_	Orig=ⲛ̇ϭⲓ̇
+7	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(person
+8	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	NOUN	N	Foreign=Yes	3	dislocated	_	OrigLang=grc
+9-10	ⲛϣⲓⲏⲧ	_	_	_	_	_	_	_	_
+9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	Orig=ⲛ̇
+10	ϣⲓⲏⲧ	ϣⲓⲏⲧ	PROPN	NPROP	_	8	nmod	_	Entity=(place-Wadi_El_Natrun)person)|Orig=ϣⲓ̇ⲏⲧ
+11-13	ϣⲁⲡⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ	_	_	_	_	_	_	_	_
+11	ϣⲁ	ϣⲁ	ADP	PREP	_	13	case	_	_
+12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(person
+13	ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ	ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ	NOUN	N	Foreign=Yes	3	obl	_	Orig=ⲁⲣⲭⲏⲉ̇ⲡⲓ̇ⲥⲕⲟⲡⲟⲥ|OrigLang=grc
+14-15	ⲛⲣⲁⲕⲟⲧⲉ	_	_	_	_	_	_	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	Orig=ⲛ̇
+15	ⲣⲁⲕⲟⲧⲉ	ⲣⲁⲕⲟⲧⲉ	PROPN	NPROP	_	13	nmod	_	Entity=(place-Alexandria)person)
+16	.	.	PUNCT	PUNCT	_	3	punct	_	Orig=·ⲻ
+```
 
 # Acknowledgments
 
@@ -79,6 +126,10 @@ Further information on relevant annotation standards and NLP tools used prior to
   * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
+
+  * CHANGELOG 2.9 -> 2.10
+
+Added `acl` vs. `acl:relcl` distinction; Renamed `Morph` to `MSeg` to match other UD corpora; Systematic fixes to xcomp with object; Minor corrections.
 
   * CHANGELOG 2.8 -> 2.9
 
