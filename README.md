@@ -8,7 +8,7 @@ The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahid
 
 http://copticscriptorium.org/treebank.html
 
-The data was digitized and annotated manually for part of speech in the project Coptic Scriptorium. For individual credit and further information see:
+The data was digitized or previously available in digital format, and annotated manually for part of speech in the project Coptic Scriptorium. For individual credit and further information see:
 
 http://copticscriptorium.org/
 
@@ -17,32 +17,33 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 # Further details
 
 ## Basic statistics
-|      subcorpus           |        documents            | tokens  |
-| ------------------------ | --------------------------- | ------- |
-| Not Because a Fox Barks  | MONB XH204-216              |   2,547 |
-| Abraham our Father       | MONB XL93-94, YA518-520     |   1,197 |
-| Acephalous Work 22       | MONB YA421-428              |   1,698 |
-| I See Your Eagerness     | MONB GF31-32                |     439 |
-| Epistle of Pseudo-Ephrem | psephrem.letter             |   1,925 |
-| Gospel of Mark           | Chapters 1 - 9              |  10,810 |
-| 1 Corinthians            | Chapters 1 - 6              |   3,571 |
-| Book of Ruth             | Chapters 1 - 4 (complete)   |   3,470 |
-| Letters of Besa          | #1,2,13,15,25               |   3,939 |
-| Life of Cyrus            | life.cyrus.01               |   1,962 |
-| Life of Onnophrius       | life.onnophrius.01          |   2,745 |
-| Apophthegmata Patrum     | #1-6,18-19,23-32,114-139    |   4,155 |
-| Martyrdom of St. Victor  | Chapters 1 - 6              |   1,985 |
-| Dormition of John        | dormition.john.mercad       |   3,064 |
-| Pseudo-Athanasius        | mercy_judgment              |   2,782 |
-| Proclus Homilies         | #13 On Easter               |   2,344 |
-| Pseudo-Flavianus         | Part 1 of 2                 |   3,537 |
-|                          | Total:                      |  52,170 |
+|      subcorpus            |        documents            | tokens  |
+| ------------------------- | --------------------------- | ------- |
+| Not Because a Fox Barks   | MONB XH204-216              |   2,545 |
+| Abraham our Father        | MONB XL93-94, YA518-520     |   1,197 |
+| Acephalous Work 22        | MONB YA421-428              |   1,698 |
+| I See Your Eagerness      | MONB GF31-32                |     439 |
+| Epistle of Pseudo-Ephrem  | psephrem.letter             |   1,925 |
+| Gospel of Mark            | Chapters 1 - 9              |  10,810 |
+| 1 Corinthians             | Chapters 1 - 6              |   3,571 |
+| Book of Ruth              | Chapters 1 - 4 (complete)   |   3,470 |
+| Letters of Besa           | #1,2,13,15,25               |   3,936 |
+| Life of Cyrus             | life.cyrus.01               |   1,962 |
+| Life of Onnophrius        | life.onnophrius.01          |   2,745 |
+| Apophthegmata Patrum      | #1-6,18-19,23-32,114-139    |   4,153 |
+| Martyrdom of St. Victor   | Chapters 1 - 6              |   1,986 |
+| Dormition of John         | dormition.john.mercad       |   3,064 |
+| Pseudo-Athanasius         | mercy_judgment              |   2,782 |
+| Proclus Homilies          | #13 On Easter               |   2,344 |
+| Pseudo-Flavianus          | Part 1 of 2                 |   3,537 |
+| Life of John the Kalybites| Part 1 of 2                 |   3,694 |
+|                           | Total:                      |  55,858 |
 
 ## Tokenization
 
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.
 
-The Coptic Treebank now annotates these bound groups as 'multi-unit' tokens. However, morphological units below the POS level, including affixes and fused compounds, are now annotated in the treebank in the MISC column, using an attribute MSeg=A-B-C, where A, B and C are constituent morphemes of a complex word. There is also a further attribute in the MISC column, called Orig, which appears whenever normalization has taken place and renders the word form as it appeared in the original manuscript. This can include removal of optional diacritics and contracted forms of nomina sacra, which appear expanded in the word form column.
+The Coptic Treebank now annotates these bound groups as 'multi-word' tokens. However, morphological units below the POS level, including affixes and fused compounds (incorporation), are now annotated in the treebank in the MISC column, using an attribute MSeg=A-B-C, where A, B and C are constituent morphemes of a complex word. There is also a further attribute in the MISC column, called Orig, which appears whenever normalization has taken place and renders the word form as it appeared in the original manuscript. This can include removal of optional diacritics and contracted forms of nomina sacra, which appear expanded in the word form column.
 
 Note that for some fused forms carrying multiple parts of speech, the native Coptic POS tag set assigns portmanteau tags, such as APST_PPERS (auxiliary, past, fused with a subject personal pronoun). In the UD guidelines for Coptic, these forms are tolerated by always selecting the argument as the function-determining unit. Thus APST_PPERS, the past auxiliary with fused pronoun, is attached as *nsubj*, ignoring the *aux* dependency. In a future version, we are considering integrating a more subtle analysis using enhanced dependencies.
 
@@ -127,6 +128,10 @@ Further information on relevant annotation standards and NLP tools used prior to
 
 # Changelog
 
+  * CHANGELOG 2.10 -> 2.11
+
+Added the Life of John the Kalybites, part 1, to training partition; punctuation attachment now using udapi; numerous minor corrections.
+
   * CHANGELOG 2.9 -> 2.10
 
 Added `acl` vs. `acl:relcl` distinction; Renamed `Morph` to `MSeg` to match other UD corpora; Systematic fixes to xcomp with object; Minor corrections.
@@ -155,11 +160,11 @@ The corpus is now larger than 30K word forms, and train/dev/test splits should n
 
   * CHANGELOG 2.3 -> 2.4
 
-Added Mark 7-9. Rearranged documents in train/dev/test so that documents and parts of larger works are contiguous and genere balance is maintained. Negative polarity added for negative auxiliaries, deprel obl:npmod added for non-prepositional adverbial NPs (formerly part of advmod).
+Added Mark 7-9. Rearranged documents in train/dev/test so that documents and parts of larger works are contiguous and genre balance is maintained. Negative polarity added for negative auxiliaries, deprel obl:npmod added for non-prepositional adverbial NPs (formerly part of advmod).
 
   * CHANGELOG 2.2 -> 2.3
 
-Added new documents: Shenoute's Acephalous Work 22 (YA421-428) and Abraham our Father (XL93-94, YA518-520), the Martyrdom of St. Victor Chapters 1-6, Apophthegmata Patrum 27-32, 1 Corinthians Chapters 3-6 (corpus now includes 1-6) and Mark 6 (coprus now includes 1-6). Rearranged documents in train/dev/test so that all documents are contiguous and genere balance is improved (all sets now include different Shenoute texts). 
+Added new documents: Shenoute's Acephalous Work 22 (YA421-428) and Abraham our Father (XL93-94, YA518-520), the Martyrdom of St. Victor Chapters 1-6, Apophthegmata Patrum 27-32, 1 Corinthians Chapters 3-6 (corpus now includes 1-6) and Mark 6 (corpus now includes 1-6). Rearranged documents in train/dev/test so that all documents are contiguous and genre balance is improved (all sets now include different Shenoute texts). 
 
 Also added MISC attributes: Morphs (for sub-word morphological segmentation) and Orig (records unnormalized word form where normalization has been carried out)
 
