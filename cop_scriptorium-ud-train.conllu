@@ -46119,7 +46119,7 @@
 
 # sent_id = life_john_kalybites-life_john_kal_01_s0033
 # text_en = and I would find Him in the place whither I am going.'
-# text = ⲁⲩⲱ ⲟⲛ ϯⲛⲁϭⲛⲧϥ ϩⲙⲡⲙⲁ ⲉⲧϯ ⲛⲁⲃⲱⲕ ⲉⲣⲟϥ ·
+# text = ⲁⲩⲱ ⲟⲛ ϯⲛⲁϭⲛⲧϥ ϩⲙⲡⲙⲁ ⲉⲧⲓⲛⲁⲃⲱⲕ ⲉⲣⲟϥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2	ⲟⲛ	ⲟⲛ	ADV	ADV	_	5	advmod	_	_
 3-6	ϯⲛⲁϭⲛⲧϥ	_	_	_	_	_	_	_	_
@@ -46131,9 +46131,9 @@
 7	ϩⲙ	ϩⲛ	ADP	PREP	_	9	case	_	Orig=ϩⲙ̅
 8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(place
 9	ⲙⲁ	ⲙⲁ	NOUN	N	_	5	obl	_	_
-10-13	ⲉⲧϯ ⲛⲁⲃⲱⲕ	_	_	_	_	_	_	_	_
+10-13	ⲉⲧⲓⲛⲁⲃⲱⲕ	_	_	_	_	_	_	_	_
 10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	13	mark	_	_
-11	ϯ 	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Orig=ⲓ
+11	ⲓ 	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 12	ⲛⲁ	ⲛⲁ	AUX	FUT	_	13	aux	_	_
 13	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	9	acl:relcl	_	_
 14-15	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
