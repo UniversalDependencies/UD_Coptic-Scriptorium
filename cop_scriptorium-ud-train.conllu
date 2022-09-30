@@ -46133,7 +46133,7 @@
 9	ⲙⲁ	ⲙⲁ	NOUN	N	_	5	obl	_	_
 10-13	ⲉⲧⲓⲛⲁⲃⲱⲕ	_	_	_	_	_	_	_	_
 10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	13	mark	_	_
-11	ⲓ 	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+11	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 12	ⲛⲁ	ⲛⲁ	AUX	FUT	_	13	aux	_	_
 13	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	9	acl:relcl	_	_
 14-15	ⲉⲣⲟϥ	_	_	_	_	_	_	_	_
