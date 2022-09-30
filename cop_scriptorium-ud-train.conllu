@@ -19123,10 +19123,10 @@
 # text = ⲛⲧⲉⲣⲉϥⲧⲟⲟⲩ ⲇⲉ ⲛϩⲟⲟⲩ ⲟⲩⲉⲓⲛⲉ ⲁⲓϩⲓⲥⲉ ⲁⲩⲱ ⲁⲓⲡⲱⲣϣ ⲛⲛⲁϭⲓϫ ⲉϩⲣⲁⲓ ⲉⲧⲡⲉ ·
 1-2	ⲛⲧⲉⲣⲉϥⲧⲟⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	6	aux	_	Orig=Ⲛ̅ⲧⲉⲣⲉ
-2	ϥⲧⲟⲟⲩ	ϥⲧⲟⲟⲩ	NUM	NUM	NumType=Card	6	nsubj	_	Entity=(time
+2	ϥⲧⲟⲟⲩ	ϥⲧⲟⲟⲩ	NUM	NUM	NumType=Card	5	nummod	_	Entity=(time
 3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	9	advmod	_	OrigLang=grc
 4-5	ⲛϩⲟⲟⲩ	_	_	_	_	_	_	_	_
-4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Orig=ⲛ̅
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲛ̅
 5	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	6	nsubj	_	Entity=time)
 6	ⲟⲩⲉⲓⲛⲉ	ⲟⲩⲉⲓⲛⲉ	VERB	V	VerbForm=Fin	9	advcl	_	_
 7-9	ⲁⲓϩⲓⲥⲉ	_	_	_	_	_	_	_	_
@@ -24996,7 +24996,7 @@
 2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(person-John_the_Apostle
 3	ⲙⲁⲕⲁⲣⲓⲟⲥ	ⲙⲁⲕⲁⲣⲓⲟⲥ	NOUN	N	Foreign=Yes	6	nsubj	_	OrigLang=grc
 4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	6	advmod	_	Orig=ⲇⲉ`|OrigLang=grc
-5	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	6	nsubj	_	Entity=person-John_the_Apostle)|Orig=ⲓ̅ⲱϩⲁⲛⲛⲏⲥ|OrigLang=he
+5	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	3	appos	_	Entity=person-John_the_Apostle)|Orig=ⲓ̅ⲱϩⲁⲛⲛⲏⲥ|OrigLang=he
 6	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	14	advcl	_	Orig=ⲉⲓ̅
 7	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	10	case	_	_
 8-10	ϩⲙⲡⲉϥⲏⲓ	_	_	_	_	_	_	_	_
@@ -29294,7 +29294,7 @@
 10	ϫⲉⲕⲁⲥ	ϫⲉⲕⲁⲁⲥ	SCONJ	CONJ	_	13	mark	_	_
 11-13	ⲉⲛⲛⲁϫⲓ	_	_	_	_	_	_	_	_
 11	ⲉⲛ	ⲉⲣⲉ_ⲁⲛⲟⲛ	PRON	AOPT_PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	_
-12	ⲛⲁ	ⲛⲁ	AUX	FUT	_	13	nsubj	_	Orig=ⲁ
+12	ⲛⲁ	ⲛⲁ	AUX	FUT	_	13	aux	_	Orig=ⲁ
 13	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	3	advcl	_	_
 14	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	17	case	_	_
 15-17	ϩⲓⲧⲙⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
@@ -35768,7 +35768,7 @@
 18	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	21	cc	_	_
 19-20	ⲛⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	_	_	_	_	_	_	_	_
 19	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	20	det	_	Entity=(person
-20	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	NOUN	N	Foreign=Yes	21	nsubj	_	Entity=person)|OrigLang=grc
+20	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ	NOUN	N	Foreign=Yes	21	dislocated	_	Entity=person)|OrigLang=grc
 21-22	ⲡⲉϫⲁⲩ	_	_	_	_	_	_	_	_
 21	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	11	conj	_	_
 22	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
@@ -44978,7 +44978,7 @@
 21	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	17	cop	_	_
 22	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	25	cc	_	_
 23-25	ⲛϣⲟⲩⲣϣⲡⲏⲣⲉ	_	_	_	_	_	_	_	_
-23	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	25	case	_	Orig=ⲛ̅
+23	ⲛ	ⲡ	ADP	PREP	_	25	case	_	Orig=ⲛ̅
 24	ϣⲟⲩ	ϣⲟⲟⲩ	NOUN	N	_	25	compound	_	_
 25	ⲣϣⲡⲏⲣⲉ	ⲣϣⲡⲏⲣⲉ	VERB	V	VerbForm=Fin	17	conj	_	MSeg=ⲣ-ϣⲡⲏⲣⲉ|Orig=ⲣ̅ϣⲡⲏⲣⲉ
 26-27	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
@@ -46956,7 +46956,7 @@
 11-13	ⲁⲩⲃⲱⲕ	_	_	_	_	_	_	_	_
 11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
 12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
-13	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	0	root	_	_
+13	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	3	parataxis	_	_
 14-15	ⲛⲁⲩ	_	_	_	_	_	_	_	_
 14	ⲛⲁ	ⲛⲁ	ADP	PREP	_	15	case	_	_
 15	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	13	obl	_	_
