@@ -44978,7 +44978,7 @@
 21	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	17	cop	_	_
 22	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	25	cc	_	_
 23-25	ⲛϣⲟⲩⲣϣⲡⲏⲣⲉ	_	_	_	_	_	_	_	_
-23	ⲛ	ⲡ	ADP	PREP	_	25	case	_	Orig=ⲛ̅
+23	ⲛ	ⲛ	ADP	PREP	_	25	case	_	Orig=ⲛ̅
 24	ϣⲟⲩ	ϣⲟⲟⲩ	NOUN	N	_	25	compound	_	_
 25	ⲣϣⲡⲏⲣⲉ	ⲣϣⲡⲏⲣⲉ	VERB	V	VerbForm=Fin	17	conj	_	MSeg=ⲣ-ϣⲡⲏⲣⲉ|Orig=ⲣ̅ϣⲡⲏⲣⲉ
 26-27	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
@@ -46963,7 +46963,7 @@
 16-17	ⲛϫⲓⲟⲩⲉ	_	_	_	_	_	_	_	_
 16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	Orig=ⲛ̅
 17	ϫⲓⲟⲩⲉ	ϫⲓⲟⲩⲉ	NOUN	N	_	13	obl	_	_
-18	·	·	PUNCT	PUNCT	_	13	punct	_	_
+18	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_john_kalybites-life_john_kal_01_s0057
 # text_en = And they arrived at the sea, and they searched for a boat wherein to embark.
