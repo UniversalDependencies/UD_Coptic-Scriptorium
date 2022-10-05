@@ -8899,7 +8899,7 @@
 13	.	.	PUNCT	PUNCT	_	12	punct	_	_
 14-15	ⲕⲉⲟⲩⲁ	_	_	_	_	_	_	_	_
 14	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	15	det	_	_
-15	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	20	nsubj	_	Entity=(person)
+15	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	20	nsubj	_	Entity=(person)|Subject=Outer
 16	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	20	advmod	_	OrigLang=grc
 17-20	ϫⲉⲁⲛⲅⲡⲁⲁⲡⲟⲗⲗⲱ	_	_	_	_	_	_	_	_
 17	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	20	mark	_	_
