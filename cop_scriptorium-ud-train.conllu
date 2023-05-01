@@ -1,5 +1,9 @@
 # newdoc id = shenoute.fox:XH204-216
 # global.Entity = etype-identity
+# meta::author = Shenoute
+# meta::document_cts_urn = urn:cts:copticLit:shenoute.fox.monbxh_204_216
+# meta::source = MONB.XH 204-216 (1 ff. 15v-21)
+# meta::title = Not Because a Fox Barks: XH 204-216
 # sent_id = shenoute_fox-XH204-216_s0001
 # text_en = ...
 # text = ⲉⲣϣⲁⲛⲧⲃⲁϣⲟⲣ ⲁϣϣⲕⲁⲕ ⲉⲃⲟⲗ ⲁⲛ ⲉⲧⲉⲛⲧⲟⲕ ⲡⲉ ⲡϩⲙϩⲁⲗ ⲙⲡⲙⲁⲙⲙⲱⲛⲁⲥ ϩⲛϩⲉⲛϩⲣⲟⲟⲩ ⲉⲩⲟϣ , ⲉⲣⲉⲡⲙⲟⲩⲓⲧⲣⲣⲉ ⲉⲧⲉⲁⲛⲟⲕ ⲡⲉ ⲡϩⲙϩⲁⲗ ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ ,
@@ -251,7 +255,7 @@
 9-10	ⲛⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	Orig=ⲛ̄
 10	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	6	nmod	_	Entity=(person)
-11	.	.	PUNCT	PUNCT	_	3	punct	_	Orig= =-.
+11	.	.	PUNCT	PUNCT	_	3	punct	_	Orig==-.
 
 # sent_id = shenoute_fox-XH204-216_s0010
 # text_en = ...
@@ -569,7 +573,7 @@
 46-47	ⲉⲧϫⲉⲣⲟ	_	_	_	_	_	_	_	_
 46	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	47	mark	_	_
 47	ϫⲉⲣⲟ	ϫⲉⲣⲟ	VERB	V	VerbForm=Fin	45	acl:relcl	_	Entity=object)|Orig=ϫⲉⲣⲟ̂
-48	.	.	PUNCT	PUNCT	_	40	punct	_	Orig= =–.
+48	.	.	PUNCT	PUNCT	_	40	punct	_	Orig==–.
 
 # sent_id = shenoute_fox-XH204-216_s0016
 # text_en = ...
@@ -993,7 +997,7 @@
 58	ⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	59	mark	_	_
 59	ⲛⲁⲛⲟⲩ	ⲛⲁⲛⲟⲩ	VERB	VBD	VerbForm=Fin	57	acl:relcl	_	_
 60	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	59	nsubj	_	Entity=abstract)person)object)
-61	.	.	PUNCT	PUNCT	_	2	punct	_	Orig= =–.
+61	.	.	PUNCT	PUNCT	_	2	punct	_	Orig==–.
 
 # sent_id = shenoute_fox-XH204-216_s0023
 # text_en = ...
@@ -2493,7 +2497,7 @@
 41-42	ⲧⲏⲣⲟⲩ	_	_	_	_	_	_	_	_
 41	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	40	advmod	_	_
 42	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	41	det	_	Entity=animal)
-43	.	.	PUNCT	PUNCT	_	2	punct	_	Orig= =–
+43	.	.	PUNCT	PUNCT	_	2	punct	_	Orig==–
 
 # sent_id = shenoute_fox-XH204-216_s0064
 # text_en = ...
@@ -3669,6 +3673,10 @@
 
 # newdoc id = shenoute.eagerness:GF31-32
 # global.Entity = etype-identity
+# meta::author = Shenoute
+# meta::document_cts_urn = urn:cts:copticLit:shenoute.eagerness.monbgf_31_32
+# meta::source = MONB.GF 31-32 (130(2) f. 66r-v)
+# meta::title = I See Your Eagerness: GF 31-32
 # sent_id = shenoute_eagerness-GF31-32_s0001
 # text_en = …
 # text = ⲓⲟⲩⲇⲁⲓ ⲙⲛ ⲛϩⲉⲗⲗⲏⲛ ·
@@ -4350,6 +4358,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.001.n135.mother
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.1.monbeg
+# meta::source = MONB.EG 15 (IB 17 484 f. 19r)
+# meta::title = Apophthegmata Patrum Sahidic 001: Anonymous Nau 135
 # sent_id = apophthegmata_patrum-AP_001_n135_mother_s0001
 # text_en = …he saying, “I desire to save my soul.”
 # text = ⲉⲩⲉ ⲉϥϫⲱ ⲙⲙⲟⲥ . ϫⲉⲉⲓⲟⲩⲱϣ ⲉⲧⲟⲩϫⲉⲧⲁⲯⲩⲭⲏ .
@@ -4375,7 +4387,7 @@
 16	.	.	PUNCT	PUNCT	_	4	punct	_	Orig=ⲻ
 
 # sent_id = apophthegmata_patrum-AP_001_n135_mother_s0002
-# text_en = She labored to stop him, but she was not able.
+# text_en = She labored to stop him, but she was not able to.
 # text = ⲛⲧⲟⲥ ⲇⲉ ⲁⲥϩⲓⲥⲉ ⲉⲥϣⲱϣⲧ ⲙⲙⲟϥ ⲙⲡⲉⲥϣϭⲙϭⲟⲙ ⲉⲣⲟϥ
 1	ⲛⲧⲟⲥ	ⲛⲧⲟⲥ	PRON	PPERI	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	dislocated	_	Orig=ⲛ̄ⲧⲟⲥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
@@ -4414,7 +4426,7 @@
 8	.	.	PUNCT	PUNCT	_	5	punct	_	Orig=·
 
 # sent_id = apophthegmata_patrum-AP_001_n135_mother_s0004
-# text_en = When he had gone and become a monk, he became negligent, and he badly spent his life.
+# text_en = When he had gone and become a monk, he became negligent, and he spent his life badly.
 # text = ⲛⲧⲉⲣⲉϥⲃⲱⲕ ⲇⲉ ⲛϥⲣⲙⲟⲛⲁⲭⲟⲥ ⲁϥϣⲱⲡⲉ ϩⲛⲟⲩⲁⲙⲉⲗⲓⲁ . ⲁⲩⲱ ⲁϥϫⲉⲡⲉϥⲁϩⲉ ⲉⲃⲟⲗ ⲕⲁⲕⲱⲥ .
 1-3	ⲛⲧⲉⲣⲉϥⲃⲱⲕ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	_
@@ -4823,7 +4835,7 @@
 38	.	.	PUNCT	PUNCT	_	4	punct	_	Orig=·ⲻ
 
 # sent_id = apophthegmata_patrum-AP_001_n135_mother_s0016
-# text_en = But he did not wish to console himself, saying, “ If I have not been able to bear the reproach of my mother, how will I be able to bear the shame on the Day of Judgment in the presence of Christ and all his angels?”
+# text_en = But he did not wish to console himself, saying, “If I have not been able to bear the reproach of my mother, how will I be able to bear the shame on the Day of Judgment in the presence of Christ and all his angels?”
 # text = ⲛⲧⲟϥ ⲇⲉ ⲙⲡⲉϥⲟⲩⲱϣ ⲉⲥⲗⲥⲱⲗϥ ⲉϥϫⲱ ⲙⲙⲟⲥ . ϫⲉⲉϣϫⲉ ⲙⲡⲓϣϭⲙϭⲟⲙ ⲉⲧⲱⲟⲩⲛ ϩⲁⲡⲛⲟϭⲛⲉϭ ⲛⲧⲁⲙⲁⲁⲩ . ⲛⲁϣ ⲛϩⲉ ⲉⲓⲛⲁϣⲧⲱⲟⲩⲛ ϩⲁⲡϣⲓⲡⲉ ⲙⲡⲉϩⲟⲟⲩ ⲛⲧⲉⲕⲣⲓⲥⲓⲥ ϩⲓⲧϩⲏ ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ ⲙⲛⲛⲉϥⲁⲅⲅⲉⲗⲟⲥ ⲧⲏⲣⲟⲩ .
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
@@ -4906,6 +4918,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.002.n136.account
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.2.monbeg
+# meta::source = MONB.EG 15-16 (IB 17 484 f. 19r-19v)
+# meta::title = Apophthegmata Patrum Sahidic 002: Anonymous Nau 136
 # sent_id = apophthegmata_patrum-AP_002_n136_account_s0001
 # text_en = An old man said, ‘If the souls of men were to go come in fear after the resurrection, in the presence of God, the world would die of fear and trembling.
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲟⲩϩⲗⲗⲟ ϫⲉⲉⲛⲉϣⲁⲣⲉⲛⲉⲯⲩⲭⲟⲟⲩⲉ ⲛⲛⲣⲱⲙⲉ ⲉϣⲉⲓ ⲉⲃⲟⲗ ⲡⲉ ϩⲛⲧϩⲟⲧⲉ ⲙⲛⲛⲥⲁⲧⲁⲛⲁⲥⲧⲁⲥⲓⲥ ϩⲛⲧⲡⲁⲣⲟⲩⲥⲓⲁ ⲙⲡⲛⲟⲩⲧⲉ ⲛⲉⲣⲉⲡⲕⲟⲥⲙⲟⲥ ⲡⲉ ⲛⲁⲙⲟⲩ ⲛⲛⲉϩϣⲗϥ . ϩⲓⲥⲧⲱⲧ . .
@@ -5095,6 +5111,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.003.n138.blame
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.3.monbeg
+# meta::source = MONB.EG 16 (IB 17 484 f. 19v)
+# meta::title = Apophthegmata Patrum Sahidic 003: Anonymous Nau 138
 # sent_id = apophthegmata_patrum-AP_003_n138_blame_s0001
 # text_en = ...
 # text = ⲁⲟⲩⲥⲟⲛ ϫⲛⲉⲟⲩϩⲗⲗⲟ ϫⲉⲡⲁⲉⲓⲱⲧ ⲉⲧⲃⲉⲟⲩ ⲁⲛⲟⲕ ⲡⲁϩⲏⲧ ⲛⲁϣⲧ ⲛϥⲣϩⲟⲧⲉ ⲁⲛ ⲛϩⲏⲧϥ ⲙⲡⲛⲟⲩⲧⲉ .
@@ -5300,6 +5320,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.004.poemen.65
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.4.monbeg
+# meta::source = MONB.EG 16 (IB 17 484 f. 19v)
+# meta::title = Apophthegmata Patrum Sahidic 004: Poemen
 # sent_id = apophthegmata_patrum-AP_004_poemen_65_s0001
 # text_en = Abba Poemen said, a brother said to Abba Païse, 'what should I do about my hard heart?
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲁⲡⲁ ⲡⲟⲓⲙⲏⲛ . ϫⲉⲁⲟⲩⲥⲟⲛ ϫⲟⲟⲥ ⲛⲁⲡⲁ ⲡⲁⲏⲥⲉ . ϫⲉⲉⲓⲛⲁⲣⲟⲩ ⲙⲡⲁϩⲏⲧ ⲉϥⲛⲁϣⲧ .
@@ -5425,6 +5449,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.005.unid.senses
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.5.monbeg
+# meta::source = MONB.EG 16 (IB 17 484 f. 19v)
+# meta::title = Apophthegmata Patrum Sahidic 005
 # sent_id = apophthegmata_patrum-AP_005_unid_senses_s0001
 # text_en = ...
 # text = ⲁⲟⲩⲁ ϫⲛⲉⲟⲩϩⲗⲗⲟ ϫⲉⲉⲧⲃⲉⲟⲩ ⲉⲓϩⲙⲟⲟⲥ ϩⲙⲡⲁⲙⲁⲛϣⲱⲱⲡⲉ ⲡⲁϩⲏⲧ ⲕⲱⲧⲉ ⲥⲁⲥⲁ ⲛⲓⲙ .
@@ -5544,6 +5572,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.006.n196.worms
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.6.monbeg
+# meta::source = MONB.EG 16 (IB 17 484 f. 19v)
+# meta::title = Apophthegmata Patrum Sahidic 006: anonymous Nau 196
 # sent_id = apophthegmata_patrum-AP_006_n196_worms_s0001
 # text_en = ...
 # text = ⲁⲟⲩⲁ ⲟⲛ ϫⲛⲉⲟⲩϩⲗⲗⲟ ϫⲉⲉⲧⲃⲉⲟⲩ ϯϩⲙⲟⲟⲥ ϩⲙⲡⲁⲙⲁ ⲛϣⲱⲡⲉ ϯϩⲗⲡⲗⲱⲡ ·ⲻ
@@ -5682,6 +5714,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.018.n372.anger
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.18.monbeg
+# meta::source = MONB.EG 32 (IB 17 484 f. 20v)
+# meta::title = Apophthegmata Patrum Sahidic 018: Anonymous
 # sent_id = apophthegmata_patrum-AP_018_n372_anger_s0001
 # text_en = ...
 # text = ⲁⲩⲥⲟⲛ ⲕⲓⲙ ϩⲙⲡⲉϥϭⲱⲛⲧ ⲉϩⲟⲩⲛ ⲉⲟⲩⲁ
@@ -5791,6 +5827,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.019.n161.presbyter
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.19.monbeg
+# meta::source = MONB.EG 32 (IB 17 484 f. 20v)
+# meta::title = Apophthegmata Patrum Sahidic 019: Presbyter
 # sent_id = apophthegmata_patrum-AP_019_n161_presbyter_s0001
 # text_en = He went once, that is the presbyter of Scetis, to the archbishop of Alexandria
 # text = ⲁϥⲃⲱⲕ ⲛⲟⲩⲟⲉⲓϣ ⲛϭⲓⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛϣⲓⲏⲧ ϣⲁⲡⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲛⲣⲁⲕⲟⲧⲉ .
@@ -5926,6 +5966,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.114.theophilus.02
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.114.monbeg
+# meta::source = MONB.EG 202 (IB17 484 f. 23v)
+# meta::title = Apophthegmata Patrum Sahidic 114: Theophilus Beta
 # sent_id = apophthegmata_patrum-AP_114_theophilus_02_s0001
 # text_en = ...
 # text = ⲁϥⲃⲱⲕ ⲛⲟⲩⲟⲉⲓϣ ⲉϣⲓⲏⲧ ⲛϭⲓⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲡⲁ ⲑⲉⲱⲫⲓⲗⲟⲥ ⲡⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ ·
@@ -6030,6 +6074,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.116.pistus.01
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.116.monbeg
+# meta::source = MONB.EG 203 (IB 17 484 f. 24r)
+# meta::title = Apophthegmata Patrum Sahidic 116: Pistus 01
 # sent_id = apophthegmata_patrum-AP_116_pistus_01_s0001
 # text_en = ...
 # text = ⲛⲁⲓ ⲁϥϫⲟⲟⲩ ⲛϭⲓⲁⲡⲁ ϫⲓϫⲱⲓ ·
@@ -6187,6 +6235,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.117.Sisoes.09
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.117.monbeg
+# meta::source = MONB.EG 203 (IB 17 484 f. 24r)
+# meta::title = Apophthegmata Patrum Sahidic 117: Sisoes 9
 # sent_id = apophthegmata_patrum-AP_117_Sisoes_09_s0001
 # text_en = ...
 # text = ⲁϥⲃⲱⲕ ⲛϭⲓⲟⲩⲥⲟⲛ ϣⲁⲁⲡⲁ ϫⲓϫⲱⲓ ⲉⲡⲧⲟⲟⲩ ⲛⲁⲡⲁ ⲁⲛⲧⲱⲛⲓⲟⲥ ⲁⲩⲱ ⲟⲩϣⲁϫⲉ ⲁⲩϫⲟⲟϥ ⲛⲁⲡⲁ ϫⲓϫⲱⲓ ϫⲉⲧⲉⲛⲟⲩ ⲙⲡⲁⲧⲉⲕⲡⲱϩ ⲉⲡϣⲓ ⲛⲁⲡⲁ ⲁⲛⲧⲱⲛⲓⲟⲥ ⲁⲡⲁ · ·
@@ -6327,6 +6379,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.118.Sisoes.11
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.118.monbeg
+# meta::source = MONB.EG 203 (IB 17 484 f. 24r)
+# meta::title = Apophthegmata Patrum Sahidic 118: Sisoes 11
 # sent_id = apophthegmata_patrum-AP_118_Sisoes_11_s0001
 # text_en = ...
 # text = ⲁϥϫⲛⲟⲩϥ ⲇⲉ ⲟⲛ ⲛϭⲓⲡⲥⲟⲛ · ϫⲉⲁⲣⲁ ⲡⲥⲁⲧⲁⲛⲁⲥ ϯϩⲓⲥⲉ ⲛⲛⲁⲣⲭⲉⲟⲥ ⲟⲛ ⲛⲧⲉⲓϩⲉ -
@@ -6400,6 +6456,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.119.Sisoes.16
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.119.monbeg
+# meta::source = MONB.EG 203-204 (IB 17 484 f. 24r-24v)
+# meta::title = Apophthegmata Patrum Sahidic 119: Sisoes 16
 # sent_id = apophthegmata_patrum-AP_119_Sisoes_16_s0001
 # text_en = ...
 # text = ⲁϩⲉⲛⲕⲟⲟⲩⲉ ⲃⲱⲕ ϣⲁⲣⲟϥ ⲉⲧⲣⲉⲩⲥⲱⲧⲙ ⲉⲩϣⲁϫⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ·
@@ -6414,7 +6474,7 @@
 7-10	ⲉⲧⲣⲉⲩⲥⲱⲧⲙ	_	_	_	_	_	_	_	_
 7	ⲉ	ⲉ	PART	PREP	_	8	mark	_	Orig=ⲉ̇
 8	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	4	xcomp	_	_
-9	ⲩ	ⲛⲧⲟⲟⲩ	DET	ART	_	10	det	_	_
+9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	10	det	_	_
 10	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	8	xcomp	_	Orig=ⲥⲱⲧⲙ̇
 11-13	ⲉⲩϣⲁϫⲉ	_	_	_	_	_	_	_	_
 11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	Orig=ⲉ̇
@@ -6422,7 +6482,7 @@
 13	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	10	obl	_	Entity=abstract)
 14	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	16	case	_	Orig=ⲉ̇ⲃⲟⲗ
 15-16	ϩⲓⲧⲟⲟⲧϥ	_	_	_	_	_	_	_	_
-15	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲟⲟⲧ	ADP	PREP	_	14	fixed	_	Orig=ϩⲓ̇ⲧⲟⲟⲧ
+15	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲛ	ADP	PREP	_	14	fixed	_	Orig=ϩⲓ̇ⲧⲟⲟⲧ
 16	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
 17	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -6431,12 +6491,12 @@
 # text = ⲁⲩⲱ ⲙⲡϥϫⲉⲗⲁⲁⲩ ⲛⲁⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	Orig=ⲁⲩⲱ̇
 2-5	ⲙⲡϥϫⲉⲗⲁⲁⲩ	_	_	_	_	_	_	_	_
-2	ⲙⲡ	ⲙⲡ	AUX	ANEGPST	Polarity=Neg	4	aux	_	Orig=ⲙ̇ⲡ
+2	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	4	aux	_	Orig=ⲙ̇ⲡ
 3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Orig=ϥ̇
 4	ϫⲉ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
 5	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	4	obj	_	Entity=(abstract)|Orig=ⲗⲁⲁ̇ⲩ
 6-7	ⲛⲁⲩ	_	_	_	_	_	_	_	_
-6	ⲛⲁ	ⲙ	ADP	PREP	_	7	case	_	_
+6	ⲛⲁ	ⲛⲁ	ADP	PREP	_	7	case	_	_
 7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	obl	_	_
 8	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -6455,7 +6515,7 @@
 7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	8	mark	_	_
 8	ⲕⲱ	ⲕⲱ	VERB	V	VerbForm=Fin	4	ccomp	_	_
 9-10	ⲛⲁⲓ	_	_	_	_	_	_	_	_
-9	ⲛⲁ	ⲙ	ADP	PREP	_	10	case	_	_
+9	ⲛⲁ	ⲛⲁ	ADP	PREP	_	10	case	_	_
 10	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	8	obl	_	Orig=ⲓ̇
 11	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	8	advmod	_	Orig=ⲉ̇ⲃⲟⲗ
 12	ⲻ	ⲻ	PUNCT	PUNCT	_	4	punct	_	_
@@ -6474,7 +6534,7 @@
 7	ⲃⲓⲣ	ⲃⲓⲣ	NOUN	N	_	3	obl	_	Entity=object)|Orig=ⲃⲓ̇ⲣ
 8	·	·	PUNCT	PUNCT	_	7	punct	_	_
 9-10	ⲡⲉϫⲁⲩ	_	_	_	_	_	_	_	_
-9	ⲡⲉϫⲁ	ⲡⲉϫⲁ	VERB	VBD	VerbForm=Fin	0	root	_	_
+9	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
 10	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
 11-12	ⲛⲁϥⲣⲁϩⲁⲙ	_	_	_	_	_	_	_	_
 11	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
@@ -6499,11 +6559,11 @@
 # text_en = ...
 # text = ⲡⲉϫⲁϥ ϫⲉϣⲁⲛϫⲟⲟⲩ ⲉⲃⲟⲗ ⲉⲡⲉⲓⲥⲁ ⲙⲛⲡⲁⲓ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
-1	ⲡⲉϫⲁ	ⲡⲉϫⲁ	VERB	VBD	VerbForm=Fin	0	root	_	_
+1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3-7	ϫⲉϣⲁⲛϫⲟⲟⲩ	_	_	_	_	_	_	_	_
 3	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	6	mark	_	_
-4	ϣⲁ	ϣⲁ	AUX	AAOR	_	6	aux	_	_
+4	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	6	aux	_	_
 5	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
 6	ϫⲟ	ϫⲟ	VERB	V	VerbForm=Fin	1	ccomp	_	_
 7	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
@@ -6530,7 +6590,7 @@
 6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(person
 7	ϩⲗⲗⲟ	ϩⲗⲗⲟ	NOUN	N	_	3	dislocated	_	Entity=person)|Orig=ϩⲗⲗⲟ̇
 8-9	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
-8	ⲡⲉϫⲁ	ⲡⲉϫⲁ	VERB	VBD	VerbForm=Fin	3	parataxis	_	_
+8	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	3	parataxis	_	_
 9	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 10-12	ϫⲉⲡⲉⲕϫⲓϫⲱⲓ	_	_	_	_	_	_	_	_
 10	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	15	mark	_	_
@@ -6591,6 +6651,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.120.sisoes.13
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.120.monbeg
+# meta::source = MONB.EG 204 (IB 17 484 f. 24v)
+# meta::title = Apophthegmata Patrum Sahidic 120: Sisoes 13
 # sent_id = apophthegmata_patrum-AP_120_sisoes_13_s0001
 # text_en = ...
 # text = ⲁⲩⲥⲟⲛ ϫⲛⲉⲁⲡⲁ ϫⲓϫⲱⲓ ϫⲉϯⲛⲁⲩ ⲉⲣⲟⲓ ⲙⲁⲩⲁⲁⲧ . ϫⲉⲡⲁⲙⲉⲉⲩⲉ ϭⲉⲉⲧ ϩⲙⲡⲛⲟⲩⲧⲉ
@@ -6725,6 +6789,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.121.syncletica.26
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.121.monbeg
+# meta::source = MONB.EG 204 (IB 17 484 f. 24v)
+# meta::title = Apophthegmata Patrum Sahidic 121: Syncletica 26
 # sent_id = apophthegmata_patrum-AP_121_syncletica_26_s0001
 # text_en = ...
 # text = ⲁⲥϫⲟⲟⲥ ⲛϭⲓⲧⲙⲁⲕⲁⲣⲓⲁ ⲥⲩⲅⲕⲗⲏⲧⲓⲕⲏ ϫⲉⲛⲧϩⲉ ⲉⲧⲉⲙⲛϭⲟⲙ ⲛϫⲟⲓ ⲉⲧⲁϩⲟⲉⲣⲁⲧϥ ⲁϫⲛⲉⲓϥⲧ . ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲟⲩⲁⲧϭⲟⲙ ⲡⲉ ⲟⲩϫⲁⲓ ⲭⲱⲣⲓⲥ ⲡⲉⲑⲃⲃⲓⲟ ⲛϩⲏⲧ .
@@ -6780,6 +6848,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.122.n667.humility
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.122.monbeg
+# meta::source = MONB.EG 204 (IB 17 484 f. 24v)
+# meta::title = Apophthegmata Patrum Sahidic 122: Anonymous
 # sent_id = apophthegmata_patrum-AP_122_n667_humility_s0001
 # text_en = ...
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲁⲡⲁ ϩⲩⲡⲏⲣⲉⲭⲓⲟⲥ . ϫⲉⲟⲩϣⲏⲛ ⲛⲱⲛϩ ⲉϥⲡⲏⲧ ⲉⲡϫⲓⲥⲉ ⲡⲉ ⲡⲉⲑⲃⲃⲓⲟ ⲛϩⲏⲧ
@@ -6818,6 +6890,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.123.syncletica.11
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.123.monbeg
+# meta::source = MONB.EG 204 (IB 17 484 f. 24v)
+# meta::title = Apophthegmata Patrum Sahidic 123: Syncletica 11
 # sent_id = apophthegmata_patrum-AP_123_syncletica_11_s0001
 # text_en = ...
 # text = ⲁϥϫⲟⲟⲥ ⲟⲛ ϫⲉⲧⲛⲧⲱⲛⲅ ⲉⲡⲧⲉⲗⲱⲛⲏⲥ . ϫⲉⲛⲛⲉⲩⲧϭⲁⲓⲟⲕ ⲙⲛⲡⲉⲫⲁⲣⲓⲥⲥⲁⲓⲟⲥ .
@@ -6894,6 +6970,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.124.orsisius.01
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.124.monbeg
+# meta::source = MONB.EG 204-205 (IB 17 484 f. 24v-25r)
+# meta::title = Apophthegmata Patrum Sahidic 124: Orsisius 1
 # sent_id = apophthegmata_patrum-AP_124_orsisius_01_s0001
 # text_en = Apa Orsisius said, 'A mud brick that is laid as a foundation by the river will not last a single day.
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲁⲡⲁ ϩⲱⲣⲥⲓⲏⲥⲓ . ϫⲉⲟⲩⲧⲱⲱⲃⲉ ⲛⲟⲙⲉ ⲉⲩϣⲁⲛⲛⲟϫⲥ ⲉⲩⲥⲛⲧⲉ ϩⲁⲧⲙⲡⲓⲉⲣⲟ . ⲛⲥⲛⲁϩⲩⲡⲟⲙⲓⲛⲉ ⲁⲛ ⲛⲟⲩϩⲟⲟⲩ ⲛⲟⲩⲱⲧ .
@@ -7111,6 +7191,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.125.orsisius.01
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.125.monbeg
+# meta::source = MONB.EG 205 (IB17 484 f. 25r)
+# meta::title = Apophthegmata Patrum Sahidic 125: Joseph
 # sent_id = apophthegmata_patrum-AP_125_orsisius_01_s0001
 # text_en = ...
 # text = ⲉⲧⲃⲉ ⲡⲡⲉⲧⲟⲩⲁⲁⲃ ⲇⲉ ⲓⲱⲥⲏⲫ
@@ -7311,6 +7395,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.126.n132.pigs
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.126.monbeg
+# meta::source = MONB.EG 205-206 (IB 17 484 f. 25r-25v)
+# meta::title = Apophthegmata Patrum Sahidic 126: N 123 E
 # sent_id = apophthegmata_patrum-AP_126_n132_pigs_s0001
 # text_en = ...
 # text = ⲟⲩϩⲗⲗⲟ ⲇⲉ ⲛⲁⲛⲁⲭⲱⲣⲏⲧⲏⲥ ⲉϥⲥⲟⲣⲙ ϩⲛⲧⲉⲣⲏⲙⲟⲥ ·
@@ -7787,6 +7875,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.127.n298.demon
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.127.monbeg
+# meta::source = MONB.EG 206 (IB 17 484 f. 25v)
+# meta::title = Apophthegmata Patrum Sahidic 127: N 298
 # sent_id = apophthegmata_patrum-AP_127_n298_demon_s0001
 # text_en = ...
 # text = ⲟⲩⲣⲱⲙⲉ ⲉϥⲟ ⲛⲇⲁⲓⲙⲱⲛⲓⲟⲛ · ⲁⲩⲱ ⲉϥⲙⲟⲕϩ ⲙⲙⲁⲧⲉ · ⲉϥⲧⲁⲩⲉⲥϩⲃⲏⲏⲧⲉ ⲉⲃⲟⲗ · ⲁϥⲣⲱϩⲧ ⲛⲟⲩⲙⲟⲛⲁⲭⲟⲥ ⲉⲃⲟⲗ ϩⲛⲛϩⲗⲗⲟ ⲉϩⲟⲩⲛ ⲉⲧⲉϥⲟⲩⲟϭⲉ ·
@@ -7897,6 +7989,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.128.n299.arrogance
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.128.monbeg
+# meta::source = MONB.EG 206 (IB 17 484 f. 25v)
+# meta::title = Apophthegmata Patrum Sahidic 128: N 299
 # sent_id = apophthegmata_patrum-AP_128_n299_arrogance_s0001
 # text_en = ...
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲟⲩϩⲗⲗⲟ ϫⲉⲉϣⲱⲡⲉ ⲟⲩⲙⲉⲉⲩⲉ ⲡⲉ ⲉϥϫⲟⲥⲉ ⲙⲙⲛⲧϫⲁⲥⲓϩⲏⲧ · ⲛϥⲉⲓ ⲛⲁⲕ ⲉϩⲟⲩⲛ ϩⲟⲧϩⲧ ϩⲛⲛⲉⲕⲙⲉⲉⲩⲉ ϫⲉⲉⲛⲉⲁⲕϩⲁⲣⲉϩ ⲉⲛⲉⲛⲧⲟⲗⲏ · ⲉϣⲱⲡⲉ ⲁⲕⲙⲉⲣⲉⲛⲉⲕϫⲁϫⲉ ⲉϣⲱⲡⲉ ⲁⲕⲣⲁϣⲉ ϩⲓϫⲙⲡⲉⲟⲟⲩ ⲛⲛⲉⲕϫⲁϫⲉ ⲁⲩⲱ ⲁⲕⲗⲩⲡⲉⲓ ⲉϫⲙⲡⲉⲩϣⲱⲱⲧ ⲉϣⲱⲡⲉ ⲕⲟ ⲛⲁϩⲣⲁⲕ ⲙⲁⲩⲁⲁⲕ ⲛⲟⲩϩⲙϩⲁⲗ ⲛⲁⲧϣⲁⲩ ⲁⲩⲱ ⲛⲣⲉϥⲣⲛⲟⲃⲉ ⲙⲡⲁⲣⲁⲟⲩⲟⲛ ⲛⲓⲙ
@@ -8050,6 +8146,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.129.n331.humility
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.129.monbeg
+# meta::source = MONB.EG 206 (IB 17 484 f. 25v)
+# meta::title = Apophthegmata Patrum Sahidic 129: N 331
 # sent_id = apophthegmata_patrum-AP_129_n331_humility_s0001
 # text_en = ...
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲟⲩϩⲗⲗⲟ ϫⲉⲙⲡⲣⲕⲁⲡⲉⲕϩⲏⲧ ⲉϣⲁϫⲉ ⲛⲥⲁⲡⲉⲕⲥⲟⲛ · ⲉⲕϫⲱ ⲙⲙⲟⲥ ϫⲉϩⲱⲥ ϯⲛⲏⲫⲉ ⲉϩⲟⲩⲉ ⲉⲣⲟϥ · ⲁⲩⲱ ⲟⲛ ϫⲉϯⲁⲥⲕⲉⲓ ⲉϩⲟⲩⲉ ⲉⲣⲟϥ · ⲁⲩⲱ ϫⲉϯⲛⲟⲉⲓ ⲡⲁⲣⲁⲣⲟϥ ·
@@ -8159,7 +8259,7 @@
 30	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	Entity=(abstract
 31	ϣⲟⲩϣⲟⲩ	ϣⲟⲩϣⲟⲩ	NOUN	N	_	27	obj	_	_
 32-34	ⲙⲡⲉⲡⲛⲉⲩⲙⲁ	_	_	_	_	_	_	_	_
-32	ⲙ	ⲙ	ADP	PREP	_	34	case	_	Orig=ⲙ̇
+32	ⲙ	ⲛ	ADP	PREP	_	34	case	_	Orig=ⲙ̇
 33	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	Entity=(abstract
 34	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	Foreign=Yes	31	nmod	_	Entity=abstract)|Orig=ⲡ︦ⲛ︦ⲁ︦|OrigLang=grc
 35-38	ⲉⲧⲉⲩⲛⲧⲁⲕⲥϥ	_	_	_	_	_	_	_	_
@@ -8213,6 +8313,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.130.n300.glory
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.130.monbeg
+# meta::source = MONB.EG 206 (IB 17 484 f. 25v)
+# meta::title = Apophthegmata Patrum Sahidic 130: N 300
 # sent_id = apophthegmata_patrum-AP_130_n300_glory_s0001
 # text_en = A monk said, 'The one who is honored beyond his worth, or who boasts about himself will lose greatly.
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲟⲩϩⲗⲗⲟ · ϫⲉⲡⲉⲧⲟⲩⲧⲁⲓⲟ ⲙⲙⲟϥ ⲡⲁⲣⲁⲡⲉϥⲙⲡϣⲁ · ⲏ ⲉϥϣⲟⲩϣⲟⲩ ⲙⲙⲟϥ ⲉϫⲱϥ ϣⲁϥϯⲟⲥⲉ ⲧⲱⲛⲟⲩ
@@ -8286,6 +8390,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.131.n301.joshua
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.131.monbeg
+# meta::source = MONB.EG 206 (IB 17 484 f. 25v)
+# meta::title = Apophthegmata Patrum Sahidic 131: N 301
 # sent_id = apophthegmata_patrum-AP_131_n301_joshua_s0001
 # text_en = ...
 # text = ⲁⲩⲥⲟⲛ ϫⲛⲉⲟⲩϩⲗⲗⲟ ϫⲉⲛⲁⲛⲟⲩϯϩⲁϩ ⲙⲙⲉⲧⲁⲛⲟⲓⲁ · ⲻ
@@ -8357,6 +8465,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.132.n302.armor
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.132.monbeg
+# meta::source = MONB.EG 206-207 (IB 17 484 f. 25v-26r)
+# meta::title = Apophthegmata Patrum Sahidic 132: N 302
 # sent_id = apophthegmata_patrum-AP_132_n302_armor_s0001
 # text_en = ...
 # text = ⲁⲩϫⲛⲉⲟⲩϩⲗⲗⲟ ϫⲉⲉⲧⲃⲉⲟⲩ ⲛⲇⲁⲓⲙⲱⲛ ⲙⲓϣⲉ ⲛⲙⲙⲁⲛ ⲛⲧⲉⲓϩⲉ ⲧⲏⲣⲥ ·
@@ -8435,6 +8547,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.133.n303.words
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.133.monbeg
+# meta::source = MONB.EG 207 (IB 17 484 f. 26r)
+# meta::title = Apophthegmata Patrum Sahidic 133: N 303
 # sent_id = apophthegmata_patrum-AP_133_n303_words_s0001
 # text_en = A brother asked a monk, 'If a brother brings me some words from outside, do you, father, want me to say to him, 'Do not bring them in to me?''
 # text = ⲁⲩⲥⲟⲛ ϫⲛⲉⲟⲩϩⲗⲗⲟ ϫⲉⲉⲣϣⲁⲛⲟⲩⲥⲟⲛ ⲉⲓⲛⲉ ⲛⲁⲓ ⲉϩⲟⲩⲛ ⲛϩⲉⲛϣⲁϫⲉ ϩⲓⲃⲟⲗ ⲕⲟⲩⲱϣ ⲉⲧⲣⲁϫⲟⲟⲥ ⲛⲁϥ ⲁⲡⲁ ϫⲉⲙⲡⲣⲛⲧⲟⲩ ⲛⲁⲓ ⲉϩⲟⲩⲛ
@@ -8637,6 +8753,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.134.n304.humility
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.134.monbeg
+# meta::source = MONB.EG 207 (IB 17 484 f. 26r)
+# meta::title = Apophthegmata Patrum Sahidic 134: N 304
 # sent_id = apophthegmata_patrum-AP_134_n304_humility_s0001
 # text_en = ...
 # text = ⲁⲩϫⲛⲉⲟⲩϩⲗⲗⲟ ϫⲉⲟⲩ ⲡⲉ ⲡⲉⲑⲃⲃⲓⲟ
@@ -8686,6 +8806,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.135.n305.blame
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.135.monbeg
+# meta::source = MONB.EG 207 (IB 17 484 f. 26r)
+# meta::title = Apophthegmata Patrum Sahidic 135: N 305
 # sent_id = apophthegmata_patrum-AP_135_n305_blame_s0001
 # text_en = ...
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲟⲩϩⲗⲗⲟ ϫⲉϩⲙⲡⲉⲓⲣⲁⲥⲙⲟⲥ ⲛⲓⲙ ⲙⲡⲣϭⲛⲁⲣⲓⲕⲉ ⲉⲣⲱⲙⲉ ·
@@ -8740,6 +8864,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.136.unid.humility
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.136.monbeg
+# meta::source = MONB.EG 207 (IB 17 484 f. 26r)
+# meta::title = Apophthegmata Patrum Sahidic 136
 # sent_id = apophthegmata_patrum-AP_136_unid_humility_s0001
 # text_en = ...
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲟⲩϩⲗⲗⲟ ϫⲉⲙⲡⲓⲡⲁⲣⲁⲃⲁ ⲛⲧⲁⲧⲁⲝⲓⲥ ⲉⲛⲉϩ · ⲉⲧⲣⲁⲙⲟⲟϣⲉ ⲉⲡϫⲓⲥⲉ ⲙⲙⲟⲓ
@@ -8837,6 +8965,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.137.p.263
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.137.monbeg
+# meta::source = MONB.EG 207 (IB 17 484 f. 26r)
+# meta::title = Apophthegmata Patrum Sahidic 137: P263
 # sent_id = apophthegmata_patrum-AP_137_p_263_s0001
 # text_en = ...
 # text = ⲁⲩⲥⲟⲛ ϫⲛⲉⲟⲩϩⲗⲗⲟ ϫⲉⲟⲩ ⲡⲉ ⲡⲉⲑⲃⲃⲓⲟ ⲛϩⲏⲧ
@@ -8940,6 +9072,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.138.unid.soil
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.138.monbeg
+# meta::source = MONB.EG 207 (IB 17 484 f. 26r)
+# meta::title = Apophthegmata Patrum Sahidic 138: Unidentified
 # sent_id = apophthegmata_patrum-AP_138_unid_soil_s0001
 # text_en = ...
 # text = ⲁⲩⲥⲟⲛ ϫⲛⲉⲟⲩϩⲗⲗⲟ ϫⲉⲁϫⲓⲟⲩϣⲁϫⲉ ⲉⲣⲟⲓ ⲁⲡⲁ ⲛⲟⲩϫⲁⲓ .
@@ -8996,6 +9132,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.139.n306.dog
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.139.monbeg
+# meta::source = MONB.EG 207-208 (IB 17 484 f. 26r-26v)
+# meta::title = Apophthegmata Patrum Sahidic 139: N 306
 # sent_id = apophthegmata_patrum-AP_139_n306_dog_s0001
 # text_en = ...
 # text = ⲁⲟⲩⲥⲟ ϫⲛⲉⲟⲩϩⲗⲗⲟ ϫⲉⲟⲩ ⲡⲉ ⲡϩⲱⲃ ⲛⲧⲙⲛⲧϣⲙⲙⲟ ....
@@ -9251,6 +9391,10 @@
 
 # newdoc id = sahidica.mark:Mark_08
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:nt.mark.sahidica_ed:8
+# meta::source = J Warren Wells, Sahidica - A New Edition of the New Testament in Sahidic Coptic
+# meta::title = Mark Chapter 8
 # sent_id = sahidica_mark-Mark_08_s0001
 # text_en = In those days, when there was a very great multitude, and they had nothing to eat, Jesus called his disciples to himself, and said to them,
 # text = ⲛⲉϩⲟⲟⲩ ⲉⲧⲙⲙⲁⲩ ⲛⲉⲩⲛⲟⲩⲛⲟϭ ⲟⲛ ⲙⲙⲏⲏϣⲉ ⲛⲙⲙⲁϥ ⲁⲩⲱ ⲉⲙⲙⲛⲧⲟⲩ ⲡⲉⲧⲟⲩⲛⲁⲟⲩⲟⲙϥ ⲁϥⲙⲟⲩⲧⲉ ⲉⲛⲉϥⲙⲁⲑⲏⲧⲏⲥ ⲡⲉϫⲁϥ ⲛⲁⲩ
@@ -10872,6 +11016,10 @@
 
 # newdoc id = sahidica.mark:Mark_09
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:nt.mark.sahidica_ed:9
+# meta::source = J Warren Wells, Sahidica - A New Edition of the New Testament in Sahidic Coptic
+# meta::title = Mark Chapter 9
 # sent_id = sahidica_mark-Mark_09_s0001
 # text_en = He said to them, 'Most certainly I tell you, there are some standing here who will in no way taste death until they see the Kingdom of God come with power.'
 # text = ⲛⲉϥϫⲱ ⲙⲙⲟⲥ ⲛⲁⲩ ϫⲉϩⲁⲙⲏⲛ ϩⲁⲙⲏⲛ ϯϫⲱ ⲙⲙⲟⲥ ⲛⲏⲧⲛ ϫⲉⲟⲩⲛϩⲟⲓⲛⲉ ⲛⲛⲉⲧⲁϩⲉⲣⲁⲧⲟⲩ ⲙⲡⲉⲓⲙⲁ ⲉⲛⲥⲉⲛⲁϫⲓϯⲡⲉ ⲁⲛ ⲙⲡⲙⲟⲩ ϣⲁⲛⲧⲟⲩⲛⲁⲩ ⲉⲧⲙⲛⲧⲣⲣⲟ ⲙⲡⲛⲟⲩⲧⲉ ⲉⲁⲥⲉⲓ ϩⲛⲟⲩϭⲟⲙ .
@@ -10897,7 +11045,7 @@
 14	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
 15-16	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
 15	ⲛⲏ	ⲛⲁ	ADP	PREP	_	16	case	_	_
-16	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	12	obl	_	_
+16	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	12	obl	_	_
 17-19	ϫⲉⲟⲩⲛϩⲟⲓⲛⲉ	_	_	_	_	_	_	_	_
 17	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	18	mark	_	_
 18	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	12	ccomp	_	_
@@ -11116,17 +11264,17 @@
 33-34	ⲛⲥⲕⲏⲛⲏ	_	_	_	_	_	_	_	_
 33	ⲛ	ⲛ	ADP	PREP	_	34	case	_	_
 34	ⲥⲕⲏⲛⲏ	ⲥⲕⲏⲛⲏ	NOUN	N	_	29	nmod	_	Entity=object)
-35	ⲟⲩⲉⲓ	ⲟⲩⲉⲓ	NUM	NUM	NumType=Card	29	parataxis	_	Entity=(abstract
+35	ⲟⲩⲉⲓ	ⲟⲩⲁ	NUM	NUM	NumType=Card	29	parataxis	_	Entity=(abstract
 36-37	ⲛⲁⲕ	_	_	_	_	_	_	_	_
 36	ⲛⲁ	ⲛⲁ	ADP	PREP	_	37	case	_	_
 37	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	35	orphan	_	Entity=abstract)
 38	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	39	cc	_	_
-39	ⲟⲩⲉⲓ	ⲟⲩⲉⲓ	NUM	NUM	NumType=Card	35	conj	_	Entity=(object)
+39	ⲟⲩⲉⲓ	ⲟⲩⲁ	NUM	NUM	NumType=Card	35	conj	_	Entity=(object)
 40-41	ⲙⲙⲱⲩⲥⲏⲥ	_	_	_	_	_	_	_	_
 40	ⲙ	ⲛ	ADP	PREP	_	41	case	_	_
 41	ⲙⲱⲩⲥⲏⲥ	ⲙⲱⲩⲥⲏⲥ	PROPN	NPROP	Foreign=Yes	39	orphan	_	Entity=(person-Moses)|OrigLang=he
 42	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	43	cc	_	_
-43	ⲟⲩⲉⲓ	ⲟⲩⲉⲓ	NUM	NUM	NumType=Card	35	conj	_	Entity=(object)
+43	ⲟⲩⲉⲓ	ⲟⲩⲁ	NUM	NUM	NumType=Card	35	conj	_	Entity=(object)
 44-45	ⲛϩⲏⲗⲉⲓⲁⲥ	_	_	_	_	_	_	_	_
 44	ⲛ	ⲛ	ADP	PREP	_	45	case	_	_
 45	ϩⲏⲗⲉⲓⲁⲥ	ϩⲏⲗⲉⲓⲁⲥ	PROPN	NPROP	Foreign=Yes	43	obl	_	Entity=(person-Elijah)|OrigLang=he
@@ -11212,7 +11360,7 @@
 4	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	6	aux	_	_
 5	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
 6	ϥⲓ	ϥⲓ	VERB	V	VerbForm=Fin	12	advcl	_	_
-7	ⲉⲓⲁⲧ	ⲉⲓⲁⲧ	NOUN	N	_	6	obj	_	Entity=(object
+7	ⲉⲓⲁⲧ	ⲉⲓⲁ	NOUN	N	_	6	obj	_	Entity=(object
 8	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	7	det	_	Entity=object)
 9	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	6	advmod	_	_
 10-12	ⲙⲡⲟⲩⲛⲁⲩ	_	_	_	_	_	_	_	_
@@ -11353,7 +11501,7 @@
 7-8	ϫⲉϩⲏⲗⲉⲓⲁⲥ	_	_	_	_	_	_	_	_
 7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	14	mark	_	_
 8	ϩⲏⲗⲉⲓⲁⲥ	ϩⲏⲗⲉⲓⲁⲥ	PROPN	NPROP	Foreign=Yes	14	dislocated	_	Entity=(person-Elijah)|OrigLang=he
-9	ⲙⲉⲛ	ⲙⲉⲛ	CCONJ	CONJ	Foreign=Yes	14	advmod	_	OrigLang=grc
+9	ⲙⲉⲛ	ⲙⲉⲛ	PART	PTC	Foreign=Yes	14	advmod	_	OrigLang=grc
 10-11	ⲉϥϣⲁⲛⲉⲓ	_	_	_	_	_	_	_	_
 10	ⲉϥϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ	PRON	ACOND_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	14	advcl	_	_
@@ -11405,7 +11553,7 @@
 4	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 5-6	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
 5	ⲛⲏ	ⲛⲁ	ADP	PREP	_	6	case	_	_
-6	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	2	obl	_	_
+6	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	2	obl	_	_
 7-10	ϫⲉⲡⲕⲉϩⲏⲗⲉⲓⲁⲥ	_	_	_	_	_	_	_	_
 7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_
 8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(person
@@ -11702,7 +11850,7 @@
 26	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	8	ccomp	_	_
 27-28	ⲛⲙⲙⲏⲧⲛ	_	_	_	_	_	_	_	_
 27	ⲛⲙⲙⲏ	ⲙⲛ	ADP	PREP	_	28	case	_	_
-28	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	26	obl	_	_
+28	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	26	obl	_	_
 29	.	.	PUNCT	PUNCT	_	26	punct	_	_
 30-32	ϣⲁⲧⲛⲁⲩ	_	_	_	_	_	_	_	_
 30	ϣⲁ	ϣⲁ	ADP	PREP	_	32	case	_	_
@@ -11715,7 +11863,7 @@
 36	ⲁⲛⲉⲭⲉ	ⲁⲛⲉⲭⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	26	parataxis	_	OrigLang=grc
 37-38	ⲙⲙⲱⲧⲛ	_	_	_	_	_	_	_	_
 37	ⲙⲙⲱ	ⲛ	ADP	PREP	_	38	case	_	_
-38	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	36	obj	_	_
+38	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	36	obj	_	_
 39-40	ⲁⲩⲉⲓⲥϥ	_	_	_	_	_	_	_	_
 39	ⲁⲩⲉⲓⲥ	ⲁⲩ	VERB	VIMP	VerbForm=Fin	36	parataxis	_	_
 40	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	obj	_	_
@@ -11869,7 +12017,7 @@
 32-36	ⲉⲕϣⲛϩⲧⲏⲕ	_	_	_	_	_	_	_	_
 32	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	34	mark	_	_
 33	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	34	nsubj	_	_
-34	ϣⲛ	ϣⲛ	VERB	V	VerbForm=Fin	22	advcl	_	_
+34	ϣⲛ	ϣⲓⲛⲉ	VERB	V	VerbForm=Fin	22	advcl	_	_
 35	ϩⲧⲏ	ϩⲏⲧ	NOUN	N	_	34	obj	_	_
 36	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	35	det	_	_
 37-38	ϩⲁⲣⲟⲛ	_	_	_	_	_	_	_	_
@@ -12230,7 +12378,7 @@
 # text_en = For he was teaching his disciples, and said to them, 'The Son of Man is being handed over to the hands of men, and they will kill him; and when he is killed, on the third day he will rise again.'
 # text = ⲛⲉϥⲧⲥⲁⲃⲟ ⲅⲁⲣ ⲛⲛⲉϥⲙⲁⲑⲏⲧⲏⲥ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲡϣⲏⲣⲉ ⲙⲡⲣⲱⲙⲉ ⲥⲉⲛⲁⲧⲁⲁϥ ⲉϩⲣⲁⲓ ⲉⲧⲟⲟⲧⲟⲩ ⲛⲛⲣⲱⲙⲉ ⲛⲥⲉⲙⲟⲩⲟⲩⲧϥ ⲁⲩⲱ ⲉϥϣⲁⲛⲙⲟⲩ ⲙⲛⲛⲥⲁϣⲟⲙⲛⲧ ⲛϩⲟⲟⲩ ϥⲛⲁⲧⲱⲟⲩⲛ .
 1-3	ⲛⲉϥⲧⲥⲁⲃⲟ	_	_	_	_	_	_	_	_
-1	ⲛⲉ	ⲛⲉ	AUX	CPRET	_	3	aux	_	Orig=[..]
+1	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	3	aux	_	Orig=[..]
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 3	ⲧⲥⲁⲃⲟ	ⲧⲥⲁⲃⲟ	VERB	V	VerbForm=Fin	0	root	_	_
 4	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
@@ -12718,7 +12866,7 @@
 24	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
 25-26	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
 25	ⲛⲏ	ⲛⲁ	ADP	PREP	_	26	case	_	_
-26	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	22	obl	_	_
+26	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	22	obl	_	_
 27-31	ϫⲉⲛϥⲛⲁⲥⲱⲣⲙ	_	_	_	_	_	_	_	_
 27	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	31	mark	_	_
 28	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	31	advmod	_	_
@@ -12831,7 +12979,7 @@
 30-31	ⲉⲣⲉϭⲓϫ	_	_	_	_	_	_	_	_
 30	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	34	mark	_	_
 31	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	34	nsubj	_	Entity=(object
-32	ⲥⲛⲧⲉ	ⲥⲛⲧⲉ	NUM	NUM	NumType=Card	31	nummod	_	Entity=object)
+32	ⲥⲛⲧⲉ	ⲥⲛⲁⲩ	NUM	NUM	NumType=Card	31	nummod	_	Entity=object)
 33-34	ⲙⲙⲟⲕ	_	_	_	_	_	_	_	_
 33	ⲙⲙⲟ	ⲛ	ADP	PREP	_	34	case	_	_
 34	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	advcl	_	_
@@ -12905,7 +13053,7 @@
 30-31	ⲉⲣⲉⲟⲩⲉⲣⲏⲧⲉ	_	_	_	_	_	_	_	_
 30	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	34	mark	_	_
 31	ⲟⲩⲉⲣⲏⲧⲉ	ⲟⲩⲉⲣⲏⲧⲉ	NOUN	N	_	34	nsubj	_	Entity=(object
-32	ⲥⲛⲧⲉ	ⲥⲛⲧⲉ	NUM	NUM	NumType=Card	31	nummod	_	Entity=object)
+32	ⲥⲛⲧⲉ	ⲥⲛⲁⲩ	NUM	NUM	NumType=Card	31	nummod	_	Entity=object)
 33-34	ⲙⲙⲟⲕ	_	_	_	_	_	_	_	_
 33	ⲙⲙⲟ	ⲛ	ADP	PREP	_	34	case	_	_
 34	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	26	advcl	_	_
@@ -12999,7 +13147,7 @@
 2	ⲙⲁ	ⲙⲁ	NOUN	N	_	0	root	_	_
 3-6	ⲉⲧⲉⲙⲡⲉⲩϥⲛⲧ	_	_	_	_	_	_	_	_
 3	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	8	mark	_	_
-4	ⲙ	ⲙ	ADV	NEG	Polarity=Neg	8	advmod	_	_
+4	ⲙ	ⲛ	ADV	NEG	Polarity=Neg	8	advmod	_	_
 5	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	Entity=(animal
 6	ϥⲛⲧ	ϥⲛⲧ	NOUN	N	_	8	nsubj	_	Entity=animal)
 7-8	ⲛⲁⲙⲟⲩ	_	_	_	_	_	_	_	_
@@ -13054,7 +13202,7 @@
 10	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	12	nsubj	_	Orig=ⲧⲉⲧ
 11	ⲛⲁ	ⲛⲁ	AUX	FUT	_	12	aux	_	_
 12	ϫⲟⲕⲣ	ϫⲟⲕⲣ	VERB	V	VerbForm=Fin	1	parataxis	_	_
-13	ⲉϥ	ⲉϥ	PRON	PPERO	_	12	obj	_	_
+13	ⲉϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
 14	ϩⲛ	ϩⲛ	ADP	PREP	_	15	case	_	_
 15	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	12	obl	_	_
 16	.	.	PUNCT	PUNCT	_	12	punct	_	_
@@ -13076,6 +13224,10 @@
 
 # newdoc id = sahidica.1corinthians:1Cor_05
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:nt.1cor.sahidica_ed:5
+# meta::source = J Warren Wells, Sahidica - A New Edition of the New Testament in Sahidic Coptic
+# meta::title = 1 Corinthians 5
 # sent_id = sahidica_1corinthians-1Cor_05_s0001
 # text_en = It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles, that one has his father's wife.
 # text = ⲥⲉⲥⲱⲧⲙ ⲣⲱ ⲉⲩⲡⲟⲣⲛⲉⲓⲁ ⲛϩⲏⲧⲧⲏⲩⲧⲛ ⲁⲩⲱ ⲟⲩⲡⲟⲣⲛⲉⲓⲁ ⲛⲧⲉⲓⲙⲓⲛⲉ ⲉⲛⲥϩⲛⲛⲕⲉϩⲉⲑⲛⲟⲥ ⲁⲛ . ϩⲱⲥⲧⲉ ⲉⲧⲣⲉⲟⲩⲁ ϫⲓⲧϩⲓⲙⲉ ⲙⲡⲉϥⲉⲓⲱⲧ .
@@ -13651,6 +13803,10 @@
 
 # newdoc id = sahidica.1corinthians:1Cor_06
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:nt.1cor.sahidica_ed:6
+# meta::source = J Warren Wells, Sahidica - A New Edition of the New Testament in Sahidic Coptic
+# meta::title = 1 Corinthians 6
 # sent_id = sahidica_1corinthians-1Cor_06_s0001
 # text_en = Dare any of you, having a matter against his neighbor, go to law before the unrighteous, and not before the saints?
 # text = ⲟⲩⲛⲟⲩⲁ ⲛⲁⲧⲟⲗⲙⲁ ⲉⲃⲟⲗ ⲛϩⲏⲧⲧⲏⲩⲧⲛ ⲉⲟⲩⲛⲧϥⲟⲩϩⲱⲃ ⲙⲛⲡⲉⲧϩⲓⲧⲟⲩⲱϥ ⲉϫⲓϩⲁⲡ ϩⲓⲛⲣⲉϥϫⲓ ⲛϭⲟⲛⲥ ⲁⲩⲱ ϩⲓⲛⲉⲧⲟⲩⲁⲁⲃ ⲁⲛ .
@@ -14471,6 +14627,10 @@
 
 # newdoc id = besa.letters:to_aphthonia
 # global.Entity = etype-identity
+# meta::author = Besa
+# meta::document_cts_urn = urn:cts:copticLit:besa.aphthonia.monbba
+# meta::source = MONB.BA 244-249 (IB 6 ff. 28v.-31r)
+# meta::title = To Aphthonia
 # sent_id = besa_letters-to_aphthonia_s0001
 # text_en = ...
 # text = ⲁⲣϯⲉⲟⲟⲩ ⲙⲡⲛⲟⲩⲧⲉ ⲧⲱⲛⲉ .
@@ -16084,6 +16244,10 @@
 
 # newdoc id = life.onnophrius:life.onnophrius.01
 # global.Entity = etype-identity
+# meta::author = unknown
+# meta::document_cts_urn = urn:cts:copticLit:lives.onnophrius.budge:1-9
+# meta::source = MERC.AC 1-14 (OR. 7027 ff. 1a-7b)
+# meta::title = Life of Onnophrius part 1
 # sent_id = life_onnophrius-life_onnophrius_01_s0001
 # text_en = THE LIFE AND CONVERSATION OF OUR HOLY FATHER, WHO WAS GLORIOUS IN EVERY WAY, APA ONNOPHRIOS THE ANCHORITE, WHO ENDED HIS LIFE ON THE SIXTEENTH DAY OF THE MONTH PAONE IN THE PEACE OF GOD!
 # text = ⲡⲃⲓⲟⲥ ⲁⲩⲱ ⲧⲡⲟⲗⲓⲧⲉⲓⲁ ⲙⲡⲉⲛⲡⲉⲧⲟⲩⲁⲁⲃ ⲛⲉⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲩ ⲕⲁⲧⲁⲥⲙⲟⲧ ⲛⲓⲙ ⲁⲡⲁ ⲟⲛⲛⲟⲫⲣⲓⲟⲥ ⲡⲁⲛⲁⲭⲱⲣⲓⲧⲏⲥ ⲛⲧⲁϥϫⲱⲕ ⲉⲃⲟⲗ ⲙⲡⲉϥⲃⲓⲟⲥ ⲛⲥⲟⲩⲙⲛⲧⲧⲁⲥⲉ ⲙⲡⲉⲃⲟⲧ ⲡⲁⲱⲛⲉ ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ ⲛⲧⲉⲡⲛⲟⲩⲧⲉ
@@ -20053,6 +20217,10 @@
 
 # newdoc id = pseudo.ephrem:psephrem.letter
 # global.Entity = etype-identity
+# meta::author = Pseudo-Ephrem
+# meta::document_cts_urn = urn:cts:copticLit:psephrem.letter.budge:1-9
+# meta::source = MERC.AT 126-134 (OR. 6783 ff. 63b-67b)
+# meta::title = Letter of pseudo-Ephrem MERC.AT 126-134
 # sent_id = pseudo_ephrem-psephrem_letter_s0001
 # text_en = ANOTHER EPISTLE WHICH APA EPHRAIM WROTE TO A BELOVED DISCIPLE.
 # text = ⲛⲧⲟϥ ⲟⲛ ⲁⲡⲁ ⲉⲫⲣⲁⲓⲙ ⲉϥⲥϩⲁⲓ ⲉⲣⲁⲧϥ ⲛⲟⲩⲙⲉⲣⲓⲧ ⲛⲧⲁϥ ⲉϥϫⲓⲥⲃⲱ ⲛⲧⲟⲟⲧϥ · — ·· — ·· — ·· — ·· — ·· —
@@ -22984,6 +23152,10 @@
 
 # newdoc id = dormition.john:dormition.john.mercad
 # global.Entity = etype-identity
+# meta::author = unknown
+# meta::document_cts_urn = urn:cts:copticLit:misc.dormition_john.budge
+# meta::source = MERC.AD 1-15 (OR. 6782 ff. 2a-9a)
+# meta::title = Dormition of John MERC.AD in Budge ed.
 # sent_id = dormition_john-dormition_john_mercad_s0001
 # text_en = ...
 # text = ⲧⲁⲛⲁⲡⲁⲩⲥⲓⲥ ⲙⲡϩⲁⲅⲓⲟⲥ · ⲓⲱϩⲁⲛⲛⲏⲥ · ⲡⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ · ⲁⲩⲱ ⲡⲁⲡⲟⲥⲧⲟⲗⲟⲥ ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ · ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ · ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ϩⲁⲙⲏⲛ . ═════ : ═════ : ═════ : ═════
@@ -27402,6 +27574,10 @@
 
 # newdoc id = pseudo.athanasius.discourses:mercy_judgment
 # global.Entity = etype-identity
+# meta::author = unknown
+# meta::document_cts_urn = urn:cts:copticLit:psathanasius.mercy_judgment.budge:1-41
+# meta::source = CMCL.AW 76b-86b (Or. 5001 ff. 76a-86b)
+# meta::title = On Mercy and Judgment
 # sent_id = pseudo_athanasius_discourses-mercy_judgment_s0001
 # text_en = ...
 # text = ⲁⲑⲁⲛⲁⲥⲓⲟⲥ ⲡⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲛⲣⲁⲕⲟⲧⲉ ⲉϥϣⲁϫⲉ ⲉⲧⲃⲉⲡⲛⲁ ⲙⲛⲡϩⲁⲡ · — ◈ — ◈ — ◈ — ◈ — ◈
@@ -31351,6 +31527,10 @@
 
 # newdoc id = sahidic.ruth:Ruth_01
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:ot.ruth.coptot:1
+# meta::source = Crosswire, CoptOT
+# meta::title = Ruth Chapter 1
 # sent_id = sahidic_ruth-Ruth_01_s0001
 # text_en = And it came to pass when the judges ruled, that there was a famine in the land: and a man went from Bethleem Juda to sojourn in the land of Moab, he, and his wife, and his two sons.
 # text = ⲁⲥϣⲱⲡⲉ ⲇⲉ ⲛⲧⲉⲣⲉⲛⲉⲕⲣⲓⲧⲏⲥ ϩⲙⲟⲟⲥ ⲉϯϩⲁⲡ ⲁⲩϩⲉⲃⲱⲱⲛ ϣⲱⲡⲉ ϩⲙⲡⲕⲁϩ ⲁⲩⲱ ⲁϥⲃⲱⲕ ⲛϭⲓⲟⲩⲣⲱⲙⲉ ⲉⲟⲩⲉⲃⲟⲗ ⲡⲉ ϩⲛⲃⲏⲑⲗⲉⲉⲙ ⲙⲡⲕⲁϩ ⲛⲓⲟⲩⲇⲁ ⲉⲧⲣⲉϥϭⲟⲓⲗⲉ ⲉⲧⲥⲱϣⲉ ⲙⲙⲱⲁⲃ ⲛⲧⲟϥ ⲙⲛⲧⲉϥⲥϩⲓⲙⲉ ⲙⲛⲡⲉϥϣⲏⲣⲉ ⲥⲛⲁⲩ
@@ -32618,6 +32798,10 @@
 
 # newdoc id = sahidic.ruth:Ruth_02
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:ot.ruth.coptot:2
+# meta::source = Crosswire, CoptOT
+# meta::title = Ruth Chapter 2
 # sent_id = sahidic_ruth-Ruth_02_s0001
 # text_en = And Noemin had a friend an acquaintance of her husband, and the man was a mighty man of the kindred of Elimelech, and his name was Booz.
 # text = ⲁⲩⲱ ⲛⲟⲉⲙⲓⲛ ⲛⲉϥϣⲟⲟⲡ ⲛⲁⲥ ⲛϭⲓⲟⲩⲣⲙⲛⲥⲟⲟⲩⲛ ⲛⲧⲉⲡⲉⲥϩⲁⲓ ⲡⲣⲱⲙⲉ ⲇⲉ ⲉⲧⲙⲙⲁⲩ ⲛⲉⲩⲇⲩⲛⲁⲧⲟⲥ ⲡⲉ ϩⲛⲧⲉϥϭⲟⲙ ⲉⲟⲩⲉⲃⲟⲗ ⲡⲉ ϩⲛⲧⲥⲩⲅⲅⲉⲛⲉⲓⲁ ⲛⲁⲃⲓⲙⲉⲗⲉⲭ ⲉⲡⲉϥⲣⲁⲛ ⲡⲉ ⲃⲟⲉⲥ
@@ -34064,6 +34248,10 @@
 
 # newdoc id = sahidic.ruth:Ruth_03
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:ot.ruth.coptot:3
+# meta::source = Crosswire, CoptOT
+# meta::title = Ruth Chapter 3
 # sent_id = sahidic_ruth-Ruth_03_s0001
 # text_en = And she lodged with her mother-in-law: and Noemin her mother-in-law said to her, My daughter, shall I not seek rest for thee, that it may be well with thee?
 # text = ⲛⲟⲉⲙⲓⲛ ⲇⲉ ⲧⲉⲥϣⲱⲙⲉ ⲡⲉϫⲁⲥ ⲛⲁⲥ ϫⲉⲧⲁϣⲉⲉⲣⲉ ⲛⲛⲁⲕⲱⲧⲉ ⲛⲉ ⲛⲥⲁⲟⲩⲙⲁ ⲛⲙⲧⲟⲛ ϫⲉⲕⲁⲥ ⲉⲣⲉⲡⲡⲉⲧⲛⲁⲛⲟⲩϥ ϣⲱⲡⲉ ⲙⲙⲟ
@@ -34983,6 +35171,10 @@
 
 # newdoc id = sahidic.ruth:Ruth_04
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:ot.ruth.coptot:4
+# meta::source = Crosswire, CoptOT
+# meta::title = Ruth Chapter 4
 # sent_id = sahidic_ruth-Ruth_04_s0001
 # text_en = And Booz went up to the gate, and sat there; and behold, the relative passed by, of whom Booz spoke: and Booz said to him, Turn aside, sit down here, such a one: and he turned aside and sat down.
 # text = ⲁⲩⲱ ⲃⲟⲉⲥ ⲁϥⲃⲱⲕ ⲉϩⲣⲁⲓ ⲉⲣⲛⲧⲡⲩⲗⲏ ⲁϥϩⲙⲟⲟⲥ ϩⲙⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ ⲁⲩⲱ ⲉⲓⲥⲡⲉⲧϩⲏⲛ ⲉϩⲟⲩⲛ ⲉⲡⲅⲉⲛⲟⲥ ⲛϩⲟⲩⲟ ⲛⲉϥⲙⲟⲟϣⲉ ⲡⲁⲓ ⲉⲛⲧⲁⲃⲟⲉⲥ ϫⲟⲟⲥ ⲉⲧⲃⲏⲏⲧϥ ⲡⲉϫⲁϥ ⲉϩⲟⲩⲛ ⲉϩⲣⲁϥ ⲛϭⲓⲃⲟⲉⲥ ϫⲉⲁⲙⲟⲩ ⲛⲅϩⲙⲟⲟⲥ ⲙⲡⲉⲓⲙⲁ ⲡⲉⲧϩⲏⲡ ⲏ ⲡⲉⲧⲉⲛⲥⲉⲉⲓⲙⲉ ⲉⲣⲟϥ ⲁⲛ ⲁϥⲃⲱⲕ ⲁϥϩⲙⲟⲟⲥ
@@ -36239,6 +36431,10 @@
 
 # newdoc id = proclus.homilies:proclus.13.easter
 # global.Entity = etype-identity
+# meta::author = Proclus of Constantinople
+# meta::document_cts_urn = urn:cts:copticLit:proclus.homily13.budge
+# meta::source = CMCL.AW 25-38 (Or. 5001 ff. 115b-122b)
+# meta::title = Proclus Homily 13 on Easter in Budge ed.
 # sent_id = proclus_homilies-proclus_13_easter_s0001
 # text_en = LIKEWISE A HOMILY PRONOUNCED BY PROKLOS, BISHOP OF CYZICUS, IN THE CHURCH OF ANTHEMIUS IN CONSTANTINOPLE, ON THE SUNDAY BEFORE EASTER, WHEN HE WAS INSTALLED IN THE ARCHIEPISCOPAL SEAT, AND NESTORIUS THE HERETIC WAS PRESENT.
 # text = ϩⲟⲙⲟⲓⲱⲥ ⲟⲩϩⲟⲙⲟⲗⲓⲁ ⲉⲁϥⲧⲁⲩⲟⲥ ϩⲛⲕⲱⲛⲥⲧⲁⲛⲧⲓⲛⲟⲩⲡⲟⲗⲓⲥ ϩⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲛⲁⲛⲑⲉⲙⲓⲟⲥ ⲛϭⲓⲡⲣⲟⲕⲗⲟⲥ ⲡⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲛⲕⲩⲍⲓⲕⲟⲥ ϩⲛⲧⲕⲩⲣⲓⲁⲕⲏ ⲙⲡⲃⲱⲗ ⲉⲃⲟⲗ · ϩⲙⲡⲧⲣⲉⲩⲑⲙⲥⲟϥ ⲉϫⲛⲧⲕⲁⲑⲉⲇⲣⲁ ⲛⲧⲙⲛⲧⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲉϥⲙⲙⲁⲩ ⲛϭⲓⲛⲉⲥⲧⲟⲣⲓⲟⲥ ⲡϩⲁⲓⲣⲉⲧⲓⲕⲟⲥ · ◈ — ◈ — ◈ :
@@ -39721,6 +39917,10 @@
 
 # newdoc id = pseudo.flavianus:psflavianus.encomium.01
 # global.Entity = etype-identity
+# meta::author = unknown
+# meta::document_cts_urn = urn:cts:copticLit:psflavianus.encomium.budge:1-23
+# meta::source = MERC.AT 60-75 (Or. 6783 ff. 30b-38a)
+# meta::title = Encomium on Demetrius Archbishop of Alexandria part 1
 # sent_id = pseudo_flavianus-psflavianus_encomium_01_s0001
 # text_en = THE ENCOMIUM WHICH OUR SAINTED FATHER FLAVIANUS, BISHOP OF THE CITY OF EPHESUS, PRONOUNCED UPON SAINT DEMETRIUS ARCHBISHOP OF RAKOTE, ON THE DAY OF HIS GLORIOUS COMMEMORATION, WHICH IS THE TWENTIETH DAY OF THE MONTH THOTH.
 # text = ⲟⲩⲉⲅⲕⲱⲙⲓⲟⲛ ⲉⲁϥⲧⲁⲩⲟⲟϥ ⲛϭⲓⲡⲉⲛⲡⲉⲧⲟⲩⲁⲁⲃ ⲛⲉⲓⲱⲧ ⲫⲗⲁⲃⲓⲁⲛⲟⲥ ⲡⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲛⲉⲫⲉⲥⲟⲥ ⲧⲡⲟⲗⲓⲥ ⲉⲁϥⲧⲁⲩⲟⲟϥ ⲉⲡϩⲁⲅⲓⲟⲥ ⲇⲏⲙⲏⲧⲣⲓⲟⲥ ⲡⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲛⲣⲁⲕⲟⲧⲉ ϩⲙⲡⲉϩⲟⲟⲩ ⲙⲡⲉϥⲣⲡⲙⲉⲉⲩⲉ ⲉⲧⲧⲁⲓⲏⲩ ⲉⲧⲉⲥⲟⲩϫⲟⲩⲧⲏ ⲡⲉ · ⲙⲡⲉⲃⲟⲧ ⲑⲱⲑ ·
@@ -44850,6 +45050,10 @@
 
 # newdoc id = life.john.kalybites:life.john_kal.01
 # global.Entity = etype-identity
+# meta::author = unknown
+# meta::document_cts_urn = urn:cts:copticLit:lives.john_kalybites.budge:1-45
+# meta::source = MERC.AT 134-149 (Or. 6783 ff. 67b-75a)
+# meta::title = The Life of John the Kalybites part 1
 # sent_id = life_john_kalybites-life_john_kal_01_s0001
 # text_en = HERE BEGINNETH THE LIFE OF THE BLESSED JOHN, THE PERFECT MONK, WHOSE PARENTS MADE FOR HIM A GOSPEL OF GOLD
 # text = ▢ ⲡⲁⲓ ⲡⲉ ⲡⲃⲓⲟⲥ ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲓⲱϩⲁⲛⲛⲏⲥ ⲡⲙⲟⲛⲁⲭⲟⲥ ⲛⲧⲉⲗⲓⲟⲛ ⲡⲁⲓ ⲛⲧⲁⲛⲉϥⲉⲓⲟⲧⲉ ⲥⲙⲓⲛⲉ ⲛⲁϥ ⲙⲡⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲛⲛⲟⲩⲃ ·

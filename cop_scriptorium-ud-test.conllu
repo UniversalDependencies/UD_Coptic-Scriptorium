@@ -1,5 +1,9 @@
 # newdoc id = shenoute.abraham:XL93-94
 # global.Entity = etype-identity
+# meta::author = Shenoute
+# meta::document_cts_urn = urn:cts:copticLit:shenoute.abraham.monbxl:23-24
+# meta::source = MONB.XL 93-94 (IB16 f. 16)
+# meta::title = Abraham Our Father XL 93-94
 # sent_id = shenoute_abraham-XL93-94_s0001
 # text_en = (section of a text other than Abraham Our Father continues here) ... lie.
 # text = ϭⲟⲗ ·
@@ -855,6 +859,10 @@
 
 # newdoc id = shenoute.abraham:YA518-520
 # global.Entity = etype-identity
+# meta::author = Shenoute
+# meta::document_cts_urn = urn:cts:copticLit:shenoute.abraham.monbya:1-4
+# meta::source = MONB.YA 518-520 (IB2 ff.26v-27)
+# meta::title = Abraham Our Father: YA 518-20
 # sent_id = shenoute_abraham-YA518-520_s0001
 # text_en = ...
 # text = ⳾ ⲥⲉⲛⲟⲩⲑⲓⲟⲩ ⲉⲡⲓⲥⲧⲟⲗⲏ : ⳾
@@ -1777,6 +1785,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.027.pistamon.01
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.27.monbeg
+# meta::source = MONB.EG 67-68 (K 0321)
+# meta::title = Apophthegmata Patrum Sahidic 027: Pistamon 1
 # sent_id = apophthegmata_patrum-AP_027_pistamon_01_s0001
 # text_en = ...
 # text = ⲁ ⲟⲩⲁ ⲛⲛⲉⲥⲛⲏⲩ ϫⲛⲉⲁⲡⲁ ⲡⲁⲥⲧⲁⲙⲱⲛ ϫⲉⲟⲩ ⲡⲉ ϯⲛⲁⲁⲁϥ ϫⲉⲥⲉⲑⲗⲓⲃⲉ ⲙⲙⲟⲓ ⲉⲓϯ ⲙⲡⲁϩⲱⲃ ⲛϭⲓϫ ⲉⲃⲟⲗ .
@@ -2017,6 +2029,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.028.serapion.02
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.28.monbeg
+# meta::source = MONB.EG 68 (K 0321)
+# meta::title = Apophthegmata Patrum Sahidic 028
 # sent_id = apophthegmata_patrum-AP_028_serapion_02_s0001
 # text_en = ...
 # text = ⲁⲟⲩⲥⲟⲛ ϫⲛⲉⲁⲡⲁ ⲥⲁⲣⲁⲡⲓⲟⲛ ϫⲉⲁϫⲓ ⲟⲩϣⲁϫⲉ ⲉⲣⲟⲓ .
@@ -2119,6 +2135,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.029.syncletica.05
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.29.monbeg
+# meta::source = MONB.EG 68 (K 0321)
+# meta::title = Apophthegmata Patrum Sahidic 029
 # sent_id = apophthegmata_patrum-AP_029_syncletica_05_s0001
 # text_en = ...
 # text = ⲁⲩϫⲛⲉⲧⲙⲁⲕⲁⲣⲓⲁ ⲥⲩⲛⲕⲗⲏⲧⲓⲕⲏ · ϫⲉⲛⲉⲟⲩⲁⲅⲁⲑⲟⲛ ⲉϥϫⲏⲕ ⲉⲃⲟⲗ ⲧⲉ ⲧⲙⲛⲧⲁⲧϩⲛⲁⲁⲩ ·
@@ -2305,6 +2325,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.030.hyperechios.06
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.30.monbeg
+# meta::source = MONB.EG 68 (K 0321)
+# meta::title = Apophthegmata Patrum Sahidic 030
 # sent_id = apophthegmata_patrum-AP_030_hyperechios_06_s0001
 # text_en = Apa Hyperechios said, 'The monk's treasure is not having any material things.
 # text = ⲁϥϫⲟⲟⲥ ⲛϭⲓⲁⲡⲁ ϩⲩⲡⲉⲣⲉⲭⲓⲟⲥ ϫⲉⲡⲁϩⲟ ⲙ ⲡⲙⲟⲛⲁⲭⲟⲥ ⲡⲉ ⲧⲙϫⲡⲉⲗⲁⲁⲩ ⲛϩⲩⲗⲏ ⲛⲁϥ .
@@ -2384,6 +2408,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.031.philagrios.01
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.31.monbeg
+# meta::source = MONB.EG 68 (K 0321)
+# meta::title = Apophthegmata Patrum Sahidic 031
 # sent_id = apophthegmata_patrum-AP_031_philagrios_01_s0001
 # text_en = One of the saints, called Philagrios, lived in Jerusalem, working hard until he earned his own bread.
 # text = ⲛⲉⲟⲩⲛⲟⲩⲁ ⲇⲉ ⲛⲧⲉⲛⲉⲧⲟⲩⲁⲁⲃ ⲉϣⲁⲩⲙⲟⲩⲧⲉ ⲉⲣⲟϥ ϫⲉⲫⲓⲗⲁⲅⲣⲓⲟⲥ · ⲉϥⲟⲩⲏϩ ϩⲛⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ · ⲉϥⲣϩⲱⲃ ϩⲛⲟⲩϩⲓⲥⲉ · ϣⲁⲛⲧⲉϥϫⲡⲟ ⲛⲁϥ ⲙⲡⲉϥⲟⲉⲓⲕ ⲙⲙⲓⲛⲙⲙⲟϥ .
@@ -2711,6 +2739,10 @@
 
 # newdoc id = apophthegmata.patrum:AP.032.benjamin.05
 # global.Entity = etype-identity
+# meta::author = anonymous
+# meta::document_cts_urn = urn:cts:copticLit:ap.32.monbeg
+# meta::source = MONB.EG 73 (K 0321)
+# meta::title = Apophthegmata Patrum Sahidic 032
 # sent_id = apophthegmata_patrum-AP_032_benjamin_05_s0001
 # text_en = Apa Benjamin and his disciples said, 'Walk on the road of the king,
 # text = ⲛϭⲓⲁⲡⲁ ⲃⲉⲛⲓⲁⲙⲓⲛ ⲙⲛⲛⲉϥⲙⲁⲑⲏⲧⲏⲥ · ϫⲉⲙⲟⲟϣⲉ ϩⲛⲧⲉϩⲓⲏ ⲙⲡⲣⲣⲟ ·
@@ -2756,6 +2788,10 @@
 
 # newdoc id = sahidica.mark:Mark_01
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:nt.mark.sahidica_ed:1
+# meta::source = J Warren Wells, Sahidica - A New Edition of the New Testament in Sahidic Coptic
+# meta::title = Mark Chapter 1
 # sent_id = sahidica_mark-Mark_01_s0001
 # text_en = The beginning of the Good News of Jesus Christ, the Son of God.
 # text = ⲧⲁⲣⲭⲏ ⲙⲡⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲛⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ [ ⲡϣⲏⲣⲉ ⲙⲡⲛⲟⲩⲧⲉ ] .
@@ -4553,6 +4589,10 @@
 
 # newdoc id = sahidica.mark:Mark_02
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:nt.mark.sahidica_ed:2
+# meta::source = J Warren Wells, Sahidica - A New Edition of the New Testament in Sahidic Coptic
+# meta::title = Mark Chapter 2
 # sent_id = sahidica_mark-Mark_02_s0001
 # text_en = When he entered again into Capernaum after some days, it was heard that he was in the house.
 # text = ⲛⲧⲉⲣⲉϥⲃⲱⲕ ⲇⲉ ⲉϩⲟⲩⲛ ⲉⲕⲁⲫⲁⲣⲛⲁⲟⲩⲙ ϩⲓϫⲛ ϩⲉⲛϩⲟⲟⲩ ⲁⲩⲥⲱⲧⲙ ϫⲉϥϩⲛⲟⲩⲏⲓ
@@ -5795,6 +5835,10 @@
 
 # newdoc id = sahidica.mark:Mark_03
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:nt.mark.sahidica_ed:3
+# meta::source = J Warren Wells, Sahidica - A New Edition of the New Testament in Sahidic Coptic
+# meta::title = Mark Chapter 3
 # sent_id = sahidica_mark-Mark_03_s0001
 # text_en = He entered again into the synagogue, and there was a man there who had his hand withered.
 # text = ⲁⲩⲱ ⲁϥⲃⲱⲕ ⲟⲛ ⲉϩⲟⲩⲛ ⲉⲧⲥⲩⲛⲁⲅⲱⲅⲏ ⲛⲉⲩⲛⲟⲩⲣⲱⲙⲉ ⲇⲉ ⲙⲙⲁⲩ ⲉⲣⲉⲧⲉϥϭⲓϫ ⲙⲟⲟⲩⲧ
@@ -7103,6 +7147,10 @@
 
 # newdoc id = sahidica.mark:Mark_04
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:nt.mark.sahidica_ed:4
+# meta::source = J Warren Wells, Sahidica - A New Edition of the New Testament in Sahidic Coptic
+# meta::title = Mark Chapter 4
 # sent_id = sahidica_mark-Mark_04_s0001
 # text_en = Again he began to teach by the seaside. A great multitude was gathered to him, so that he entered into a boat in the sea, and sat down. All the multitude were on the land by the sea.
 # text = ⲁϥⲁⲣⲭⲉⲥⲑⲁⲓ ⲟⲛ ⲉϯⲥⲃⲱ ϩⲁⲧⲉⲑⲁⲗⲁⲥⲥⲁ . ⲁⲩⲱ ⲁⲩⲛⲟϭ ⲙⲙⲏⲏϣⲉ ⲥⲱⲟⲩϩ ⲉⲣⲟϥ ϩⲱⲥⲧⲉ ⲉⲧⲣⲉϥⲁⲗⲉ ⲉⲡϫⲟⲉⲓ ⲛϥϩⲙⲟⲟⲥ ϩⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ . ⲁⲩⲱ ⲡⲙⲏⲏϣⲉ ⲧⲏⲣϥ ⲛⲉϥⲁϩⲉⲣⲁⲧϥ ϩⲓⲡⲉⲕⲣⲟ ⲛⲧⲉⲑⲁⲗⲁⲥⲥⲁ
@@ -8771,6 +8819,10 @@
 
 # newdoc id = sahidica.1corinthians:1Cor_03
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:nt.1cor.sahidica_ed:3
+# meta::source = J Warren Wells, Sahidica - A New Edition of the New Testament in Sahidic Coptic
+# meta::title = 1 Corinthians 3
 # sent_id = sahidica_1corinthians-1Cor_03_s0001
 # text_en = Brothers, I couldn't speak to you as to spiritual, but as to fleshly, as to babies in Christ.
 # text = ⲁⲛⲟⲕ ϩⲱ ⲛⲁⲥⲛⲏⲩ ⲙⲡⲓϣϭⲙϭⲟⲙ ⲉϣⲁϫⲉ ⲛⲙⲙⲏⲧⲛ ϩⲱⲥ ⲡⲛⲉⲩⲙⲁⲧⲓⲕⲟⲥ . ⲁⲗⲗⲁ ϩⲱⲥ ⲥⲁⲣⲕⲓⲕⲟⲥ ϩⲱⲥ ⲕⲟⲩⲓ ϩⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ .
@@ -9621,6 +9673,10 @@
 
 # newdoc id = sahidica.1corinthians:1Cor_04
 # global.Entity = etype-identity
+# meta::author = N/A
+# meta::document_cts_urn = urn:cts:copticLit:nt.1cor.sahidica_ed:4
+# meta::source = J Warren Wells, Sahidica - A New Edition of the New Testament in Sahidic Coptic
+# meta::title = 1 Corinthians 4
 # sent_id = sahidica_1corinthians-1Cor_04_s0001
 # text_en = So let a man think of us as Christ's servants, and stewards of God's mysteries.
 # text = ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲙⲁⲣⲉⲛⲣⲱⲙⲉ ⲟⲡⲛ ϩⲱⲥ ϩⲩⲡⲏⲣⲉⲧⲏⲥ ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ . ⲁⲩⲱ ⲛⲟⲓⲕⲟⲛⲟⲙⲟⲥ ⲛⲙⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲙⲡⲛⲟⲩⲧⲉ .
@@ -10515,6 +10571,10 @@
 
 # newdoc id = besa.letters:to_thieving_nuns
 # global.Entity = etype-identity
+# meta::author = Besa
+# meta::document_cts_urn = urn:cts:copticLit:besa.thieving.monbba
+# meta::source = MONB.BA 309-313 (Or. 8810 ff. 37- 39r)
+# meta::title = To Thieving Nuns
 # sent_id = besa_letters-to_thieving_nuns_s0001
 # text_en = ...
 # text = ⲱ ⲧⲉⲧⲛⲣⲱϣⲉ ⲛⲧⲱⲧⲛ ⲛⲉⲧⲕⲁⲙⲁ ⲙⲡⲥⲁⲧⲁⲛⲁⲥ ⲉⲧⲣⲉϥⲉⲓ ⲉϩⲟⲩⲛ ⲛϥϫⲱϩⲙ ⲛⲙⲙⲁ ⲉⲧⲟⲩⲁⲁⲃ ⲙⲡⲛⲟⲩⲧⲉ ·
@@ -11665,6 +11725,10 @@
 
 # newdoc id = besa.letters:exhortations
 # global.Entity = etype-identity
+# meta::author = Besa
+# meta::document_cts_urn = urn:cts:copticLit:besa.exhortations.monbba
+# meta::source = MONB.BA 61-62 (IB 6,378 f. 5)
+# meta::title = Exhortations
 # sent_id = besa_letters-exhortations_s0001
 # text_en = world, as we walk in defilement and drunkenness and reveling and drinking and defiled idol worship. (1 Pet 4:3)
 # text = ⲕⲟⲥⲙⲟⲥ ⲉⲛⲙⲟⲟϣⲉ ϩⲛⲛϫⲱϩⲙ ⲙⲛⲛϯϩⲉ · ⲙⲛⲛϫⲏⲣ · ⲙⲛⲛⲥⲱ · ⲙⲛⲙⲙⲛⲧⲣⲉϥϣⲙϣⲉⲉⲓⲇⲱⲗⲟⲛ ⲉⲧϫⲁϩⲙ ·
@@ -12269,6 +12333,10 @@
 
 # newdoc id = life.cyrus:life.cyrus.01
 # global.Entity = etype-identity
+# meta::author = unknown
+# meta::document_cts_urn = urn:cts:copticLit:lives.cyrus.budge:1-9
+# meta::source = MERC.AT 45-53 (OR. 6783 ff. 23a-27a)
+# meta::title = Life of Cyrus in Budge ed. part 1
 # sent_id = life_cyrus-life_cyrus_01_s0001
 # text_en = ...
 # text = ⲡⲃⲓⲟⲥ ⲁⲩⲱ ⲧⲡⲟⲗⲓⲧⲉⲓⲁ ⲙⲡⲉⲛⲡⲉⲧⲟⲩⲁⲁⲃ ⲛⲉⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲩ ⲕⲁⲧⲁⲥⲙⲟⲧ ⲛⲓⲙ ⲡϩⲁⲅⲓⲟⲥ ⲁⲡⲁ ⲕⲩⲣⲟⲥ · ⲡⲧⲉⲗⲓⲟⲥ ⲛⲁⲙⲉ ⲛⲧⲁϥϩⲓⲥⲧⲟⲣⲓⲍⲉ ⲙⲙⲟϥ · ⲛϭⲓⲁⲡⲁ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲛϣⲓⲏⲧ ⲛⲧⲁϥⲙⲧⲟⲛ ⲙⲙⲟϥ ⲛϭⲓⲡⲉⲧⲟⲩⲁⲁⲃ · ⲁⲡⲁ ⲕⲩⲣⲟⲥ ϩⲛⲥⲟⲩϣⲙⲟⲩⲛ ⲙⲡⲉⲃⲟⲧ ⲉⲡⲏⲡ ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ·
