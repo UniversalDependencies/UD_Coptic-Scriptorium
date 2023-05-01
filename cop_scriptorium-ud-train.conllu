@@ -3669,7 +3669,7 @@
 38-39	ⲉⲣⲟⲟⲩ	_	_	_	_	_	_	_	_
 38	ⲉⲣⲟ	ⲉ	ADP	PREP	_	39	case	_	_
 39	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	37	nmod	_	Entity=person)abstract)abstract)
-40	.	.	PUNCT	PUNCT	_	3	punct	_	Orig= =ⲻ
+40	.	.	PUNCT	PUNCT	_	3	punct	_	Orig==ⲻ
 
 # newdoc id = shenoute.eagerness:GF31-32
 # global.Entity = etype-identity
