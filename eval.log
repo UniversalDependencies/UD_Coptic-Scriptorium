@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Coptic-Scriptorium:
-commit 5b9928c9263b7b31f6f2766ae8384266b76e2baa
-Merge: e33f90e 50352bc
+commit 059471e45257708df1d26d71088beb99f5265d30
+Merge: 088e3da 241341a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 55858 of 55858 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.04562551216172.
@@ -15,20 +15,20 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 28113 out of 55858 total words have one or more features.
+Features: 28117 out of 55858 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       7737
-Udapi: found 7737 bugs.
+               TOTAL       7734
+Udapi: found 7734 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 55858 words.
 Genres: found 3 out of 17 known.
-validate.py --lang cop --max-err=10 UD_Coptic-Scriptorium/cop_scriptorium-ud-dev.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang cop --max-err=10 UD_Coptic-Scriptorium/cop_scriptorium-ud-dev.conllu
 *** PASSED ***
-validate.py --lang cop --max-err=10 UD_Coptic-Scriptorium/cop_scriptorium-ud-test.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang cop --max-err=10 UD_Coptic-Scriptorium/cop_scriptorium-ud-test.conllu
 *** PASSED ***
-validate.py --lang cop --max-err=10 UD_Coptic-Scriptorium/cop_scriptorium-ud-train.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang cop --max-err=10 UD_Coptic-Scriptorium/cop_scriptorium-ud-train.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
