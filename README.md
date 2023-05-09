@@ -128,6 +128,10 @@ Further information on relevant annotation standards and NLP tools used prior to
 
 # Changelog
 
+  * CHANGELOG 2.11 -> 2.12
+
+Added document author, work, source and URN metadata; numerous minor corrections.
+
   * CHANGELOG 2.10 -> 2.11
 
 Added the Life of John the Kalybites, part 1, to training partition; punctuation attachment now using udapi; numerous minor corrections.

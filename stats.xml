@@ -10,7 +10,7 @@
     <dev><sentences>381</sentences><tokens>5164</tokens><words>10960</words><fused>3238</fused></dev>
     <test><sentences>403</sentences><tokens>4893</tokens><words>10372</words><fused>3097</fused></test>
   </size>
-  <lemmas unique="2496" /><!-- ⲡ, ⲛ, ⲛⲧⲟϥ, ·, ⲁ, ⲛⲧⲟⲟⲩ, ⲉ, ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ⲟⲩ, ⲛⲁ, ϩⲛ, ⲁⲛⲟⲕ, ϫⲉ, ⲁⲩⲱ -->
+  <lemmas unique="2493" /><!-- ⲡ, ⲛ, ⲛⲧⲟϥ, ·, ⲁ, ⲛⲧⲟⲟⲩ, ⲉ, ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ⲟⲩ, ⲛⲁ, ϩⲛ, ⲁⲛⲟⲕ, ϫⲉ, ⲁⲩⲱ -->
   <forms unique="2799" /><!-- ⲛ, ϥ, ·, ⲉ, ⲡ, ⲁ, ⲟⲩ, ⲙ, ⲛⲁ, ⲩ, ϫⲉ, ⲁⲩⲱ, ⲥ, ., ⲧ -->
   <fusions unique="8837" /><!-- ⲛⲁϥ, ⲙⲙⲟⲥ, ⲉⲣⲟϥ, ⲙⲙⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲛⲁⲓ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲉϥϫⲱ, ⲛⲁⲕ, ⲛϩⲏⲧϥ, ⲉⲣⲟⲓ -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -19,12 +19,12 @@
     <tag name="ADP">8202</tag><!-- ⲛ, ⲉ, ϩⲛ, ⲙⲛ, ⲛⲁ, ⲉⲧⲃⲉ, ⲛⲥⲁ, ϩⲓ, ⲉϫⲛ, ϣⲁ -->
     <tag name="ADV">2205</tag><!-- ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲧⲏⲣ, ⲟⲛ, ⲛ, ⲉϩⲣⲁⲓ, ⲙⲙⲁⲩ, ⲧⲙ, ϩⲱⲱ -->
     <tag name="AUX">3417</tag><!-- ⲁ, ⲛⲁ, ⲛⲧⲉ, ⲛⲧⲉⲣⲉ, ⲛⲉⲣⲉ, ⲙⲡⲉ, ϣⲁⲣⲉ, ⲙⲁⲣⲉ, ⲛⲛⲉ, ϣ -->
-    <tag name="CCONJ">1317</tag><!-- ⲁⲩⲱ, ⲁⲗⲗⲁ, ⲏ, ⲟⲩⲇⲉ, ϫⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲡⲗⲏⲛ, ⲕⲁⲓ, ⲟⲩⲧⲉ -->
-    <tag name="DET">7189</tag><!-- ⲡ, ⲟⲩ, ⲡⲉϥ, ⲡⲁ, ⲡⲁⲓ, ⲡⲉⲓ, ⲡⲉⲕ, ⲡⲉⲛ, ⲡⲉⲩ, ⲕⲉ -->
+    <tag name="CCONJ">1316</tag><!-- ⲁⲩⲱ, ⲁⲗⲗⲁ, ⲏ, ⲟⲩⲇⲉ, ϫⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲡⲗⲏⲛ, ⲕⲁⲓ, ⲟⲩⲧⲉ -->
+    <tag name="DET">7188</tag><!-- ⲡ, ⲟⲩ, ⲡⲉϥ, ⲡⲁ, ⲡⲁⲓ, ⲡⲉⲓ, ⲡⲉⲕ, ⲡⲉⲛ, ⲡⲉⲩ, ⲕⲉ -->
     <tag name="NOUN">7856</tag><!-- ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ⲥⲟⲛ, ϩⲏⲧ, ϩⲱⲃ, ϣⲏⲣⲉ, ⲉⲓⲱⲧ -->
     <tag name="NUM">282</tag><!-- ⲟⲩⲁ, ⲥⲛⲁⲩ, ϣⲉ, ϣⲟⲙⲛⲧ, ⲙⲏⲧ, ⲙⲛⲧⲥⲛⲟⲟⲩⲥ, ⲥⲁϣϥ, ⲧⲃⲁ, ϩⲙⲉ, ⲙⲁⲁⲃ -->
-    <tag name="PART">1968</tag><!-- ⲇⲉ, ⲉ, ⲉⲣⲉ, ⲛϭⲓ, ⲅⲁⲣ, ϭⲉ, ⲱ, ⲉⲓⲥ, ⲙⲉⲛ, ϩⲁⲙⲏⲛ -->
-    <tag name="PRON">9169</tag><!-- ⲛⲧⲟϥ, ⲛⲧⲟⲟⲩ, ⲁⲛⲟⲕ, ⲛⲧⲟⲥ, ⲛⲧⲟⲕ, ⲡⲉ, ⲛⲧⲱⲧⲛ, ⲁⲛⲟⲛ, ⲛⲓⲙ, ⲛⲧⲟ -->
+    <tag name="PART">1969</tag><!-- ⲇⲉ, ⲉ, ⲉⲣⲉ, ⲛϭⲓ, ⲅⲁⲣ, ϭⲉ, ⲱ, ⲉⲓⲥ, ⲙⲉⲛ, ϩⲁⲙⲏⲛ -->
+    <tag name="PRON">9170</tag><!-- ⲛⲧⲟϥ, ⲛⲧⲟⲟⲩ, ⲁⲛⲟⲕ, ⲛⲧⲟⲥ, ⲛⲧⲟⲕ, ⲡⲉ, ⲛⲧⲱⲧⲛ, ⲁⲛⲟⲛ, ⲛⲓⲙ, ⲛⲧⲟ -->
     <tag name="PROPN">733</tag><!-- ⲓⲏⲥⲟⲩⲥ, ⲓⲱϩⲁⲛⲛⲏⲥ, ⲃⲟⲉⲥ, ϩⲣⲟⲩⲑ, ⲛⲟⲉⲙⲓⲛ, ⲡⲁⲙⲃⲱ, ⲓⲁⲕⲱⲃ, ⲥⲁⲧⲁⲛⲁⲥ, ⲇⲏⲙⲏⲧⲣⲓⲟⲥ, ⲇⲓⲁⲃⲟⲗⲟⲥ -->
     <tag name="PUNCT">3514</tag><!-- ·, ., ,, —, :, ⲻ, ◈, ⁛—, ⁛, ═════ -->
     <tag name="SCONJ">3271</tag><!-- ⲉⲧⲉⲣⲉ, ϫⲉ, ⲉⲣⲉ, ϫⲉⲕⲁⲁⲥ, ⲉϣⲱⲡⲉ, ϩⲱⲥⲧⲉ, ϩⲱⲥ, ⲉϣϫⲉ, ⲉⲛⲉ, ⲉⲓⲙⲏⲧⲓ -->
@@ -33,28 +33,28 @@
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="27">
-    <feat name="Definite" value="Def" upos="ADV,DET,PRON">14463</feat><!-- ϥ, ⲡ, ⲛ, ⲩ, ⲥ, ⲧ, ⲓ, ⲟⲩ, ⲕ, ⲡⲉ -->
+    <feat name="Definite" value="Def" upos="ADV,DET,PRON">14466</feat><!-- ϥ, ⲡ, ⲛ, ⲩ, ⲥ, ⲧ, ⲓ, ⲟⲩ, ⲕ, ⲡⲉ -->
     <feat name="Definite" value="Ind" upos="DET">928</feat><!-- ⲟⲩ, ϩⲉⲛ, ⲩ -->
-    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB,X">4599</feat><!-- ⲇⲉ, ⲅⲁⲣ, ⲁⲗⲗⲁ, ⲏ, ⲓⲏⲥⲟⲩⲥ, ⲭⲣⲓⲥⲧⲟⲥ, ⲓⲱϩⲁⲛⲛⲏⲥ, ⲟⲩⲇⲉ, ⲕⲁⲧⲁ, ⲡⲛⲉⲩⲙⲁ -->
+    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB,X">4600</feat><!-- ⲇⲉ, ⲅⲁⲣ, ⲁⲗⲗⲁ, ⲏ, ⲓⲏⲥⲟⲩⲥ, ⲭⲣⲓⲥⲧⲟⲥ, ⲓⲱϩⲁⲛⲛⲏⲥ, ⲟⲩⲇⲉ, ⲕⲁⲧⲁ, ⲡⲛⲉⲩⲙⲁ -->
     <feat name="Gender" value="Fem" upos="DET,PRON">2295</feat><!-- ⲥ, ⲧ, ⲧⲉ, ⲧⲉϥ, ⲧⲉⲓ, ⲧⲁ, ⲉ, ⲧⲉⲕ, ⲧⲁⲓ, ⲧⲉⲩ -->
-    <feat name="Gender" value="Masc" upos="DET,PRON">7293</feat><!-- ϥ, ⲡ, ⲡⲉ, ⲕ, ⲡⲁ, ⲡⲉϥ, ⲡⲁⲓ, ⲡⲉⲓ, ⲡⲉⲕ, ⲅ -->
+    <feat name="Gender" value="Masc" upos="DET,PRON">7294</feat><!-- ϥ, ⲡ, ⲡⲉ, ⲕ, ⲡⲁ, ⲡⲉϥ, ⲡⲁⲓ, ⲡⲉⲓ, ⲡⲉⲕ, ⲅ -->
     <feat name="Gender[psor]" value="Fem" upos="DET">112</feat><!-- ⲧⲉⲥ, ⲡⲟⲩ, ⲡⲉⲥ, ⲧⲟⲩ, ⲛⲟⲩ, ⲛⲉⲥ -->
     <feat name="Gender[psor]" value="Masc" upos="DET">581</feat><!-- ⲡⲉϥ, ⲛⲉϥ, ⲧⲉϥ, ⲡⲉⲕ, ⲧⲉⲕ, ⲛⲉⲕ, ⲡⲱⲕ, ⲡⲱϥ, ⲛⲟⲩⲕ, ⲧⲱϥ -->
-    <feat name="Number" value="Plur" upos="DET,PRON">3982</feat><!-- ⲛ, ⲩ, ⲟⲩ, ⲧⲛ, ⲛⲉ, ⲧⲉⲧⲛ, ⲥⲉ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ -->
-    <feat name="Number" value="Sing" upos="DET,PRON">11484</feat><!-- ϥ, ⲡ, ⲥ, ⲧ, ⲟⲩ, ⲡⲉ, ⲓ, ⲕ, ⲧⲉ, ϩⲉⲛ -->
+    <feat name="Number" value="Plur" upos="DET,PRON">3984</feat><!-- ⲛ, ⲩ, ⲟⲩ, ⲧⲛ, ⲛⲉ, ⲧⲉⲧⲛ, ⲥⲉ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ -->
+    <feat name="Number" value="Sing" upos="DET,PRON">11485</feat><!-- ϥ, ⲡ, ⲥ, ⲧ, ⲟⲩ, ⲡⲉ, ⲓ, ⲕ, ⲧⲉ, ϩⲉⲛ -->
     <feat name="Number[psor]" value="Plur" upos="DET">326</feat><!-- ⲡⲉⲛ, ⲛⲉⲛ, ⲛⲉⲩ, ⲡⲉⲩ, ⲧⲉⲩ, ⲛⲉⲧⲛ, ⲡⲉⲧⲛ, ⲧⲉⲛ, ⲧⲉⲧⲛ, ⲡⲱⲧⲛ -->
-    <feat name="Number[psor]" value="Sing" upos="DET">993</feat><!-- ⲡⲉϥ, ⲡⲁ, ⲛⲉϥ, ⲧⲉϥ, ⲡⲉⲕ, ⲛⲁ, ⲧⲁ, ⲧⲉⲕ, ⲛⲉⲕ, ⲧⲉⲥ -->
+    <feat name="Number[psor]" value="Sing" upos="DET">994</feat><!-- ⲡⲉϥ, ⲡⲁ, ⲛⲉϥ, ⲧⲉϥ, ⲡⲉⲕ, ⲛⲁ, ⲧⲁ, ⲧⲉⲕ, ⲛⲉⲕ, ⲧⲉⲥ -->
     <feat name="NumType" value="Card" upos="NUM">282</feat><!-- ⲟⲩⲁ, ⲥⲛⲁⲩ, ϣⲉ, ϣⲟⲙⲛⲧ, ⲙⲛⲧⲥⲛⲟⲟⲩⲥ, ⲙⲏⲧ, ⲥⲁϣϥ, ⲧⲃⲁ, ⲥⲛⲧⲉ, ϩⲙⲉ -->
-    <feat name="Person" value="1" upos="DET,PRON">1851</feat><!-- ⲓ, ⲛ, ⲡⲁ, ϯ, ⲧⲁ, ⲧⲛ, ⲁⲛⲟⲕ, ⲡⲉⲛ, ⲛⲁ, ⲛⲉⲛ -->
-    <feat name="Person" value="2" upos="DET,PRON">1561</feat><!-- ⲕ, ⲧⲉⲧⲛ, ⲧⲛ, ⲡⲉⲕ, ⲅ, ⲧⲏⲩⲧⲛ, ⲉ, ⲧⲉⲕ, ⲛⲉⲕ, ⲛⲧⲱⲧⲛ -->
-    <feat name="Person" value="3" upos="DET,PRON">5833</feat><!-- ϥ, ⲩ, ⲥ, ⲟⲩ, ⲡⲉϥ, ⲥⲉ, ⲛⲉϥ, ⲧⲉϥ, ⲛⲧⲟϥ, ⲛⲉⲩ -->
+    <feat name="Person" value="1" upos="DET,PRON">1847</feat><!-- ⲓ, ⲛ, ⲡⲁ, ϯ, ⲧⲁ, ⲁⲛⲟⲕ, ⲡⲉⲛ, ⲧⲛ, ⲛⲁ, ⲛⲉⲛ -->
+    <feat name="Person" value="2" upos="DET,PRON">1566</feat><!-- ⲕ, ⲧⲉⲧⲛ, ⲧⲛ, ⲡⲉⲕ, ⲅ, ⲧⲏⲩⲧⲛ, ⲉ, ⲧⲉⲕ, ⲛⲉⲕ, ⲛⲧⲱⲧⲛ -->
+    <feat name="Person" value="3" upos="DET,PRON">5834</feat><!-- ϥ, ⲩ, ⲥ, ⲟⲩ, ⲡⲉϥ, ⲥⲉ, ⲛⲉϥ, ⲧⲉϥ, ⲛⲧⲟϥ, ⲛⲉⲩ -->
     <feat name="Polarity" value="Neg" upos="ADV,AUX,CCONJ,PART,PRON,SCONJ,VERB,X">936</feat><!-- ⲁⲛ, ⲛ, ⲙⲡ, ⲟⲩⲇⲉ, ⲧⲙ, ⲙⲡⲣ, ⲙⲛ, ⲙⲡⲉ, ⲛⲛⲉ, ⲙⲉ -->
-    <feat name="Poss" value="Yes" upos="DET,PRON">1764</feat><!-- ⲡⲁ, ⲡⲉϥ, ϥ, ⲛⲉϥ, ⲟⲩ, ⲧⲉϥ, ⲡⲉⲕ, ⲛⲁ, ⲡⲉⲛ, ⲧⲁ -->
-    <feat name="PronType" value="Art" upos="DET">5249</feat><!-- ⲡ, ⲧ, ⲛ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲛⲉ, ⲧⲉ, ⲩ, ⲕⲉ -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">1765</feat><!-- ⲡⲁ, ⲡⲉϥ, ϥ, ⲛⲉϥ, ⲟⲩ, ⲧⲉϥ, ⲡⲉⲕ, ⲛⲁ, ⲡⲉⲛ, ⲧⲁ -->
+    <feat name="PronType" value="Art" upos="DET">5250</feat><!-- ⲡ, ⲧ, ⲛ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲛⲉ, ⲧⲉ, ⲩ, ⲕⲉ -->
     <feat name="PronType" value="Dem" upos="DET">542</feat><!-- ⲡⲁⲓ, ⲛⲁⲓ, ⲡⲉⲓ, ⲧⲉⲓ, ⲧⲁⲓ, ⲛⲉⲓ, ⲡⲓ, ⲛⲓ, ⲡⲏ, ⲛⲏ -->
     <feat name="PronType" value="Ind" upos="PRON">145</feat><!-- ⲛⲓⲙ, ⲟⲩ -->
     <feat name="PronType" value="Int" upos="ADV,PRON">184</feat><!-- ⲟⲩ, ⲛⲓⲙ, ⲁϣ, ⲟⲩⲏⲣ, ⲧⲱⲛ, ⲁⲟⲩⲏⲣ, ⲡⲱⲥ -->
-    <feat name="PronType" value="Prs" upos="ADV,DET,PRON">9702</feat><!-- ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲡⲁ -->
+    <feat name="PronType" value="Prs" upos="ADV,DET,PRON">9704</feat><!-- ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲡⲁ -->
     <feat name="PronType" value="Rcp" upos="NOUN">53</feat><!-- ⲉⲣⲏⲩ -->
     <feat name="PronType" value="Tot" upos="ADV">149</feat><!-- ⲧⲏⲣ -->
     <feat name="Reflex" value="Yes" upos="ADV,PRON">14</feat><!-- ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ -->
