@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Coptic-Scriptorium:
-commit 059471e45257708df1d26d71088beb99f5265d30
-Merge: 088e3da 241341a
+commit 7c19b4cacbf7948b335202fcf22ba53c46efabcc
+Merge: 337a2cc aafcc87
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 55858 of 55858 words (nodes).
-Size: min(0, log((N/1000)**2)) = 8.04562551216172.
+Size: counted 57096 of 57096 words (nodes).
+Size: min(0, log((N/1000)**2)) = 8.08946812333753.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -15,30 +15,40 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 28117 out of 55858 total words have one or more features.
+Features: 28806 out of 57096 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
-Universal relations: 33 out of 37 found in the corpus.
+Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       7734
-Udapi: found 7734 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 55858 words.
+               TOTAL       7915
+Udapi: found 7915 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 57096 words.
 Genres: found 3 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang cop --max-err=10 UD_Coptic-Scriptorium/cop_scriptorium-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang cop --max-err=10 UD_Coptic-Scriptorium/cop_scriptorium-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang cop --max-err=10 UD_Coptic-Scriptorium/cop_scriptorium-ud-train.conllu
+[Line 1564 Sent shenoute_fox-XH204-216_s0035 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 4] 'ⲉⲃⲟⲗ * * ϫⲉ'
+[Line 3947 Sent shenoute_eagerness-GF31-32_s0014 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 4] 'ⲉⲃⲟⲗ * * ϫⲉ'
+[Line 30519 Sent pseudo_athanasius_discourses-mercy_judgment_s0022 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'ⲉⲃⲟⲗ * ϫⲉ'
+[Line 32867 Sent pseudo_athanasius_discourses-mercy_judgment_s0084 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'ⲉⲃⲟⲗ * ϩⲓⲧⲛ'
+[Line 33326 Sent sahidic_ruth-Ruth_01_s0001 Node 27]: [L3 Warning fixed-gap] Gaps in fixed expression [27, 29] 'ⲉⲃⲟⲗ * ϩⲛ'
+[Line 34599 Sent sahidic_ruth-Ruth_02_s0001 Node 28]: [L3 Warning fixed-gap] Gaps in fixed expression [28, 30] 'ⲉⲃⲟⲗ * ϩⲛ'
+[Line 40224 Sent proclus_homilies-proclus_13_easter_s0070 Node 5]: [L3 Warning fixed-gap] Gaps in fixed expression [5, 7] 'ⲉⲃⲟⲗ * ϩⲛ'
+[Line 40259 Sent proclus_homilies-proclus_13_easter_s0072 Node 5]: [L3 Warning fixed-gap] Gaps in fixed expression [5, 7] 'ⲉⲃⲟⲗ * ϩⲛ'
+[Line 43333 Sent pseudo_flavianus-psflavianus_encomium_01_s0044 Node 8]: [L3 Warning fixed-gap] Gaps in fixed expression [8, 10] 'ⲉⲃⲟⲗ * ϩⲛ'
+Warnings: 9
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.582361793898643) = 0.149323536897088
+(weight=0.256410256410256) * (score{size}=0.585535227916291) = 0.150137237927254
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.447855190722859) * (availability=1) * (validity=1) = 0.447855190722859
-STARS = 2
-UD_Coptic-Scriptorium	0.447855190722859	2
+(weight=0.0769230769230769) * (score{udeprels}=0.918918918918919) = 0.0706860706860707
+(TOTAL score=0.450747893832028) * (availability=1) * (validity=1) = 0.450747893832028
+STARS = 2.5
+UD_Coptic-Scriptorium	0.450747893832028	2.5
