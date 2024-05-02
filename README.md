@@ -21,7 +21,7 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | ------------------------- | --------------------------- | ------- |
 | Not Because a Fox Barks   | MONB XH204-216              |   2,545 |
 | Abraham our Father        | MONB XL93-94, YA518-520     |   1,197 |
-| Acephalous Work 22        | MONB YA421-428              |   1,698 |
+| Acephalous Work 22        | MONB YA421-428              |   1,699 |
 | I See Your Eagerness      | MONB GF31-32                |     439 |
 | Epistle of Pseudo-Ephrem  | psephrem.letter             |   1,925 |
 | Gospel of Mark            | Chapters 1 - 9              |  10,810 |
@@ -37,13 +37,13 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | Proclus Homilies          | #13 On Easter               |   2,344 |
 | Pseudo-Flavianus          | Part 1 of 2                 |   3,537 |
 | Life of John the Kalybites| Part 1 of 2                 |   3,694 |
-|                           | Total:                      |  57,096 |
+|                           | Total:                      |  57,097 |
 
 ## Tokenization
 
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.
 
-The Coptic Treebank now annotates these bound groups as 'multi-word' tokens. However, morphological units below the POS level, including affixes and fused compounds (incorporation), are now annotated in the treebank in the MISC column, using an attribute MSeg=A-B-C, where A, B and C are constituent morphemes of a complex word. There is also a further attribute in the MISC column, called Orig, which appears whenever normalization has taken place and renders the word form as it appeared in the original manuscript. This can include removal of optional diacritics and contracted forms of nomina sacra, which appear expanded in the word form column.
+The Coptic Treebank now annotates these bound groups as 'multi-word' tokens. However, morphological units below the POS level, including affixes and fused compounds (incorporation), are now annotated in the treebank in the MISC column, using an attribute `MSeg=A-B-C`, where A, B and C are constituent morphemes of a complex word. There is also a further attribute in the MISC column, called Orig, which appears whenever normalization has taken place and renders the word form as it appeared in the original manuscript. This can include removal of optional diacritics and contracted forms of nomina sacra, which appear expanded in the word form column.
 
 Note that for some fused forms carrying multiple parts of speech, the native Coptic POS tag set assigns portmanteau tags, such as APST_PPERS (auxiliary, past, fused with a subject personal pronoun). In the UD guidelines for Coptic, these forms are tolerated by always selecting the argument as the function-determining unit. Thus APST_PPERS, the past auxiliary with fused pronoun, is attached as *nsubj*, ignoring the *aux* dependency. In a future version, we are considering integrating a more subtle analysis using enhanced dependencies.
 
@@ -127,6 +127,10 @@ Further information on relevant annotation standards and NLP tools used prior to
   * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
+
+  * CHANGELOG 2.13 -> 2.14
+
+Added nmod:poss for possessive determiners and changed xpos IMOD to NOUN + obl:npmod instead of ADV + advmod; minor corrections.
 
   * CHANGELOG 2.12 -> 2.13
 
