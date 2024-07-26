@@ -110,7 +110,7 @@ To cite the treebank please refer to the following paper:
 
   * Zeldes, Amir & Abrams, Mitchell (2018). "The Coptic Universal Dependency Treebank". In: *Proceedings of the Universal Dependencies Workshop 2018*. Brussels, Belgium, 192-201.
 
-```
+```bibtex
 @InProceedings{ZeldesAbrams2018,
   author    = {Amir Zeldes and Mitchell Abrams},
   title     = {The {C}optic {U}niversal {D}ependency {T}reebank},
@@ -127,6 +127,10 @@ Further information on relevant annotation standards and NLP tools used prior to
   * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
+
+  * CHANGELOG 2.14 -> 2.15
+
+Changed :npmod subtype to :unmarked; minor corrections.
 
   * CHANGELOG 2.13 -> 2.14
 
