@@ -96,6 +96,10 @@ These annotations appear in the MISC column and are bracketed in the conllua con
 16	.	.	PUNCT	PUNCT	_	3	punct	_	Orig=·ⲻ
 ```
 
+## Cxn
+
+We use the MISC field `Cxn` annotation to distinguish some complex constructions in a Construction Grammar (CxG) framework developed by collaborators from [Dagstuhl Seminar 23191](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23191) for the integration of CxG analyses into UD trees. Construction labels are always attached to the highest token belonging to the necessary or defining elements of the construction, and carry hierarchical designations, such as a prefix `Cxn=Conditional` for all conditional constructions, but a more specific `Cxn=Conditional-NegativeEpistemic` for negative epistemic conditionals (the unrealized type seen in "if one had, then one would have"). Individual elements of a construction, such as the Protasis or the Apodosis are annotated using the `CxnElt` MISC annotation. For more information and for work using these annotations, please refer to [Weissweiler et al. 2024](https://aclanthology.org/2024.lrec-main.1471).
+
 # Acknowledgments
 
 The underlying POS tagged material was produced as part of the projects Coptic Scriptorium, KOMeT and KELLIA, funded by the NEH in the USA and BMBF and DFG in Germany (see http://copticscriptorium.org/ for more details). Treebank annotation was done mainly by Mitchell Abrams, Liz Davidson and Amir Zeldes. Thanks are also due to Israel Avrahamy, Asael Benyami, Yinon Kahan and Oran Szachter for their contributions.
@@ -130,7 +134,7 @@ Further information on relevant annotation standards and NLP tools used prior to
 
   * CHANGELOG 2.14 -> 2.15
 
-Changed :npmod subtype to :unmarked; minor corrections.
+Changed :npmod subtype to :unmarked; added UCxn annotations; minor corrections.
 
   * CHANGELOG 2.13 -> 2.14
 
