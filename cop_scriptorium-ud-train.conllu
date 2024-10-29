@@ -33016,7 +33016,7 @@
 19-21	ⲛⲛϣⲁⲉⲛⲉϩ	_	_	_	_	_	_	_	_
 19	ⲛ	ⲛ	ADP	PREP	_	21	case	_	_
 20	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	21	det	_	Entity=(time|Orig=ⲛ̅
-21	ϣⲁⲉⲛⲉϩ	ϣⲁⲉⲛⲉϩ	NOUN	N	_	22	case	_	Entity=time)abstract)|MSeg=ϣⲁ-ⲉⲛⲉϩ
+21	ϣⲁⲉⲛⲉϩ	ϣⲁⲉⲛⲉϩ	NOUN	N	_	18	nmod	_	Entity=time)abstract)|MSeg=ϣⲁ-ⲉⲛⲉϩ
 22	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
 # sent_id = pseudo_athanasius_discourses-mercy_judgment_s0087
