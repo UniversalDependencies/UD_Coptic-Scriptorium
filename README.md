@@ -4,7 +4,7 @@ UD Coptic contains manually annotated Sahidic Coptic texts, including Biblical t
 
 # Introduction
 
-The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahidic Coptic texts, currently containing excerpts from the Sahidic New Testament Gospel of Mark, Works by Archmandrite Shenoute of Atripe, the Letters of Besa, lives of Sts. Cyrus and Onnophrius, Epistle of Pseudo-Ephrem, the Dormition of John the Apostle and short stories from the Apophthegmata Patrum (Sayings of the Desert Fathers). Detailed information about the treebank is available here:
+The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahidic Coptic texts, currently containing excerpts from the Sahidic New Testament Gospel of Mark and 1 Corinthians, the Old Testament Book of Ruth, Works by Archmandrite Shenoute of Atripe, the Letters of Besa, lives of Sts. Cyrus, Onnophrius and John the Kalybites, Epistle of Pseudo-Ephrem, homilies and discourses by Proclus, Pseudo-Athanasius and Pseudo-Flavianus, the Dormition of John the Apostle and short stories from the Apophthegmata Patrum (Sayings of the Desert Fathers). Detailed information about the treebank is available here:
 
 http://copticscriptorium.org/treebank.html
 
@@ -17,33 +17,33 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 # Further details
 
 ## Basic statistics
-|      subcorpus            |        documents            | tokens  |
-| ------------------------- | --------------------------- | ------- |
-| Not Because a Fox Barks   | MONB XH204-216              |   2,545 |
-| Abraham our Father        | MONB XL93-94, YA518-520     |   1,197 |
-| Acephalous Work 22        | MONB YA421-428              |   1,699 |
-| I See Your Eagerness      | MONB GF31-32                |     439 |
-| Epistle of Pseudo-Ephrem  | psephrem.letter             |   1,925 |
-| Gospel of Mark            | Chapters 1 - 9              |  10,810 |
-| 1 Corinthians             | Chapters 1 - 7              |   4,809 |
-| Book of Ruth              | Chapters 1 - 4 (complete)   |   3,470 |
-| Letters of Besa           | #1,2,13,15,25               |   3,936 |
-| Life of Cyrus             | life.cyrus.01               |   1,962 |
-| Life of Onnophrius        | life.onnophrius.01          |   2,745 |
-| Apophthegmata Patrum      | #1-6,18-19,23-32,114-139    |   4,153 |
-| Martyrdom of St. Victor   | Chapters 1 - 6              |   1,986 |
-| Dormition of John         | dormition.john.mercad       |   3,064 |
-| Pseudo-Athanasius         | mercy_judgment              |   2,782 |
-| Proclus Homilies          | #13 On Easter               |   2,344 |
-| Pseudo-Flavianus          | Part 1 of 2                 |   3,537 |
-| Life of John the Kalybites| Part 1 of 2                 |   3,694 |
-|                           | Total:                      |  57,097 |
+|         subcorpus            |        documents            | tokens  |
+| ---------------------------- | --------------------------- | ------- |
+| 1 Corinthians                | Chapters 1 - 7              |   4,814 |
+| Abraham our Father           | MONB XL93-94, YA518-520     |   1,197 |
+| Acephalous Work 22           | MONB YA421-428              |   1,699 |
+| Apophthegmata Patrum         | #1-6,18-19,23-32,114-139    |   4,153 |
+| Book of Ruth                 | Chapters 1 - 4 (complete)   |   3,470 |
+| Dormition of John            | dormition.john.mercad       |   3,064 |
+| Epistle of Pseudo-Ephrem     | psephrem.letter             |   1,926 |
+| Gospel of Mark               | Chapters 1 - 9              |  10,810 |
+| I See Your Eagerness         | MONB GF31-32                |     439 |
+| Letters of Besa              | #1,2,13,15,25               |   3,936 |
+| Life of Cyrus                | Part 1 of 2                 |   1,962 |
+| Life of John the Kalybites   | Part 1 of 2                 |   3,694 |
+| Life of Onnophrius           | Part 1 of 4                 |   2,746 |
+| Martyrdom of St. Victor      | Chapters 1 - 6              |   1,986 |
+| Not Because a Fox Barks      | MONB XH204-216              |   2,545 |
+| Proclus Homilies             | #13 On Easter               |   2,344 |
+| Pseudo-Athanasius            | mercy_judgment              |   2,781 |
+| Pseudo-Flavianus             | Part 1 of 2                 |   3,537 |
+|                              | Total:                      |  57,103 |
 
 ## Tokenization
 
 Coptic was originally written in scriptio continua, without spaces, and modern conventions fuse multiple tokens into so-called bound groups, collapsing clitic pronouns, prepositions and other morphemes into single orthographic units.
 
-The Coptic Treebank now annotates these bound groups as 'multi-word' tokens. However, morphological units below the POS level, including affixes and fused compounds (incorporation), are now annotated in the treebank in the MISC column, using an attribute `MSeg=A-B-C`, where A, B and C are constituent morphemes of a complex word. There is also a further attribute in the MISC column, called Orig, which appears whenever normalization has taken place and renders the word form as it appeared in the original manuscript. This can include removal of optional diacritics and contracted forms of nomina sacra, which appear expanded in the word form column.
+The Coptic Treebank annotates these bound groups as 'multi-word' tokens (MWTs). However, morphological units below the POS level, including affixes and fused compounds (incorporation), are annotated in the treebank in the MISC column, using an attribute `MSeg=A-B-C`, where A, B and C are constituent morphemes of a complex word. There is also a further attribute in the MISC column, called Orig, which appears whenever normalization has taken place and renders the word form as it appeared in the original manuscript. This can include removal of optional diacritics and contracted forms of nomina sacra, which appear expanded in the word form column.
 
 Note that for some fused forms carrying multiple parts of speech, the native Coptic POS tag set assigns portmanteau tags, such as APST_PPERS (auxiliary, past, fused with a subject personal pronoun). In the UD guidelines for Coptic, these forms are tolerated by always selecting the argument as the function-determining unit. Thus APST_PPERS, the past auxiliary with fused pronoun, is attached as *nsubj*, ignoring the *aux* dependency. In a future version, we are considering integrating a more subtle analysis using enhanced dependencies.
 
@@ -131,6 +131,10 @@ Further information on relevant annotation standards and NLP tools used prior to
   * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
+
+  * CHANGELOG 2.15 -> 2.16
+
+Added ExtPos for fixed expressions; minor corrections.
 
   * CHANGELOG 2.14 -> 2.15
 

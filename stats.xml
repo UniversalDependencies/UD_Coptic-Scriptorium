@@ -5,36 +5,39 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>2203</sentences><tokens>26837</tokens><words>57098</words><fused>16846</fused></total>
-    <train><sentences>1419</sentences><tokens>16828</tokens><words>35765</words><fused>10499</fused></train>
-    <dev><sentences>381</sentences><tokens>5137</tokens><words>10961</words><fused>3245</fused></dev>
+    <total><sentences>2203</sentences><tokens>26837</tokens><words>57103</words><fused>16851</fused></total>
+    <train><sentences>1419</sentences><tokens>16828</tokens><words>35768</words><fused>10502</fused></train>
+    <dev><sentences>381</sentences><tokens>5137</tokens><words>10963</words><fused>3247</fused></dev>
     <test><sentences>403</sentences><tokens>4872</tokens><words>10372</words><fused>3102</fused></test>
   </size>
-  <lemmas unique="2510" /><!-- ⲡ, ⲛ, ⲛⲧⲟϥ, ·, ⲁ, ⲛⲧⲟⲟⲩ, ⲉ, ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ⲟⲩ, ⲛⲁ, ϩⲛ, ⲁⲛⲟⲕ, ϫⲉ, ⲁⲩⲱ -->
-  <forms unique="2822" /><!-- ⲛ, ϥ, ·, ⲡ, ⲉ, ⲁ, ⲟⲩ, ⲙ, ⲛⲁ, ⲩ, ϫⲉ, ⲁⲩⲱ, ⲥ, ., ⲧ -->
+  <lemmas unique="2505" /><!-- ⲡ, ⲛ, ⲛⲧⲟϥ, ·, ⲁ, ⲛⲧⲟⲟⲩ, ⲉ, ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ⲟⲩ, ⲛⲁ, ϩⲛ, ⲁⲛⲟⲕ, ϫⲉ, ⲁⲩⲱ -->
+  <forms unique="2821" /><!-- ⲛ, ϥ, ·, ⲡ, ⲉ, ⲁ, ⲟⲩ, ⲙ, ⲛⲁ, ⲩ, ϫⲉ, ⲁⲩⲱ, ⲥ, ., ⲧ -->
   <fusions unique="9028" /><!-- ⲛⲁϥ, ⲙⲙⲟⲥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲛⲁⲓ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
     <tag name="ADJ">38</tag><!-- ϣⲏⲙ, ⲕⲁⲑⲟⲗⲓⲕⲏ, ⲕⲟⲩⲓ, ⲟⲩⲱⲧ -->
-    <tag name="ADP">8353</tag><!-- ⲛ, ⲉ, ϩⲛ, ⲙⲛ, ⲛⲁ, ⲉⲧⲃⲉ, ⲛⲥⲁ, ϩⲓ, ⲉϫⲛ, ϣⲁ -->
-    <tag name="ADV">2000</tag><!-- ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲛ, ⲟⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ⲧⲙ, ⲙⲡⲣ, ⲉⲙⲁⲧⲉ -->
+    <tag name="ADP">8365</tag><!-- ⲛ, ⲉ, ϩⲛ, ⲙⲛ, ⲛⲁ, ⲉⲧⲃⲉ, ⲛⲥⲁ, ϩⲓ, ⲉϫⲛ, ϣⲁ -->
+    <tag name="ADV">1996</tag><!-- ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲛ, ⲟⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ⲧⲙ, ⲙⲡⲣ, ⲉⲙⲁⲧⲉ -->
     <tag name="AUX">3482</tag><!-- ⲁ, ⲛⲁ, ⲛⲧⲉ, ⲛⲧⲉⲣⲉ, ⲛⲉⲣⲉ, ⲙⲡⲉ, ϣⲁⲣⲉ, ⲙⲁⲣⲉ, ϣ, ⲛⲛⲉ -->
     <tag name="CCONJ">1347</tag><!-- ⲁⲩⲱ, ⲁⲗⲗⲁ, ⲏ, ⲟⲩⲇⲉ, ϫⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲡⲗⲏⲛ, ⲕⲁⲓ, ⲟⲩⲧⲉ -->
     <tag name="DET">7376</tag><!-- ⲡ, ⲟⲩ, ⲡⲉϥ, ⲡⲁ, ⲡⲁⲓ, ⲡⲉⲓ, ⲡⲉⲕ, ⲡⲉⲛ, ⲡⲉⲩ, ⲕⲉ -->
-    <tag name="NOUN">8291</tag><!-- ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ⲥⲟⲛ, ⲧⲏⲣ, ϩⲏⲧ, ϩⲱⲃ, ϣⲏⲣⲉ -->
+    <tag name="NOUN">8296</tag><!-- ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ⲥⲟⲛ, ⲧⲏⲣ, ϩⲏⲧ, ϩⲱⲃ, ϣⲏⲣⲉ -->
     <tag name="NUM">303</tag><!-- ⲟⲩⲁ, ⲥⲛⲁⲩ, ϣⲉ, ϣⲟⲙⲛⲧ, ⲙⲏⲧ, ⲙⲛⲧⲥⲛⲟⲟⲩⲥ, ⲥⲁϣϥ, ⲧⲃⲁ, ϩⲙⲉ, ⲙⲁⲁⲃ -->
-    <tag name="PART">2037</tag><!-- ⲇⲉ, ⲉ, ⲉⲣⲉ, ⲅⲁⲣ, ⲛϭⲓ, ϭⲉ, ⲱ, ⲉⲓⲥ, ⲙⲉⲛ, ϩⲁⲙⲏⲛ -->
+    <tag name="PART">2030</tag><!-- ⲇⲉ, ⲉ, ⲉⲣⲉ, ⲅⲁⲣ, ⲛϭⲓ, ϭⲉ, ⲱ, ⲉⲓⲥ, ⲙⲉⲛ, ϩⲁⲙⲏⲛ -->
     <tag name="PRON">9354</tag><!-- ⲛⲧⲟϥ, ⲛⲧⲟⲟⲩ, ⲁⲛⲟⲕ, ⲛⲧⲟⲥ, ⲛⲧⲟⲕ, ⲡⲉ, ⲛⲧⲱⲧⲛ, ⲁⲛⲟⲛ, ⲛⲓⲙ, ⲛⲧⲟ -->
     <tag name="PROPN">734</tag><!-- ⲓⲏⲥⲟⲩⲥ, ⲓⲱϩⲁⲛⲛⲏⲥ, ⲃⲟⲉⲥ, ϩⲣⲟⲩⲑ, ⲛⲟⲉⲙⲓⲛ, ⲡⲁⲙⲃⲱ, ⲥⲁⲧⲁⲛⲁⲥ, ⲓⲁⲕⲱⲃ, ⲇⲏⲙⲏⲧⲣⲓⲟⲥ, ⲇⲓⲁⲃⲟⲗⲟⲥ -->
     <tag name="PUNCT">3582</tag><!-- ·, ., ,, —, :, ⲻ, ◈, ⁛—, ⁛, ═════ -->
     <tag name="SCONJ">3350</tag><!-- ⲉⲧⲉⲣⲉ, ϫⲉ, ⲉⲣⲉ, ϫⲉⲕⲁⲁⲥ, ⲉϣⲱⲡⲉ, ϩⲱⲥ, ϩⲱⲥⲧⲉ, ⲉϣϫⲉ, ⲉⲓⲙⲏⲧⲓ, ⲉⲛⲉ -->
     <tag name="VERB">6805</tag><!-- ϫⲱ, ⲉⲓⲣⲉ, ⲉⲓ, ⲡⲉϫⲉ, ϣⲱⲡⲉ, ⲧⲣⲉ, ϯ, ⲃⲱⲕ, ⲕⲱ, ⲛⲁⲩ -->
-    <tag name="X">46</tag><!-- ⲙⲟⲛⲟⲛ, unknown, .., ....., [...], ...., [..], ......, ........., .......... -->
+    <tag name="X">45</tag><!-- ⲙⲟⲛⲟⲛ, unknown, .., ....., [...], ...., [..], ......, ........., .......... -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="27">
+  <feats unique="30">
     <feat name="Definite" value="Def" upos="DET,NOUN,PRON">14799</feat><!-- ϥ, ⲡ, ⲛ, ⲩ, ⲥ, ⲧ, ⲓ, ⲟⲩ, ⲕ, ⲡⲉ -->
     <feat name="Definite" value="Ind" upos="DET">948</feat><!-- ⲟⲩ, ϩⲉⲛ, ⲩ -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV">228</feat><!-- ⲉⲃⲟⲗ, ⲉϩⲟⲩⲛ, ⲉϩⲣⲁⲓ, ⲉϩⲟⲩ, ⲉⲧⲃⲉ, ⲛϩⲟⲩⲛ, ϣⲁ, ϫⲓⲛ -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,CCONJ,PART">25</feat><!-- ⲉⲓⲥ, ⲟⲩ, ϣⲁ, ⲕⲁⲓ -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV">41</feat><!-- ⲉⲃⲟⲗ, ⲉⲧⲃⲉ, ⲉ, ⲛ -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB,X">4718</feat><!-- ⲇⲉ, ⲅⲁⲣ, ⲁⲗⲗⲁ, ⲏ, ⲓⲏⲥⲟⲩⲥ, ⲭⲣⲓⲥⲧⲟⲥ, ⲓⲱϩⲁⲛⲛⲏⲥ, ⲕⲁⲧⲁ, ⲟⲩⲇⲉ, ⲡⲛⲉⲩⲙⲁ -->
     <feat name="Gender" value="Fem" upos="DET,PRON">2382</feat><!-- ⲥ, ⲧ, ⲧⲉ, ⲧⲉϥ, ⲧⲉⲓ, ⲧⲁ, ⲉ, ⲧⲉⲕ, ⲧⲁⲓ, ⲧⲉⲩ -->
     <feat name="Gender" value="Masc" upos="DET,PRON">7464</feat><!-- ϥ, ⲡ, ⲡⲉ, ⲕ, ⲡⲁ, ⲡⲉϥ, ⲡⲁⲓ, ⲡⲉⲓ, ⲡⲉⲕ, ⲅ -->
@@ -48,7 +51,7 @@
     <feat name="Person" value="1" upos="DET,PRON">1877</feat><!-- ⲓ, ⲛ, ⲡⲁ, ϯ, ⲧⲁ, ⲁⲛⲟⲕ, ⲡⲉⲛ, ⲧⲛ, ⲛⲁ, ⲛⲉⲛ -->
     <feat name="Person" value="2" upos="DET,PRON">1592</feat><!-- ⲕ, ⲧⲉⲧⲛ, ⲧⲛ, ⲡⲉⲕ, ⲅ, ⲧⲏⲩⲧⲛ, ⲉ, ⲧⲉⲕ, ⲛⲉⲕ, ⲛⲉⲧⲛ -->
     <feat name="Person" value="3" upos="DET,PRON">5976</feat><!-- ϥ, ⲩ, ⲥ, ⲟⲩ, ⲡⲉϥ, ⲥⲉ, ⲛⲉϥ, ⲧⲉϥ, ⲛⲧⲟϥ, ⲛⲉⲩ -->
-    <feat name="Polarity" value="Neg" upos="ADV,AUX,CCONJ,PART,PRON,SCONJ,VERB,X">985</feat><!-- ⲁⲛ, ⲛ, ⲙⲡ, ⲧⲙ, ⲙⲡⲣ, ⲟⲩⲇⲉ, ⲙⲛ, ⲙⲡⲉ, ⲛⲛⲉ, ⲙⲉ -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,CCONJ,PART,PRON,SCONJ,VERB">985</feat><!-- ⲁⲛ, ⲛ, ⲙⲡ, ⲧⲙ, ⲙⲡⲣ, ⲟⲩⲇⲉ, ⲙⲛ, ⲙⲡⲉ, ⲛⲛⲉ, ⲙⲉ -->
     <feat name="Poss" value="Yes" upos="DET,PRON">1809</feat><!-- ⲡⲁ, ⲡⲉϥ, ϥ, ⲛⲉϥ, ⲟⲩ, ⲧⲉϥ, ⲛⲁ, ⲡⲉⲕ, ⲡⲉⲛ, ⲧⲁ -->
     <feat name="PronType" value="Art" upos="DET">5379</feat><!-- ⲡ, ⲧ, ⲛ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲧⲉ, ⲛⲉ, ⲕⲉ, ⲩ -->
     <feat name="PronType" value="Dem" upos="DET">561</feat><!-- ⲡⲁⲓ, ⲛⲁⲓ, ⲡⲉⲓ, ⲧⲉⲓ, ⲧⲁⲓ, ⲛⲉⲓ, ⲡⲓ, ⲛⲓ, ⲡⲏ, ⲛⲏ -->
@@ -66,11 +69,11 @@
     <dep name="acl">9</dep>
     <dep name="acl:relcl">1375</dep>
     <dep name="advcl">1518</dep>
-    <dep name="advmod">2645</dep>
-    <dep name="amod">39</dep>
+    <dep name="advmod">2637</dep>
+    <dep name="amod">38</dep>
     <dep name="appos">408</dep>
     <dep name="aux">3478</dep>
-    <dep name="case">8185</dep>
+    <dep name="case">8193</dep>
     <dep name="cc">1632</dep>
     <dep name="ccomp">736</dep>
     <dep name="compound">28</dep>
@@ -82,17 +85,17 @@
     <dep name="discourse">75</dep>
     <dep name="dislocated">889</dep>
     <dep name="expl">286</dep>
-    <dep name="fixed">300</dep>
+    <dep name="fixed">296</dep>
     <dep name="flat">50</dep>
     <dep name="iobj">84</dep>
-    <dep name="mark">4135</dep>
-    <dep name="nmod">1905</dep>
+    <dep name="mark">4140</dep>
+    <dep name="nmod">1907</dep>
     <dep name="nmod:poss">1745</dep>
     <dep name="nmod:unmarked">177</dep>
     <dep name="nsubj">5534</dep>
     <dep name="nummod">122</dep>
     <dep name="obj">2374</dep>
-    <dep name="obl">4661</dep>
+    <dep name="obl">4664</dep>
     <dep name="obl:unmarked">191</dep>
     <dep name="orphan">22</dep>
     <dep name="parataxis">702</dep>
