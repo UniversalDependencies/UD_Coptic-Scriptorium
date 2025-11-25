@@ -5,7 +5,7 @@
 # meta::source = MONB.YA 421-428 (IB17 ff. 72-75)
 # meta::title = Acephalous 22: YA 421-28
 # sent_id = shenoute_a22-a22_YA421-428_s0001
-# text_en = ...
+# text_en = ... if one urinates into a vessel with a narrow neck or jar, into any other vessel like these, without having been ordered by the elder, except for the place of those who are very ill and the elders of advanced years and these others, he is to ask the elder.
 # text = ⲣⲙⲏ ⲉϩⲣⲁⲓ ⲉⲩⲃⲁⲩⲕⲁⲗⲓⲟⲛ ⲏ ⲉϩⲣⲁⲓ ⲉⲩϣⲟϣⲟⲩ ⲉϩⲣⲁⲓ ⲉϭⲉⲗⲁⲁⲩ ⲛϩⲛⲁⲁⲩ ⲉϥⲧⲛⲧⲱⲛ ⲉⲛⲁⲓ ⲉⲙⲡⲟⲩⲟⲩⲉϩⲥⲁϩⲛⲉ ⲛⲁϥ ϩⲓⲧⲙⲡϩⲗⲗⲱ ⲉⲓⲙⲏⲧⲓ ⲡⲙⲁ ⲛⲛⲣⲱⲙⲉ ⲉⲧϣⲱⲛⲉ ⲙⲙⲁⲧⲉ ⲙⲛⲛϩⲗⲗⲟ ⲁⲩⲣϩⲁϩ ⲛⲣⲟⲙⲡⲉ ⲁⲩⲱ ⲛⲉⲓⲕⲟⲟⲩⲉ ⲉⲧⲣⲉⲩϣⲓⲛⲉ ⲛⲧⲟⲟⲧϥ ⲙⲡϩⲗⲗⲟ
 1	ⲣⲙⲏ	ⲣⲙⲏ	VERB	V	Mood=Imp|VerbForm=Fin	0	root	_	MSeg=ⲣ-ⲙⲏ|Orig=ⲣ̄ⲙⲏ̂
 2	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	ExtPos=ADP	5	case	_	Orig=ⲉϩⲣⲁⲓ̈
@@ -87,7 +87,7 @@
 59	ϩⲗⲗⲟ	ϩⲗⲗⲟ	NOUN	N	_	54	dislocated	_	Entity=person)|Orig=ϩ︤ⲗ︥ⲗⲟ
 
 # sent_id = shenoute_a22-a22_YA421-428_s0002
-# text_en = ...
+# text_en = And if it is necessary for some among us to use anything of this sort, to defecate into vessels of this sort through necessity or physical incapacity or hindrance to the foot making him unable to walk, they are to ask the elder.
 # text = ⲁⲩⲱ ⲉⲣϣⲁⲛⲟⲩⲁⲛⲁⲅⲕⲏ ϣⲱⲡⲉ ⲉⲧⲣⲉϩⲓⲟⲛⲉ ⲣⲭⲣⲉⲓⲁ ⲛϩⲱⲃ ⲛⲧⲉⲓϩⲉ ϩⲣⲁⲓ ⲛϩⲏⲧⲛ ⲉⲧⲣⲉⲩⲥⲣⲣⲁⲧⲟⲩ ⲉϩⲣⲁⲓ ⲉⲗⲁⲁⲩ ⲛϩⲛⲁⲁⲩ ⲛⲧⲉⲓⲙⲓⲛⲉ ⲉⲧⲃⲉⲧⲁⲛⲁⲅⲕⲏ ⲛⲟⲩⲡⲗⲏⲅⲏ · ⲏ ⲟⲩϫⲣⲟⲡ ⲉⲁϥϣⲱⲡⲉ ϩⲓⲧⲟⲩⲉⲣⲏⲧⲉ ⲛⲟⲩⲁ ⲉⲙⲛϭⲟⲙ ⲙⲙⲟϥ ⲉⲙⲟⲟϣⲉ ⲉⲉⲓ ⲉⲃⲟⲗ ⲉⲩⲉϫⲛⲉⲡϩⲗⲗⲟ
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	62	cc	_	_
 2-4	ⲉⲣϣⲁⲛⲟⲩⲁⲛⲁⲅⲕⲏ	_	_	_	_	_	_	_	_
@@ -175,7 +175,7 @@
 64	ϩⲗⲗⲟ	ϩⲗⲗⲟ	NOUN	N	_	62	obj	_	Entity=person)|Orig=ϩ︤ⲗ︥ⲗⲟ
 
 # sent_id = shenoute_a22-a22_YA421-428_s0003
-# text_en = ...
+# text_en = Apart from these, children or anyone else, if they defecate into any vessels of this sort, let them be accursed.
 # text = ⲁⲩⲱ ⲭⲱⲣⲓⲥⲛⲁⲓ ϩⲉⲛϣⲏⲣⲉ ϣⲏⲙ ⲏ ϭⲉⲗⲁⲁⲩ ⲛⲣⲱⲙⲉ ⲉⲩϣⲁⲛⲥⲣⲣⲁⲧⲟⲩ ⲉϩⲣⲁⲓ ϩⲛⲗⲁⲁⲩ ⲛϩⲛⲁⲁⲩ ⲛⲧⲉⲓⲙⲓⲛⲉ ⲉⲩⲉϣⲱⲡⲉ ⲉⲩⲥϩⲟⲩⲟⲣⲧ
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	25	cc	_	Orig=ⲁ̣ⲩ̣ⲱ
 2-3	ⲭⲱⲣⲓⲥⲛⲁⲓ	_	_	_	_	_	_	_	_
@@ -217,7 +217,7 @@
 28	ⲥϩⲟⲩⲟⲣⲧ	ⲥⲁϩⲟⲩ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	25	advcl	_	Orig=ⲥ︤ϩ︥ⲟⲩⲟⲣ︤ⲧ︥
 
 # sent_id = shenoute_a22-a22_YA421-428_s0004
-# text_en = ...
+# text_en = The one who ordains a sinful deed against his neighbour in deceitfulness is accursed.
 # text = ϥⲥϩⲟⲩⲟⲣⲧ ⲛϭⲓⲡⲉⲧⲛⲁⲧⲱϣ ⲛⲟⲩϩⲱⲃ ⲉϥⲟ ⲛⲛⲟⲃⲉ ⲉⲡⲉⲧϩⲓⲧⲟⲩⲱϥ ϩⲛⲟⲩⲙⲛⲧⲣⲉϥϩⲓⲗⲁ
 1-2	ϥⲥϩⲟⲩⲟⲣⲧ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
@@ -251,7 +251,7 @@
 23	ⲙⲛⲧⲣⲉϥϩⲓⲗⲁ	ⲙⲛⲧⲣⲉϥϩⲓⲗⲁ	NOUN	N	_	7	obl	_	Entity=abstract)|MSeg=ⲙⲛⲧ-ⲣⲉϥ-ϩⲓⲗⲁ|Orig=ⲙ︤ⲛ︦ⲧ︥ⲣⲉϥ̣ϩⲓⲗⲁ
 
 # sent_id = shenoute_a22-a22_YA421-428_s0005
-# text_en = ...
+# text_en = He does not know, but because of ill-feeling he says that which is not, whether a man or woman.
 # text = ⲉⲙⲉϥⲉⲓⲙⲉ ⲉⲡⲱⲣϫ · ⲁⲗⲗⲁ ⲉⲧⲃⲉⲟⲩⲙⲟⲥⲧⲉ ⲉϥϫⲱ ⲙⲡⲉⲧⲉⲛϥϣⲟⲟⲡ ⲁⲛ ⲉϣⲱⲡⲉ ⲉⲩϩⲟⲟⲩⲧ ⲡⲉ ⲉϣⲱⲡⲉ ⲉⲩⲥϩⲓⲙⲉ ⲧⲉ ·
 1-4	ⲉⲙⲉϥⲉⲓⲙⲉ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	4	mark	_	_
@@ -294,7 +294,7 @@
 32	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0006
-# text_en = ...
+# text_en = He is accursed who says by way of confusion that he has seen in a dream how so-and-so and such-and-such destroy themselves with deeds of wickedness, whether man or woman.
 # text = ϥⲥϩⲟⲩⲟⲣⲧ ⲛϭⲓⲡⲉⲧϫⲱ ⲙⲙⲟⲥ ϩⲛⲟⲩⲙⲛⲧⲣⲉϥⲧⲱϩ ϫⲉⲁⲓⲛⲁⲩ ⲉⲩⲣⲁⲥⲟⲩ ⲉⲣⲉⲛⲓⲙ ⲙⲛⲛⲓⲙ ϣⲱⲗ ⲙⲙⲟⲟⲩ ⲉⲃⲟⲗ ϩⲣⲁⲓ ϩⲛϩⲱⲃ ⲛⲓⲙ ⲙⲡⲟⲛⲏⲣⲟⲛ ⲉϣⲱⲡⲉ ⲉⲩϩⲟⲟⲩⲧ ⲡⲉ ⲉϣⲱⲡⲉ ⲉⲩⲥϩⲓⲙⲉ ⲧⲉ ·
 1-2	ϥⲥϩⲟⲩⲟⲣⲧ	_	_	_	_	_	_	_	_
 1	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
@@ -354,7 +354,7 @@
 43	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0007
-# text_en = ...
+# text_en = They are all accursed who practice deceit in any assembly of the Lord, so that God is angry with a great many people and turns His face from them in anger because of the iniquities of those among us who practice wrongful deeds, covertly or overtly.
 # text = ⲥⲉ ⲥϩⲟⲩⲟⲣⲧ ⲛϭⲓⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲉⲓⲣⲉ ⲛϩⲉⲛⲕⲣⲟϥ ϩⲣⲁⲓ ϩⲛⲥⲩⲛⲁⲅⲱⲅⲏ ⲧⲏⲣⲟⲩ ⲙⲡϫⲟⲉⲓⲥ · ⲉⲧⲣⲉⲡⲛⲟⲩⲧⲉ ϭⲱⲛⲧ ⲉⲩⲛⲟϭ ⲙⲙⲏⲏϣⲉ ⲛϥⲕⲧⲟ ⲙⲡⲉϥϩⲟ ⲉⲃⲟⲗ ⲙⲙⲟⲟⲩ ϩⲛⲟⲩⲟⲣⲅⲏ ⲉⲧⲃⲉⲧⲙⲛⲧϣⲁϥⲧⲉ ⲛⲛⲉⲧⲉⲓⲣⲉ ⲛⲧⲁⲛⲟⲙⲓⲁ ϩⲛⲟⲩϩⲱⲡ ⲏ ϩⲛⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ϩⲣⲁⲓ ⲛϩⲏⲧⲛ ·
 1	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	ⲥϩⲟⲩⲟⲣⲧ	ⲥⲁϩⲟⲩ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲥϩⲟⲩⲟⲣ︤ⲧ︥
@@ -439,7 +439,7 @@
 62	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0008
-# text_en = ...
+# text_en = And woe to those by whom God will be distressed and from whose midst He will seek for a way to come, like a just man, having sought for a way to abandon a people because of their wicked deeds, as the prophet says: Who is it that will give to me in the desert a distant dwelling place? That I may abandon this people and remain far removed from them.'
 # text = ⲁⲩⲱ ⲟⲩⲟⲓ ⲛⲛⲉⲧⲉⲣⲉⲡⲛⲟⲩⲧⲉ ⲛⲁϩⲟϫϩϫ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ ⲁⲩⲱ ⲛϥⲕⲱⲧⲉ ⲛⲥⲁⲧϩⲉ ⲛⲉⲓ ⲉⲉⲃⲟⲗ ϩⲛⲧⲉⲩⲙⲏⲧⲉ · ⲛⲧϩⲉ ⲛⲟⲩⲣⲱⲙⲉ ⲛⲇⲓⲕⲁⲓⲟⲥ ⲉⲁϥⲕⲱⲧⲉ ⲛⲥⲁⲧϩⲉ ⲛⲕⲱ ⲛⲥⲱϥ ⲛⲟⲩⲗⲁⲟⲥ ⲉⲧⲃⲉⲛⲉⲩϩⲃⲏⲩⲉ ⲉⲧϩⲟⲟⲩ ⲕⲁⲧⲁⲡϣⲁϫⲉ ⲙⲡⲉⲡⲣⲟⲫⲏⲧⲏⲥ ϫⲉⲛⲓⲙ ⲡⲉⲧⲛⲁϯⲛⲁⲓ ϩⲙⲡϫⲁⲓⲉ ⲛⲟⲩⲙⲁ ⲛϣⲱⲡⲉ ⲉϥⲟⲩⲏⲩ ⲛⲧⲁⲕⲱ ⲛⲥⲱⲓ ⲙⲡⲉⲓⲗⲁⲟⲥ ⲛⲧⲁⲟⲩⲉ ⲉⲃⲟⲗ ⲙⲙⲟⲟⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
 2	ⲟⲩⲟⲓ	ⲟⲩⲟⲓ	NOUN	N	_	0	root	_	Entity=(abstract)|Orig=ⲟⲩⲟⲓ̈
@@ -568,7 +568,7 @@
 94	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0009
-# text_en = ...
+# text_en = Blessed is everyone with whom God will be satisfied that He may be pleased to remain in their midst, like a just man content with just men and pleased to remain in their midst, because He Himself the Lord is in their midst at all times because of the right and just deeds.
 # text = ⲛⲁⲉⲓⲁⲧⲟⲩ ⲇⲉ ⲛⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲉⲣⲉⲡⲛⲟⲩⲧⲉ ⲛⲁⲧⲱⲧ ⲛϩⲏⲧ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ ⲉⲧⲣⲉϥⲣϩⲛⲁϥ ⲉϭⲱ ϩⲛⲧⲉⲩⲙⲏⲧⲉ · ⲛⲧϩⲉ ⲛⲟⲩⲣⲱⲙⲉ ⲛⲇⲓⲕⲁⲓⲟⲥ ⲉⲁϥⲧⲱⲧ ⲛϩⲏⲧ ⲛⲧⲟⲟⲧⲟⲩ ⲛϩⲉⲛⲣⲱⲙⲉ ⲙⲡⲓⲥⲧⲟⲥ ⲁⲩⲱ ⲉⲁϥⲣϩⲛⲁϥ ⲉϭⲱ ⲛⲟⲩⲟⲉⲓϣ ⲛⲓⲙ ϩⲛⲧⲉⲩⲙⲏⲧⲉ · ⲉⲧⲃⲉϫⲉⲛⲧⲟϥ ϩⲱⲱϥ ⲡϫⲟⲉⲓⲥ ϥⲱⲟⲟⲡ ϩⲛⲧⲉⲩⲙⲏⲧⲉ ⲛⲟⲩⲟⲉⲓϣ ⲛⲓⲙ ⲉⲧⲃⲉⲛⲉⲩϩⲃⲏⲩⲉ ⲙⲙⲉ ⲁⲩⲱ ⲛⲇⲓⲕⲁⲓⲟⲛ ·
 1-2	ⲛⲁⲉⲓⲁⲧⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲛⲁⲉⲓⲁⲧ	ⲛⲁⲉⲓⲁⲧ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ⲛⲁ-ⲉⲓⲁⲧ
@@ -691,7 +691,7 @@
 89	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0010
-# text_en = ...
+# text_en = All those of us who see a deceitful thing in defilement or blasphemy or any other sort of sin leading to death and do not tell me who or what those wicked deeds are, all these curses will come down upon them from God, whether man or woman.
 # text = ⲟⲩⲟⲛ ⲇⲉ ⲛⲓⲙ ϩⲣⲁⲓ ⲛϩⲏⲧⲛ ⲉⲧⲛⲁⲛⲁⲩ ⲉⲩϩⲱⲃ ⲛⲕⲣⲟϥ ϩⲛⲟⲩϫⲱϩⲙ · ⲏ ϩⲛⲟⲩϫⲓⲟⲩⲉ ⲏ ϩⲛϭⲉⲗⲁⲁⲩ ⲛⲛⲟⲃⲉ ⲉϥϫⲓ ⲉϩⲟⲩⲛ ⲉⲡⲙⲟⲩ ⲁⲩⲱ ⲛⲧⲟⲟⲩ ⲛⲥⲉⲧⲙⲧⲁⲙⲟⲓ ϫⲉⲛⲓⲙ ⲡⲉ ⲏ ϫⲉⲟⲩ ⲛⲉ ⲛⲉϩⲃⲏⲩⲉ ⲛⲡⲟⲛⲏⲣⲟⲛ ⲉⲧⲙⲙⲁⲩ · ⲉⲩⲉⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲱⲟⲩ ⲛϭⲓⲛⲉⲓⲥⲁϩⲟⲩ ⲧⲏⲣⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲛⲡⲛⲟⲩⲧⲉ ⲉϣⲱⲡⲉ ⲉⲩϩⲟⲟⲩⲧ ⲡⲉ ⲉϣⲱⲡⲉ ⲉⲩⲥϩⲓⲙⲉ ⲧⲉ ·
 1	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	58	dislocated	_	Entity=(person
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	58	advmod	_	OrigLang=grc
@@ -799,7 +799,7 @@
 81	·	·	PUNCT	PUNCT	_	58	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0011
-# text_en = ...
+# text_en = All the things that it is fitting to write in this letter and which we have not written, they are all written on the papers written from the beginning.
 # text = ⲛⲕⲟⲟⲩⲉ ⲇⲉ ⲧⲏⲣⲟⲩ ⲉⲧⲉϣϣⲉ ⲉⲥⲁϩⲟⲩ ⲉϩⲣⲁⲓ ⲉⲧⲉⲓⲉⲡⲓⲥⲧⲟⲗⲏ · ⲁⲩⲱ ⲙⲡⲛⲥⲁϩⲟⲩ · ⲉⲓⲥϩⲏⲏⲛⲉ ⲥⲉⲥⲏϩ ⲧⲏⲣⲟⲩ ϩⲛⲛⲉⲭⲁⲣⲧⲏⲥ ⲉⲧⲥⲏϩ ϫⲓⲛⲛϣⲟⲣⲡ ·
 1-2	ⲛⲕⲟⲟⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	det	_	Entity=(abstract|Orig=ⲛ̄
@@ -851,7 +851,7 @@
 36	·	·	PUNCT	PUNCT	_	25	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0012
-# text_en = ...
+# text_en = The holy words of Our Lord Jesus written in the Scriptures and in this letter, I will tell you what they are like.
 # text = ⲛϣⲁϫⲉ ⲇⲉ ⲉⲧⲟⲩⲁⲁⲃ ⲛⲧⲉⲡⲉⲛϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲉⲧⲥⲏϩ ϩⲛⲛⲉⲅⲣⲁⲫⲏ · ⲁⲩⲱ ϩⲛϯⲉⲡⲓⲥⲧⲟⲗⲏ ϯⲛⲁⲧⲁⲙⲱⲧⲛ ϫⲉⲉⲩⲧⲛⲧⲱⲛ ⲉⲟⲩ ·
 1-2	ⲛϣⲁϫⲉ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	det	_	Entity=(abstract|Orig=ⲛ̄
@@ -894,7 +894,7 @@
 30	·	·	PUNCT	PUNCT	_	22	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0013
-# text_en = ...
+# text_en = They are like candles that burn in places of darkness.
 # text = ⲉⲩⲧⲛⲧⲱⲛ ⲉϩⲉⲛϩⲏⲃⲥ ⲉⲁⲩϫⲉⲣⲱⲟⲩ ϩⲛϩⲉⲛⲙⲁ ⲛⲕⲁⲕⲉ ·
 1-3	ⲉⲩⲧⲛⲧⲱⲛ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
@@ -920,7 +920,7 @@
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0014
-# text_en = ...
+# text_en = And they are like the light of day.
 # text = ⲁⲩⲱ ⲉⲩⲧⲛⲧⲱⲛ ⲉⲡⲟⲩⲟⲉⲓⲛ ⲙⲡⲉϩⲟⲟⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲉⲩⲧⲛⲧⲱⲛ	_	_	_	_	_	_	_	_
@@ -938,7 +938,7 @@
 11	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0015
-# text_en = ...
+# text_en = And the mindless, whose acts of stupidity abound, are like bats.
 # text = ⲁⲩⲱ ⲛⲁⲧϩⲏⲧ ⲉⲧⲣϩⲟⲩⲟ ⲉⲙⲁⲧⲉ ϩⲛϩⲉⲛⲙⲛⲧⲥⲟϭ · ⲉⲩⲧⲛⲧⲱⲛ ⲉϩⲉⲛⲛⲩⲕⲧⲉⲣⲓⲥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
 2-3	ⲛⲁⲧϩⲏⲧ	_	_	_	_	_	_	_	_
@@ -964,7 +964,7 @@
 17	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0016
-# text_en = ...
+# text_en = And like those who are struck down or run in to the darkness or places where bats are dug deep, namely bats, whenever they see the light of the lamps' flame and the light of day,
 # text = ⲁⲩⲱ ⲛⲧϩⲉ ⲉⲧⲉϣⲁⲩⲣⲱϩⲧ ⲉⲡⲉⲥⲏⲧ ⲏ ⲛⲥⲉⲡⲱⲧ ⲉϩⲟⲩⲛ ⲉⲡⲕⲁⲕⲉ · ⲏ ⲉϩⲣⲁⲓ ⲉϩⲉⲛⲙⲁ ⲉⲩϣⲟⲕϩ ⲛϭⲓϩⲉⲛⲛⲩⲕⲧⲉⲣⲓⲥ ⲉⲧⲉϭⲓⲛϭⲗⲱ ⲡⲉ · ϩⲟⲧⲁⲛ ⲉⲩϣⲁⲛⲛⲁⲩ ⲉⲡⲟⲩⲟⲉⲓⲛ ⲙⲡϣⲁϩ ⲛϩⲉⲛϩⲏⲃⲥ ⲙⲛⲡⲟⲩⲟⲉⲓⲛ ⲙⲡⲉϩⲟⲟⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
@@ -1037,7 +1037,7 @@
 54	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0017
-# text_en = ...
+# text_en = in the same way the mindless and excessively stupid will be struck down or into passions with their desires and the darkness of their false knowledge in the face of all the words of Our Lord, not only those from the Scriptures, or in this letter, but in the face of all the other words written in these documents from the beginning.
 # text = ⲧⲁⲓ ⲟⲛ ⲧⲉ ⲧϩⲉ ⲉⲧⲉⲣⲉⲛⲁⲧϩⲏⲧ ⲙⲛⲛⲉⲧⲣϩⲟⲩⲟ ⲉⲙⲁⲧⲉ ϩⲛϩⲉⲛⲙⲛⲧⲥⲟϭ ⲛⲁⲣⲱϩⲧ ⲉⲡⲉⲥⲏⲧ ⲏ ⲉϩⲣⲁⲓ ⲉⲛⲉⲩⲡⲁⲑⲟⲥ ⲙⲛⲛⲉⲩⲟⲩⲱϣ · ⲙⲛⲡⲕⲁⲕⲉ ⲙⲡⲉⲩⲥⲟⲟⲩⲛ ⲛⲛⲟⲩϫ ⲛⲛⲁϩⲣⲛⲛϣⲁϫⲉ ⲧⲏⲣⲟⲩ ⲙⲡⲉⲛϫⲟⲉⲓⲥ · ⲉⲓⲧⲉ ⲛⲉⲃⲟⲗ ϩⲛⲛⲉⲅⲣⲁⲫⲏ · ⲉⲓⲧⲉ ⲛⲉⲃⲟⲗ ϩⲛⲧⲉⲓⲉⲡⲓⲥⲧⲟⲗⲏ ⲙⲙⲁⲧⲉ ⲁⲛ · ⲁⲗⲗⲁ ⲛⲛⲁϩⲣⲛⲛⲕⲟⲟⲩⲉ ⲧⲏⲣⲟⲩ ⲉⲧⲥⲏϩ ϩⲣⲁⲓ ϩⲛⲛⲉⲓⲭⲁⲣⲧⲏⲥ ⲉⲧⲥⲏϩ ϫⲓⲛⲛϣⲟⲣⲡ
 1	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract)|Orig=ⲧⲁⲓ̈
 2	ⲟⲛ	ⲟⲛ	ADV	ADV	_	1	advmod	_	_
@@ -1145,7 +1145,7 @@
 80	ϣⲟⲣⲡ	ϣⲟⲣⲡ	NOUN	N	_	77	obl	_	Entity=object)abstract)|Orig=ϣⲟⲣ︤ⲡ︥
 
 # sent_id = shenoute_a22-a22_YA421-428_s0018
-# text_en = ...
+# text_en = Again, the holy words of Our Lord Jesus are like the light of lamps in the hands of wise men.
 # text = ⲡⲁⲗⲓⲛ ⲇⲉ ⲟⲛ ⲉⲩⲧⲛⲧⲱⲛ ⲛϭⲓⲛϣⲁϫⲉ ⲉⲧⲟⲩⲁⲁⲃ ⲛⲧⲉⲡⲉⲛϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲉⲡⲟⲩⲟⲉⲓⲛ ⲛϩⲉⲛϩⲏⲃⲥ ⲉⲩϩⲛⲛϭⲓϫ ⲛⲟⲩⲣⲱⲙⲉ ⲛⲥⲁⲃⲉ ·
 1	ⲡⲁⲗⲓⲛ	ⲡⲁⲗⲓⲛ	ADV	ADV	Foreign=Yes	6	advmod	_	OrigLang=grc
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
@@ -1190,7 +1190,7 @@
 32	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0019
-# text_en = ...
+# text_en = They illuminate him in places of darkness as he does his work.
 # text = ⲉⲩⲣⲟⲩⲟⲉⲓⲛ ⲉⲣⲟϥ ϩⲛϩⲉⲛⲙⲁ ⲛⲕⲁⲕⲉ ⲉϥⲉⲓⲣⲉ ⲛⲛⲉϥϩⲃⲏⲩⲉ ·
 1-3	ⲉⲩⲣⲟⲩⲟⲉⲓⲛ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
@@ -1217,7 +1217,7 @@
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0020
-# text_en = ...
+# text_en = As it is written: 'Your word is the lamp for my feet.'
 # text = ⲕⲁⲧⲁⲧϩⲉ ⲉⲧⲥⲏϩ ϫⲉⲡϩⲏⲃⲥ ⲛⲛⲁⲟⲩⲉⲣⲏⲧⲉ : ⲉⲡⲉⲕϣⲁϫⲉ
 1-3	ⲕⲁⲧⲁⲧϩⲉ	_	_	_	_	_	_	_	_
 1	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	3	case	_	OrigLang=grc
@@ -1241,7 +1241,7 @@
 15	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	5	obl	_	Entity=abstract)
 
 # sent_id = shenoute_a22-a22_YA421-428_s0021
-# text_en = ...
+# text_en = They are like the light of day
 # text = ⲁⲩⲱ ⲉⲩⲧⲛⲧⲱⲛ ⲉⲡⲟⲩⲟⲉⲓⲛ ⲙⲡⲉϩⲟⲟⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲉⲩⲧⲛⲧⲱⲛ	_	_	_	_	_	_	_	_
@@ -1259,7 +1259,7 @@
 11	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0022
-# text_en = ...
+# text_en = and the one who pays attention to them will not stumble, as it written: 'The one who walks in the day does not stumble.'
 # text = ⲁⲩⲱ ⲡⲉⲧϯ ⲛϩⲧⲏϥ ⲉⲣⲟⲟⲩ ⲛϥⲛⲁϫⲓϫⲣⲟⲡ ⲁⲛ ⲕⲁⲧⲁⲛⲉⲅⲣⲁⲫⲏ ϫⲉⲡⲉⲧⲙⲟⲟϣⲉ ϩⲛⲡⲉϩⲟⲟⲩ · ⲙⲉϥϫⲓϫⲣⲟⲡ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
 2-4	ⲡⲉⲧϯ	_	_	_	_	_	_	_	_
@@ -1300,7 +1300,7 @@
 29	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0023
-# text_en = ...
+# text_en = For this reason, blessed are the children of light, that is, those who walk in the openness of submission and complete obedience and good.
 # text = ⲉⲧⲃⲉⲡⲁⲓ ⲛⲁⲓⲁⲧⲟⲩ ⲛⲛϣⲏⲣⲉ ⲙⲡⲟⲩⲟⲉⲓⲛ ⲉⲧⲉⲛⲉⲧⲙⲟⲟϣⲉ ⲛⲉ ϩⲛⲧⲡⲁⲣⲣⲏⲥⲓⲁ ⲛϩⲩⲡⲟⲧⲁⲅⲏ ⲛⲓⲙ ϩⲓⲙⲛⲧⲥⲧⲙⲏⲧ ⲛⲓⲙ ϩⲓϩⲱⲃ ⲛⲓⲙ ⲛⲁⲅⲁⲑⲟⲛ
 1-2	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
@@ -1343,7 +1343,7 @@
 29	ⲁⲅⲁⲑⲟⲛ	ⲁⲅⲁⲑⲟⲛ	NOUN	N	Foreign=Yes	26	nmod	_	Entity=abstract)abstract)person)person)|Orig=ⲁⲅⲁⲑⲟⲛ`|OrigLang=grc
 
 # sent_id = shenoute_a22-a22_YA421-428_s0024
-# text_en = ...
+# text_en = Woe to the children of darkness, that is, those who walk in complete disobedience and ignorance.
 # text = ⲟⲩⲟⲓ ⲇⲉ ⲛⲛϣⲏⲣⲉ ⲙⲡⲕⲁⲕⲉ ⲉⲧⲉⲛⲉⲧⲙⲟⲟϣⲉ ⲛⲉ ϩⲛⲙⲛⲧⲁⲧⲥⲱⲧⲙ ⲛⲓⲙ ϩⲓⲙⲛⲧⲁⲧⲥⲃⲱ ⲛⲓⲙ ·
 1	ⲟⲩⲟⲓ	ⲟⲩⲟⲓ	NOUN	N	_	0	root	_	Entity=(abstract|Orig=ⲟⲩⲟⲓ̈
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	1	advmod	_	OrigLang=grc
@@ -1372,7 +1372,7 @@
 20	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0025
-# text_en = ...
+# text_en = They rush in and up to darkness in every iniquity, like the bats which rush in and up to a very deep place of darkness.
 # text = ⲉⲩⲡⲏⲧ ⲉϩⲟⲩⲛ ⲏ ⲉϩⲣⲁⲓ ⲉⲡⲕⲁⲕⲉ ⲛϩⲱⲃ ⲛⲓⲙ ⲉϥϩⲟⲟⲩ ⲛⲧϩⲉ ⲛⲛⲛⲩⲕⲧⲉⲣⲓⲥ ⲉⲧⲡⲏⲧ ⲉϩⲟⲩⲛ ⲏ ⲉϩⲣⲁⲓ ⲉϩⲉⲛⲙⲁ ⲛⲕⲁⲕⲉ ⲉⲩϣⲟⲕϩ ⲉⲙⲁⲧⲉ ·
 1-3	ⲉⲩⲡⲏⲧ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
@@ -1422,7 +1422,7 @@
 36	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0026
-# text_en = ...
+# text_en = Why did the Lord God say through His saints: 'If your enemy too is hungry, feed him and if he is thirsty, give him to drink'?
 # text = ⲁϩⲣⲟϥ ⲁϥϫⲟⲟⲥ ⲛϭⲓⲡϫⲟⲉⲓⲥ ⲡⲛⲟⲩⲧⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ ⲛⲛⲉϥⲡⲉⲧⲟⲩⲁⲁⲃ ϫⲉⲉⲣϣⲁⲛⲡⲉⲕϫⲁϫⲉ ϩⲕⲟ ⲙⲁⲧⲙⲙⲟϥ ⲁⲩⲱ ⲉϥϣⲁⲛⲉⲓⲃⲉ ⲙⲁⲧⲥⲟϥ
 1-2	ⲁϩⲣⲟϥ	_	_	_	_	_	_	_	_
 1	ⲁϩⲣⲟ	ⲁϩⲣⲟ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
@@ -1467,7 +1467,7 @@
 31	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obj	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0027
-# text_en = ...
+# text_en = Why too did He say: 'If your brother does not listen to you, let him be a gentile and tax collector to you'?
 # text = ⲉⲧⲃⲉⲟⲩ ϩⲱⲱϥ ⲁϥϫⲟⲟⲥ ϫⲉⲉⲣϣⲁⲛⲧⲙⲡⲉⲕⲥⲟⲛ ⲥⲱⲧⲙ ⲛⲥⲱⲕ ⲙⲁⲣⲉϥϣⲱⲡⲉ ⲛⲁⲕ ⲛⲧϩⲉ ⲛⲟⲩϩⲉⲑⲛⲓⲕⲟⲥ ⲙⲛⲟⲩⲧⲉⲗⲱⲛⲏⲥ ·
 1-2	ⲉⲧⲃⲉⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
@@ -1512,7 +1512,7 @@
 31	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0028
-# text_en = ...
+# text_en = But in saying this, do every good thing to your enemies, according to the commandment, He wishes the good person of God to achieve goodness through the wickedness of the wicked person who is allotted to his sinning, Satan.
 # text = ϩⲙⲡⲧⲣⲉϥϫⲟⲟⲥ ⲇⲉ ϫⲉⲣⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲛⲓⲙ ⲛⲛⲉⲧⲛϫⲓϫⲉⲉⲩⲉ ⲕⲁⲧⲁⲧⲉⲛⲧⲟⲗⲏ · ⲉϥⲟⲩⲱϣ ⲉⲧⲣⲉⲡⲁⲅⲁⲑⲟⲥ ⲛⲣⲱⲙⲉ ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ϫⲱⲕ ⲉⲃⲟⲗ ⲛⲟⲩⲙⲛⲧⲁⲅⲁⲑⲟⲥ ϩⲓⲧⲛⲧⲡⲟⲛⲏⲣⲓⲁ ⲙⲡⲡⲟⲛⲏⲣⲟⲥ ⲛⲣⲱⲙⲉ ⲉⲧⲏⲡ ⲉⲡⲣⲉϥⲣⲛⲟⲃⲉ ⲡⲥⲁⲧⲁⲛⲁⲥ
 1-6	ϩⲙⲡⲧⲣⲉϥϫⲟⲟⲥ	_	_	_	_	_	_	_	_
 1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	_
@@ -1581,7 +1581,7 @@
 50	ⲥⲁⲧⲁⲛⲁⲥ	ⲥⲁⲧⲁⲛⲁⲥ	PROPN	NPROP	Foreign=Yes	48	appos	_	Entity=person-Satan)person)abstract)|OrigLang=grc
 
 # sent_id = shenoute_a22-a22_YA421-428_s0029
-# text_en = ...
+# text_en = For, in place of the wickedness of the wicked person, the goodness of the good person removes the wickedness of the hostile person.
 # text = ⲉⲡⲉⲓⲇⲏ ⲉⲡⲙⲁ ⲛⲧⲡⲟⲛⲏⲣⲓⲁ ⲙⲡⲡⲟⲛⲏⲣⲟⲥ ⲛⲣⲱⲙⲉ ϣⲁⲣⲉⲧⲙⲛⲧⲁⲅⲁⲑⲟⲥ ⲙⲡⲁⲅⲁⲑⲟⲥ ⲛⲣⲱⲙⲉ ϥⲓ ⲙⲙⲁⲩ ⲛⲧⲡⲟⲛⲏⲣⲓⲁ ⲙⲡⲣⲱⲙⲉ ⲛϫⲁϫⲉ ·
 1	ⲉⲡⲉⲓⲇⲏ	ⲉⲡⲉⲓⲇⲏ	SCONJ	CONJ	Foreign=Yes	21	mark	_	Orig=ⲉⲡⲉⲓⲇⲏ`|OrigLang=grc
 2-4	ⲉⲡⲙⲁ	_	_	_	_	_	_	_	_
@@ -1626,7 +1626,7 @@
 31	·	·	PUNCT	PUNCT	_	21	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0030
-# text_en = ...
+# text_en = By repaying a bad deed with a good deed, he achieves the divine nature of God.
 # text = ϩⲙⲡⲧⲣⲉⲡⲣⲱⲙⲉ ⲧⲱⲱⲃⲉ ⲛⲟⲩⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲉⲡⲙⲁ ⲛⲟⲩⲡⲉⲧϩⲟⲟⲩ ⲉϣⲁϥϫⲱⲕ ⲉⲃⲟⲗ ⲛⲧⲙⲛⲧⲛⲟⲩⲧⲉ ⲙⲡⲛⲟⲩⲧⲉ ·
 1-5	ϩⲙⲡⲧⲣⲉⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	Orig=ϩ︤ⲙ︥
@@ -1664,7 +1664,7 @@
 27	·	·	PUNCT	PUNCT	_	19	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0031
-# text_en = ...
+# text_en = By repaying a good deed with a bad deed he achieves the godlessness of the godless devil.
 # text = ϩⲙⲡⲧⲣⲉⲡⲣⲱⲙⲉ ⲇⲉ ⲧⲱⲱⲃⲉ ⲛⲟⲩⲡⲉⲧϩⲟⲟⲩ ⲉⲡⲙⲁ ⲛⲟⲩⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲉϣⲁϥϫⲱⲕ ⲉⲃⲟⲗ ⲛⲧⲙⲛⲧⲁⲧⲛⲟⲩⲧⲉ ⲙⲡⲁⲧⲛⲟⲩⲧⲉ ⲛⲇⲓⲁⲃⲟⲗⲟⲥ ·
 1-5	ϩⲙⲡⲧⲣⲉⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	Orig=ϩ︤ⲙ︥
@@ -1706,7 +1706,7 @@
 30	·	·	PUNCT	PUNCT	_	20	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0032
-# text_en = ...
+# text_en = By saying 'If your brother does not listen to you, let him be an enemy to you like one you have never seen,' in the first place the Lord wishes us to cut him off from us, and after rebuking him, perhaps he might repent after having been a stranger because of God, he being our brother, and return and repent that we may forgive him up to seven times seventy times if he does not repeat the sin for we had planned to cut him off.
 # text = ϩⲙⲡⲧⲣⲉϥϫⲟⲟⲥ ⲇⲉ ϫⲉⲉⲣϣⲁⲛⲧⲙⲡⲉⲕⲥⲟⲛ ⲥⲱⲧⲙ ⲛⲥⲱⲕ ⲙⲁⲣⲉϥϣⲱⲡⲉ ⲛⲁⲕ ⲉⲩϫⲁϫⲉ ⲛⲧϩⲉ ⲙⲡⲉⲧⲉⲙⲡⲕⲛⲁⲩ ⲉⲣⲟϥ ⲉⲛⲉϩ · ϣⲟⲣⲡ ⲙⲉⲛ ⲉϥⲟⲩⲱϣ ⲛϭⲓⲡϫⲟⲉⲓⲥ ⲉⲧⲣⲉⲛϣⲁⲁⲧϥ ⲉⲃⲟⲗ ⲙⲙⲟⲛ ⲙⲛⲛⲥⲁⲧⲣⲉⲛϫⲡⲓⲟϥ ϫⲉⲁⲣⲏⲩ ⲣⲱ ⲛϥⲣϩⲧⲏϥ ⲙⲛⲛⲥⲁⲧⲣⲉϥϣⲱⲡⲉ ⲛⲧϩⲉ ⲛⲟⲩϣⲙⲙⲟ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ⲉⲡⲉⲛⲥⲟⲛ ⲡⲉ ⲁⲩⲱ ⲛϥⲕⲧⲟϥ ⲛϥⲙⲉⲧⲁⲛⲟⲉⲓ ⲛⲧⲛⲕⲱ ⲛⲁϥ ⲉⲃⲟⲗ ϣⲁⲥⲁϣϥ ⲛϣϥⲉ ⲛⲥⲟⲡ ϩⲟⲧⲁⲛ ⲉϥϣⲁⲛⲧⲙⲟⲩⲁϩⲙⲉϥ ⲉϩⲣⲁⲓ ⲉⲡⲛⲟⲃⲉ ⲉⲛⲧⲁⲛⲙⲉⲉⲩⲉ ⲉϣⲁⲁⲧϥ ⲉⲃⲟⲗ ⲙⲙⲟⲛ ⲉⲧⲃⲏⲏⲧϥ ·
 1-6	ϩⲙⲡⲧⲣⲉϥϫⲟⲟⲥ	_	_	_	_	_	_	_	_
 1	ϩⲙ	ϩⲛ	ADP	PREP	_	3	case	_	Orig=ϩ︤ⲙ︥
@@ -1868,7 +1868,7 @@
 124	·	·	PUNCT	PUNCT	_	41	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0033
-# text_en = ...
+# text_en = But if he decides not to turn from the sin for which we had planned to cut him off, we will cut him off from us and he will not return to us and we will not love him.
 # text = ⲁⲗⲗⲁ ⲉϣⲱⲡⲉ ⲉϥϣⲁⲛⲧⲙⲣϩⲛⲁϥ ⲉⲕⲧⲟϥ ⲉⲃⲟⲗ ϩⲙⲡⲛⲟⲃⲉ ⲉⲛⲧⲁⲛⲙⲉⲉⲩⲉ ⲉϣⲁⲁⲧϥ ⲉⲃⲟⲗ ⲙⲙⲟⲛ ⲉⲧⲃⲏⲏⲧϥ ⲉⲛⲛⲁϣⲁⲁⲧϥ ⲉⲃⲟⲗ ⲙⲙⲟⲛ ⲁⲩⲱ ⲛⲛⲉϥⲕⲧⲟϥ ⲉⲣⲟⲛ ⲁⲩⲱ ⲛⲛⲉⲛⲙⲉⲣⲓⲧϥ
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	30	cc	_	OrigLang=grc
 2	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	SCONJ	CONJ	_	5	mark	_	_
@@ -1930,7 +1930,7 @@
 46	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	obj	_	Orig=ϥ︥`
 
 # sent_id = shenoute_a22-a22_YA421-428_s0034
-# text_en = ...
+# text_en = But let him be an enemy for us because of God, though he is our brother.
 # text = ⲁⲗⲗⲁ ⲉϥⲉϣⲱⲡⲉ ⲛⲁⲛ ⲛⲟⲩϫⲁϫⲉ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉⲉⲡⲉⲛⲥⲟⲛ ⲡⲉ
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	3	cc	_	OrigLang=grc
 2-3	ⲉϥⲉϣⲱⲡⲉ	_	_	_	_	_	_	_	_
@@ -1953,7 +1953,7 @@
 15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	14	cop	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0035
-# text_en = ...
+# text_en = And in this way the God-loving one reveals his entire love for the Lord that he has loved Him more than his brother and more than his father and mother.
 # text = ⲁⲩⲱ ⲛⲧⲉⲓϩⲉ ϣⲁⲣⲉⲡⲙⲁⲓⲛⲟⲩⲧⲉ ⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ⲙⲡⲉϥⲟⲩⲱϣ ⲧⲏⲣϥ ⲉϩⲟⲩⲛ ⲉⲡϫⲟⲉⲓⲥ ϫⲉⲁϥⲙⲉⲣⲓⲧϥ ⲉϩⲟⲩⲟ ⲉⲡⲉϥⲥⲟⲛ · ⲁⲩⲱ ⲛϩⲟⲩⲟ ⲉⲡⲉϥⲉⲓⲱⲧ ⲙⲛⲧⲉϥⲙⲁⲁⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	_
 2-4	ⲛⲧⲉⲓϩⲉ	_	_	_	_	_	_	_	_
@@ -2007,8 +2007,8 @@
 39	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0036
-# text_en = ...
-# text = ⲟⲩⲛⲟϭ ⲅⲁⲣ ⲙⲙⲛⲧⲧⲉⲗⲓⲟⲥ ⲧⲉ ⲉⲧⲣⲉⲡⲣⲱⲙⲉ ϣⲱⲱⲧ ⲉⲃⲟⲗ ⲙⲙⲟϥ ⲙⲡⲉϥⲥⲟⲛ ⲏ ⲡⲉϥϣⲏⲣⲉ ⲏ ⲧⲉϥϣⲉⲉⲣⲉ ⲏ ⲡⲉϥⲉⲓⲱⲧ ⲏ ⲧⲉϥⲙⲁⲁⲩ ⲏ ϭⲉⲗⲁⲁⲩ ⲛⲣⲱⲙⲉ ⲛⲧⲁϥ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ·
+# text_en = For it is a great perfection for a man to cut himself off from his brother or his son or his daughter or his father or his mother or any other person of his for the sake of God, when they sin against the One who created them, God.
+# text = ⲟⲩⲛⲟϭ ⲅⲁⲣ ⲙⲙⲛⲧⲧⲉⲗⲓⲟⲥ ⲧⲉ ⲉⲧⲣⲉⲡⲣⲱⲙⲉ ϣⲱⲱⲧ ⲉⲃⲟⲗ ⲙⲙⲟϥ ⲙⲡⲉϥⲥⲟⲛ ⲏ ⲡⲉϥϣⲏⲣⲉ ⲏ ⲧⲉϥϣⲉⲉⲣⲉ ⲏ ⲡⲉϥⲉⲓⲱⲧ ⲏ ⲧⲉϥⲙⲁⲁⲩ ⲏ ϭⲉⲗⲁⲁⲩ ⲛⲣⲱⲙⲉ ⲛⲧⲁϥ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ · ϩⲟⲧⲁⲛ ⲉⲩϣⲁⲛⲣⲛⲟⲃⲉ ⲉⲡⲉⲛⲧⲁϥⲧⲁⲙⲓⲟⲟⲩ ⲉⲧⲉⲡⲛⲟⲩⲧⲉ ⲡⲉ ·
 1-2	ⲟⲩⲛⲟϭ	_	_	_	_	_	_	_	_
 1	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	2	det	_	Entity=(abstract
 2	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	0	root	_	_
@@ -2019,7 +2019,7 @@
 6	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing|PronType=Dem	2	cop	_	_
 7-10	ⲉⲧⲣⲉⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
 7	ⲉ	ⲉ	PART	PREP	_	8	mark	_	_
-8	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	Mood=Ind	2	csubj	_	_
+8	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	Mood=Ind	2	csubj	_	Cxn=Conditional-UnspecifiedEpistemic|CxnElt=43:Conditional-UnspecifiedEpistemic.Apodosis
 9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(person
 10	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	8	obj	_	Entity=person)|Orig=ⲣⲱⲙⲉ`
 11	ϣⲱⲱⲧ	ϣⲱⲱⲧ	VERB	V	Mood=Ind|VerbForm=Fin	8	xcomp	_	Orig=ϣⲱⲱⲧ`
@@ -2061,32 +2061,28 @@
 37	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	39	case	_	_
 38	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	Entity=(person
 39	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	11	obl	_	Entity=person)
-40	·	·	PUNCT	PUNCT	_	2	punct	_	_
+40	·	·	PUNCT	PUNCT	_	43	punct	_	_
+41	ϩⲟⲧⲁⲛ	ϩⲟⲧⲁⲛ	CCONJ	CONJ	Foreign=Yes	43	advmod	_	OrigLang=grc
+42-43	ⲉⲩϣⲁⲛⲣⲛⲟⲃⲉ	_	_	_	_	_	_	_	_
+42	ⲉⲩϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ	PRON	ACOND_PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	43	nsubj	_	_
+43	ⲣⲛⲟⲃⲉ	ⲣⲛⲟⲃⲉ	VERB	V	Mood=Cnd|VerbForm=Fin	8	advcl	_	CxnElt=43:Conditional-UnspecifiedEpistemic.Protasis|MSeg=ⲣ-ⲛⲟⲃⲉ|Orig=ⲣ̄ⲛⲟⲃⲉ`
+44-50	ⲉⲡⲉⲛⲧⲁϥⲧⲁⲙⲓⲟⲟⲩ	_	_	_	_	_	_	_	_
+44	ⲉ	ⲉ	ADP	PREP	_	45	case	_	_
+45	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	obl	_	Entity=(person
+46	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	49	mark	_	_
+47	ⲁ	ⲁ	AUX	APST	_	49	aux	_	_
+48	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	49	nsubj	_	_
+49	ⲧⲁⲙⲓⲟ	ⲧⲁⲙⲓⲟ	VERB	V	Mood=Ind|VerbForm=Fin	45	acl:relcl	_	_
+50	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	49	obj	_	Orig=ⲟⲩ`
+51-53	ⲉⲧⲉⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
+51	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	53	mark	_	_
+52	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	53	det	_	Entity=(person
+53	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	45	acl:relcl	_	Entity=person)person)
+54	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	53	cop	_	_
+55	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = shenoute_a22-a22_YA421-428_s0037
-# text_en = ...
-# text = ϩⲟⲧⲁⲛ ⲉⲩϣⲁⲛⲣⲛⲟⲃⲉ ⲉⲡⲉⲛⲧⲁϥⲧⲁⲙⲓⲟⲟⲩ ⲉⲧⲉⲡⲛⲟⲩⲧⲉ ⲡⲉ ·
-1	ϩⲟⲧⲁⲛ	ϩⲟⲧⲁⲛ	CCONJ	CONJ	Foreign=Yes	3	advmod	_	OrigLang=grc
-2-3	ⲉⲩϣⲁⲛⲣⲛⲟⲃⲉ	_	_	_	_	_	_	_	_
-2	ⲉⲩϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ	PRON	ACOND_PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-3	ⲣⲛⲟⲃⲉ	ⲣⲛⲟⲃⲉ	VERB	V	Mood=Cnd|VerbForm=Fin	0	root	_	MSeg=ⲣ-ⲛⲟⲃⲉ|Orig=ⲣ̄ⲛⲟⲃⲉ`
-4-10	ⲉⲡⲉⲛⲧⲁϥⲧⲁⲙⲓⲟⲟⲩ	_	_	_	_	_	_	_	_
-4	ⲉ	ⲉ	ADP	PREP	_	5	case	_	_
-5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	obl	_	Entity=(person
-6	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
-7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
-8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-9	ⲧⲁⲙⲓⲟ	ⲧⲁⲙⲓⲟ	VERB	V	Mood=Ind|VerbForm=Fin	5	acl:relcl	_	_
-10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	obj	_	Orig=ⲟⲩ`
-11-13	ⲉⲧⲉⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
-11	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	13	mark	_	_
-12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(person
-13	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	5	acl:relcl	_	Entity=person)person)
-14	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	13	cop	_	_
-15	·	·	PUNCT	PUNCT	_	3	punct	_	_
-
-# sent_id = shenoute_a22-a22_YA421-428_s0038
-# text_en = ...
+# text_en = It is a great strength for a man to love his enemies for the sake of God and pray for those who pursue him that do harm to him for the sake of God and bless those who curse him and sin against him.
 # text = ⲁⲩⲱ ⲟⲩⲛⲟϭ ⲙⲙⲛⲧϫⲱⲱⲣⲉ ⲧⲉ ⲉⲧⲣⲉⲡⲣⲱⲙⲉ ⲙⲉⲣⲉⲛⲉϥϫⲓϫⲉⲉⲩⲉ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲛϥϣⲗⲏⲗ ⲉϫⲛⲛⲉⲧⲡⲏⲧ ⲛⲥⲱϥ ⲉⲧⲣⲡⲉⲧϩⲟⲟⲩ ⲛⲁϥ ⲁⲩⲱ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ⲛϥⲥⲙⲟⲩ ⲉⲛⲉⲧⲥⲁϩⲟⲩ ⲙⲙⲟϥ ⲉⲧⲣⲛⲟⲃⲉ ⲉⲣⲟϥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
 2-3	ⲟⲩⲛⲟϭ	_	_	_	_	_	_	_	_
@@ -2156,8 +2152,8 @@
 50	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	48	obl	_	Entity=person)
 51	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = shenoute_a22-a22_YA421-428_s0039
-# text_en = ...
+# sent_id = shenoute_a22-a22_YA421-428_s0038
+# text_en = This is what He meant by 'Let your brother be for you a gentile and tax collector for the sake of God if he sins before the Lord.'
 # text = ⲁⲩⲱ ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲛⲧⲁϥϫⲟⲟⲥ ϫⲉⲙⲁⲣⲉⲡⲉⲕⲥⲟⲛ ϣⲱⲡⲉ ⲛⲁⲕ ⲛⲟⲩϩⲉⲑⲛⲓⲕⲟⲥ ⲙⲛⲟⲩⲧⲉⲗⲱⲛⲏⲥ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ϩⲟⲧⲁⲛ ⲉϥϣⲁⲛⲣⲛⲟⲃⲉ ⲙⲡⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲡϫⲟⲉⲓⲥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
 2	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract)|Orig=ⲧⲁⲓ̈
@@ -2207,8 +2203,8 @@
 36	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	32	nmod	_	Entity=person)abstract)
 37	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = shenoute_a22-a22_YA421-428_s0040
-# text_en = ...
+# sent_id = shenoute_a22-a22_YA421-428_s0039
+# text_en = Your enemy too, who sins against you, love him and bless him for God's sake.
 # text = ⲡⲉⲕϫⲁϫⲉ ⲇⲉ ϩⲱⲱϥ ⲉⲧⲣⲛⲟⲃⲉ ⲉⲣⲟⲕ ⲛⲅⲙⲉⲣⲓⲧϥ ⲁⲩⲱ ⲛⲅⲥⲙⲟⲩ ⲉⲣⲟϥ ⲉⲧⲃⲉⲡⲛⲟⲩⲧⲉ ·
 1-2	ⲡⲉⲕϫⲁϫⲉ	_	_	_	_	_	_	_	_
 1	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	Entity=(person
@@ -2242,8 +2238,8 @@
 22	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	12	obl	_	Entity=person)
 23	·	·	PUNCT	PUNCT	_	12	punct	_	_
 
-# sent_id = shenoute_a22-a22_YA421-428_s0041
-# text_en = ...
+# sent_id = shenoute_a22-a22_YA421-428_s0040
+# text_en = We too, brothers, inasmuch as we are partners with each other, we are the children of a single man, God,
 # text = ⲁⲛⲟⲛ ⲇⲉ ϩⲱⲱⲛ ⲉⲥⲛⲏⲩ ⲉⲛϩⲟⲥⲟⲛ ⲉⲛⲟ ⲛⲕⲟⲓⲛⲱⲛⲟⲥ ⲙⲛⲛⲉⲛⲉⲣⲏⲩ ⲁⲛⲟⲛ ⲛϣⲏⲣⲉ ⲛⲟⲩⲣⲱⲙⲉ ⲛⲟⲩⲱⲧ ⲉⲧⲉⲡⲛⲟⲩⲧⲉ ⲡⲉ ·
 1	ⲁⲛⲟⲛ	ⲁⲛⲟⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=1|PronType=Prs	20	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	20	advmod	_	OrigLang=grc
@@ -2286,8 +2282,8 @@
 29	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	28	cop	_	Entity=person)person)
 30	·	·	PUNCT	PUNCT	_	20	punct	_	_
 
-# sent_id = shenoute_a22-a22_YA421-428_s0042
-# text_en = ...
+# sent_id = shenoute_a22-a22_YA421-428_s0041
+# text_en = and a single mother, heavenly Jerusalem, according to the Scriptures.
 # text = ⲁⲩⲱ ⲁⲛⲟⲛ ⲛϣⲏⲣⲉ ⲛⲟⲩⲙⲁⲁⲩ ⲛⲟⲩⲱⲧ ⲉⲧⲉⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ⲛⲧⲡⲉ ⲧⲉ ⲕⲁⲧⲁⲛⲉⲅⲣⲁⲫⲏ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲁⲛⲟⲛ	ⲁⲛⲟⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
@@ -2316,8 +2312,8 @@
 19	ⲅⲣⲁⲫⲏ	ⲅⲣⲁⲫⲏ	NOUN	N	Foreign=Yes	4	obl	_	Entity=abstract)|Orig=ⲅⲣⲁⲫⲏ̂`|OrigLang=grc
 20	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = shenoute_a22-a22_YA421-428_s0043
-# text_en = ...
+# sent_id = shenoute_a22-a22_YA421-428_s0042
+# text_en = Our father and mother who gave birth to us and nourished us in the flesh, are they better than our true father and mother?
 # text = ⲙⲏ ⲁⲣⲁ ϭⲉ ⲉϥⲥⲟⲧⲡ ⲛϭⲓⲡⲉⲛⲉⲓⲱⲧ ⲙⲛⲧⲉⲛⲙⲁⲁⲩ ⲉⲛⲧⲁⲩϫⲡⲟⲛ ⲁⲩⲱ ⲉⲁⲩⲥⲁⲛⲟⲩϣⲛ ⲕⲁⲧⲁⲥⲁⲣⲝ ⲛϩⲟⲩⲟ ⲉⲡⲉⲛϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲛⲉⲓⲱⲧ ⲁⲩⲱ ⲧⲉⲛⲙⲁⲁⲩ ⲛⲁⲙⲉ ·
 1	ⲙⲏ	ⲙⲏ	CCONJ	CONJ	_	6	advmod	_	_
 2	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
@@ -2368,8 +2364,8 @@
 37	ⲛⲁⲙⲉ	ⲛⲁⲙⲉ	ADV	ADV	_	30	advmod	_	_
 38	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = shenoute_a22-a22_YA421-428_s0044
-# text_en = ...
+# sent_id = shenoute_a22-a22_YA421-428_s0043
+# text_en = The One who gave birth to us with His holy blood [
 # text = ⲡⲁⲓ ⲉⲛⲧⲁϥϫⲡⲟⲛ ϩⲣⲁⲓ ϩⲙⲡⲉϥⲥⲛⲟϥ ⲉⲧⲟⲩⲁⲁⲃ
 1	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Entity=(person|Orig=ⲡⲁⲓ̈
 2-6	ⲉⲛⲧⲁϥϫⲡⲟⲛ	_	_	_	_	_	_	_	_
@@ -2486,7 +2482,7 @@
 # meta::source = MONB.EG 67 (K 0321)
 # meta::title = Apophthegmata Patrum Sahidic 024: Isaac
 # sent_id = apophthegmata_patrum-AP_024_isaac-cells_07_s0001
-# text_en = ...
+# text_en = Then as they were about to go to the harvest he said to them: “I’m not going to repeat and give you an order again,
 # text = ⲉⲩⲛⲁⲃⲱⲕ ⲇⲉ ⲉⲡⲱϩⲥ ⲡⲉϫⲁϥ ⲛⲁⲩ ϫⲉⲛϯⲛⲁⲃⲱⲕ ⲁⲛ ⲉⲕⲟⲧⲧ ⲉϯⲛⲧⲟⲗⲏ ⲛⲏⲧⲛ .
 1-4	ⲉⲩⲛⲁⲃⲱⲕ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	Orig=Ⲉ︤
@@ -2524,7 +2520,7 @@
 26	.	.	PUNCT	PUNCT	_	9	punct	_	Orig=·
 
 # sent_id = apophthegmata_patrum-AP_024_isaac-cells_07_s0002
-# text_en = ...
+# text_en = after all, you don’t observe them.”
 # text = ⲛⲧⲉⲧⲛ ϩⲁⲣⲉϩ ⲅⲁⲣ ⲁⲛ .
 1-2	ⲛⲧⲉⲧⲛ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	3	advmod	_	Orig=ⲛ̇
@@ -10753,7 +10749,7 @@
 # meta::source = MONB.BA 49-56 (IB 6,378 ff. 1-4)
 # meta::title = On Vigilance
 # sent_id = besa_letters-on_vigilance_s0001
-# text_en = ...
+# text_en = [Why] do you subject [yourselves] to laws in the world as the living do:
 # text = ⲧⲛⲇⲟⲅⲙⲁⲧⲓⲍⲉ ϩⲙⲡⲕⲟⲥⲙⲟⲥ ⲛⲧϩⲉ ⲛⲛⲉⲧⲟⲛϩ ·
 1-2	ⲧⲛⲇⲟⲅⲙⲁⲧⲓⲍⲉ	_	_	_	_	_	_	_	_
 1	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Orig=ⲧ︤ⲛ︥
@@ -10774,7 +10770,7 @@
 13	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0002
-# text_en = ...
+# text_en = 'Do not touch, do not taste, do not approach.' This means: we have escaped the sins of the world by leaving them behind us.
 # text = ⲙⲡⲣϫⲱϩ ⲟⲩⲧⲉ ⲙⲡⲣϫⲓϯⲡⲉ . ⲟⲩⲧⲉ ⲙⲡⲣϩⲱⲛ ⲉϩⲟⲩⲛ · ⲉⲧⲉⲡⲁⲓ ⲡⲉ ϫⲉⲁⲛⲉⲓ ⲉⲃⲟⲗ ϩⲛⲛⲛⲟⲃⲉ ⲙⲡⲕⲟⲥⲙⲟⲥ ⲉⲁⲛⲕⲁⲁⲩ ⲛⲥⲱⲛ ·
 1-2	ⲙⲡⲣϫⲱϩ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲣ	ⲙⲡⲣ	ADV	NEG	Polarity=Neg	2	advmod	_	Orig=ⲙ̄ⲡⲣ̄
@@ -10820,7 +10816,7 @@
 33	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0003
-# text_en = ...
+# text_en = Why do we now turn around and entangle us in them?
 # text = ⲁϩⲣⲟⲛ ⲟⲛ ⲉⲛⲕⲧⲟ ⲙⲙⲟⲛ ⲉⲛϭⲗⲟⲙⲗⲙ ϩⲣⲁⲓ ⲛϩⲏⲧⲟⲩ ·
 1-2	ⲁϩⲣⲟⲛ	_	_	_	_	_	_	_	_
 1	ⲁϩⲣⲟ	ⲁϩⲣⲟ	VERB	VBD	Mood=Ind|VerbForm=Fin	6	advcl	_	_
@@ -10844,7 +10840,7 @@
 15	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0004
-# text_en = ...
+# text_en = And he has also said, at that time you were dark, but now you are light in the Lord.
 # text = ϩⲙⲡⲁⲓ ⲟⲛ ⲉⲛⲧⲁϥϫⲟⲟⲥ ϫⲉⲙⲡⲓⲟⲩⲟⲉⲓϣ ⲅⲁⲣ ⲛⲉⲧⲉⲧⲛⲟ ⲛⲕⲁⲕⲉ ⲡⲉ · ⲧⲉⲛⲟⲩ ⲇⲉ ⲛⲟⲩⲟⲉⲓⲛ ϩⲙⲡϫⲟⲉⲓⲥ ·
 1-2	ϩⲙⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ϩⲙ	ϩⲛ	ADP	PREP	_	2	case	_	Orig=ϩⲙ̄
@@ -10883,7 +10879,7 @@
 28	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0005
-# text_en = ...
+# text_en = Walk as children of the light.
 # text = ⲙⲟⲟϣⲉ ϩⲱⲥ ϣⲏⲣⲉ ⲙⲡⲟⲩⲟⲉⲓⲛ ·
 1	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	Mood=Imp|VerbForm=Fin	0	root	_	_
 2	ϩⲱⲥ	ϩⲱⲥ	SCONJ	CONJ	Foreign=Yes	3	mark	_	OrigLang=grc
@@ -10895,7 +10891,7 @@
 7	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0006
-# text_en = ...
+# text_en = For the fruit of the light consists purely in good things, in justice and truth.
 # text = ⲉⲣⲉⲡⲕⲁⲣⲡⲟⲥ ⲅⲁⲣ ⲙⲡⲟⲩⲟⲉⲓⲛ ϩⲙⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲛⲓⲙ ⲙⲛⲧⲇⲓⲕⲁⲓⲟⲥⲩⲛⲏ ⲙⲛⲧⲙⲉ ·
 1-3	ⲉⲣⲉⲡⲕⲁⲣⲡⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	9	mark	_	_
@@ -10921,7 +10917,7 @@
 17	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0007
-# text_en = ...
+# text_en = Examine what pleases the Lord and do not take part in the fruitless deeds of darkness, which bear no fruit, but expose them instead.
 # text = ⲉⲧⲉⲧⲛⲇⲟⲕⲓⲙⲁⲍⲉ ϫⲉⲟⲩ ⲡⲉⲉⲧⲣⲁⲛⲁϥ ⲙⲡϫⲟⲉⲓⲥ · ⲁⲩⲱ ⲙⲡⲣⲕⲟⲓⲛⲱⲛⲉⲓ ⲉⲛⲉϩⲃⲏⲩⲉ ⲙⲡⲕⲁⲕⲉ ⲉⲧⲉⲙⲙⲛⲧⲟⲩ ⲕⲁⲣⲡⲟⲥ · ⲛⲧⲉⲧⲛϫⲡⲓⲟⲟⲩ ⲇⲉ ⲛⲧⲟϥ ⲛϩⲟⲩⲟ ·
 1-3	ⲉⲧⲉⲧⲛⲇⲟⲕⲓⲙⲁⲍⲉ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
@@ -10972,7 +10968,7 @@
 37	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0008
-# text_en = ...
+# text_en = For what they do in secret is shameful to even mention.
 # text = ⲛⲉⲧⲟⲩⲉⲓⲣⲉ ⲅⲁⲣ ⲙⲙⲟⲟⲩ ⲛϫⲓⲟⲩⲉ , ϩⲉⲛϣⲗⲟϥ ⲛⲉ ⲉⲣⲡⲕⲉ ⲉϫⲟⲟⲩ ·
 1-4	ⲛⲉⲧⲟⲩⲉⲓⲣⲉ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	12	dislocated	_	Entity=(abstract
@@ -11003,7 +10999,7 @@
 21	·	·	PUNCT	PUNCT	_	12	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0009
-# text_en = ...
+# text_en = But each filthy work is exposed by the light.
 # text = ϣⲁⲣⲉϩⲱⲃ ⲇⲉ ⲛⲓⲙ ⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ⲉⲧⲟⲩϫⲡⲓⲟ ⲙⲙⲟⲟⲩ ϩⲓⲧⲙⲡⲟⲩⲟⲉⲓⲛ ·
 1-2	ϣⲁⲣⲉϩⲱⲃ	_	_	_	_	_	_	_	_
 1	ϣⲁⲣⲉ	ϣⲁⲣⲉ	AUX	AAOR	_	5	aux	_	_
@@ -11026,7 +11022,7 @@
 15	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0010
-# text_en = ...
+# text_en = For everything which is manifest is light.
 # text = ϩⲱⲃ ⲅⲁⲣ ⲛⲓⲙ ⲉⲧⲟⲩⲟⲛϩ ⲉⲃⲟⲗ ϩⲉⲛⲟⲩⲟⲉⲓⲛ ⲛⲉ ·
 1	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	8	nsubj	_	Entity=(abstract|Orig=ϩⲱⲃ⳿
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
@@ -11042,7 +11038,7 @@
 10	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0011
-# text_en = ...
+# text_en = Therefore, let us denounce our foolish notions and all inspirations by the devil, unbelief and hatred, as they inspire us to devise evil against each other, which will cause there to be no true connection among us.
 # text = ⲉⲧⲃⲉⲡⲁⲓ ϩⲱⲱⲛ ⲙⲁⲣⲛϫⲡⲓⲟ ⲛⲛⲉⲛⲙⲛⲧⲥⲟϭ ϩⲣⲁⲓ ⲛϩⲏⲧⲛ ⲙⲛⲙⲙⲉⲉⲩⲉ ⲧⲏⲣⲟⲩ ⲙⲡⲇⲓⲁⲃⲟⲗⲟⲥ ⲉⲧϥⲛⲟⲩϫⲉ ⲙⲙⲟⲟⲩ ⲉϩⲟⲩⲛ ⲉⲣⲟⲛ · ⲙⲛⲙⲙⲛⲧⲁⲧⲛⲁϩⲧⲉ · ⲙⲛⲙⲙⲟⲥⲧⲉ · ⲛⲧϩⲉ ⲉϣⲁⲩⲧⲣⲉⲛⲙⲉⲉⲩⲉ ⲉⲡⲡⲉⲧϩⲟⲟⲩ ⲉϩⲟⲩⲛ ⲉⲛⲉⲛⲉⲣⲏⲩ ⲉⲛⲧⲛϩⲁⲧⲛⲛⲉⲛⲉⲣⲏⲩ ⲁⲛ ⲉⲡⲧⲏⲣϥ ·
 1-2	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
@@ -11130,7 +11126,7 @@
 65	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0012
-# text_en = ...
+# text_en = And we blame each other and not ourselves, as if our struggle were to be against each other and not against the principalities and powers, against the world rulers of darkness, against the spiritual forces of evil that are under heaven – our fight should be against them, but not against flesh and blood.
 # text = ⲁⲩⲱ ⲉⲛϭⲛⲁⲣⲓⲕⲉ ⲉⲛⲉⲛⲉⲣⲏⲩ . ⲁⲩⲱ ⲉⲣⲟⲛ ⲁⲛ ⲙⲙⲓⲛⲙⲙⲟⲛ · ϩⲱⲥ ⲉⲣⲉⲡⲉⲛⲙⲓϣⲉ ϣⲟⲟⲡ ⲉϩⲟⲩⲛ ⲉⲛⲉⲛⲉⲣⲏⲩ · ⲁⲩⲱ ⲉϥϣⲟⲟⲡ ⲁⲛ ⲟⲩⲃⲉⲛⲁⲣⲭⲏ ⲙⲛⲛⲉⲝⲟⲩⲥⲓⲁ · ⲟⲩⲃⲉⲛⲕⲟⲥⲙⲟⲕⲣⲁⲧⲱⲣ ⲙⲡⲕⲁⲕⲉ · ⲟⲩⲃⲉⲛⲉⲡⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ ⲛⲧⲡⲟⲛⲏⲣⲓⲁ ⲉⲧϩⲁⲙⲡⲏⲩⲉ · ⲁⲩⲱ ⲟⲩⲃⲉⲥⲛⲟϥ ⲁⲛ ϩⲓⲥⲁⲣⲝ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲉⲛϭⲛⲁⲣⲓⲕⲉ	_	_	_	_	_	_	_	_
@@ -11212,7 +11208,7 @@
 62	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0013
-# text_en = ...
+# text_en = As the Apostle said: Reach for the armor of God, so that you can resist the crafty snares of the devil, because not against flesh and blood is our fight.
 # text = ⲛⲧϩⲉ ⲉⲛⲧⲁⲡⲁⲡⲟⲥⲧⲟⲗⲟⲥ ϫⲟⲟⲥ ϫⲉϫⲓ ⲛⲏⲧⲛ ⲛⲧⲡⲁⲛϩⲟⲡⲗⲓⲁ ⲙⲡⲛⲟⲩⲧⲉ ϫⲉⲉⲧⲉⲧⲛⲛⲁϣϭⲙϭⲟⲙ ⲉⲁϩⲉⲣⲁⲧⲧⲏⲩⲧⲛ ⲛⲛⲁϩⲣⲛⲛⲕⲟⲧⲥ ⲙⲡⲇⲓⲁⲃⲟⲗⲟⲥ · ϫⲉⲉⲣⲉⲡⲉⲛⲙⲓϣⲉ ϣⲟⲟⲡ ⲛⲁⲛ ⲁⲛ ⲟⲩⲃⲉⲥⲛⲟϥ ϩⲓⲥⲁⲣⲝ ·
 1-3	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	Orig=ⲛ̄
@@ -11280,7 +11276,7 @@
 49	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0014
-# text_en = ...
+# text_en = Therefore, be vigilant and let us hold onto the good, because although many are together in the flesh, they are far apart in the heart and in terms of love.
 # text = ⲉⲧⲃⲉⲡⲁⲓ ϭⲉ ⲣⲟⲉⲓⲥ ⲁⲩⲱ ⲛⲧⲛⲁⲙⲁϩⲧⲉ ⲙⲡⲡⲉⲧⲛⲁⲛⲟⲩϥ · ⲉⲃⲟⲗ ϫⲉⲟⲩⲛϩⲁϩ ⲉⲩϩⲁⲧⲛⲛⲉⲩⲉⲣⲏⲩ ϩⲙⲡⲥⲱⲙⲁ · ⲉⲩⲟⲩⲏⲩ ⲇⲉ ⲉⲃⲟⲗ ⲛⲛⲉⲩⲉⲣⲏⲩ ϩⲙⲡϩⲏⲧ ⲁⲩⲱ ⲧⲁⲅⲁⲡⲏ ·
 1-2	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
@@ -11334,7 +11330,7 @@
 40	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0015
-# text_en = ...
+# text_en = Many, however, who are not together in the flesh, they are together in the love of Christ and the Spirit and the desire for Jesus.
 # text = ⲟⲩⲛϩⲁϩ ⲇⲉ ⲟⲛ ⲉⲩϩⲁⲧⲛⲛⲉⲩⲉⲣⲏⲩ ⲁⲛ ϩⲙⲡⲥⲱⲙⲁ · ⲉⲩϩⲁⲧⲛⲛⲉⲩⲉⲣⲏⲩ ⲛⲛⲁⲩ ⲛⲓⲙ ϩⲛⲧⲁⲅⲁⲡⲏ ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ ⲙⲛⲧⲁⲅⲁⲡⲏ ⲙⲡⲉⲡⲛⲉⲩⲙⲁ ⲁⲩⲱ ⲡⲟⲩⲱϣ ⲛⲓⲏⲥⲟⲩⲥ :
 1-2	ⲟⲩⲛϩⲁϩ	_	_	_	_	_	_	_	_
 1	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	Cxn=Existential-ExistPred-Positive|Orig=ⲟⲩⲛ̄
@@ -11389,7 +11385,7 @@
 40	:	:	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0016
-# text_en = ...
+# text_en = But you, brethren, pay attention to yourselves and do not deviate from what we have learned.
 # text = ⲛⲧⲱⲧⲛ ⲇⲉ ⲛⲉⲥⲛⲏⲩ ϩⲁⲣⲉϩ ⲁⲩⲱ ⲙⲟⲩⲛ ⲉⲃⲟⲗ ϩⲛⲛⲉⲛⲧⲁⲛⲧⲥⲁⲃⲟ ⲉⲣⲟⲟⲩ ·
 1	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	5	dislocated	_	Orig=ⲛ̄ⲧⲱⲧⲛ̄
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
@@ -11413,7 +11409,7 @@
 17	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0017
-# text_en = ...
+# text_en = Then many will learn and profit from you, as he has said, your good works shall be seen, and your Father in heaven be praised.
 # text = ⲁⲩⲱ ⲟⲩⲛϩⲁϩ ⲛⲁϫⲓⲥⲃⲱ ⲁⲩⲱ ⲛⲥⲉϯϩⲏⲩ ⲉⲃⲟⲗ ⲙⲙⲱⲧⲛ · ⲛⲧϩⲉ ⲉⲛⲧⲁϥϫⲟⲟⲥ ϫⲉⲙⲁⲣⲟⲩⲛⲁⲩ ⲉⲛⲉⲧⲛϩⲃⲏⲩⲉ ⲉⲧⲛⲁⲛⲟⲩⲟⲩ ⲛⲥⲉϯⲉⲟⲟⲩ ⲙⲡⲉⲧⲛⲉⲓⲱⲧ ⲉⲧϩⲛⲙⲡⲏⲩⲉ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2-3	ⲟⲩⲛϩⲁϩ	_	_	_	_	_	_	_	_
@@ -11471,7 +11467,7 @@
 42	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0018
-# text_en = ...
+# text_en = For just as you have modeled yourself after all the saints through your Christian way of life, as he said: But you, you have followed my teaching, my example, my purpose, my faith, my patience, my love, my steadfastness, my persecutions, my suffering, continue to imitate them by preserving for yourselves the fruits of your efforts.
 # text = ⲛⲧϩⲉ ⲅⲁⲣ ⲉⲛⲧⲁⲧⲉⲧⲛⲟⲩⲉϩⲧⲏⲩⲧⲛ ⲛⲥⲁⲛⲉⲧⲟⲩⲁⲁⲃ ⲧⲏⲣⲟⲩ ϩⲛⲛⲉⲧⲛⲡⲣⲁⲝⲓⲥ · ⲛⲧϩⲉ ⲉⲛⲧⲁϥϫⲟⲟⲥ ϫⲉⲛⲧⲟⲕ ⲇⲉ ⲁⲕⲟⲩⲁϩⲕ ⲛⲥⲁⲧⲁⲥⲃⲱ . ⲡⲁⲥⲙⲟⲧ ⲡⲁⲧⲱϣ ⲧⲁⲡⲓⲥⲧⲓⲥ · ⲧⲁⲙⲛⲧϩⲁⲣϣϩⲏⲧ · ⲧⲁⲁⲅⲁⲡⲏ · ⲧⲁϩⲩⲡⲟⲙⲟⲛⲏ · ⲛⲁⲇⲓⲱⲅⲙⲟⲥ · ⲛⲁϩⲓⲥⲉ · ⲟⲩⲉϩ ⲧⲏⲩⲧⲛ ⲟⲛ ⲛⲥⲱⲟⲩ ϩⲙⲡϩⲁⲣⲉϩ ⲉⲛⲉⲧⲛϩⲓⲥⲉ ⲛⲏⲧⲛ ·
 1-3	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	Orig=ⲛ̄
@@ -11571,7 +11567,7 @@
 74	·	·	PUNCT	PUNCT	_	61	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0019
-# text_en = ...
+# text_en = After all, who has imperishable riches in Christ, must also assure themselves of this wealth.
 # text = ⲛⲉⲧⲉⲟⲩⲛⲧⲁⲩ ⲅⲁⲣ ⲙⲙⲁⲩ ⲛⲧⲙⲛⲧⲣⲙⲙⲁⲟ ⲛⲁⲧⲧⲁⲕⲟ ϩⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ . ⲛⲧⲟⲟⲩ ⲟⲛ ⲛⲉⲧⲏⲡ ⲉⲣⲟⲉⲓⲥ ⲉⲣⲟⲥ ⲛⲁⲩ ·
 1-4	ⲛⲉⲧⲉⲟⲩⲛⲧⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	16	dislocated	_	Entity=(person
@@ -11610,7 +11606,7 @@
 27	·	·	PUNCT	PUNCT	_	16	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0020
-# text_en = ...
+# text_en = If already those who have earthly goods, gold, silver and other possessions, are vigilant so that robbers do not carry them off in secret, then we must watch all the more so that the enemy does not secretly carry off our merits: our prayers, our fasting practices, our chastity and our steadfastness.
 # text = ⲉϣϫⲉ ⲛⲉⲧⲉⲟⲩⲛⲧⲁⲩ ⲙⲙⲁⲩ ⲛⲟⲩⲭⲣⲏⲙⲁ · ⲟⲩⲛⲟⲩⲃ ⲙⲛⲟⲩϩⲁⲧ ⲙⲛϩⲉⲛϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ · ϣⲁⲩⲣⲟⲉⲓⲥ ϫⲉⲛⲛⲉⲛⲗⲏⲥⲧⲏⲥ ϥⲓⲧⲟⲩ ⲛϫⲓⲟⲩⲉ ⲉⲓⲉ ϣϣⲉ ⲉⲣⲟⲛ ⲛⲟⲩⲏⲣ ⲉⲣⲟⲉⲓⲥ ϫⲉⲛⲛⲉⲡϫⲁϫⲉ ϥⲓ ⲛϫⲓⲟⲩⲉ ⲙⲡⲉⲛⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲉⲧⲛⲉⲓⲣⲉ ⲙⲙⲟϥ · : ⲛⲉⲛϣⲗⲏⲗ · ⲙⲛⲛⲉⲛⲛⲏⲥⲧⲉⲓⲁ · ⲙⲛⲡⲉⲛⲧⲃⲃⲟ · ⲁⲩⲱ ⲧⲉⲛϩⲩⲡⲟⲙⲟⲛⲏ ·
 1	ⲉϣϫⲉ	ⲉϣϫⲉ	SCONJ	CONJ	_	22	mark	_	_
 2-5	ⲛⲉⲧⲉⲟⲩⲛⲧⲁⲩ	_	_	_	_	_	_	_	_
@@ -11705,7 +11701,7 @@
 70	·	·	PUNCT	PUNCT	_	32	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0021
-# text_en = ...
+# text_en = The theft of silver and gold is not quite comparable to this, but the more respected virginity and the monastic life are, the more the enemy strives also to capture them unnoticed.
 # text = ⲙⲡⲓϣⲱϣ ⲅⲁⲣ ⲁⲛ ⲛⲟⲩⲱⲧ ⲡⲉ ⲡϫⲓⲟⲩⲉ ⲛⲟⲩϩⲁⲧ ⲙⲛⲟⲩⲛⲟⲩⲃ · ⲁⲗⲗⲁ ⲛⲧϩⲉ ⲉⲧⲉⲣⲉⲧⲙⲛⲧⲡⲁⲣⲑⲉⲛⲟⲥ ⲁⲩⲱ ⲧⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ ⲧⲁⲓⲏⲩ ⲙⲙⲟⲥ · ⲛⲧⲉⲓϩⲉ ⲟⲛ ϥⲥⲡⲟⲩⲇⲁⲍⲉ ⲉϥⲓⲧⲟⲩ ⲛϫⲓⲟⲩⲉ ⲛϭⲓⲡϫⲁϫⲉ ·
 1-3	ⲙⲡⲓϣⲱϣ	_	_	_	_	_	_	_	_
 1	ⲙ	ⲛ	ADV	NEG	Polarity=Neg	3	advmod	_	Orig=ⲙ̄
@@ -11769,7 +11765,7 @@
 46	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0022
-# text_en = ...
+# text_en = Who has obtained pearls or gold, stands guard.
 # text = ⲡⲉⲛⲧⲁϥϫⲡⲟ ⲇⲉ ⲛⲁϥ ⲛϩⲉⲛⲙⲁⲣⲅⲁⲣⲓⲧⲏⲥ . ⲏ ⲟⲩⲛⲟⲩⲃ . ϣⲁϥⲣⲟⲩϣⲏ ⲛⲣⲟⲉⲓⲥ ·
 1-5	ⲡⲉⲛⲧⲁϥϫⲡⲟ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	dislocated	_	Entity=(person
@@ -11802,7 +11798,7 @@
 23	·	·	PUNCT	PUNCT	_	19	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0023
-# text_en = ...
+# text_en = If even the enemy remains awake at night to commit a villainy, then the owner of the wealth will watch all the more so that they don’t fall victim to any attack.
 # text = ⲉϣϫⲉ ϣⲁⲣⲉⲡϫⲁϫⲉ ⲣⲟⲩϣⲏ ⲛⲣⲟ ⲉⲧⲃⲉⲟⲩⲡⲟⲛⲏⲣⲓⲁ · ⲉⲓⲉ ϥⲛⲁⲣⲟⲉⲓⲥ ⲛⲟⲩⲏⲣ ⲛϭⲓⲡⲉⲧⲉⲟⲩⲛⲧϥ ⲛⲉⲭⲣⲏⲙⲁ · ϫⲉⲛⲛⲉⲩⲉⲡⲓⲃⲟⲩⲗⲉⲩⲉ ⲉⲣⲟⲟⲩ ·
 1	ⲉϣϫⲉ	ⲉϣϫⲉ	SCONJ	CONJ	_	5	mark	_	_
 2-4	ϣⲁⲣⲉⲡϫⲁϫⲉ	_	_	_	_	_	_	_	_
@@ -11849,7 +11845,7 @@
 33	·	·	PUNCT	PUNCT	_	16	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0024
-# text_en = ...
+# text_en = We want to remind ourselves of what our father said, brothers according to our way of life fast and pray and hold vigils, but they also lie, argue, are defiant, grumble and slander, hate, are hostile, fornicate and are devious: they commit every imaginable evil.
 # text = ⲙⲁⲣⲛⲣⲡⲙⲉⲉⲩⲉ ⲛⲛⲉⲛⲧⲁⲡⲉⲛⲉⲓⲱⲧ ϫⲟⲟⲩ ϫⲉϩⲉⲛⲥⲛⲏⲩ ⲕⲁⲧⲁⲡⲉⲛⲃⲓⲟⲥ , ⲉⲩⲛⲏⲥⲧⲉⲩⲉ ⲉⲩϣⲗⲏⲗ ⲇⲉ ⲟⲛ · ⲉⲩⲟ ⲛⲟⲩϣⲏ ⲛⲣⲟⲉⲓⲥ · ⲉⲩϫⲓϭⲟⲗ ⲇⲉ ⲟⲛ · ⲉⲩⲙⲓϣⲉ · ⲉⲩϯⲧⲱⲛ · ⲉⲩⲕⲣⲙⲣⲙ ⲁⲩⲱ ⲉⲩⲕⲁⲧⲁⲗⲁⲗⲉⲓ · ⲉⲩⲙⲟⲥⲧⲉ · ⲉⲩⲙⲟⲟϣⲉ ϩⲛⲟⲩϩⲏⲧ ⲙⲙⲛⲧϣⲙⲙⲟ · ⲉⲩϫⲱϩⲙ ⲙⲙⲟⲟⲩ · ⲁⲩⲱ ⲉⲩⲟ ⲛⲕⲣⲟϥ . ⲉⲩⲉⲓⲣⲉ ⲛϩⲱⲃ ⲛⲓⲙ ⲉϥϩⲟⲟⲩ ·
 1-5	ⲙⲁⲣⲛⲣⲡⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲙⲁⲣ	ⲙⲁⲣⲉ	AUX	AJUS	_	3	aux	_	Orig=ⲙⲁⲣ︤
@@ -11974,7 +11970,7 @@
 95	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0025
-# text_en = ...
+# text_en = Such people toil for nothing, and nothing good will happen to them.
 # text = ⲛⲁⲓ ⲛⲧⲉⲓⲙⲓⲛⲉ ⲉⲩϣⲡϩⲓⲥⲉ ⲉⲡϫⲓⲛϫⲏ · ⲁⲩⲱ ⲙⲙⲛⲗⲁⲁⲩ ⲛⲛⲟϥⲣⲉ ⲛⲁϣⲱⲡⲉ ⲛⲁⲩ ·
 1	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	0	root	_	Orig=ⲛⲁⲓ̈
 2-4	ⲛⲧⲉⲓⲙⲓⲛⲉ	_	_	_	_	_	_	_	_
@@ -12006,7 +12002,7 @@
 21	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0026
-# text_en = ...
+# text_en = Their steadfastness is of no benefit to them.
 # text = ⲉⲡϫⲓⲛϫⲏ ⲛⲁⲩ ⲟⲛ ⲧⲉ ⲧⲉⲩϩⲩⲡⲟⲙⲟⲛⲏ ·
 1-3	ⲉⲡϫⲓⲛϫⲏ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉ	ADP	PREP	_	3	case	_	_
@@ -12023,7 +12019,7 @@
 10	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0027
-# text_en = ...
+# text_en = As has been said: He is not a full sheaf that he could give flour.
 # text = ⲕⲁⲧⲁⲡⲉⲛⲧⲁⲩϫⲟⲟϥ ϫⲉⲟⲩⲕⲛⲁⲁⲩ ⲉϥⲙⲉϩ ⲁⲛ ⲡⲉ , ⲉⲧⲣⲉϥⲣⲛⲟⲉⲓⲧ .
 1-7	ⲕⲁⲧⲁⲡⲉⲛⲧⲁⲩϫⲟⲟϥ	_	_	_	_	_	_	_	_
 1	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	_	2	case	_	_
@@ -12052,7 +12048,7 @@
 21	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0028
-# text_en = ...
+# text_en = In this regard has also been said: Sow wheat, and reap thorns.
 # text = ϩⲙⲡⲁⲓ ⲟⲛ ⲉⲛⲧⲁⲩϫⲟⲟⲥ ϫⲉϫⲟ ⲛϩⲉⲛⲥⲟⲩⲟ · ⲛⲧⲉⲧⲛⲱϩⲥ ⲛϩⲉⲛϣⲟⲛⲧⲉ ·
 1-2	ϩⲙⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ϩⲙ	ϩⲛ	ADP	PREP	_	2	case	_	Orig=ϩⲙ̄
@@ -12083,7 +12079,7 @@
 21	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0029
-# text_en = ...
+# text_en = Their fields will bring them no harvest.
 # text = ⲛⲉⲩⲕⲗⲏⲣⲟⲥ ⲛⲥⲉⲛⲁϯϩⲏⲩ ⲛⲁⲩ ⲁⲛ ·
 1-2	ⲛⲉⲩⲕⲗⲏⲣⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Entity=(abstract
@@ -12100,7 +12096,7 @@
 10	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0030
-# text_en = ...
+# text_en = Therefore keep watch and do not let the enemy destroy our merit while we make it.
 # text = ⲉⲧⲃⲉⲡⲁⲓ ϭⲉ ⲣⲟⲉⲓⲥ ⲙⲡⲣⲕⲁ ⲡϫⲁϫⲉ ⲉⲧⲁⲕⲟ ⲙⲡⲉⲛⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲉⲧⲛⲉⲓⲣⲉ ⲙⲙⲟϥ .
 1-2	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
@@ -12130,7 +12126,7 @@
 19	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0031
-# text_en = ...
+# text_en = Instead, we want to adamantly preserve our minds from any impure thought from the devil to become worthy to hear this with satisfaction (p 3): 'From now on, they will no longer work on an agency basis,
 # text = ⲁⲗⲗⲁ ϩⲛϩⲁⲣⲉϩ ⲛⲓⲙ ϩⲁⲣⲉϩ ⲉⲡⲉⲛϩⲏⲧ ⲉⲃⲟⲗ ϩⲛⲙⲉⲉⲩⲉ ⲛⲓⲙ ⲉϥϫⲁϩⲙ ⲛⲧⲉⲡⲇⲓⲁⲃⲟⲗⲟⲥ · ϫⲉⲕⲁⲥ ⲉⲛⲛⲁⲣⲙⲡϣⲁ ⲛⲥⲱⲧⲙ ⲉⲡⲁⲓ ϩⲛⲟⲩⲧⲱⲧ ⲛϩⲏⲧ ϫⲉⲛⲥⲉⲛⲁⲣϩⲱⲃ ⲁⲛ ⲛϣⲙⲙⲟ ϫⲓⲛⲙⲡⲓⲛⲁⲩ ·
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
 2-3	ϩⲛϩⲁⲣⲉϩ	_	_	_	_	_	_	_	_
@@ -12193,7 +12189,7 @@
 46	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0032
-# text_en = ...
+# text_en = but they will work for the Lord, their God.
 # text = ⲁⲗⲗⲁ ⲉⲩⲛⲁⲣϩⲱⲃ ⲙⲡϫⲟⲉⲓⲥ ⲡⲉⲩⲛⲟⲩⲧⲉ ·
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
 2-5	ⲉⲩⲛⲁⲣϩⲱⲃ	_	_	_	_	_	_	_	_
@@ -12211,7 +12207,7 @@
 11	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0033
-# text_en = ...
+# text_en = Because thieves do not break into a house or anywhere else where there are no valuables, but only where they would find valuables.
 # text = ⲕⲁⲓ ⲅⲁⲣ ⲉϣⲁⲣⲉⲛⲗⲏⲥⲧⲏⲥ ϭⲱⲧϩ ⲁⲛ ⲉⲟⲩⲏⲓ , ⲏ ⲟⲩⲙⲁ ⲉⲙⲛⲭⲣⲏⲙⲁ ⲛϩⲏⲧϥ · ⲁⲗⲗⲁ ⲉϣⲁⲩϭⲱⲧϩ ⲉⲡⲙⲁ ⲉⲧⲟⲩⲛⲁϭⲛⲭⲣⲏⲙⲁ ⲙⲙⲁⲩ ·
 1	ⲕⲁⲓ	ⲕⲁⲓ	CCONJ	CONJ	Foreign=Yes	7	cc	_	OrigLang=grc
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	7	advmod	_	OrigLang=grc
@@ -12258,7 +12254,7 @@
 35	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0034
-# text_en = ...
+# text_en = They also do not break into a place guarded against thieves, but where they know that no one watches, but everyone is asleep,
 # text = ⲟⲩⲧⲉ ⲉϣⲁⲩϭⲱⲧϩ ⲁⲛ ⲉⲡⲙⲁ ⲉⲧⲟⲩⲣⲟⲉⲓⲥ ⲛϩⲏⲧϥ ⲉⲧⲣⲉⲩϣⲱⲗ · ⲁⲗⲗⲁ ⲡⲙⲁ ⲉⲧⲟⲩⲥⲟⲟⲩⲛ ϫⲉ ⲛⲥⲉⲣⲟⲉⲓⲥ ⲁⲛ ⲛϩⲏⲧϥ ⲁⲩⲱ ⲥⲉⲟⲃϣ .
 1	ⲟⲩⲧⲉ	ⲟⲩⲧⲉ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
 2-5	ⲉϣⲁⲩϭⲱⲧϩ	_	_	_	_	_	_	_	_
@@ -12308,7 +12304,7 @@
 36	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0035
-# text_en = ...
+# text_en = it is there that they break in and rob, whatever they find,
 # text = ⲛⲧⲟⲟⲩ ⲛⲉⲧⲉϣⲁⲩϭⲱⲧϩ ⲉⲣⲟⲟⲩ ⲛⲥⲉⲧⲱⲣⲡ ⲙⲡⲉⲧⲟⲩⲛⲁϭⲛⲧϥ ·
 1	ⲛⲧⲟⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERI	Definite=Def|Number=Plur|Person=3|PronType=Prs	0	root	_	Orig=ⲛ̄ⲧⲟⲟⲩ
 2-6	ⲛⲉⲧⲉϣⲁⲩϭⲱⲧϩ	_	_	_	_	_	_	_	_
@@ -12335,7 +12331,7 @@
 19	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0036
-# text_en = ...
+# text_en = In the same way the devil does not rob the one who is vigilant and preserves the fruits of his effort, but the one whom he finds careless and without fear of God, not considering, in which state he will come into the hands of God, driven back and forth by every wind,
 # text = ⲛⲧⲉⲓ ϩⲉ ⲟⲛ ⲉϣⲁⲣⲉⲡⲇⲓⲁⲃⲟⲗⲟⲥ ⲧⲱⲣⲡ ⲁⲛ ⲙⲡⲉⲧⲣⲟⲉⲓⲥ ⲁⲩⲱ ⲉⲧϩⲁⲣⲉϩ ⲉⲡⲉϥϩⲓⲥⲉ ⲛⲁϥ . ⲁⲗⲗⲁ ⲡⲉⲧϥⲛⲁϭⲛⲧϥ ⲉϥⲣⲟⲉⲓⲥ ⲁⲛ · ⲟⲩⲧⲉ ⲛϥⲣϩⲟⲧⲉ ⲁⲛ ϩⲏⲧϥ ⲙⲡⲛⲟⲩⲧⲉ · ⲟⲩⲧⲉ ⲛϥⲉⲓⲣⲉ ⲁⲛ ⲙⲡⲙⲉⲉⲩⲉ ϫⲉⲉϥⲛⲏⲩ ⲉϩⲣⲁⲓ ⲉⲛϭⲓϫ ⲙⲡⲛⲟⲩⲧⲉ ⲛⲁϣ ⲛϩⲉ · ⲁⲗⲗⲁ ⲉϥϣⲉⲉⲓ ⲙⲛⲧⲏⲩ ⲛⲓⲙ ·
 1-2	ⲛⲧⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	Orig=ⲛ̄
@@ -12437,7 +12433,7 @@
 78	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0037
-# text_en = ...
+# text_en = this is the one whose fruits he robs ruthlessly.
 # text = ⲛⲧⲟϥ ⲡⲉⲧⲉϣⲁϥⲧⲱⲣⲡ ⲙⲡⲉϥⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲉⲧϥⲉⲓⲣⲉ ⲙⲙⲟϥ ⲁϫⲛϯⲥⲟ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Orig=ⲛ̄ⲧⲟϥ
 2-6	ⲡⲉⲧⲉϣⲁϥⲧⲱⲣⲡ	_	_	_	_	_	_	_	_
@@ -12463,7 +12459,7 @@
 17	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0038
-# text_en = ...
+# text_en = Therefore now take courage and be vigilant, brothers, everyone who is of one mind with God and our fathers, and also with us, whether man or woman, young or old, here with us or with you, we will not allow our eyes sleep and our eyelids slumber until the Lord saves us from any temptation by the enemy.
 # text = ⲉⲧⲃⲉⲡⲁⲓ ϭⲉ ⲛⲉⲥⲛⲏⲩ ⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲟ ⲛⲟⲩϩⲏⲧ ⲛⲟⲩⲱⲧ ⲙⲛⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲙⲛⲛⲉⲛⲉⲓⲟⲧⲉ , ⲁⲩⲱ ⲛⲙⲙⲁⲛ ϩⲱⲱⲛ ⲟⲛ, ⲉⲓⲧⲉ ϩⲟⲟⲩⲧ ⲉⲓⲧⲉ ⲥϩⲓⲙⲉ . ⲉⲓⲧⲉ ⲛⲟϭ ⲉⲓⲧⲉ ⲕⲟⲩⲓ · ϩⲁⲧⲏⲛ , ⲁⲩⲱ ϩⲁⲧⲉⲧⲏⲩⲧⲛ ⲧⲱⲕ ⲛϩⲏⲧ ⲁⲩⲱ ⲣⲟⲉⲓⲥ ⲙⲡⲣϯϩⲓⲛⲏⲃ ⲛⲛⲉⲛⲃⲁⲗ · ⲟⲩⲧⲉ ⲣⲉⲕⲣⲓⲕⲉ ⲛⲛⲉⲛⲃⲟⲩϩⲉ · ϣⲁⲛⲧⲉⲡϫⲟⲉⲓⲥ ⲛⲁϩⲙⲛ ⲉⲡⲉⲓⲣⲁⲥⲙⲟⲥ ⲛⲓⲙ ⲛⲧⲉⲡϫⲁϫⲉ ·
 1-2	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
@@ -12561,7 +12557,7 @@
 74	·	·	PUNCT	PUNCT	_	46	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0039
-# text_en = ...
+# text_en = Because there are many who envy us.
 # text = ⲛⲁϣⲉⲛⲉⲧⲫⲑⲟⲛⲉⲓ ⲅⲁⲣ ⲉⲣⲟⲛ ·
 1-4	ⲛⲁϣⲉⲛⲉⲧⲫⲑⲟⲛⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲛⲁϣⲉ	ⲛⲁϣⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
@@ -12575,7 +12571,7 @@
 8	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0040
-# text_en = ...
+# text_en = And give no heed to brothers, who are often involved in strife and rebellion, and disown their steadfastness. Do not let them become a stumbling block to you!
 # text = ⲁⲩⲱ ⲙⲡⲣⲛⲁⲩ ⲉϩⲉⲛⲥⲛⲏⲩ ⲉⲩϣⲧⲣⲧⲱⲣ ⲛϩⲁϩ ⲛⲥⲟⲡ ϩⲙⲡⲙⲓϣⲉ ⲙⲛⲡϯⲧⲱⲛ ⲁⲩⲱ ⲉⲩⲁⲣⲛⲁ ⲛⲧⲉⲩϩⲩⲡⲟⲙⲟⲛⲏ · ⲛⲥⲉⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ ⲙⲙⲱⲧⲛ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
 2-3	ⲙⲡⲣⲛⲁⲩ	_	_	_	_	_	_	_	_
@@ -12623,7 +12619,7 @@
 33	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0041
-# text_en = ...
+# text_en = God shall never be able to say that they are a stumbling block to the righteous, those who have complete faith in Christ and wait for the Spirit of God.
 # text = ⲁⲗⲗⲁ ⲛⲛⲉⲡⲛⲟⲩⲧⲉ ϫⲟⲟϥ ⲉⲧⲣⲉⲩⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ ⲛⲙⲙⲁⲓⲛⲟⲩⲧⲉ ⲉⲛⲉϩ . ⲛⲁⲓ ⲉⲧⲉⲟⲩⲛⲧⲁⲩ ⲙⲙⲁⲩ ⲛⲧⲉⲩⲡⲓⲥⲧⲓⲥ ⲉⲥϫⲏⲕ ⲉⲃⲟⲗ ⲉϩⲟⲩⲛ ⲉⲡⲉⲭⲣⲓⲥⲧⲟⲥ · ⲁⲩⲱ ⲉⲧⲁϩⲉ ⲉⲡⲉⲡⲛⲉⲩⲙⲁ ⲙⲡⲛⲟⲩⲧⲉ ·
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
 2-4	ⲛⲛⲉⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
@@ -12680,7 +12676,7 @@
 42	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0042
-# text_en = ...
+# text_en = But woe to you sinners who disown your steadfastness and throw the communities into turmoil through cowardice, envy, hatred, strife, rebellion and intrigue!
 # text = ⲛⲧⲱⲧⲛ ⲇⲉ ⲛⲉⲧⲣⲛⲟⲃⲉ ⲁⲩⲱ ⲉⲧⲁⲣⲛⲁ ⲛⲧⲉⲩϩⲩⲡⲟⲙⲟⲛⲏ ⲁⲩⲱ ⲉⲧϣⲧⲟⲣⲧⲣ ⲛⲛⲥⲩⲛⲁⲅⲱⲅⲏ ϩⲛⲧⲙⲛⲧϩⲏⲧ ϣⲏⲙ · ⲙⲛⲡⲕⲱϩ · ⲙⲛⲡⲙⲟⲥⲧⲉ · ⲙⲛⲡⲙⲓϣⲉ · ⲙⲛⲡϯⲧⲱⲛ · ⲙⲛⲡⲉⲕⲣⲟϥ · ⲟⲩⲟⲉⲓ ⲛⲏⲧⲛ .
 1	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	43	dislocated	_	Orig=ⲛ̄ⲧⲱⲧ︤ⲛ︥
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	43	advmod	_	OrigLang=grc
@@ -12742,7 +12738,7 @@
 46	.	.	PUNCT	PUNCT	_	43	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0043
-# text_en = ...
+# text_en = What are you going to do on the day of your visitation?
 # text = ⲉⲧⲉⲧⲛⲁⲣⲟⲩ ϩⲙⲡⲉϩⲟⲟⲩ ⲙⲡⲉⲧⲛϭⲙⲡϣⲓⲛⲉ ·
 1-5	ⲉⲧⲉⲧⲛⲁⲣⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	4	mark	_	_
@@ -12761,7 +12757,7 @@
 12	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0044
-# text_en = ...
+# text_en = For your trouble comes from afar.
 # text = ⲧⲉⲧⲛⲑⲗⲓⲯⲓⲥ ⲅⲁⲣ ⲛⲏⲩ ⲙⲡⲟⲩⲉ ·
 1-2	ⲧⲉⲧⲛⲑⲗⲓⲯⲓⲥ	_	_	_	_	_	_	_	_
 1	ⲧⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	Entity=(abstract|Orig=ⲧⲉⲧ︤ⲛ︥
@@ -12775,7 +12771,7 @@
 8	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = besa_letters-on_vigilance_s0045
-# text_en = ...
+# text_en = Or is it no judgment for us that we - after we have left behind what we have left behind, and have entered into a contract with whom which we have entered into a contract, affirming under oath, 'We will not steal, lie, commit sexual misconduct, bear false witness, commit fraud secretly ', and all the points that come hereafter - that we then do these again [... 2 sheets ...]
 # text = ⲏ ⲟⲩⲕⲣⲓⲙⲁ ⲛⲁⲛ ⲁⲛ ⲡⲉ ⲙⲛⲛⲥⲁⲧⲣⲉⲛⲁⲡⲟⲧⲁⲥⲥⲉ ⲙⲡⲉⲛⲧⲁⲛⲁⲡⲟⲧⲁⲥⲥⲉ ⲙⲙⲟϥ . ⲁⲩⲱ ⲛⲧⲛⲥⲙⲛⲧⲟⲟⲧⲛ ⲙⲛⲡⲉⲛⲧⲁⲛⲥⲙⲛⲧⲟⲟⲧⲛ ⲛⲙⲙⲁϥ ϩⲛⲟⲩⲇⲓⲁⲑⲏⲕⲏ ⲉⲛϩⲟⲙⲟⲗⲟⲅⲉⲓ ϫⲉⲛⲛⲉⲛϫⲓⲟⲩⲉ · ⲛⲛⲉⲛϫⲓϭⲟⲗ · ⲛⲛⲉⲛϫⲉϩⲙⲡⲉⲛⲥⲱⲙⲁ ⲕⲁⲧⲁⲗⲁⲁⲩ ⲛⲥⲙⲟⲧ · ⲛⲛⲉⲛⲣⲙⲛⲧⲣⲉ ⲛⲛⲟⲩϫ · ⲛⲛⲉⲛⲣⲗⲁⲁⲩ ⲛⲕⲣⲟϥ ϩⲛⲟⲩϩⲱⲡ · ⲙⲛⲛⲕⲉϣⲁϫⲉ ⲉⲧⲛⲏⲩ ⲙⲛⲛⲥⲁⲛⲁⲓ · ⲡⲁⲗⲓⲛ ⲛⲧⲛⲕⲧⲟⲛ ⲛⲧⲛⲁⲁⲩ ⲛⲕⲉⲥⲟⲡ ·
 1	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	3	cc	_	Orig=ⲏ̂|OrigLang=grc
 2-3	ⲟⲩⲕⲣⲓⲙⲁ	_	_	_	_	_	_	_	_
