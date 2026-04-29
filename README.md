@@ -23,6 +23,7 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | Abraham our Father           | MONB XL93-94, YA518-520     |   1,197 |
 | Acephalous Work 22           | MONB YA421-428              |   1,699 |
 | Apophthegmata Patrum         | #1-6,18-19,23-32,114-139    |   4,153 |
+| Book of Jonah                | Chapters 1 - 4 (complete)   |   1,871 |
 | Book of Ruth                 | Chapters 1 - 4 (complete)   |   3,470 |
 | Dormition of John            | dormition.john.mercad       |   3,064 |
 | Epistle of Pseudo-Ephrem     | psephrem.letter             |   1,926 |
@@ -30,14 +31,14 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 | I See Your Eagerness         | MONB GF31-32                |     439 |
 | Letters of Besa              | #1,2,13,15,25               |   3,936 |
 | Life of Cyrus                | Part 1 of 2                 |   1,962 |
-| Life of John the Kalybites   | Part 1 of 2                 |   3,694 |
-| Life of Onnophrius           | Part 1 of 4                 |   2,746 |
+| Life of John the Kalybites   | Part 1 of 2                 |   3,693 |
+| Life of Onnophrius           | Part 1 of 4                 |   2,747 |
 | Martyrdom of St. Victor      | Chapters 1 - 6              |   1,986 |
 | Not Because a Fox Barks      | MONB XH204-216              |   2,545 |
 | Proclus Homilies             | #13 On Easter               |   2,344 |
 | Pseudo-Athanasius            | mercy_judgment              |   2,781 |
 | Pseudo-Flavianus             | Part 1 of 2                 |   3,537 |
-|                              | Total:                      |  57,103 |
+|                              | Total:                      |  58,974 |
 
 ## Tokenization
 
@@ -115,13 +116,21 @@ To cite the treebank please refer to the following paper:
   * Zeldes, Amir & Abrams, Mitchell (2018). "The Coptic Universal Dependency Treebank". In: *Proceedings of the Universal Dependencies Workshop 2018*. Brussels, Belgium, 192-201.
 
 ```bibtex
-@InProceedings{ZeldesAbrams2018,
-  author    = {Amir Zeldes and Mitchell Abrams},
-  title     = {The {C}optic {U}niversal {D}ependency {T}reebank},
-  booktitle = {Proceedings of the Universal Dependencies Workshop 2018},
-  pages     = {192--201},
-  year      = {2018},
-  address   = {Brussels}
+@inproceedings{zeldes-abrams-2018-coptic,
+    title = "The {C}optic {U}niversal {D}ependency Treebank",
+    author = "Zeldes, Amir  and
+      Abrams, Mitchell",
+    editor = "de Marneffe, Marie-Catherine  and
+      Lynn, Teresa  and
+      Schuster, Sebastian",
+    booktitle = "Proceedings of the Second Workshop on Universal Dependencies ({UDW} 2018)",
+    month = nov,
+    year = "2018",
+    address = "Brussels, Belgium",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W18-6022/",
+    doi = "10.18653/v1/W18-6022",
+    pages = "192--201"
 }
 ```
 
@@ -131,6 +140,10 @@ Further information on relevant annotation standards and NLP tools used prior to
   * Zeldes, Amir & Schroeder, Caroline T. (2016b). "An NLP Pipeline for Coptic". In: Proceedings of LaTeCH 2016 - The 10th SIGHUM Workshop at the Annual Meeting of the ACL. Berlin, 146-155.
 
 # Changelog
+
+  * CHANGELOG 2.17 -> 2.18
+
+Added Book of Jonah; new feature Emph for focalizing converters; minor corrections.
 
   * CHANGELOG 2.15 -> 2.16
 
