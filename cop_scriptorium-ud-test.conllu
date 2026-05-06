@@ -146,7 +146,7 @@
 7	ⲙⲙⲓⲛⲙⲙⲱ	ⲙⲙⲓⲛⲙⲙⲟ	NOUN	IMOD	Definite=Def|PronType=Prs|Reflex=Yes	4	obl:unmarked	_	Orig=ⲙ̄ⲙⲓⲛ`ⲙ̄ⲙⲱ
 8	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	7	nmod:poss	_	Orig=ⲧ︤ⲛ︥
 9-11	ⲉⲧⲉⲧⲛⲟ	_	_	_	_	_	_	_	_
-9	ⲉ	ⲉⲣⲉ	PART	CFOC	_	11	mark	_	_
+9	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	11	mark	_	_
 10	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
 11	ⲟ	ⲉⲓⲣⲉ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	0	root	_	Cxn=Conditional-UnspecifiedEpistemic|CxnElt=4:Conditional-UnspecifiedEpistemic.Apodosis|Orig=ⲟ̣`
 12-14	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
@@ -174,7 +174,7 @@
 # text_en = You are punished together down in hell.
 # text = ⲉⲩⲕⲟⲗⲁⲍⲉ ⲙⲙⲱⲧⲛ ϩⲓⲟⲩⲥⲟⲡ ϩⲣⲁⲓ ϩⲛⲁⲙⲛⲧⲉ ·
 1-3	ⲉⲩⲕⲟⲗⲁⲍⲉ	_	_	_	_	_	_	_	_
-1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
+1	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	3	mark	_	_
 2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 3	ⲕⲟⲗⲁⲍⲉ	ⲕⲟⲗⲁⲍⲉ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	0	root	_	OrigLang=grc
 4-5	ⲙⲙⲱⲧⲛ	_	_	_	_	_	_	_	_
@@ -197,7 +197,7 @@
 2-3	ⲛⲉⲧⲛϩⲃⲏⲩⲉ	_	_	_	_	_	_	_	_
 2	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	Entity=(abstract|Orig=ⲛⲉⲧⲛ︥
 3	ϩⲃⲏⲩⲉ	ϩⲱⲃ	NOUN	N	_	12	nsubj	_	Orig=ϩⲃⲏⲩⲉ`
-4	ⲧⲏⲣ	ⲧⲏⲣ	NOUN	IMOD	PronType=Tot	3	obl:unmarked	_	_
+4	ⲧⲏⲣ	ⲧⲏⲣ	NOUN	IMOD	PronType=Tot	3	nmod:unmarked	_	_
 5	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	nmod:poss	_	Entity=abstract)
 6	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	_
 7-8	ⲛⲉⲧⲛϣⲟϫⲛⲉ	_	_	_	_	_	_	_	_
@@ -479,7 +479,7 @@
 # text_en = The prophets and the apostles served the Lord and his Christ in a (?) to make them join two to suffer with others, and they died in the name of Jesus.
 # text = ⲛⲧⲁⲛⲉⲡⲣⲟⲫⲏⲧⲏⲥ ⲙⲛⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ ⲣϩⲙϩⲁⲗ ⲙⲡϫⲟⲉⲓⲥ ⲏ ⲡⲉϥⲭⲣⲓⲥⲧⲟⲥ ϩⲛⲟⲩⲭⲉⲓⲙⲏⲧⲓ ⲉⲧⲣⲉⲩϩⲟⲧⲡ ⲥⲛⲁⲩ ⲉϣⲡϩⲓⲥⲉ ⲙⲛϩⲉⲛⲕⲟⲟⲩⲉ · ⲁⲩⲱ ⲛⲥⲉⲙⲟⲩ ϩⲁⲡⲣⲁⲛ ⲛⲓⲏⲥⲟⲩⲥ :
 1-4	ⲛⲧⲁⲛⲉⲡⲣⲟⲫⲏⲧⲏⲥ	_	_	_	_	_	_	_	_
-1	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	8	mark	_	Orig=ⲛ̄ⲧ
+1	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	8	mark	_	Orig=ⲛ̄ⲧ
 2	ⲁ	ⲁ	AUX	APST	_	8	aux	_	_
 3	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	4	det	_	Entity=(person
 4	ⲡⲣⲟⲫⲏⲧⲏⲥ	ⲡⲣⲟⲫⲏⲧⲏⲥ	NOUN	N	Foreign=Yes	8	nsubj	_	Entity=person)|OrigLang=grc
@@ -688,7 +688,7 @@
 # text = ⲁⲗⲗⲁ ⲉⲓⲛⲁⲙⲟⲩⲧⲉ ⲉⲣⲱⲧⲛ ϫⲉⲛⲁⲥⲛⲏⲩ ⲁⲩⲱ ⲛⲁϣⲃⲉⲉⲣ · ϫⲉⲛⲉⲛⲧⲁⲓⲥⲟⲧⲙⲟⲩ ⲧⲏⲣⲟⲩ ⲛⲧⲉⲡⲁⲉⲓⲱⲧ ⲁⲓⲧⲁⲙⲱⲧⲛ ⲉⲣⲟⲟⲩ ·
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	5	cc	_	Orig=ⲁⲗⲗⲁ`|OrigLang=grc
 2-5	ⲉⲓⲛⲁⲙⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
-2	ⲉ	ⲉⲣⲉ	PART	CFOC	_	5	mark	_	_
+2	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	5	mark	_	_
 3	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
 5	ⲙⲟⲩⲧⲉ	ⲙⲟⲩⲧⲉ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲙⲟⲩⲧⲉ`
@@ -864,7 +864,7 @@
 # meta::source = MONB.YA 518-520 (IB2 ff.26v-27)
 # meta::title = Abraham Our Father: YA 518-20
 # sent_id = shenoute_abraham-YA518-520_s0001
-# text_en = ...
+# text_en = Letter of Shenoute
 # text = ⳾ ⲥⲉⲛⲟⲩⲑⲓⲟⲩ ⲉⲡⲓⲥⲧⲟⲗⲏ : ⳾
 1	⳾	⳾	PUNCT	PUNCT	_	3	punct	_	_
 2	ⲥⲉⲛⲟⲩⲑⲓⲟⲩ	ⲥⲉⲛⲟⲩⲑⲓⲟⲩ	X	FM	_	3	dep	_	Entity=(abstract
@@ -873,7 +873,7 @@
 5	⳾	⳾	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0002
-# text_en = ...
+# text_en = Abraham our father wished to have children with Sarah.
 # text = ⲁⲃⲣⲁϩⲁⲙ ⲡⲉⲛⲉⲓⲱⲧ ⲛⲉϥⲟⲩⲱϣ ⲡⲉ ⲉⲧⲣⲉϩⲉⲛϣⲏⲣⲉϣⲱⲡⲉ ⲛⲁϥ ⲉⲃⲟⲗ ϩⲛⲥⲁⲣⲣⲁ ·
 1	ⲁⲃⲣⲁϩⲁⲙ	ⲁⲃⲣⲁϩⲁⲙ	PROPN	NPROP	Foreign=Yes	6	dislocated	_	Entity=(person-Abraham|Orig=ⲁⲃⲣⲁϩⲁⲙ`|OrigLang=heb
 2-3	ⲡⲉⲛⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
@@ -900,7 +900,7 @@
 18	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0003
-# text_en = ...
+# text_en = And Sarah wished to have children with Abraham.
 # text = ⲁⲩⲱ ⲥⲁⲣⲣⲁ ⲛⲉⲥⲟⲩⲱϣ ⲡⲉ · ⲉⲧⲣⲉϩⲉⲛϣⲏⲣⲉ ϣⲱⲡⲉ ⲛⲁⲥ ⲉⲃⲟⲗ ϩⲛⲁⲃⲣⲁϩⲁⲙ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2	ⲥⲁⲣⲣⲁ	ⲥⲁⲣⲣⲁ	PROPN	NPROP	Foreign=Yes	5	dislocated	_	Entity=(person-Sarah)|OrigLang=heb
@@ -926,7 +926,7 @@
 18	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0004
-# text_en = ...
+# text_en = And thus the Lord God gave a child to Abraham in his old age,
 # text = ⲁⲩⲱ ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲛⲧⲁⲡϫⲟⲉⲓⲥ ⲡⲛⲟⲩⲧⲉ ϯ ⲛⲟⲩϣⲏⲣⲉ ⲛⲁⲃⲣⲁϩⲁⲙ ϩⲛⲧⲉϥⲙⲛⲧϩⲗⲗⲟ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
 2	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract)|Orig=ⲧⲁⲓ̈
@@ -957,7 +957,7 @@
 21	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0005
-# text_en = ...
+# text_en = begetting Isaac with Sarah in her old age.
 # text = ⲉⲁϥϫⲡⲟ ⲛⲓⲥⲁⲁⲕ ⲉⲃⲟⲗ ϩⲛⲥⲁⲣⲣⲁ ϩⲛⲧⲉⲥⲙⲛⲧϩⲗⲗⲱ ·
 1-4	ⲉⲁϥϫⲡⲟ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
@@ -978,7 +978,7 @@
 13	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0006
-# text_en = ...
+# text_en = They had him, their child beloved like a myriad of children, being one . . .
 # text = ⲁϥϣⲱⲡⲉ ⲛⲁⲩ ⲛⲟⲩϣⲏⲣⲉ ⲙⲙⲉⲣⲓⲧ ⲛⲧϩⲉ ⲛⲟⲩⲧⲃⲁ ⲛϣⲏⲣⲉ ⲉⲟⲩⲁ ⲡⲉ ·
 1-3	ⲁϥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -1012,7 +1012,7 @@
 22	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0007
-# text_en = ...
+# text_en = Neither . . . is . . . after his . .
 # text = ⲉⲃ[........]ⲟⲩⲇ[.......]ⲡⲉ · ⲉ[.....]ⲛⲥⲁⲡⲉϥ[.....]
 1-3	ⲉⲃ[........]ⲟⲩⲇ[.......]ⲡⲉ	_	_	_	_	_	_	_	_
 1	ⲉⲃ[........]	UNKNOWN	X	UNKNOWN	_	2	dep	_	_
@@ -1026,7 +1026,7 @@
 8	[.....]	[.....]	NOUN	N	_	2	parataxis	_	Entity=abstract)
 
 # sent_id = shenoute_abraham-YA518-520_s0008
-# text_en = ...
+# text_en = which came from his part.
 # text = ⲛⲧⲁϥⲉⲓ ⲉⲃⲟⲗ ϩⲛⲛⲉϥⲙⲉⲣⲟⲥ ·
 1-4	ⲛⲧⲁϥⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	Orig=ⲛ̄ⲧ
@@ -1041,7 +1041,7 @@
 9	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0009
-# text_en = ...
+# text_en = And thus he gives rest to the mother who bore him
 # text = ⲉϥϯⲙⲧⲟⲛ ⲇⲉ ⲟⲛ ⲛⲧⲙⲁⲁⲩ ⲛⲧⲁⲥϫⲡⲟϥ ·
 1-3	ⲉϥϯⲙⲧⲟⲛ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
@@ -1062,7 +1062,7 @@
 14	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0010
-# text_en = ...
+# text_en = and in this way he inherited the inheritance of his ancestors
 # text = ⲁⲩⲱ ⲛⲧⲉⲓϩⲉ ⲁϥⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ ⲛⲧⲉⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ ⲛⲛⲉϥⲉⲓⲟⲧⲉ ,
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
 2-4	ⲛⲧⲉⲓϩⲉ	_	_	_	_	_	_	_	_
@@ -1084,7 +1084,7 @@
 14	,	,	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0011
-# text_en = ...
+# text_en = according to that which was said to Abraham through God: 'That one who is Ishmael, he will not receive inheritance from you
 # text = ⲕⲁⲧⲁⲡⲉⲛⲧⲁⲩϫⲟⲟϥ ⲛⲁⲃⲣⲁϩⲁⲙ ⲉⲃⲟⲗ ϩⲓⲧⲙⲡⲛⲟⲩⲧⲉ ϫⲉⲡⲁⲓ ⲉⲧⲙⲙⲁⲩ ⲉⲧⲉⲓⲥⲙⲁⲏⲗ ⲡⲉ ⲛϥⲛⲁⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ ⲙⲙⲟⲕ ⲁⲛ ·
 1-7	ⲕⲁⲧⲁⲡⲉⲛⲧⲁⲩϫⲟⲟϥ	_	_	_	_	_	_	_	_
 1	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	2	case	_	OrigLang=grc
@@ -1124,7 +1124,7 @@
 28	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0012
-# text_en = ...
+# text_en = but I will bless him on your account and I will glorify him greatly and make him a great nation which is numerous
 # text = ⲡⲗⲏⲛ ϯⲛⲁⲥⲙⲟⲩ ⲇⲉ ⲟⲛ ⲉⲣⲟϥ ⲉⲧⲃⲏⲏⲧⲕ ⲧⲁⲁⲩⲝⲁⲛⲉ ⲙⲙⲟϥ ⲉⲙⲁⲧⲉ ⲛⲧⲁⲁⲁϥ ⲛⲟⲩⲛⲟϭ ⲛϩⲉⲑⲛⲟⲥ ⲉⲛⲁϣⲱϥ ·
 1	ⲡⲗⲏⲛ	ⲡⲗⲏⲛ	CCONJ	CONJ	Foreign=Yes	4	advmod	_	Orig=Ⲡⲗⲏⲛ|OrigLang=grc
 2-4	ϯⲛⲁⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
@@ -1165,7 +1165,7 @@
 28	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0013
-# text_en = ...
+# text_en = and those who come from your [...]
 # text = ⲁⲩⲱ ⲡⲉⲧⲛⲏⲩ ⲉⲃⲟⲗ ϩⲛⲛⲉⲕ · [....]ⲥ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
 2-4	ⲡⲉⲧⲛⲏⲩ	_	_	_	_	_	_	_	_
@@ -1181,7 +1181,7 @@
 10	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0014
-# text_en = ...
+# text_en = Isaac [it is he alone who will inher]it from you.'
 # text = ⲓⲥⲁⲁⲕ [...]ϥ ⲡⲉⲧⲛⲁⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ ⲙⲙⲟⲕ ·
 1	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	0	root	_	Entity=(person-Isaac)|Orig=ⲓ̈ⲥⲁⲁⲕ`|OrigLang=heb
 2	[...]ϥ	UNKNOWN	X	UNKNOWN	_	1	dep	_	Orig=[...]ϥ̣
@@ -1196,8 +1196,8 @@
 9	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0015
-# text_en = ...
-# text = ⲉⲧⲃⲉⲡⲁⲓ ⲣⲱ ⲁⲥϫⲟⲟⲥ ϩⲛⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ ϩⲙⲡⲥⲟⲟⲩⲛ ⲙⲡⲛⲟⲩⲧⲉ ⲛϭⲓⲧⲙⲁⲁⲩ ⲙⲡϣⲏⲣⲉ ⲉⲧⲟⲓ ⲛⲧⲟⲟⲧⲥ · ϫⲉⲛⲟⲩϫⲉ ⲉⲃⲟⲗ ⲛⲧⲉⲓϩⲙϩⲁⲗ ⲙⲛⲡⲉⲥϣⲏⲣⲉ · ⲛⲛⲉϥⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ ⲅⲁⲣ ⲛϭⲓⲡϣⲏⲣⲉ ⲛⲧⲉⲓϩⲙϩⲁⲗ ⲙⲛⲡⲁϣⲏⲣⲉ ⲓⲥⲁⲁⲕ ·
+# text_en = Therefore indeed she spoke boldly in the knowledge of God, namely, the mother of the child whom she had borne: 'cast out this slave with her child.
+# text = ⲉⲧⲃⲉⲡⲁⲓ ⲣⲱ ⲁⲥϫⲟⲟⲥ ϩⲛⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ ϩⲙⲡⲥⲟⲟⲩⲛ ⲙⲡⲛⲟⲩⲧⲉ ⲛϭⲓⲧⲙⲁⲁⲩ ⲙⲡϣⲏⲣⲉ ⲉⲧⲟⲓ ⲛⲧⲟⲟⲧⲥ · ϫⲉⲛⲟⲩϫⲉ ⲉⲃⲟⲗ ⲛⲧⲉⲓϩⲙϩⲁⲗ ⲙⲛⲡⲉⲥϣⲏⲣⲉ ·
 1-2	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
 2	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	Entity=(abstract)|Orig=ⲡⲁⲓ̈
@@ -1246,29 +1246,33 @@
 34	ⲙⲛ	ⲙⲛ	ADP	PREP	_	36	cc	_	Orig=ⲙ︤ⲛ︥`
 35	ⲡⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	36	nmod:poss	_	Entity=(person
 36	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	33	conj	_	Entity=person)
-37	·	·	PUNCT	PUNCT	_	40	punct	_	_
-38-40	ⲛⲛⲉϥⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	_	_	_	_	_	_	_	_
-38	ⲛⲛⲉ	ⲛⲛⲉ	AUX	ANEGOPT	Polarity=Neg	40	aux	_	Orig=ⲛ̄ⲛⲉ
-39	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	nsubj	_	_
-40	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	29	parataxis	_	Orig=ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ`|OrigLang=grc
-41	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	40	advmod	_	OrigLang=grc
-42-44	ⲛϭⲓⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
-42	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	44	case	_	Orig=ⲛ̄ϭⲓ
-43	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	Entity=(person
-44	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	40	dislocated	_	Orig=ϣⲏⲣⲉ`
-45-47	ⲛⲧⲉⲓϩⲙϩⲁⲗ	_	_	_	_	_	_	_	_
-45	ⲛ	ⲛ	ADP	PREP	_	47	case	_	Orig=ⲛ̄
-46	ⲧⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	47	det	_	Entity=(person|Orig=ⲧⲉⲓ̈
-47	ϩⲙϩⲁⲗ	ϩⲙϩⲁⲗ	NOUN	N	_	44	nmod	_	Entity=person)person)|Orig=ϩ︤ⲙ︥ϩⲁⲗ`
-48-50	ⲙⲛⲡⲁϣⲏⲣⲉ	_	_	_	_	_	_	_	_
-48	ⲙⲛ	ⲙⲛ	ADP	PREP	_	50	case	_	Orig=ⲙ︤ⲛ︥
-49	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	50	nmod:poss	_	Entity=(person-Isaac
-50	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	40	obl	_	_
-51	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	50	appos	_	Entity=person-Isaac)|Orig=ⲓ̈ⲥⲁⲁⲕ`|OrigLang=heb
-52	·	·	PUNCT	PUNCT	_	6	punct	_	_
+37	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0016
-# text_en = ...
+# text_en = For the child of this slave will not inherit along with my child, Isaac.'
+# text = ⲛⲛⲉϥⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ ⲅⲁⲣ ⲛϭⲓⲡϣⲏⲣⲉ ⲛⲧⲉⲓϩⲙϩⲁⲗ ⲙⲛⲡⲁϣⲏⲣⲉ ⲓⲥⲁⲁⲕ ·
+1-3	ⲛⲛⲉϥⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	_	_	_	_	_	_	_	_
+1	ⲛⲛⲉ	ⲛⲛⲉ	AUX	ANEGOPT	Polarity=Neg	3	aux	_	Orig=ⲛ̄ⲛⲉ
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ`|OrigLang=grc
+4	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5-7	ⲛϭⲓⲡϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	7	case	_	Orig=ⲛ̄ϭⲓ
+6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(person
+7	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	3	dislocated	_	Orig=ϣⲏⲣⲉ`
+8-10	ⲛⲧⲉⲓϩⲙϩⲁⲗ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	Orig=ⲛ̄
+9	ⲧⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	Entity=(person|Orig=ⲧⲉⲓ̈
+10	ϩⲙϩⲁⲗ	ϩⲙϩⲁⲗ	NOUN	N	_	7	nmod	_	Entity=person)person)|Orig=ϩ︤ⲙ︥ϩⲁⲗ`
+11-13	ⲙⲛⲡⲁϣⲏⲣⲉ	_	_	_	_	_	_	_	_
+11	ⲙⲛ	ⲙⲛ	ADP	PREP	_	13	case	_	Orig=ⲙ︤ⲛ︥
+12	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	Entity=(person-Isaac
+13	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	3	obl	_	_
+14	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	13	appos	_	Entity=person-Isaac)|Orig=ⲓ̈ⲥⲁⲁⲕ`|OrigLang=heb
+15	·	·	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = shenoute_abraham-YA518-520_s0017
+# text_en = Isaac prayed to the Lord, wishing that he would have children with Rebecca
 # text = ⲓⲥⲁⲁⲕ ⲛⲉϥⲧⲱⲃϩ ⲙⲡϫⲟⲉⲓⲥ ⲡⲉ · ⲉϥⲟⲩⲱϣ ⲉⲧⲣⲉϩⲉⲛϣⲏⲣⲉ ϣⲱⲡⲉ ⲛⲁϥ ⲉⲃⲟⲗ ϩⲛϩⲣⲉⲃⲉⲕⲕⲁ ·
 1	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	4	dislocated	_	Entity=(person-Isaac)|Orig=ⲓ̈ⲥⲁⲁⲕ`|OrigLang=heb
 2-4	ⲛⲉϥⲧⲱⲃϩ	_	_	_	_	_	_	_	_
@@ -1300,8 +1304,8 @@
 22	ϩⲣⲉⲃⲉⲕⲕⲁ	ϩⲣⲉⲃⲉⲕⲕⲁ	PROPN	NPROP	Foreign=Yes	17	obl	_	Entity=(person-Rebecca)|Orig=ϩⲣⲉⲃⲉⲕⲕⲁ`|OrigLang=heb
 23	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = shenoute_abraham-YA518-520_s0017
-# text_en = ...
+# sent_id = shenoute_abraham-YA518-520_s0018
+# text_en = and Rebecca also wished that she would have children with Isaac,
 # text = ⲁⲩⲱ ϩⲣⲉⲃⲉⲕⲕⲁ ⲛⲉⲥⲟⲩⲱϣ ⲉⲧⲣⲉϩⲉⲛϣⲏⲣⲉ ϣⲱⲡⲉ ⲛⲁⲥ ⲉⲃⲟⲗ ϩⲛⲓⲥⲁⲁⲕ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2	ϩⲣⲉⲃⲉⲕⲕⲁ	ϩⲣⲉⲃⲉⲕⲕⲁ	PROPN	NPROP	Foreign=Yes	5	dislocated	_	Entity=(person-Rebecca)|Orig=ϩⲣⲉⲃⲉⲕⲕⲁ`|OrigLang=heb
@@ -1324,8 +1328,8 @@
 15	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	10	obl	_	Entity=(person-Isaac)|Orig=ⲓ̈ⲥⲁⲁⲕ|OrigLang=heb
 16	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = shenoute_abraham-YA518-520_s0018
-# text_en = ...
+# sent_id = shenoute_abraham-YA518-520_s0019
+# text_en = and thus the Lord God gave to them according to their heart,
 # text = ⲁⲩⲱ ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲛⲧⲁⲡϫⲟⲉⲓⲥ ⲡⲛⲟⲩⲧⲉ ϯ ⲛⲁⲩ ⲕⲁⲧⲁⲡⲉⲩϩⲏⲧ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
 2	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract)|Orig=ⲧⲁⲓ̈
@@ -1351,8 +1355,8 @@
 17	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	12	obl	_	Entity=abstract)
 18	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = shenoute_abraham-YA518-520_s0019
-# text_en = ...
+# sent_id = shenoute_abraham-YA518-520_s0020
+# text_en = filling all their requests,
 # text = ⲉⲁϥϫⲱⲕ ⲉⲃⲟⲗ ⲛⲛⲉⲩⲁⲓⲧⲏⲙⲁ ⲧⲏⲣⲟⲩ ·
 1-4	ⲉⲁϥϫⲱⲕ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
@@ -1369,8 +1373,8 @@
 10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	9	nmod:poss	_	Entity=abstract)
 11	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = shenoute_abraham-YA518-520_s0020
-# text_en = ...
+# sent_id = shenoute_abraham-YA518-520_s0021
+# text_en = and Esau and Jacob were born.
 # text = ⲉⲁⲩϫⲡⲟ ⲛⲏⲥⲁⲩ ⲙⲛⲓⲁⲕⲱⲃ ·
 1-4	ⲉⲁⲩϫⲡⲟ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
@@ -1385,8 +1389,8 @@
 8	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	6	conj	_	Entity=(person-Jacob)|Orig=ⲓ̈ⲁⲕⲱⲃ|OrigLang=heb
 9	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = shenoute_abraham-YA518-520_s0021
-# text_en = ...
+# sent_id = shenoute_abraham-YA518-520_s0022
+# text_en = And Isaac blessed Jacob through God by the design of Rebecca, the mother of Jacob,
 # text = ⲉⲁⲓⲥⲁⲁⲕ ⲇⲉ ⲥⲙⲟⲩ ⲉⲓⲁⲕⲱⲃ · ⲉⲃⲟⲗ ϩⲓⲧⲙⲡⲛⲟⲩⲧⲉ · ϩⲙⲡϣⲟϫⲛⲉ ⲛϩⲣⲉⲃⲉⲕⲕⲁ ⲧⲙⲁⲁⲩ ⲛⲓⲁⲕⲱⲃ
 1-3	ⲉⲁⲓⲥⲁⲁⲕ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	5	mark	_	_
@@ -1418,8 +1422,8 @@
 21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	Orig=ⲛ̄
 22	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	20	nmod	_	Entity=(person-Jacob)person-Rebecca)abstract)|Orig=ⲓ̈ⲁⲕⲱⲃ|OrigLang=heb
 
-# sent_id = shenoute_abraham-YA518-520_s0022
-# text_en = ...
+# sent_id = shenoute_abraham-YA518-520_s0023
+# text_en = while Esau became a servant to Jacob, according to the Scriptures, ‘The great will serve the lesser’ and also, ‘Jacob, I loved. But Esau, I hated.’
 # text = ⲉⲁⲏⲥⲁⲩ ϣⲱⲡⲉ ⲛϩⲙϩⲁⲗ ⲛⲓⲁⲕⲱⲃ ⲕⲁⲧⲁⲛⲉⲅⲣⲁⲫⲏ ϫⲉⲡⲛⲟϭ ⲛⲁⲣϩⲙϩⲁⲗ ⲙⲡⲕⲟⲩⲓ ⲁⲩⲱ ⲟⲛ ϫⲉⲓⲁⲕⲱⲃ ⲁⲓⲙⲉⲣⲓⲧϥ ⲏⲥⲁⲩ ⲇⲉ ⲁⲓⲙⲉⲥⲧⲱϥ ·
 1-3	ⲉⲁⲏⲥⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
@@ -1466,9 +1470,9 @@
 33	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	obj	_	_
 34	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = shenoute_abraham-YA518-520_s0023
-# text_en = ...
-# text = ⲓⲁⲕⲱⲃ ⲇⲉ ⲛⲉϥⲟⲩⲱϣ ⲡⲉ ⲉⲧⲣⲉϩⲉⲛϣⲏⲣⲉ ϣⲱⲡⲉ ⲛⲁϥ ⲉⲃⲟⲗ ϩⲛϩⲣⲁⲭⲏⲗ ·
+# sent_id = shenoute_abraham-YA518-520_s0024
+# text_en = And Jacob wished that he would have children with Rachel, as he had with Leah, and as he had with Zelpha and Balla.
+# text = ⲓⲁⲕⲱⲃ ⲇⲉ ⲛⲉϥⲟⲩⲱϣ ⲡⲉ ⲉⲧⲣⲉϩⲉⲛϣⲏⲣⲉ ϣⲱⲡⲉ ⲛⲁϥ ⲉⲃⲟⲗ ϩⲛϩⲣⲁⲭⲏⲗ · ⲛⲧϩⲉ ⲛⲛⲉⲛⲧⲁⲩϣⲱⲡⲉ ⲛⲁϥ ⲉⲃⲟⲗ ϩⲛⲗⲓⲁ · ⲙⲛⲛⲉⲛⲧⲁⲩϣⲱⲡⲉ ⲛⲁϥ ⲉⲃⲟⲗ ϩⲛⲍⲉⲗⲫⲁ ⲙⲛⲃⲁⲗⲗⲁ ·
 1	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	5	dislocated	_	Entity=(person-Jacob)|Orig=ⲓ̈ⲁⲕⲱⲃ|OrigLang=heb
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
 3-5	ⲛⲉϥⲟⲩⲱϣ	_	_	_	_	_	_	_	_
@@ -1489,51 +1493,47 @@
 15-16	ϩⲛϩⲣⲁⲭⲏⲗ	_	_	_	_	_	_	_	_
 15	ϩⲛ	ϩⲛ	ADP	PREP	_	14	fixed	_	Orig=ϩ︤ⲛ︥
 16	ϩⲣⲁⲭⲏⲗ	ϩⲣⲁⲭⲏⲗ	PROPN	NPROP	Foreign=Yes	11	obl	_	Entity=(person-Rachel)|Orig=ϩⲣⲁⲭ̇ⲏⲗ|OrigLang=heb
-17	·	·	PUNCT	PUNCT	_	5	punct	_	_
-
-# sent_id = shenoute_abraham-YA518-520_s0024
-# text_en = ...
-# text = ⲛⲧϩⲉ ⲛⲛⲉⲛⲧⲁⲩϣⲱⲡⲉ ⲛⲁϥ ⲉⲃⲟⲗ ϩⲛⲗⲓⲁ · ⲙⲛⲛⲉⲛⲧⲁⲩϣⲱⲡⲉ ⲛⲁϥ ⲉⲃⲟⲗ ϩⲛⲍⲉⲗⲫⲁ ⲙⲛⲃⲁⲗⲗⲁ ·
-1-3	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
-1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	Orig=ⲛ̄
-2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Orig=ⲑ
-3	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	Orig=ⲉ
-4-9	ⲛⲛⲉⲛⲧⲁⲩϣⲱⲡⲉ	_	_	_	_	_	_	_	_
-4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲛ̄
-5	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	nmod	_	Entity=(person
-6	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
-7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
-8	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
-9	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	Mood=Ind|VerbForm=Fin	5	acl:relcl	_	_
-10-11	ⲛⲁϥ	_	_	_	_	_	_	_	_
-10	ⲛⲁ	ⲛⲁ	ADP	PREP	_	11	case	_	_
-11	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
-12	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	14	case	_	_
-13-14	ϩⲛⲗⲓⲁ	_	_	_	_	_	_	_	_
-13	ϩⲛ	ϩⲛ	ADP	PREP	_	12	fixed	_	Orig=ϩ︤ⲛ︥
-14	ⲗⲓⲁ	ⲗⲓⲁ	PROPN	NPROP	Foreign=Yes	9	obl	_	Entity=(person-Leah)person)|OrigLang=heb
-15	·	·	PUNCT	PUNCT	_	17	punct	_	_
-16-21	ⲙⲛⲛⲉⲛⲧⲁⲩϣⲱⲡⲉ	_	_	_	_	_	_	_	_
-16	ⲙⲛ	ⲙⲛ	ADP	PREP	_	17	cc	_	Orig=ⲙ︤ⲛ︥
-17	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	conj	_	Entity=(person
-18	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	21	mark	_	_
-19	ⲁ	ⲁ	AUX	APST	_	21	aux	_	_
-20	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
-21	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	Mood=Ind|VerbForm=Fin	17	acl:relcl	_	_
-22-23	ⲛⲁϥ	_	_	_	_	_	_	_	_
-22	ⲛⲁ	ⲛⲁ	ADP	PREP	_	23	case	_	_
-23	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	_
-24	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	26	case	_	_
-25-26	ϩⲛⲍⲉⲗⲫⲁ	_	_	_	_	_	_	_	_
-25	ϩⲛ	ϩⲛ	ADP	PREP	_	24	fixed	_	Orig=ϩ︤ⲛ︥
-26	ⲍⲉⲗⲫⲁ	ⲍⲉⲗⲫⲁ	PROPN	NPROP	Foreign=Yes	21	obl	_	Entity=(person-Zilpah)|OrigLang=heb
-27-28	ⲙⲛⲃⲁⲗⲗⲁ	_	_	_	_	_	_	_	_
-27	ⲙⲛ	ⲙⲛ	ADP	PREP	_	28	cc	_	Orig=ⲙ︤ⲛ︥
-28	ⲃⲁⲗⲗⲁ	ⲃⲁⲗⲗⲁ	PROPN	NPROP	Foreign=Yes	26	conj	_	Entity=(person-Bilhah)person)|OrigLang=heb
-29	·	·	PUNCT	PUNCT	_	3	punct	_	_
+17	·	·	PUNCT	PUNCT	_	20	punct	_	_
+18-20	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	20	case	_	Orig=ⲛ̄
+19	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Orig=ⲑ
+20	ϩⲉ	ϩⲉ	NOUN	N	_	11	obl	_	Orig=ⲉ
+21-26	ⲛⲛⲉⲛⲧⲁⲩϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+21	ⲛ	ⲛ	ADP	PREP	_	22	case	_	Orig=ⲛ̄
+22	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	20	nmod	_	Entity=(person
+23	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	26	mark	_	_
+24	ⲁ	ⲁ	AUX	APST	_	26	aux	_	_
+25	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	_
+26	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	Mood=Ind|VerbForm=Fin	22	acl:relcl	_	_
+27-28	ⲛⲁϥ	_	_	_	_	_	_	_	_
+27	ⲛⲁ	ⲛⲁ	ADP	PREP	_	28	case	_	_
+28	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obl	_	_
+29	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	31	case	_	_
+30-31	ϩⲛⲗⲓⲁ	_	_	_	_	_	_	_	_
+30	ϩⲛ	ϩⲛ	ADP	PREP	_	29	fixed	_	Orig=ϩ︤ⲛ︥
+31	ⲗⲓⲁ	ⲗⲓⲁ	PROPN	NPROP	Foreign=Yes	26	obl	_	Entity=(person-Leah)person)|OrigLang=heb
+32	·	·	PUNCT	PUNCT	_	34	punct	_	_
+33-38	ⲙⲛⲛⲉⲛⲧⲁⲩϣⲱⲡⲉ	_	_	_	_	_	_	_	_
+33	ⲙⲛ	ⲙⲛ	ADP	PREP	_	34	cc	_	Orig=ⲙ︤ⲛ︥
+34	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	22	conj	_	Entity=(person
+35	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	38	mark	_	_
+36	ⲁ	ⲁ	AUX	APST	_	38	aux	_	_
+37	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	38	nsubj	_	_
+38	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	Mood=Ind|VerbForm=Fin	34	acl:relcl	_	_
+39-40	ⲛⲁϥ	_	_	_	_	_	_	_	_
+39	ⲛⲁ	ⲛⲁ	ADP	PREP	_	40	case	_	_
+40	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	obl	_	_
+41	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	43	case	_	_
+42-43	ϩⲛⲍⲉⲗⲫⲁ	_	_	_	_	_	_	_	_
+42	ϩⲛ	ϩⲛ	ADP	PREP	_	41	fixed	_	Orig=ϩ︤ⲛ︥
+43	ⲍⲉⲗⲫⲁ	ⲍⲉⲗⲫⲁ	PROPN	NPROP	Foreign=Yes	38	obl	_	Entity=(person-Zilpah)|OrigLang=heb
+44-45	ⲙⲛⲃⲁⲗⲗⲁ	_	_	_	_	_	_	_	_
+44	ⲙⲛ	ⲙⲛ	ADP	PREP	_	45	cc	_	Orig=ⲙ︤ⲛ︥
+45	ⲃⲁⲗⲗⲁ	ⲃⲁⲗⲗⲁ	PROPN	NPROP	Foreign=Yes	43	conj	_	Entity=(person-Bilhah)person)|OrigLang=heb
+46	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0025
-# text_en = ...
+# text_en = And Rachel wished that she would have children with Jacob.
 # text = ϩⲣⲁⲭⲏⲗ ⲇⲉ ⲛⲉⲥⲟⲩⲱϣ ⲉⲧⲣⲉϩⲉⲛϣⲏⲣⲉ ϣⲱⲡⲉ ⲛⲁⲥ ⲉⲃⲟⲗ ϩⲛⲓⲁⲕⲱⲃ ·
 1	ϩⲣⲁⲭⲏⲗ	ϩⲣⲁⲭⲏⲗ	PROPN	NPROP	Foreign=Yes	5	dislocated	_	Entity=(person-Rachel)|Orig=ϩⲣⲁⲭⲏⲗ`|OrigLang=heb
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
@@ -1557,7 +1557,7 @@
 16	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0026
-# text_en = ...
+# text_en = And she grieved, and found fault with Jacob in her ignorance, in the abundance of [her] grief, ‘Give me children, or I will die.’
 # text = ⲁⲩⲱ ⲛⲉⲥⲙⲟⲕϩ ⲛϩⲏⲧ ⲡⲉ ⲉⲥϭⲛⲁⲣⲓⲕⲉ ⲉⲓⲁⲕⲱⲃ ϩⲛⲧⲉⲥⲙⲛⲧⲁⲧⲥⲟⲟⲩⲛ ϩⲙⲡⲁϣⲁⲓ ⲙⲡⲉⲙⲕⲁϩ ⲛϩⲏⲧ ϫⲉⲙⲁ ⲛⲁⲓ ⲛϩⲉⲛϣⲏⲣⲉ ⲉϣⲱⲡⲉ ⲙⲙⲟⲛ ϯⲛⲁⲙⲟⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲛⲉⲥⲙⲟⲕϩ	_	_	_	_	_	_	_	_
@@ -1609,7 +1609,7 @@
 36	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0027
-# text_en = ...
+# text_en = And Jacob, who was discouraged, said to her, ‘Am I myself the Lord who robs the fruit from you[r womb]?’
 # text = ⲁⲩⲱ ⲓⲁⲕⲱⲃ ⲛⲉϥϫⲱ ⲙⲙⲟⲥ ⲛⲁⲥ ⲡⲉ ⲉϥⲟⲩⲟⲗⲥ ⲛϩⲏⲧ · ϫⲉⲙⲏ ⲁⲛⲅⲡϫⲟⲉⲓⲥ ⲁⲛⲟⲕ ⲡⲁ[…]ϥⲟϭⲉ ⲙⲡ[…]ⲡⲟⲥ ⲛϩⲏ[..]ⲉ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	5	dislocated	_	Entity=(person-Jacob)|Orig=ⲓ̈ⲁⲕⲱⲃ`|OrigLang=heb
@@ -1650,11 +1650,11 @@
 28	·	·	PUNCT	PUNCT	_	5	punct	_	Orig=·̣
 
 # sent_id = shenoute_abraham-YA518-520_s0028
-# text_en = ...
+# text_en = And Jacob said these things angrily because he also wished to have children with Rachel.
 # text = ⲁⲩⲱ ⲛⲧⲁϥϫⲉ ⲡⲁⲓ ϩⲛⲟⲩⲛⲟⲩϭⲥ ⲛϭⲓⲓⲁⲕⲱⲃ ⲉⲃⲟⲗ ϫⲉⲛⲉϥⲟⲩⲱϣ ϩⲱⲱϥ ⲡⲉ · ⲉⲧⲣⲉϩⲉⲛϣⲏⲣⲉ ϣⲱⲡⲉ ⲛⲁϥ ⲉⲃⲟⲗ ϩⲛϩⲣⲁⲭⲏⲗ
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2-5	ⲛⲧⲁϥϫⲉ	_	_	_	_	_	_	_	_
-2	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	5	mark	_	Orig=ⲛ̄ⲧ
+2	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	5	mark	_	Orig=ⲛ̄ⲧ
 3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	ϫⲉ	ϫⲱ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
@@ -1692,7 +1692,7 @@
 30	ϩⲣⲁⲭⲏⲗ	ϩⲣⲁⲭⲏⲗ	PROPN	NPROP	Foreign=Yes	25	obl	_	Entity=(person-Rachel)|Orig=ϩⲣⲁⲭⲏⲗ`|OrigLang=heb
 
 # sent_id = shenoute_abraham-YA518-520_s0029
-# text_en = ...
+# text_en = And thus God saw their grief, and so he gave children to Jacob by Rachel: Joseph and Benjamin.
 # text = ⲁⲩⲱ ⲛⲧⲉⲓϩⲉ ⲁⲡⲛⲟⲩⲧⲉ ⲛⲁⲩ ⲉⲡⲉⲩⲙⲕⲁϩ · ⲉⲁϥϯ ⲛϩⲉⲛϣⲏⲣⲉ ⲛⲓⲁⲕⲱⲃ ⲉⲃⲟⲗ ϩⲛϩⲣⲁⲭⲏⲗ · ⲓⲱⲥⲏⲫ ⲙⲛⲃⲉⲛⲓⲁⲙⲓⲛ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	_
 2-4	ⲛⲧⲉⲓϩⲉ	_	_	_	_	_	_	_	_
@@ -1733,7 +1733,7 @@
 29	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0030
-# text_en = ...
+# text_en = And Jacob blessed all his children through the Lord God,
 # text = ⲁⲩⲱ ⲓⲁⲕⲱⲃ ⲁϥⲥⲙⲟⲩ ⲉⲛⲉϥϣⲏⲣⲉ ⲧⲏⲣⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲙⲡϫⲟⲉⲓⲥ ⲡⲛⲟⲩⲧⲉ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2	ⲓⲁⲕⲱⲃ	ⲓⲁⲕⲱⲃ	PROPN	NPROP	Foreign=Yes	5	dislocated	_	Entity=(person-Jacob)|Orig=ⲓ̈ⲁⲕⲱⲃ`|OrigLang=heb
@@ -1759,7 +1759,7 @@
 17	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = shenoute_abraham-YA518-520_s0031
-# text_en = ...
+# text_en = he who blessed Abraham and Isaac and Jacob and the children.
 # text = ⲡⲁⲓ ⲛⲧⲁϥⲥⲙⲟⲩ ⲉⲁⲃⲣⲁϩⲁⲙ ⲙⲛⲓⲥⲁⲁⲕ ⲙⲛⲓⲁⲕⲱⲃ · ⲙⲛⲛϣⲏⲣⲉ
 1	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Entity=(person|Orig=ⲡⲁⲓ̈
 2-5	ⲛⲧⲁϥⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
@@ -1789,7 +1789,7 @@
 # meta::source = MONB.EG 67-68 (K 0321)
 # meta::title = Apophthegmata Patrum Sahidic 027: Pistamon 1
 # sent_id = apophthegmata_patrum-AP_027_pistamon_01_s0001
-# text_en = ...
+# text_en = One of the brothers asked Apa Pistamon, 'What should I do? For it worries me when I sell my handiwork.'
 # text = ⲁ ⲟⲩⲁ ⲛⲛⲉⲥⲛⲏⲩ ϫⲛⲉⲁⲡⲁ ⲡⲁⲥⲧⲁⲙⲱⲛ ϫⲉⲟⲩ ⲡⲉ ϯⲛⲁⲁⲁϥ ϫⲉⲥⲉⲑⲗⲓⲃⲉ ⲙⲙⲟⲓ ⲉⲓϯ ⲙⲡⲁϩⲱⲃ ⲛϭⲓϫ ⲉⲃⲟⲗ .
 1	ⲁ	ⲁ	AUX	APST	_	6	aux	_	Orig=Ⲁ
 2	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	6	nsubj	_	Entity=(person|Orig=ⲟⲩⲁ̇
@@ -1832,8 +1832,8 @@
 30	.	.	PUNCT	PUNCT	_	6	punct	_	Orig=·
 
 # sent_id = apophthegmata_patrum-AP_027_pistamon_01_s0002
-# text_en = ...
-# text = ⲁϥⲟⲩⲱϣⲃ ⲛϭⲓⲡϩⲗⲗⲟ ⲡⲉϫⲁϥ ϫⲉⲡⲕⲉ · ⲁⲡⲁ ϫⲓϫⲱⲓ · ⲙⲛⲡⲕⲉⲥⲉⲉⲡⲉ ϣⲁⲩϯⲡⲉⲩϩⲱⲃ ⲛϭⲓϫ ⲉⲃⲟⲗ . ⲡⲁⲓ ⲛⲟⲩⲟⲥⲉ ⲁⲛ ⲡⲉ .
+# text_en = The old man answered him, 'Even Apa Sisoes and the others used to sell their handiwork.
+# text = ⲁϥⲟⲩⲱϣⲃ ⲛϭⲓⲡϩⲗⲗⲟ ⲡⲉϫⲁϥ ϫⲉⲡⲕⲉ · ⲁⲡⲁ ϫⲓϫⲱⲓ · ⲙⲛⲡⲕⲉⲥⲉⲉⲡⲉ ϣⲁⲩϯⲡⲉⲩϩⲱⲃ ⲛϭⲓϫ ⲉⲃⲟⲗ .
 1-3	ⲁϥⲟⲩⲱϣⲃ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=Ⲁ
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -1868,19 +1868,23 @@
 25	ⲛ	ⲛ	ADP	PREP	_	26	case	_	Orig=ⲛ̇
 26	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	24	nmod	_	Entity=object)
 27	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	22	advmod	_	Orig=ⲉ̇ⲃⲟⲗ
-28	.	.	PUNCT	PUNCT	_	22	punct	_	Orig=·
-29	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	32	nsubj	_	Entity=(abstract)|Orig=ⲡⲁⲓ̇
-30-32	ⲛⲟⲩⲟⲥⲉ	_	_	_	_	_	_	_	_
-30	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	32	advmod	_	_
-31	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	32	det	_	Entity=(abstract
-32	ⲟⲥⲉ	ⲟⲥⲉ	NOUN	N	_	22	parataxis	_	Entity=abstract)|Orig=ⲟ̇ⲥⲉ
-33	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	32	advmod	_	Orig=ⲁ̇ⲛ
-34	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	32	cop	_	_
-35	.	.	PUNCT	PUNCT	_	3	punct	_	Orig=ⲻ
+28	.	.	PUNCT	PUNCT	_	3	punct	_	Orig=·
 
 # sent_id = apophthegmata_patrum-AP_027_pistamon_01_s0003
-# text_en = ...
-# text = ⲉⲕϣⲁⲛⲛⲟⲩ ⲇⲉ ⲉϯ ⲁϫⲓⲧϯⲙⲏ ⲛⲟⲩⲥⲟⲡ ⲛⲟⲩⲱⲧ ⲛⲧⲉⲡⲉⲓⲇⲟⲥ ⲉⲕϣⲁⲛⲟⲩⲱϣ ⲇⲉ ⲉⲕⲁ ⲟⲩⲕⲟⲩⲓ ⲉⲃⲟⲗ ϩⲛⲥⲟⲩⲛⲧϥ · ⲛⲧⲟⲕ ⲉⲧⲧⲱϣ . ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲉⲧⲉⲕⲛⲁϭⲛⲙⲧⲟⲛ .
+# text_en = This is not damaging.
+# text = ⲡⲁⲓ ⲛⲟⲩⲟⲥⲉ ⲁⲛ ⲡⲉ .
+1	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	Entity=(abstract)|Orig=ⲡⲁⲓ̇
+2-4	ⲛⲟⲩⲟⲥⲉ	_	_	_	_	_	_	_	_
+2	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	4	advmod	_	_
+3	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	Entity=(abstract
+4	ⲟⲥⲉ	ⲟⲥⲉ	NOUN	N	_	0	root	_	Entity=abstract)|Orig=ⲟ̇ⲥⲉ
+5	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	4	advmod	_	Orig=ⲁ̇ⲛ
+6	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	Orig=ⲻ
+
+# sent_id = apophthegmata_patrum-AP_027_pistamon_01_s0004
+# text_en = But if you sell, say the price of the item only once.
+# text = ⲉⲕϣⲁⲛⲛⲟⲩ ⲇⲉ ⲉϯ ⲁϫⲓⲧϯⲙⲏ ⲛⲟⲩⲥⲟⲡ ⲛⲟⲩⲱⲧ ⲛⲧⲉⲡⲉⲓⲇⲟⲥ
 1-2	ⲉⲕϣⲁⲛⲛⲟⲩ	_	_	_	_	_	_	_	_
 1	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Orig=Ⲉⲕϣⲁⲛ
 2	ⲛⲟⲩ	ⲛⲟⲩ	VERB	V	Mood=Cnd|VerbForm=Fin	6	advcl	_	CxnElt=2:Conditional-UnspecifiedEpistemic.Protasis
@@ -1903,41 +1907,45 @@
 14	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	16	case	_	_
 15	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Entity=(object
 16	ⲉⲓⲇⲟⲥ	ⲉⲓⲇⲟⲥ	NOUN	N	Foreign=Yes	8	nmod	_	Entity=object)abstract)|Orig=ⲓ̇ⲇⲟⲥ|OrigLang=grc
-17-18	ⲉⲕϣⲁⲛⲟⲩⲱϣ	_	_	_	_	_	_	_	_
-17	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	Orig=Ⲉⲕϣⲁⲛ
-18	ⲟⲩⲱϣ	ⲟⲩⲱϣ	VERB	V	Mood=Cnd|VerbForm=Fin	29	advcl	_	CxnElt=18:Conditional-UnspecifiedEpistemic.Protasis|Orig=ⲟⲩⲱ̇ϣ
-19	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	18	advmod	_	OrigLang=grc
-20-21	ⲉⲕⲁ	_	_	_	_	_	_	_	_
-20	ⲉ	ⲉ	PART	PREP	_	21	mark	_	Orig=ⲉ̇
-21	ⲕⲁ	ⲕⲱ	VERB	V	Mood=Ind|VerbForm=Inf	18	xcomp	_	_
-22-23	ⲟⲩⲕⲟⲩⲓ	_	_	_	_	_	_	_	_
-22	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	23	det	_	Entity=(abstract
-23	ⲕⲟⲩⲓ	ⲕⲟⲩⲓ	NOUN	N	_	21	obj	_	Entity=abstract)|Orig=ⲕⲟⲩⲓ̇
-24	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	26	case	_	Orig=ⲉ̇ⲃⲟⲗ
-25-27	ϩⲛⲥⲟⲩⲛⲧϥ	_	_	_	_	_	_	_	_
-25	ϩⲛ	ϩⲛ	ADP	PREP	_	24	fixed	_	Orig=ϩⲛ̇
-26	ⲥⲟⲩⲛⲧ	ⲥⲟⲩⲉⲛ	NOUN	N	_	21	obl	_	Entity=(abstract|Orig=ⲥⲟⲩⲛ̇ⲧ
-27	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	26	nmod:poss	_	Entity=abstract)|Orig=ϥ̇
-28	·	·	PUNCT	PUNCT	_	18	punct	_	_
-29	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	parataxis	_	Cxn=Conditional-UnspecifiedEpistemic|CxnElt=18:Conditional-UnspecifiedEpistemic.Apodosis|Orig=ⲛ̇ⲧⲟⲕ
-30-31	ⲉⲧⲧⲱϣ	_	_	_	_	_	_	_	_
-30	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	31	mark	_	Orig=ⲉ̇ⲧ
-31	ⲧⲱϣ	ⲧⲱϣ	VERB	V	Mood=Ind|VerbForm=Fin	29	acl:relcl	_	_
-32	.	.	PUNCT	PUNCT	_	29	punct	_	Orig=·
-33	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	29	parataxis	_	Entity=(abstract)|Orig=ⲧⲁⲓ̇
-34	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing|PronType=Dem	33	cop	_	_
-35-36	ⲧϩⲉ	_	_	_	_	_	_	_	_
-35	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
-36	ϩⲉ	ϩⲉ	NOUN	N	_	33	nsubj	_	_
-37-40	ⲉⲧⲉⲕⲛⲁϭⲛⲙⲧⲟⲛ	_	_	_	_	_	_	_	_
-37	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	40	mark	_	Orig=ⲉ̇ⲧⲉ
-38	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	40	nsubj	_	_
-39	ⲛⲁ	ⲛⲁ	AUX	FUT	_	40	aux	_	_
-40	ϭⲛⲙⲧⲟⲛ	ϭⲛⲙⲧⲟⲛ	VERB	V	Mood=Ind|VerbForm=Fin	36	acl:relcl	_	MSeg=ϭⲛ-ⲙⲧⲟⲛ|Orig=ϭⲛ̇ⲙ̇ⲧⲟⲛ
-41	.	.	PUNCT	PUNCT	_	6	punct	_	Orig=·ⲻ
 
-# sent_id = apophthegmata_patrum-AP_027_pistamon_01_s0004
-# text_en = ...
+# sent_id = apophthegmata_patrum-AP_027_pistamon_01_s0005
+# text_en = If you want to lower the price a little, that is up to you. In this way you will find peace.
+# text = ⲉⲕϣⲁⲛⲟⲩⲱϣ ⲇⲉ ⲉⲕⲁ ⲟⲩⲕⲟⲩⲓ ⲉⲃⲟⲗ ϩⲛⲥⲟⲩⲛⲧϥ · ⲛⲧⲟⲕ ⲉⲧⲧⲱϣ . ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲉⲧⲉⲕⲛⲁϭⲛⲙⲧⲟⲛ .
+1-2	ⲉⲕϣⲁⲛⲟⲩⲱϣ	_	_	_	_	_	_	_	_
+1	ⲉⲕϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ	PRON	ACOND_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Orig=Ⲉⲕϣⲁⲛ
+2	ⲟⲩⲱϣ	ⲟⲩⲱϣ	VERB	V	Mood=Cnd|VerbForm=Fin	13	advcl	_	CxnElt=2:Conditional-UnspecifiedEpistemic.Protasis|Orig=ⲟⲩⲱ̇ϣ
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	2	advmod	_	OrigLang=grc
+4-5	ⲉⲕⲁ	_	_	_	_	_	_	_	_
+4	ⲉ	ⲉ	PART	PREP	_	5	mark	_	Orig=ⲉ̇
+5	ⲕⲁ	ⲕⲱ	VERB	V	Mood=Ind|VerbForm=Inf	2	xcomp	_	_
+6-7	ⲟⲩⲕⲟⲩⲓ	_	_	_	_	_	_	_	_
+6	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	7	det	_	Entity=(abstract
+7	ⲕⲟⲩⲓ	ⲕⲟⲩⲓ	NOUN	N	_	5	obj	_	Entity=abstract)|Orig=ⲕⲟⲩⲓ̇
+8	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	10	case	_	Orig=ⲉ̇ⲃⲟⲗ
+9-11	ϩⲛⲥⲟⲩⲛⲧϥ	_	_	_	_	_	_	_	_
+9	ϩⲛ	ϩⲛ	ADP	PREP	_	8	fixed	_	Orig=ϩⲛ̇
+10	ⲥⲟⲩⲛⲧ	ⲥⲟⲩⲉⲛ	NOUN	N	_	5	obl	_	Entity=(abstract|Orig=ⲥⲟⲩⲛ̇ⲧ
+11	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	10	nmod:poss	_	Entity=abstract)|Orig=ϥ̇
+12	·	·	PUNCT	PUNCT	_	2	punct	_	_
+13	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	Cxn=Conditional-UnspecifiedEpistemic|CxnElt=2:Conditional-UnspecifiedEpistemic.Apodosis|Orig=ⲛ̇ⲧⲟⲕ
+14-15	ⲉⲧⲧⲱϣ	_	_	_	_	_	_	_	_
+14	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	15	mark	_	Orig=ⲉ̇ⲧ
+15	ⲧⲱϣ	ⲧⲱϣ	VERB	V	Mood=Ind|VerbForm=Fin	13	acl:relcl	_	_
+16	.	.	PUNCT	PUNCT	_	13	punct	_	Orig=·
+17	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	parataxis	_	Entity=(abstract)|Orig=ⲧⲁⲓ̇
+18	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing|PronType=Dem	17	cop	_	_
+19-20	ⲧϩⲉ	_	_	_	_	_	_	_	_
+19	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	ϩⲉ	ϩⲉ	NOUN	N	_	17	nsubj	_	_
+21-24	ⲉⲧⲉⲕⲛⲁϭⲛⲙⲧⲟⲛ	_	_	_	_	_	_	_	_
+21	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	24	mark	_	Orig=ⲉ̇ⲧⲉ
+22	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	_
+23	ⲛⲁ	ⲛⲁ	AUX	FUT	_	24	aux	_	_
+24	ϭⲛⲙⲧⲟⲛ	ϭⲛⲙⲧⲟⲛ	VERB	V	Mood=Ind|VerbForm=Fin	20	acl:relcl	_	MSeg=ϭⲛ-ⲙⲧⲟⲛ|Orig=ϭⲛ̇ⲙ̇ⲧⲟⲛ
+25	.	.	PUNCT	PUNCT	_	13	punct	_	Orig=·ⲻ
+
+# sent_id = apophthegmata_patrum-AP_027_pistamon_01_s0006
+# text_en = The brother said to him, 'If I have what I need, do you still want me to be concerned with my handiwork?'
 # text = ⲡⲉϫⲉ ⲡⲥⲟⲛ ⲛⲁϥ ϫⲉⲉϣⲱⲡⲉ ⲟⲩⲛⲧⲁⲓ ⲧⲁⲭⲣⲉⲓⲁ ⲙⲙⲁⲩ · ⲕⲟⲩⲱϣ ⲉⲧⲙⲧⲣⲁϥⲉⲓⲣⲟⲟⲩϣ ϩⲁϩⲱⲃ ⲛϭⲓϫ ·
 1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲉ
 2-3	ⲡⲥⲟⲛ	_	_	_	_	_	_	_	_
@@ -1974,8 +1982,8 @@
 24	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	22	nmod	_	Entity=object)|Orig=ϭⲓ̇ϫ
 25	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = apophthegmata_patrum-AP_027_pistamon_01_s0005
-# text_en = ...
+# sent_id = apophthegmata_patrum-AP_027_pistamon_01_s0007
+# text_en = The old man answered, 'Even if you have everything, do not give up on your handiwork; Whatever you are able to do, do it—just don't worry about it.'
 # text = ⲁϥⲟⲩⲱϣⲃ ⲛϭⲓⲡϩⲗⲗⲟ ϫⲉ ⲕⲁⲛ ⲟⲩⲛⲧⲁⲕ ϩⲱⲃ ⲛⲓⲙ ⲙⲡⲣⲕⲁ ⲡϩⲱⲃ ⲛϭⲓϫ ⲉⲃⲟⲗ ⲡⲉⲧⲉⲟⲩⲛϭⲟⲙ ⲙⲙⲟⲕ ⲉⲁⲁϥ ⲁⲣⲓϥ — ⲙⲱⲛⲟⲛ ϩⲛⲟⲩϣⲧⲟⲣⲧⲣ ⲁⲛ .
 1-3	ⲁϥⲟⲩⲱϣⲃ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=Ⲁ
@@ -2066,7 +2074,7 @@
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 6-10	ϫⲉⲉⲓⲛⲁϫⲉ	_	_	_	_	_	_	_	_
 6	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
-7	ⲉ	ⲉⲣⲉ	PART	CFOC	_	10	mark	_	Orig=ⲉ̇
+7	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	10	mark	_	Orig=ⲉ̇
 8	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 9	ⲛⲁ	ⲛⲁ	AUX	FUT	_	10	aux	_	_
 10	ϫⲉ	ϫⲱ	VERB	V	Mood=Ind|VerbForm=Fin	1	ccomp	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=10:Interrogative-Polar-Direct.Clause
@@ -2139,7 +2147,7 @@
 # meta::source = MONB.EG 68 (K 0321)
 # meta::title = Apophthegmata Patrum Sahidic 029
 # sent_id = apophthegmata_patrum-AP_029_syncletica_05_s0001
-# text_en = ...
+# text_en = The blessed Syncletica was asked, 'Is poverty a perfect good?'
 # text = ⲁⲩϫⲛⲉⲧⲙⲁⲕⲁⲣⲓⲁ ⲥⲩⲛⲕⲗⲏⲧⲓⲕⲏ · ϫⲉⲛⲉⲟⲩⲁⲅⲁⲑⲟⲛ ⲉϥϫⲏⲕ ⲉⲃⲟⲗ ⲧⲉ ⲧⲙⲛⲧⲁⲧϩⲛⲁⲁⲩ ·
 1-5	ⲁⲩϫⲛⲉⲧⲙⲁⲕⲁⲣⲓⲁ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=Ⲁ
@@ -2166,7 +2174,7 @@
 19	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = apophthegmata_patrum-AP_029_syncletica_05_s0002
-# text_en = ...
+# text_en = She answered, 'It is an exceedingly perfect good for those who are incapable of it.
 # text = ⲁⲥⲟⲩⲱϣⲃ ϫⲉⲟⲩⲁⲅⲁⲑⲟⲛ ⲛϩⲟⲩⲟ ⲡⲉ ⲉϥϫⲏⲕ ⲉⲃⲟⲗ ⲛⲛⲉⲧⲉⲙⲛϭⲟⲙ ⲙⲙⲟⲟⲩ .
 1-3	ⲁⲥⲟⲩⲱϣⲃ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=ⲁ̇
@@ -2197,8 +2205,8 @@
 21	.	.	PUNCT	PUNCT	_	3	punct	_	Orig=·
 
 # sent_id = apophthegmata_patrum-AP_029_syncletica_05_s0003
-# text_en = ...
-# text = ⲛⲉⲛⲧⲁⲩϩⲩⲡⲟⲙⲓⲛⲉ ⲅⲁⲣ ϩⲙⲡⲁⲓ ⲟⲩⲛⲧⲁⲩ ⲙⲙⲁⲩ ⲛⲟⲩⲑⲗⲓⲯⲓⲥ ϩⲛⲧⲥⲁⲣⲝ · ϩⲛⲧⲉⲯⲩⲭⲏ ⲇⲉ ⲟⲩⲛⲧⲁⲩ ⲙⲙⲁⲩ ⲛⲟⲩϩⲙⲟⲧ .
+# text_en = For those who bear this have suffering in the flesh,
+# text = ⲛⲉⲛⲧⲁⲩϩⲩⲡⲟⲙⲓⲛⲉ ⲅⲁⲣ ϩⲙⲡⲁⲓ ⲟⲩⲛⲧⲁⲩ ⲙⲙⲁⲩ ⲛⲟⲩⲑⲗⲓⲯⲓⲥ ϩⲛⲧⲥⲁⲣⲝ ·
 1-5	ⲛⲉⲛⲧⲁⲩϩⲩⲡⲟⲙⲓⲛⲉ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	dislocated	_	Entity=(person|Orig=Ⲛ
 2	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
@@ -2221,24 +2229,28 @@
 15	ϩⲛ	ϩⲛ	ADP	PREP	_	17	case	_	Orig=ϩⲛ̇
 16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Entity=(object|Orig=ⲧ̇
 17	ⲥⲁⲣⲝ	ⲥⲁⲣⲝ	NOUN	N	Foreign=Yes	14	nmod	_	Entity=object)abstract)|Orig=ⲥⲁⲣⲝ̇|OrigLang=grc
-18	·	·	PUNCT	PUNCT	_	23	punct	_	_
-19-21	ϩⲛⲧⲉⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
-19	ϩⲛ	ϩⲛ	ADP	PREP	_	21	case	_	Orig=ϩⲛ̇
-20	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	Entity=(abstract
-21	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	23	obl	_	Entity=abstract)|OrigLang=grc
-22	ⲇⲉ	ⲇⲉ	PART	PTC	_	23	advmod	_	_
-23-24	ⲟⲩⲛⲧⲁⲩ	_	_	_	_	_	_	_	_
-23	ⲟⲩⲛⲧⲁ	ⲟⲩⲛⲧⲉ	VERB	EXIST	_	9	parataxis	_	Orig=ⲟⲩⲛ̇ⲧⲁ
-24	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	23	iobj	_	_
-25	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	23	advmod	_	Orig=ⲙ̇ⲙⲁⲩ
-26-28	ⲛⲟⲩϩⲙⲟⲧ	_	_	_	_	_	_	_	_
-26	ⲛ	ⲛ	ADP	PREP	_	28	case	_	_
-27	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	28	det	_	Entity=(abstract
-28	ϩⲙⲟⲧ	ϩⲙⲟⲧ	NOUN	N	_	23	obl	_	Entity=abstract)|Orig=ϩ̇ⲙⲟⲧ
-29	.	.	PUNCT	PUNCT	_	9	punct	_	Orig=·ⲻ
+18	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
 # sent_id = apophthegmata_patrum-AP_029_syncletica_05_s0004
-# text_en = ...
+# text_en = but they have grace in their soul.
+# text = ϩⲛⲧⲉⲯⲩⲭⲏ ⲇⲉ ⲟⲩⲛⲧⲁⲩ ⲙⲙⲁⲩ ⲛⲟⲩϩⲙⲟⲧ .
+1-3	ϩⲛⲧⲉⲯⲩⲭⲏ	_	_	_	_	_	_	_	_
+1	ϩⲛ	ϩⲛ	ADP	PREP	_	3	case	_	Orig=ϩⲛ̇
+2	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Entity=(abstract
+3	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	5	obl	_	Entity=abstract)|OrigLang=grc
+4	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
+5-6	ⲟⲩⲛⲧⲁⲩ	_	_	_	_	_	_	_	_
+5	ⲟⲩⲛⲧⲁ	ⲟⲩⲛⲧⲉ	VERB	EXIST	_	0	root	_	Orig=ⲟⲩⲛ̇ⲧⲁ
+6	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	iobj	_	_
+7	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	5	advmod	_	Orig=ⲙ̇ⲙⲁⲩ
+8-10	ⲛⲟⲩϩⲙⲟⲧ	_	_	_	_	_	_	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
+9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(abstract
+10	ϩⲙⲟⲧ	ϩⲙⲟⲧ	NOUN	N	_	5	obl	_	Entity=abstract)|Orig=ϩ̇ⲙⲟⲧ
+11	.	.	PUNCT	PUNCT	_	5	punct	_	Orig=·ⲻ
+
+# sent_id = apophthegmata_patrum-AP_029_syncletica_05_s0005
+# text_en = Just as clothing is strengthened by being beaten, and they wash it and twist it violently
 # text = ⲛⲧϩⲉ ⲅⲁⲣ ⲛϩⲉⲛϩⲟⲓⲧⲉ ⲉⲩϫⲟⲟⲣ ⲉⲩϩⲱⲙ ⲉϫⲱⲟⲩ · ⲁⲩⲱ ⲉⲩϣⲱⲙ ⲙⲙⲟⲟⲩ
 1-3	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	Orig=Ⲛ
@@ -2270,8 +2282,8 @@
 21	ⲙⲙⲟ	ⲛ	ADP	PREP	_	22	case	_	Orig=ⲙ̇ⲙⲟ
 22	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	20	obj	_	_
 
-# sent_id = apophthegmata_patrum-AP_029_syncletica_05_s0005
-# text_en = ...
+# sent_id = apophthegmata_patrum-AP_029_syncletica_05_s0006
+# text_en = until it turns white,
 # text = ϣⲁⲩⲧⲣⲉⲩⲕⲱⲧⲉ ϩⲛⲟⲩϫⲛⲁϩ ϣⲁⲛⲧⲟⲩⲟⲩⲃⲁϣ ·
 1-5	ϣⲁⲩⲧⲣⲉⲩⲕⲱⲧⲉ	_	_	_	_	_	_	_	_
 1	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	3	aux	_	_
@@ -2289,8 +2301,8 @@
 11	ⲟⲩⲃⲁϣ	ⲟⲩⲃⲁϣ	VERB	V	Mood=Ind|VerbForm=Fin	5	advcl	_	_
 12	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = apophthegmata_patrum-AP_029_syncletica_05_s0006
-# text_en = ...
+# sent_id = apophthegmata_patrum-AP_029_syncletica_05_s0007
+# text_en = in this way the soul is strengthened through poverty, and by necessity they prevail all the more.'
 # text = ⲧⲁⲓ ⲧⲉ ⲧϩⲉ ⲛⲧⲉⲯⲩⲭⲏ ⲉⲧϫⲟⲟⲣ ϩⲛⲧⲙⲛⲧϩⲏⲕⲉ ϩⲁⲡⲉⲩϩⲧⲟⲣ ⲉϣⲁⲩⲁⲙⲁϩⲧⲉ ⲛϩⲟⲩⲟ .
 1	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Entity=(abstract)|Orig=ⲧⲁⲓ̇
 2	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing|PronType=Dem	1	cop	_	_
@@ -2313,7 +2325,7 @@
 14	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	Entity=(abstract
 15	ϩⲧⲟⲣ	ϩⲧⲟⲣ	NOUN	N	_	19	obl	_	Entity=abstract)|Orig=ϩ̇ⲧⲟⲣ
 16-19	ⲉϣⲁⲩⲁⲙⲁϩⲧⲉ	_	_	_	_	_	_	_	_
-16	ⲉ	ⲉⲣⲉ	PART	CFOC	_	19	mark	_	_
+16	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	19	mark	_	_
 17	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	19	aux	_	Orig=̇ϣⲁ
 18	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
 19	ⲁⲙⲁϩⲧⲉ	ⲁⲙⲁϩⲧⲉ	VERB	V	Mood=Ind|VerbForm=Fin	4	parataxis	_	Orig=ⲁ̇ⲙⲁϩⲧⲉ
@@ -2698,7 +2710,7 @@
 27	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	24	nmod	_	Entity=person)person)
 28-33	ϫⲉⲛⲧⲁϥⲣⲟⲩ	_	_	_	_	_	_	_	_
 28	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	32	mark	_	_
-29	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	32	mark	_	Orig=ⲛ̇ⲧ
+29	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	32	mark	_	Orig=ⲛ̇ⲧ
 30	ⲁ	ⲁ	AUX	APST	_	32	aux	_	_
 31	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	_
 32	ⲣ	ⲉⲓⲣⲉ	VERB	V	Mood=Ind|VerbForm=Fin	21	ccomp	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=32:Interrogative-Polar-Direct.Clause
@@ -3024,7 +3036,7 @@
 19	ϯⲡⲉ	ϯⲡⲉ	NOUN	N	_	16	obl	_	Entity=abstract)
 20	.	.	PUNCT	PUNCT	_	8	punct	_	_
 21-24	ⲉϥⲟⲩⲉⲙϣϫⲉ	_	_	_	_	_	_	_	_
-21	ⲉ	ⲉⲣⲉ	PART	CFOC	_	23	mark	_	_
+21	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	23	mark	_	_
 22	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 23	ⲟⲩⲉⲙ	ⲟⲩⲱⲙ	VERB	V	Mood=Ind|VerbForm=Fin	8	advcl	_	_
 24	ϣϫⲉ	ϣϫⲉ	NOUN	N	_	23	obj	_	Entity=(animal)
@@ -3115,7 +3127,7 @@
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
 3-6	ⲉϥⲛⲁⲃⲁⲡⲧⲓⲍⲉ	_	_	_	_	_	_	_	_
-3	ⲉ	ⲉⲣⲉ	PART	CFOC	_	6	mark	_	_
+3	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	6	mark	_	_
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 5	ⲛⲁ	ⲛⲁ	AUX	FUT	_	6	aux	_	_
 6	ⲃⲁⲡⲧⲓⲍⲉ	ⲃⲁⲡⲧⲓⲍⲉ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	0	root	_	OrigLang=grc
@@ -3462,7 +3474,7 @@
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3-4	ⲛⲁⲩ	_	_	_	_	_	_	_	_
 3	ⲛⲁ	ⲛⲁ	ADP	PREP	_	4	case	_	_
-4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	2	obl	_	_
+4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	1	obl	_	_
 5-6	ⲛϭⲓⲓⲏⲥⲟⲩⲥ	_	_	_	_	_	_	_	_
 5	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	6	case	_	_
 6	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	1	dislocated	_	Entity=(person-Jesus)|OrigLang=heb
@@ -3739,7 +3751,7 @@
 35	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
 36	ⲛⲁⲍⲱⲣⲁⲓⲟⲥ	ⲛⲁⲍⲱⲣⲁⲓⲟⲥ	NOUN	N	Foreign=Yes	34	appos	_	Entity=person-Jesus)|OrigLang=heb
 37-40	ⲛⲧⲁⲕⲉⲓ	_	_	_	_	_	_	_	_
-37	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	40	mark	_	_
+37	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	40	mark	_	_
 38	ⲁ	ⲁ	AUX	APST	_	40	aux	_	_
 39	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	40	nsubj	_	_
 40	ⲉⲓ	ⲉⲓ	VERB	V	Mood=Ind|VerbForm=Fin	30	parataxis	_	_
@@ -4184,7 +4196,7 @@
 33	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=SCONJ	37	mark	_	_
 34-37	ϫⲉⲉⲩⲥⲟⲟⲩⲛ	_	_	_	_	_	_	_	_
 34	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	33	fixed	_	_
-35	ⲉ	ⲉⲣⲉ	PART	CFOC	_	37	mark	_	_
+35	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	37	mark	_	_
 36	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	37	nsubj	_	_
 37	ⲥⲟⲟⲩⲛ	ⲥⲟⲟⲩⲛ	VERB	V	Mood=Ind|VerbForm=Fin	32	advcl	_	_
 38-39	ⲙⲙⲟϥ	_	_	_	_	_	_	_	_
@@ -4312,7 +4324,7 @@
 22	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	23	case	_	_
 23	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	20	obl	_	_
 24-27	ⲛⲧⲁⲓⲉⲓ	_	_	_	_	_	_	_	_
-24	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	27	mark	_	_
+24	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	27	mark	_	_
 25	ⲁ	ⲁ	AUX	APST	_	27	aux	_	_
 26	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	_
 27	ⲉⲓ	ⲉⲓ	VERB	V	Mood=Ind|VerbForm=Fin	6	parataxis	_	_
@@ -5042,7 +5054,7 @@
 1	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	2	mark	_	_
 2	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	Mood=Imp|VerbForm=Fin	0	root	_	_
 3-6	ⲉⲓϫⲉⲣⲟⲕ	_	_	_	_	_	_	_	_
-3	ⲉ	ⲉⲣⲉ	PART	CFOC	_	5	mark	_	_
+3	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	5	mark	_	_
 4	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	ϫⲉⲣⲟ	ϫⲉⲣⲟ	VERB	V	Mood=Ind|VerbForm=Fin	2	parataxis	_	_
 6	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	expl	_	_
@@ -5173,7 +5185,7 @@
 # text = ⲁⲩⲱ ⲉϥⲡⲁⲣⲁⲅⲉ ⲁϥⲛⲁⲩ ⲉⲗⲉⲟⲩⲉⲓ ⲡϣⲏⲣⲉ ⲛⲁⲗⲫⲁⲓⲟⲥ ⲉϥϩⲙⲟⲟⲥ ϩⲓⲡⲉϥⲧⲉⲗⲱⲛⲓⲟⲛ ⲡⲉϫⲁϥ ⲛⲁϥ ϫⲉⲟⲩⲁϩⲕ ⲛⲥⲱⲉⲓ ⲁⲩⲱ ⲁϥⲧⲱⲟⲩⲛ ⲁϥⲟⲩⲁϩϥ ⲛⲥⲱϥ .
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	7	cc	_	_
 2-4	ⲉϥⲡⲁⲣⲁⲅⲉ	_	_	_	_	_	_	_	_
-2	ⲉ	ⲉⲣⲉ	PART	CFOC	_	4	mark	_	_
+2	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	4	mark	_	_
 3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	ⲡⲁⲣⲁⲅⲉ	ⲡⲁⲣⲁⲅⲉ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	7	advcl	_	OrigLang=grc
 5-7	ⲁϥⲛⲁⲩ	_	_	_	_	_	_	_	_
@@ -5367,7 +5379,7 @@
 25	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	23	acl:relcl	_	_
 26	ⲕⲁⲕⲱⲥ	ⲕⲁⲕⲱⲥ	ADV	ADV	Foreign=Yes	25	advmod	_	Entity=person)|OrigLang=grc
 27-30	ⲛⲧⲁⲓⲉⲓ	_	_	_	_	_	_	_	_
-27	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	30	mark	_	_
+27	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	30	mark	_	_
 28	ⲁ	ⲁ	AUX	APST	_	30	aux	_	_
 29	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	Orig=ⲉ
 30	ⲉⲓ	ⲉⲓ	VERB	V	Mood=Ind|VerbForm=Fin	13	parataxis	_	Orig=ⲓ
@@ -5639,7 +5651,7 @@
 29	.	.	PUNCT	PUNCT	_	4	punct	_	_
 30	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	34	cc	_	OrigLang=grc
 31-35	ⲉϣⲁⲩⲛⲉϫⲏⲣⲡ	_	_	_	_	_	_	_	_
-31	ⲉ	ⲉⲣⲉ	PART	CFOC	_	34	mark	_	_
+31	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	34	mark	_	_
 32	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	34	aux	_	_
 33	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	34	nsubj	_	_
 34	ⲛⲉϫ	ⲛⲟⲩϫⲉ	VERB	V	Mood=Ind|VerbForm=Fin	4	conj	_	_
@@ -5714,7 +5726,7 @@
 9	ⲁⲛⲁⲩ	ⲛⲁⲩ	VERB	VIMP	Mood=Imp|VerbForm=Fin	4	ccomp	_	_
 10-14	ϫⲉⲉⲩⲣⲟⲩ	_	_	_	_	_	_	_	_
 10	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_
-11	ⲉ	ⲉⲣⲉ	PART	CFOC	_	13	mark	_	_
+11	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	13	mark	_	_
 12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
 13	ⲣ	ⲉⲓⲣⲉ	VERB	V	Mood=Ind|VerbForm=Fin	9	ccomp	_	_
 14	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	13	obj	_	_
@@ -5751,7 +5763,7 @@
 10	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	8	obl	_	Entity=(abstract)
 11-14	ϫⲉⲛⲧⲁⲇⲁⲩⲉⲓⲇ	_	_	_	_	_	_	_	_
 11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	15	mark	_	_
-12	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	15	mark	_	_
+12	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	15	mark	_	_
 13	ⲁ	ⲁ	AUX	APST	_	15	aux	_	_
 14	ⲇⲁⲩⲉⲓⲇ	ⲇⲁⲩⲉⲓⲇ	PROPN	NPROP	Foreign=Yes	15	nsubj	_	Entity=(person-David)|OrigLang=heb
 15-16	ⲣⲟⲩ	_	_	_	_	_	_	_	_
@@ -5858,7 +5870,7 @@
 7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(time
 8	ⲥⲁⲃⲃⲁⲧⲟⲛ	ⲥⲁⲃⲃⲁⲧⲟⲛ	NOUN	N	Foreign=Yes	12	dislocated	_	Entity=time)|OrigLang=heb
 9-12	ⲛⲧⲁϥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
-9	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	12	mark	_	_
+9	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	12	mark	_	_
 10	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
 11	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 12	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	Mood=Ind|VerbForm=Fin	1	ccomp	_	_
@@ -5869,7 +5881,7 @@
 16	.	.	PUNCT	PUNCT	_	1	punct	_	_
 17	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	22	cc	_	_
 18-21	ⲛⲧⲁⲡⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
-18	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	22	mark	_	_
+18	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	22	mark	_	_
 19	ⲁ	ⲁ	AUX	APST	_	22	aux	_	_
 20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Entity=(person
 21	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	22	nsubj	_	Entity=person)
@@ -6734,7 +6746,7 @@
 16	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	expl	_	_
 17-19	ϫⲉⲉⲣⲉⲃⲉⲉⲗⲍⲉⲃⲟⲩⲗ	_	_	_	_	_	_	_	_
 17	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	19	mark	_	_
-18	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	19	mark	_	_
+18	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	19	mark	_	_
 19	ⲃⲉⲉⲗⲍⲉⲃⲟⲩⲗ	ⲃⲉⲉⲗⲍⲉⲃⲟⲩⲗ	PROPN	NPROP	Foreign=Yes	14	ccomp	_	Entity=(person-Beelzebub)|OrigLang=heb
 20-21	ⲛⲙⲙⲁϥ	_	_	_	_	_	_	_	_
 20	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	21	case	_	_
@@ -7660,7 +7672,7 @@
 6	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	11	mark	_	_
 7	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	11	dislocated	_	_
 8-11	ⲛⲧⲁⲩϯ	_	_	_	_	_	_	_	_
-8	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	11	mark	_	_
+8	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	11	mark	_	_
 9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
 10	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
 11	ϯ	ϯ	VERB	V	Mood=Ind|VerbForm=Fin	1	ccomp	_	_
@@ -7793,7 +7805,7 @@
 2	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	3	mark	_	_
 3	ϫⲟ	ϫⲟ	VERB	V	Mood=Ind|VerbForm=Fin	1	acl:relcl	_	Entity=person)
 4-6	ⲉϥϫⲟ	_	_	_	_	_	_	_	_
-4	ⲉ	ⲉⲣⲉ	PART	CFOC	_	6	mark	_	_
+4	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	6	mark	_	_
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 6	ϫⲟ	ϫⲟ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 7-9	ⲙⲡϣⲁϫⲉ	_	_	_	_	_	_	_	_
@@ -7882,7 +7894,7 @@
 11-13	ϩⲓϫⲛⲙⲙⲁ	_	_	_	_	_	_	_	_
 11	ϩⲓϫⲛ	ϩⲓϫⲛ	ADP	PREP	_	13	case	_	_
 12	ⲙ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	13	det	_	Entity=(place
-13	ⲙⲁ	ⲙⲁ	NOUN	N	_	10	obl	_	_
+13	ⲙⲁ	ⲙⲁ	NOUN	N	_	9	obl	_	_
 14-15	ⲙⲡⲉⲧⲣⲁ	_	_	_	_	_	_	_	_
 14	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
 15	ⲡⲉⲧⲣⲁ	ⲡⲉⲧⲣⲁ	NOUN	N	Foreign=Yes	13	nmod	_	Entity=(object)place)|OrigLang=grc
@@ -8469,7 +8481,7 @@
 6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 7-11	ϫⲉⲉⲓⲛⲁⲧⲛⲧⲛ	_	_	_	_	_	_	_	_
 7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	11	mark	_	_
-8	ⲉ	ⲉⲣⲉ	PART	CFOC	_	11	mark	_	_
+8	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	11	mark	_	_
 9	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 10	ⲛⲁ	ⲛⲁ	AUX	FUT	_	11	aux	_	_
 11	ⲧⲛⲧⲛ	ⲧⲛⲧⲛ	VERB	V	Mood=Ind|VerbForm=Fin	4	ccomp	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=11:Interrogative-Polar-Direct.Clause
@@ -8530,7 +8542,7 @@
 19	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Entity=(place
 20	ⲕⲁϩ	ⲕⲁϩ	NOUN	N	_	15	obl	_	Entity=place)
 21-23	ⲉⲥⲥⲟⲃⲕ	_	_	_	_	_	_	_	_
-21	ⲉ	ⲉⲣⲉ	PART	CFOC	_	23	mark	_	_
+21	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	23	mark	_	_
 22	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 23	ⲥⲟⲃⲕ	ⲥⲃⲟⲕ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	4	parataxis	_	Cxn=Conditional-UnspecifiedEpistemic|CxnElt=15:Conditional-UnspecifiedEpistemic.Apodosis
 24	ⲙⲉⲛ	ⲙⲉⲛ	PART	PTC	Foreign=Yes	23	advmod	_	OrigLang=grc
@@ -9033,7 +9045,7 @@
 20	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	26	advmod	_	_
 21	ⲟⲛ	ⲟⲛ	ADV	ADV	_	26	advmod	_	_
 22-26	ⲉⲙⲡⲁⲧⲉⲧⲛⲉϣϭⲙϭⲟⲙ	_	_	_	_	_	_	_	_
-22	ⲉ	ⲉⲣⲉ	PART	CFOC	_	26	mark	_	_
+22	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	26	mark	_	_
 23	ⲙⲡⲁⲧⲉ	ⲙⲡⲁⲧⲉ	AUX	ANY	Polarity=Neg	26	aux	_	_
 24	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	26	nsubj	_	_
 25	ⲉϣ	ϣ	AUX	V	Mood=Pot|VerbForm=Fin	26	aux	_	_
@@ -9071,7 +9083,7 @@
 20	.	.	PUNCT	PUNCT	_	18	punct	_	_
 21	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	24	cc	_	_
 22-24	ⲉⲧⲉⲧⲛⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
-22	ⲉ	ⲉⲣⲉ	PART	CFOC	_	24	mark	_	_
+22	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	24	mark	_	_
 23	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	24	nsubj	_	_
 24	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	Mood=Ind|VerbForm=Fin	18	conj	_	_
 25-26	ⲕⲁⲧⲁⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
@@ -9358,7 +9370,7 @@
 40	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	Mood=Jus|VerbForm=Fin	29	parataxis	_	_
 41-44	ϫⲉⲉϥⲕⲱⲧ	_	_	_	_	_	_	_	_
 41	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	44	mark	_	_
-42	ⲉ	ⲉⲣⲉ	PART	CFOC	_	44	mark	_	_
+42	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	44	mark	_	_
 43	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	_
 44	ⲕⲱⲧ	ⲕⲱⲧ	VERB	V	Mood=Ind|VerbForm=Fin	40	ccomp	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=44:Interrogative-Polar-Direct.Clause
 45-46	ⲛⲁϣ	_	_	_	_	_	_	_	_
@@ -9470,7 +9482,7 @@
 17	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	15	advmod	_	_
 18-22	ϫⲉⲉϥⲛⲁϭⲱⲗⲡ	_	_	_	_	_	_	_	_
 18	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	22	mark	_	_
-19	ⲉ	ⲉⲣⲉ	PART	CFOC	_	22	mark	_	_
+19	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	22	mark	_	_
 20	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
 21	ⲛⲁ	ⲛⲁ	AUX	FUT	_	22	aux	_	_
 22	ϭⲱⲗⲡ	ϭⲱⲗⲡ	VERB	V	Mood=Ind|VerbForm=Fin	15	advcl	_	_
@@ -9890,7 +9902,7 @@
 # text_en = Here, moreover, it is required of stewards, that they be found faithful.
 # text = ⲉⲩϣⲓⲛⲉ ϭⲉ ⲙⲡⲉⲓⲙⲁ ϩⲛⲛⲟⲓⲕⲟⲛⲟⲙⲟⲥ ϫⲉ ⲉⲩⲉϩⲉ ⲉⲩⲡⲓⲥⲧⲟⲥ .
 1-3	ⲉⲩϣⲓⲛⲉ	_	_	_	_	_	_	_	_
-1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
+1	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	3	mark	_	_
 2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 3	ϣⲓⲛⲉ	ϣⲓⲛⲉ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 4	ϭⲉ	ϭⲉ	PART	PTC	_	3	advmod	_	_
@@ -9982,7 +9994,7 @@
 14	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	18	cc	_	OrigLang=grc
 15-18	ⲛⲉⲓⲧⲙⲁⲓⲏⲩ	_	_	_	_	_	_	_	_
 15	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	18	advmod	_	_
-16	ⲉ	ⲉⲣⲉ	PART	CFOC	_	18	mark	_	_
+16	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	18	mark	_	_
 17	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
 18	ⲧⲙⲁⲓⲏⲩ	ⲧⲙⲁⲉⲓⲟ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	3	conj	_	_
 19	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	18	advmod	_	_
@@ -10184,7 +10196,7 @@
 30	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	28	obj	_	_
 31	ϩⲱⲥ	ϩⲱⲥ	SCONJ	CONJ	Foreign=Yes	35	mark	_	OrigLang=grc
 32-35	ⲉⲙⲡⲕϫⲓ	_	_	_	_	_	_	_	_
-32	ⲉ	ⲉⲣⲉ	PART	CFOC	_	35	mark	_	_
+32	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	35	mark	_	_
 33	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	35	aux	_	_
 34	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	35	nsubj	_	_
 35	ϫⲓ	ϫⲓ	VERB	V	Mood=Ind|VerbForm=Fin	28	advcl	_	_
@@ -10238,7 +10250,7 @@
 1	ⲁⲣⲏⲩ	ⲁⲣⲏⲩ	ADV	ADV	_	7	advmod	_	_
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	7	advmod	_	OrigLang=grc
 3-6	ⲛⲧⲁⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
-3	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	7	mark	_	_
+3	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	7	mark	_	_
 4	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
 5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(person
 6	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	7	nsubj	_	Entity=person)
@@ -10451,7 +10463,7 @@
 1-5	ⲛⲛⲉⲉⲓϯϣⲓⲡⲉ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	5	advmod	_	_
 2	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	5	aux	_	_
-3	ⲉ	ⲉⲣⲉ	PART	CFOC	_	5	mark	_	_
+3	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	5	mark	_	_
 4	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	ϯϣⲓⲡⲉ	ϯϣⲓⲡⲉ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ϯ-ϣⲓⲡⲉ
 6-7	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
@@ -10471,7 +10483,7 @@
 16	.	.	PUNCT	PUNCT	_	5	punct	_	_
 17	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	20	cc	_	OrigLang=grc
 18-20	ⲉⲓϯⲥⲃⲱ	_	_	_	_	_	_	_	_
-18	ⲉ	ⲉⲣⲉ	PART	CFOC	_	20	mark	_	_
+18	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	20	mark	_	_
 19	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
 20	ϯⲥⲃⲱ	ϯⲥⲃⲱ	VERB	V	Mood=Ind|VerbForm=Fin	5	conj	_	MSeg=ϯ-ⲥⲃⲱ
 21-22	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
@@ -10504,8 +10516,8 @@
 11-13	ϩⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ	_	_	_	_	_	_	_	_
 11	ϩⲙ	ϩⲛ	ADP	PREP	_	13	case	_	_
 12	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(person
-13	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	Foreign=Yes	10	obl	_	Entity=person)person)|OrigLang=grc
-14	.	.	PUNCT	PUNCT	_	10	punct	_	_
+13	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	Foreign=Yes	3	obl	_	Entity=person)person)|OrigLang=grc
+14	.	.	PUNCT	PUNCT	_	13	punct	_	_
 15	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	17	cc	_	OrigLang=grc
 16-17	ⲛϩⲁϩ	_	_	_	_	_	_	_	_
 16	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	17	advmod	_	_
@@ -10712,7 +10724,7 @@
 6	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	2	nmod	_	Entity=person)abstract)
 7-11	ⲛⲉⲥϩⲛϣⲁϫⲉ	_	_	_	_	_	_	_	_
 7	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	11	advmod	_	_
-8	ⲉ	ⲉⲣⲉ	PART	CFOC	_	11	mark	_	_
+8	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	11	mark	_	_
 9	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 10	ϩⲛ	ϩⲛ	ADP	PREP	_	11	case	_	_
 11	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	0	root	_	Entity=(abstract)
@@ -10768,7 +10780,7 @@
 # meta::source = MONB.BA 309-313 (Or. 8810 ff. 37- 39r)
 # meta::title = To Thieving Nuns
 # sent_id = besa_letters-to_thieving_nuns_s0001
-# text_en = ...
+# text_en = Oh you guilty on your part who allow Satan to come in, defiling the holy places of God.
 # text = ⲱ ⲧⲉⲧⲛⲣⲱϣⲉ ⲛⲧⲱⲧⲛ ⲛⲉⲧⲕⲁⲙⲁ ⲙⲡⲥⲁⲧⲁⲛⲁⲥ ⲉⲧⲣⲉϥⲉⲓ ⲉϩⲟⲩⲛ ⲛϥϫⲱϩⲙ ⲛⲙⲙⲁ ⲉⲧⲟⲩⲁⲁⲃ ⲙⲡⲛⲟⲩⲧⲉ ·
 1	ⲱ	ⲱ	PART	PTC	Foreign=Yes	3	discourse	_	Orig=ⲱ̂|OrigLang=grc
 2-3	ⲧⲉⲧⲛⲣⲱϣⲉ	_	_	_	_	_	_	_	_
@@ -10807,7 +10819,7 @@
 27	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0002
-# text_en = ...
+# text_en = And you defile his temple which is you yourselves.
 # text = ⲁⲩⲱ ⲛⲧⲉⲧⲛⲥⲱⲱϥ ⲙⲡⲉϥⲣⲡⲉ ⲉⲧⲉⲛⲧⲱⲧⲛ ⲡⲉ ⲙⲙⲓⲛⲙⲙⲱⲧⲛ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲛⲧⲉⲧⲛⲥⲱⲱϥ	_	_	_	_	_	_	_	_
@@ -10828,7 +10840,7 @@
 13	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0003
-# text_en = ...
+# text_en = Didn’t you remember the prohibition of the apostle, “he who will defile the temple of God, that one God will destroy.”
 # text = ⲙⲡⲉⲧⲛⲣⲡⲙⲉⲉⲩⲉ ⲛⲧⲁⲡⲟⲫⲁⲥⲓⲥ ⲙⲡⲁⲡⲟⲥⲧⲟⲗⲟⲥ , ϫⲉⲡⲉⲧⲛⲁⲥⲱⲱϥ ⲙⲡⲉⲣⲡⲉ ⲙⲡⲛⲟⲩⲧⲉ . ⲡⲁⲓ ⲡⲛⲟⲩⲧⲉ ⲛⲁⲧⲁⲕⲟϥ :
 1-5	ⲙⲡⲉⲧⲛⲣⲡⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	3	aux	_	Orig=ⲙ̄ⲡⲉ
@@ -10871,7 +10883,7 @@
 31	:	:	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0004
-# text_en = ...
+# text_en = Nor still did you remember all the curses which our father said as he gave all of us into the hand of God saying: “he is cursed, he who will defile his body in any form, or steal anything, from a string to a lace.”
 # text = ⲟⲩⲧⲉ ⲟⲛ ⲙⲡⲉⲧⲛⲣⲡⲙⲉⲉⲩⲉ ⲛⲛⲥⲁϩⲟⲩ ⲧⲏⲣⲟⲩ ⲉⲛⲧⲁⲡⲉⲛⲉⲓⲱⲧ ϫⲟⲟⲩ ⲉϥϯ ⲙⲙⲟⲛ ⲧⲏⲣⲛ ⲉⲧⲟⲟⲧϥ ⲙⲡⲛⲟⲩⲧⲉ ⲉϥϫⲱ ⲙⲙⲟⲥ , ϫⲉϥⲥϩⲟⲩⲟⲣⲧ ⲛϭⲓⲡⲉⲧⲛⲁϫⲱϩⲙ ⲙⲡⲉϥⲥⲱⲙⲁ ⲕⲁⲧⲁⲗⲁⲁⲩ ⲛⲥⲙⲟⲧ · ⲏ ⲛϥϫⲓⲟⲩⲉ ϩⲛⲗⲁⲁⲩ ⲛϩⲛⲟ · ϫⲓⲛⲟⲩϩⲱⲥ ⲙⲛⲟⲩⲙⲟⲩⲥ ·
 1	ⲟⲩⲧⲉ	ⲟⲩⲧⲉ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
 2	ⲟⲛ	ⲟⲛ	ADV	ADV	_	5	advmod	_	_
@@ -10965,7 +10977,7 @@
 68	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0005
-# text_en = ...
+# text_en = Most of all clothes and robes and hoods.
 # text = ⲙⲁⲗⲓⲥⲧⲁ ϩⲟⲉⲓⲧⲉ ϩⲓⲡⲣⲏϣ ϩⲓⲕⲗⲁϥⲧ ·
 1	ⲙⲁⲗⲓⲥⲧⲁ	ⲙⲁⲗⲓⲥⲧⲁ	ADV	ADV	Foreign=Yes	2	advmod	_	OrigLang=grc
 2	ϩⲟⲉⲓⲧⲉ	ϩⲟⲉⲓⲧⲉ	NOUN	N	_	0	root	_	Entity=(object)
@@ -10978,7 +10990,7 @@
 7	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0006
-# text_en = ...
+# text_en = And down to the least of things of eating.
 # text = ⲁⲩⲱ ϣⲁϩⲣⲁⲓ ⲉⲟⲩⲉⲗⲁⲭⲓⲥⲧⲟⲛ ⲛϩⲛⲟ ⲛⲟⲩⲱⲙ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2	ϣⲁϩⲣⲁⲓ	ϣⲁϩⲣⲁⲓ	ADV	ADV	_	5	advmod	_	Orig=ϣⲁϩⲣⲁⲓ̈
@@ -10995,8 +11007,8 @@
 10	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0007
-# text_en = ...
-# text = ⲉⲓⲧⲉ ⲉⲃⲟⲗ ϩⲛⲛⲉϩⲛⲁⲁⲩ ⲛⲧⲇⲓⲁⲕⲟⲛⲓⲁ ⲙⲡⲛⲟⲩⲧⲉ ·
+# text_en = Whether out of the service of God or out of the shares of those next to them
+# text = ⲉⲓⲧⲉ ⲉⲃⲟⲗ ϩⲛⲛⲉϩⲛⲁⲁⲩ ⲛⲧⲇⲓⲁⲕⲟⲛⲓⲁ ⲙⲡⲛⲟⲩⲧⲉ · ⲉⲓⲧⲉ ⲉⲃⲟⲗ ϩⲛⲛⲧⲟ ⲛⲛⲉⲧϩⲓⲧⲟⲩⲱⲟⲩ ·
 1	ⲉⲓⲧⲉ	ⲉⲓⲧⲉ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
 2	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	5	case	_	_
 3-5	ϩⲛⲛⲉϩⲛⲁⲁⲩ	_	_	_	_	_	_	_	_
@@ -11011,27 +11023,23 @@
 9	ⲙ	ⲛ	ADP	PREP	_	11	case	_	Orig=ⲙ̄
 10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(person
 11	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	8	nmod	_	Entity=person)abstract)object)
-12	·	·	PUNCT	PUNCT	_	5	punct	_	_
+12	·	·	PUNCT	PUNCT	_	17	punct	_	_
+13	ⲉⲓⲧⲉ	ⲉⲓⲧⲉ	CCONJ	CONJ	Foreign=Yes	17	cc	_	OrigLang=grc
+14	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	17	case	_	_
+15-17	ϩⲛⲛⲧⲟ	_	_	_	_	_	_	_	_
+15	ϩⲛ	ϩⲛ	ADP	PREP	_	14	fixed	_	Orig=ϩ︤ⲛ︥
+16	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	17	det	_	Entity=(object|Orig=ⲛ̄
+17	ⲧⲟ	ⲧⲟⲉ	NOUN	N	_	5	conj	_	Orig=ⲧⲟ̂
+18-22	ⲛⲛⲉⲧϩⲓⲧⲟⲩⲱⲟⲩ	_	_	_	_	_	_	_	_
+18	ⲛ	ⲛ	ADP	PREP	_	19	case	_	Orig=ⲛ̄
+19	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	17	nmod	_	Entity=(person
+20	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	22	mark	_	_
+21	ϩⲓⲧⲟⲩⲱ	ϩⲓⲧⲟⲩⲛ	ADP	PREP	_	22	case	_	_
+22	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	19	acl:relcl	_	Entity=person)object)
+23	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = besa_letters-to_thieving_nuns_s0008
-# text_en = ...
-# text = ⲉⲓⲧⲉ ⲉⲃⲟⲗ ϩⲛⲛⲧⲟ ⲛⲛⲉⲧϩⲓⲧⲟⲩⲱⲟⲩ ·
-1	ⲉⲓⲧⲉ	ⲉⲓⲧⲉ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
-2	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	5	case	_	_
-3-5	ϩⲛⲛⲧⲟ	_	_	_	_	_	_	_	_
-3	ϩⲛ	ϩⲛ	ADP	PREP	_	2	fixed	_	Orig=ϩ︤ⲛ︥
-4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(object|Orig=ⲛ̄
-5	ⲧⲟ	ⲧⲟⲉ	NOUN	N	_	0	root	_	Orig=ⲧⲟ̂
-6-10	ⲛⲛⲉⲧϩⲓⲧⲟⲩⲱⲟⲩ	_	_	_	_	_	_	_	_
-6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̄
-7	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	nmod	_	Entity=(person
-8	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	10	mark	_	_
-9	ϩⲓⲧⲟⲩⲱ	ϩⲓⲧⲟⲩⲛ	ADP	PREP	_	10	case	_	_
-10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	7	acl:relcl	_	Entity=person)object)
-11	·	·	PUNCT	PUNCT	_	5	punct	_	_
-
-# sent_id = besa_letters-to_thieving_nuns_s0009
-# text_en = ...
+# text_en = I actually thought to come to you in good faith,
 # text = ⲛⲉⲓⲙⲉⲉⲩⲉ ⲙⲉⲛ ⲡⲉ ⲉⲉⲓ ϣⲁⲣⲱⲧⲛ ϩⲛⲟⲩⲧⲱⲧ ⲛϩⲏⲧ ·
 1-3	ⲛⲉⲓⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	3	aux	_	_
@@ -11054,8 +11062,8 @@
 14	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	12	nmod	_	Entity=abstract)|Orig=ϩⲏⲧ⳿
 15	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0010
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0009
+# text_en = but the sorrow of those who have enraged God and pained his holy ghost, is what has hindered our joy.
 # text = ⲁⲗⲗⲁ ⲡⲉⲙⲕⲁϩ ⲛϩⲏⲧ ⲛⲛⲉⲛⲧⲁⲩϯϭⲱⲛⲧ ⲙⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲁⲩⲗⲩⲡⲉⲓ ⲙⲡⲉϥⲡⲛⲉⲩⲙⲁ ⲉⲧⲟⲩⲁⲁⲃ · ⲡⲉⲛⲧⲁϥⲕⲱⲗⲩⲉ ⲙⲡⲉⲛⲟⲩⲣⲟⲧ ·
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	3	cc	_	OrigLang=grc
 2-3	ⲡⲉⲙⲕⲁϩ	_	_	_	_	_	_	_	_
@@ -11100,8 +11108,8 @@
 32	ⲟⲩⲣⲟⲧ	ⲟⲩⲣⲟⲧ	NOUN	N	_	29	obj	_	Entity=abstract)
 33	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0011
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0010
+# text_en = I know that every suffering is my fate.
 # text = ϯⲥⲟⲟⲩⲛ ⲙⲉⲛ ϫⲉⲡⲁⲙⲡϣⲁ ⲡⲉ ⲙⲕⲁϩ ⲛϩⲏⲧ ⲛⲓⲙ ·
 1-2	ϯⲥⲟⲟⲩⲛ	_	_	_	_	_	_	_	_
 1	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
@@ -11119,8 +11127,8 @@
 11	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	10	det	_	Entity=abstract)
 12	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0012
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0011
+# text_en = But if God with our Lord Jesus is doing his will, I come to you in a rage.
 # text = ⲁⲗⲗⲁ ⲉⲣϣⲁⲛⲡⲛⲟⲩⲧⲉ ⲙⲛⲡⲉⲛϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲣϩⲛⲁϥ · ϯⲛⲏⲩ ϣⲁⲣⲱⲧⲛ ϩⲛⲟⲩϭⲱⲛⲧ ·
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	9	cc	_	_
 2-4	ⲉⲣϣⲁⲛⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
@@ -11149,8 +11157,8 @@
 19	ϭⲱⲛⲧ	ϭⲱⲛⲧ	NOUN	N	_	14	obl	_	Entity=abstract)|Orig=ϭⲱⲛ︤ⲧ︥
 20	·	·	PUNCT	PUNCT	_	14	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0013
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0012
+# text_en = And I will do to these unwise ones and these foolish virgins, who have no oil in their vessels all those things that are in my heart.
 # text = ⲛⲧⲁⲉⲓⲣⲉ ⲛⲛⲓⲁⲧⲥⲃⲱ ⲁⲩⲱ ⲛⲓⲡⲁⲣⲑⲉⲛⲟⲥ ⲛⲥⲟϭ , ⲉⲧⲉⲙⲛⲛⲉϩ ϩⲛⲛⲉⲩⲁⲅⲅⲓⲟⲛ ⲛⲛⲉⲧϩⲙⲡⲁϩⲏⲧ ⲧⲏⲣⲟⲩ ·
 1-3	ⲛⲧⲁⲉⲓⲣⲉ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	3	aux	_	Orig=ⲛ̄
@@ -11188,8 +11196,8 @@
 26	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	25	nmod:poss	_	Entity=abstract)
 27	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0014
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0013
+# text_en = That still again you return back to these provocations of God you fall down by the sword of the wicked one who has destroyed all of civilization in his sins and acts of lawlessness.
 # text = ϫⲉⲡⲁⲗⲓⲛ ⲟⲛ ⲛⲧⲉⲧⲛⲕⲉⲧⲧⲏⲩⲧⲛ ⲉⲡⲁϩⲟⲩ ϩⲓⲛⲓⲙⲛⲧⲣⲉϥϯϭⲱⲛⲧ ⲙⲡⲛⲟⲩⲧⲉ ⲛⲧⲉⲧⲛϩⲉ ⲉϩⲣⲁⲓ ⲉⲧⲟⲟⲧⲥ ⲛⲧⲥⲏϥⲉ ⲙⲡⲡⲟⲛⲏⲣⲟⲥ ⲡⲉⲛⲧⲁϥⲧⲁⲕⲟ ⲛⲧⲟⲓⲕⲟⲩⲙⲉⲛⲏ ⲧⲏⲣⲥ ϩⲛⲛⲉϥⲛⲟⲃⲉ ⲙⲛⲛⲉϥⲁⲛⲟⲙⲓⲁ ·
 1-2	ϫⲉⲡⲁⲗⲓⲛ	_	_	_	_	_	_	_	_
 1	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	6	mark	_	_
@@ -11250,9 +11258,9 @@
 43	ⲁⲛⲟⲙⲓⲁ	ⲁⲛⲟⲙⲓⲁ	NOUN	N	Foreign=Yes	40	conj	_	Entity=abstract)person)object)|OrigLang=grc
 44	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0015
-# text_en = ...
-# text = ⲉⲃⲟⲗ ϫⲉⲁⲧⲉⲧⲛⲙⲉⲣⲉⲡϫⲱϩⲙ · ⲉϩⲟⲩⲉⲡⲧⲃⲃⲟ ·
+# sent_id = besa_letters-to_thieving_nuns_s0014
+# text_en = For you have loved defilement rather than purification, and you have chosen death for you rather than life.
+# text = ⲉⲃⲟⲗ ϫⲉⲁⲧⲉⲧⲛⲙⲉⲣⲉⲡϫⲱϩⲙ · ⲉϩⲟⲩⲉⲡⲧⲃⲃⲟ · ⲁⲩⲱ ⲁⲧⲉⲧⲛⲥⲱⲧⲡ ⲛⲏⲧⲛ ⲙⲡⲙⲟⲩ · ⲉϩⲟⲩⲉⲡⲱⲛϩ ·
 1	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	5	advmod	_	_
 2-7	ϫⲉⲁⲧⲉⲧⲛⲙⲉⲣⲉⲡϫⲱϩⲙ	_	_	_	_	_	_	_	_
 2	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	5	mark	_	_
@@ -11266,32 +11274,28 @@
 9	ⲉϩⲟⲩⲉ	ⲉϩⲟⲩⲉ	ADP	PREP	_	11	case	_	_
 10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(abstract|Orig=ⲡ︤
 11	ⲧⲃⲃⲟ	ⲧⲃⲃⲟ	NOUN	N	_	7	nmod	_	Entity=abstract)|Orig=ⲧ︥ⲃⲃⲟ̂
-12	·	·	PUNCT	PUNCT	_	5	punct	_	_
+12	·	·	PUNCT	PUNCT	_	16	punct	_	_
+13	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	16	cc	_	_
+14-16	ⲁⲧⲉⲧⲛⲥⲱⲧⲡ	_	_	_	_	_	_	_	_
+14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
+15	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	16	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
+16	ⲥⲱⲧⲡ	ⲥⲱⲧⲡ	VERB	V	Mood=Ind|VerbForm=Fin	5	conj	_	Orig=ⲥⲱⲧⲡ̄
+17-18	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
+17	ⲛⲏ	ⲛⲁ	ADP	PREP	_	18	case	_	_
+18	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	16	obl	_	Orig=ⲧ︤ⲛ︥
+19-21	ⲙⲡⲙⲟⲩ	_	_	_	_	_	_	_	_
+19	ⲙ	ⲛ	ADP	PREP	_	21	case	_	Orig=ⲙ̄
+20	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Entity=(abstract
+21	ⲙⲟⲩ	ⲙⲟⲩ	NOUN	N	_	16	obj	_	Entity=abstract)
+22	·	·	PUNCT	PUNCT	_	25	punct	_	_
+23-25	ⲉϩⲟⲩⲉⲡⲱⲛϩ	_	_	_	_	_	_	_	_
+23	ⲉϩⲟⲩⲉ	ⲉϩⲟⲩⲉ	ADP	PREP	_	25	case	_	_
+24	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Entity=(abstract
+25	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	21	nmod	_	Entity=abstract)|Orig=ⲱⲛ︤ϩ︥
+26	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0016
-# text_en = ...
-# text = ⲁⲩⲱ ⲁⲧⲉⲧⲛⲥⲱⲧⲡ ⲛⲏⲧⲛ ⲙⲡⲙⲟⲩ · ⲉϩⲟⲩⲉⲡⲱⲛϩ ·
-1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
-2-4	ⲁⲧⲉⲧⲛⲥⲱⲧⲡ	_	_	_	_	_	_	_	_
-2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
-3	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
-4	ⲥⲱⲧⲡ	ⲥⲱⲧⲡ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲥⲱⲧⲡ̄
-5-6	ⲛⲏⲧⲛ	_	_	_	_	_	_	_	_
-5	ⲛⲏ	ⲛⲁ	ADP	PREP	_	6	case	_	_
-6	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	4	obl	_	Orig=ⲧ︤ⲛ︥
-7-9	ⲙⲡⲙⲟⲩ	_	_	_	_	_	_	_	_
-7	ⲙ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲙ̄
-8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(abstract
-9	ⲙⲟⲩ	ⲙⲟⲩ	NOUN	N	_	4	obj	_	Entity=abstract)
-10	·	·	PUNCT	PUNCT	_	13	punct	_	_
-11-13	ⲉϩⲟⲩⲉⲡⲱⲛϩ	_	_	_	_	_	_	_	_
-11	ⲉϩⲟⲩⲉ	ⲉϩⲟⲩⲉ	ADP	PREP	_	13	case	_	_
-12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Entity=(abstract
-13	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	9	nmod	_	Entity=abstract)|Orig=ⲱⲛ︤ϩ︥
-14	·	·	PUNCT	PUNCT	_	4	punct	_	_
-
-# sent_id = besa_letters-to_thieving_nuns_s0017
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0015
+# text_en = For you have angered him who has created you, and who has nourished you, God who is forever.
 # text = ⲁⲧⲉⲧⲛϯⲛⲟⲩϭⲥ ⲅⲁⲣ ⲙⲡⲉⲛⲧⲁϥⲧⲁⲙⲓⲉⲧⲏⲩⲧⲛ · ⲁⲩⲱ ⲁϥⲥⲁⲛϣⲧⲏⲩⲧⲛ ⲡⲛⲟⲩⲧⲉ ⲡϣⲁⲉⲛⲉϩ ·
 1-3	ⲁⲧⲉⲧⲛϯⲛⲟⲩϭⲥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -11322,8 +11326,8 @@
 22	ⲉⲛⲉϩ	ⲉⲛⲉϩ	NOUN	N	_	19	appos	_	Entity=(time)person)
 23	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0018
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0016
+# text_en = And you have also given suffering to her who has nursed you, Jerusalem, which is the congregation.
 # text = ⲁⲧⲉⲧⲛϯⲙⲕⲁϩ ⲛϩⲏⲧ ⲇⲉ ⲟⲛ ⲛⲧⲉⲛⲧⲁⲥϣⲉⲡϣⲡⲧⲏⲩⲧⲛ ⲧϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ⲉⲧⲉⲧⲥⲩⲛⲁⲅⲱⲅⲏ ⲧⲉ ·
 1-4	ⲁⲧⲉⲧⲛϯⲙⲕⲁϩ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -11353,8 +11357,8 @@
 21	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing|PronType=Dem	20	cop	_	Entity=place-Jerusalem)
 22	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0019
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0017
+# text_en = And you have fallen in daylight like those who are in midnight.
 # text = ⲁⲩⲱ ⲁⲧⲉⲧⲛϩⲉ ⲙⲙⲉⲉⲣⲉ ⲛⲧϩⲉ ⲛⲛⲉⲧϩⲛⲧⲡⲁϣⲉ ⲛⲧⲉⲩϣⲏ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲁⲧⲉⲧⲛϩⲉ	_	_	_	_	_	_	_	_
@@ -11381,8 +11385,8 @@
 18	ⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	15	nmod	_	Entity=time)time)person)|Orig=ⲩϣⲏ̂
 19	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0020
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0018
+# text_en = As it is written: “she has stumbled, she has fallen, that is the virgin of Israel and so she won’t get up again.
 # text = ⲛⲧϩⲉ ⲉⲧⲥⲏϩ ϫⲉⲁⲥⲥⲗⲁⲁⲧⲉ ⲁⲥϩⲉ ⲛϭⲓⲧⲡⲁⲣⲑⲉⲛⲟⲥ ⲙⲡⲓⲥⲣⲁⲏⲗ ⲛⲥⲛⲁⲟⲩⲱϩ ϭⲉ ⲁⲛ ⲉⲧⲟⲟⲧⲥ ⲉⲧⲱⲟⲩⲛ ·
 1-3	ⲛⲧϩⲉ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	Orig=ⲛ̄
@@ -11423,9 +11427,9 @@
 28	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	Mood=Ind|VerbForm=Inf	22	xcomp	_	_
 29	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0021
-# text_en = ...
-# text = ⲛⲉⲧⲛⲕⲟⲧⲕ ⲅⲁⲣ ⲡⲉϫⲁϥ · ⲉⲩⲛⲕⲟⲧⲕ ⲛⲧⲉⲩϣⲏ ·
+# sent_id = besa_letters-to_thieving_nuns_s0019
+# text_en = For “those who sleep,” he said, “it’s at night that they sleep. And those who are drunk, it’s at night that they’re drunk”.
+# text = ⲛⲉⲧⲛⲕⲟⲧⲕ ⲅⲁⲣ ⲡⲉϫⲁϥ · ⲉⲩⲛⲕⲟⲧⲕ ⲛⲧⲉⲩϣⲏ · ⲁⲩⲱ ⲛⲉⲧⲧⲁϩⲉ . ⲉⲩⲧⲁϩⲉ ⲛⲧⲉⲩϣⲏ ·
 1-3	ⲛⲉⲧⲛⲕⲟⲧⲕ	_	_	_	_	_	_	_	_
 1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	10	dislocated	_	Entity=(person
 2	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	3	mark	_	Orig=ⲉⲧ︤
@@ -11436,36 +11440,32 @@
 6	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	·	·	PUNCT	PUNCT	_	5	punct	_	_
 8-10	ⲉⲩⲛⲕⲟⲧⲕ	_	_	_	_	_	_	_	_
-8	ⲉ	ⲉⲣⲉ	PART	CFOC	_	10	mark	_	_
+8	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	10	mark	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
 10	ⲛⲕⲟⲧⲕ	ⲛⲕⲟⲧⲕ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲛ̄ⲕⲟⲧ︤ⲕ︥
 11-13	ⲛⲧⲉⲩϣⲏ	_	_	_	_	_	_	_	_
 11	ⲛ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲛ̄
 12	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Entity=(time
 13	ⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	10	obl	_	Entity=time)|Orig=ⲩϣⲏ̂
-14	·	·	PUNCT	PUNCT	_	10	punct	_	_
+14	·	·	PUNCT	PUNCT	_	15	punct	_	_
+15	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	22	cc	_	_
+16-18	ⲛⲉⲧⲧⲁϩⲉ	_	_	_	_	_	_	_	_
+16	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	22	dislocated	_	Entity=(person
+17	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	18	mark	_	_
+18	ⲧⲁϩⲉ	ϯϩⲉ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	16	acl:relcl	_	Entity=person)
+19	.	.	PUNCT	PUNCT	_	16	punct	_	_
+20-22	ⲉⲩⲧⲁϩⲉ	_	_	_	_	_	_	_	_
+20	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	22	mark	_	_
+21	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
+22	ⲧⲁϩⲉ	ϯϩⲉ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	10	conj	_	_
+23-25	ⲛⲧⲉⲩϣⲏ	_	_	_	_	_	_	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	25	case	_	Orig=ⲛ̄
+24	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	Entity=(time
+25	ⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	22	obl	_	Entity=time)|Orig=ⲩϣⲏ̂
+26	·	·	PUNCT	PUNCT	_	10	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0022
-# text_en = ...
-# text = ⲁⲩⲱ ⲛⲉⲧⲧⲁϩⲉ . ⲉⲩⲧⲁϩⲉ ⲛⲧⲉⲩϣⲏ ·
-1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	_
-2-4	ⲛⲉⲧⲧⲁϩⲉ	_	_	_	_	_	_	_	_
-2	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	dislocated	_	Entity=(person
-3	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
-4	ⲧⲁϩⲉ	ϯϩⲉ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	2	acl:relcl	_	Entity=person)
-5	.	.	PUNCT	PUNCT	_	2	punct	_	_
-6-8	ⲉⲩⲧⲁϩⲉ	_	_	_	_	_	_	_	_
-6	ⲉ	ⲉⲣⲉ	PART	CFOC	_	8	mark	_	_
-7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
-8	ⲧⲁϩⲉ	ϯϩⲉ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	0	root	_	_
-9-11	ⲛⲧⲉⲩϣⲏ	_	_	_	_	_	_	_	_
-9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	Orig=ⲛ̄
-10	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Entity=(time
-11	ⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	8	obl	_	Entity=time)|Orig=ⲩϣⲏ̂
-12	·	·	PUNCT	PUNCT	_	8	punct	_	_
-
-# sent_id = besa_letters-to_thieving_nuns_s0023
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0020
+# text_en = But as for you, you’ve drunk in day like those of whom it is said: “those who are drunk without wine ”.
 # text = ⲛⲧⲱⲧⲛ ⲇⲉ ⲁⲧⲉⲧⲛϯϩⲉ ⲙⲙⲉⲉⲣⲉ ⲛⲧϩⲉ ⲛⲛⲉⲛⲧⲁⲩϫⲟⲟⲥ ⲉⲧⲃⲏⲏⲧⲟⲩ · ϫⲉⲛⲉⲧⲧⲁϩⲉ ⲁϫⲛⲏⲣⲡ ·
 1	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	5	dislocated	_	Orig=ⲛ̄ⲧⲱⲧ︤ⲛ︥
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
@@ -11502,8 +11502,8 @@
 26	ⲏⲣⲡ	ⲏⲣⲡ	NOUN	N	_	24	obl	_	Entity=(substance)person)|Orig=ⲏⲣ︤ⲡ︥
 27	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0024
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0021
+# text_en = And you have slept in daylight like those who sleep in the night.
 # text = ⲁⲩⲱ ⲁⲧⲉⲧⲛϩⲱⲣⲡ ⲙⲙⲉⲉⲣⲉ ⲛⲧϩⲉ ⲛⲛⲉⲧⲛⲕⲟⲧⲕ ⲛⲧⲉⲩϣⲏ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲁⲧⲉⲧⲛϩⲱⲣⲡ	_	_	_	_	_	_	_	_
@@ -11528,8 +11528,8 @@
 16	ⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	13	obl	_	Entity=time)person)|Orig=ⲩϣⲏ̂
 17	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0025
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0022
+# text_en = For you have left the fear of God behind you;
 # text = ⲉⲃⲟⲗ ϫⲉⲁⲧⲉⲧⲛⲕⲱ ⲛⲥⲱⲧⲛ ⲛⲧϩⲟⲧⲉ ⲙⲡⲛⲟⲩⲧⲉ ·
 1	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=SCONJ	5	mark	_	_
 2-5	ϫⲉⲁⲧⲉⲧⲛⲕⲱ	_	_	_	_	_	_	_	_
@@ -11550,8 +11550,8 @@
 13	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	10	nmod	_	Entity=person)abstract)
 14	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0026
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0023
+# text_en = as you have loved darkness instead of light;
 # text = ⲉⲁⲧⲉⲧⲛⲙⲉⲣⲉⲡⲕⲁⲕⲉ ⲉϩⲟⲩⲉ ⲉⲡⲟⲩⲟⲉⲓⲛ ·
 1-6	ⲉⲁⲧⲉⲧⲛⲙⲉⲣⲉⲡⲕⲁⲕⲉ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
@@ -11567,8 +11567,8 @@
 10	ⲟⲩⲟⲉⲓⲛ	ⲟⲩⲟⲉⲓⲛ	NOUN	N	_	6	nmod	_	Entity=abstract)
 11	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0027
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0024
+# text_en = and as you have also thought what’s bitter to be sweet, and what’s sweet to be bitter.
 # text = ⲉⲁⲧⲉⲧⲛⲉⲡⲡⲉⲧⲥⲁϣⲉ ⲇⲉ ⲟⲛ ϫⲉϥϩⲟⲗϭ · ⲁⲩⲱ ⲡⲉⲧϩⲟⲗϭ ϫⲉϥⲥⲁϣⲉ ·
 1-7	ⲉⲁⲧⲉⲧⲛⲉⲡⲡⲉⲧⲥⲁϣⲉ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
@@ -11596,8 +11596,8 @@
 20	ⲥⲁϣⲉ	ⲥⲓϣⲉ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	15	orphan	_	_
 21	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0028
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0025
+# text_en = Because of this, woe to you evil ones that you did not think of all the toil that our father has endured with all of you.
 # text = ⲉⲧⲃⲉⲡⲁⲓ ⲟⲩⲟⲓ ⲛⲏⲧⲛ ⲙⲡⲟⲛⲏⲣⲟⲥ ϫⲉⲙⲡⲉⲧⲛⲣⲡⲙⲉⲉⲩⲉ ⲙⲡϩⲓⲥⲉ ⲧⲏⲣϥ ⲉⲛⲧⲁⲡⲉⲛⲉⲓⲱⲧ ϣⲟⲡϥ ⲛⲙⲙⲏⲧⲛ ⲧⲏⲣⲧⲛ ·
 1-2	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
@@ -11639,8 +11639,8 @@
 28	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	27	nmod:poss	_	Entity=abstract)|Orig=ⲧ︤ⲛ︥
 29	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0029
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0026
+# text_en = As you have left behind his teachings of life and those of the petitions of your fathers.
 # text = ⲉⲁⲧⲉⲧⲛⲕⲱ ⲛⲥⲱⲧⲛ ⲛⲛⲉϥⲥⲃⲟⲟⲩⲉ ⲛⲱⲛϩ ⲙⲛⲛⲁⲛⲥⲙⲙⲉ ⲛⲛⲉⲧⲛⲉⲓⲟⲧⲉ :
 1-4	ⲉⲁⲧⲉⲧⲛⲕⲱ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
@@ -11667,8 +11667,8 @@
 17	ⲉⲓⲟⲧⲉ	ⲉⲓⲱⲧ	NOUN	N	_	14	nmod	_	Entity=person)abstract)
 18	:	:	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0030
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0027
+# text_en = Furthermore, behold the elders go with their brothers, they came to you another time.
 # text = ⲡⲗⲏⲛ ⲉⲓⲥⲛϩⲗⲗⲟ ⲉⲓ ⲙⲛⲛⲉⲛⲥⲛⲏⲩ ⲁⲩⲉⲓ ϣⲁⲣⲱⲧⲛ ⲛⲕⲉⲥⲟⲡ ·
 1	ⲡⲗⲏⲛ	ⲡⲗⲏⲛ	CCONJ	CONJ	Foreign=Yes	5	advmod	_	OrigLang=grc
 2-4	ⲉⲓⲥⲛϩⲗⲗⲟ	_	_	_	_	_	_	_	_
@@ -11693,8 +11693,8 @@
 16	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	11	obl	_	Entity=time)
 17	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0031
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0028
+# text_en = As we live in a great grief and much heart ache.
 # text = ⲉⲛⲟⲛϩ ϩⲛⲟⲩⲛⲟϭ ⲛⲗⲩⲡⲏ ⲙⲛⲟⲩⲙⲕⲁϩ ⲛϩⲏⲧ ⲉⲛⲁϣⲱϥ ·
 1-3	ⲉⲛⲟⲛϩ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
@@ -11720,8 +11720,8 @@
 16	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Entity=abstract)
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0032
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0029
+# text_en = To have them done one by one by you according to their worth.
 # text = ⲉⲧⲣⲉⲩⲉⲓⲣⲉ ⲛⲧⲟⲩⲉⲓ ⲧⲟⲩⲉⲓ ⲙⲙⲱⲧⲛ ⲕⲁⲧⲁⲡⲉⲥⲙⲡϣⲁ ·
 1-4	ⲉⲧⲣⲉⲩⲉⲓⲣⲉ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉ	PART	PREP	_	2	mark	_	_
@@ -11744,8 +11744,8 @@
 14	ⲙⲡϣⲁ	ⲙⲡϣⲁ	NOUN	N	_	4	obl	_	Entity=abstract)|Orig=ⲙ̄ⲡϣⲁ
 15	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0033
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0030
+# text_en = Since you have left the flow of the water of life behind you.
 # text = ⲉⲃⲟⲗ ϫⲉⲁⲧⲉⲧⲛⲕⲱ ⲛⲥⲱⲧⲛ ⲛⲧⲡⲏⲅⲏ ⲙⲙⲟⲟⲩ ⲛⲱⲛϩ ·
 1	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	5	advmod	_	_
 2-5	ϫⲉⲁⲧⲉⲧⲛⲕⲱ	_	_	_	_	_	_	_	_
@@ -11768,8 +11768,8 @@
 14	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	12	nmod	_	Entity=(abstract)substance)place)|Orig=ⲱⲛ︤ϩ︥
 15	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0034
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0031
+# text_en = While you dug yourselves pits that are broken in making your hearts of foolishness do wrong to you.
 # text = ⲉⲁⲧⲉⲧⲛϣⲓⲕⲉ ⲛⲏⲧⲛ ⲛϩⲉⲛϣⲏⲓ ⲉⲩⲟⲩⲟϭⲡ ϩⲙⲡⲧⲣⲉⲡⲉⲧⲛϩⲏⲧ ⲛⲁⲧⲥⲃⲱ ⲣⲕⲁⲕⲉ ⲉⲣⲱⲧⲛ ·
 1-4	ⲉⲁⲧⲉⲧⲛϣⲓⲕⲉ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
@@ -11802,9 +11802,9 @@
 22	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	20	obl	_	Entity=event)place)|Orig=ⲧ︤ⲛ︥
 23	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0035
-# text_en = ...
-# text = ⲉⲧⲉⲧⲛϫⲱ ⲙⲙⲟⲥ ϫⲉⲁⲛⲟⲛ ϩⲉⲛⲥⲁⲃⲉ · ⲁⲧⲉⲧⲛⲣⲥⲟϭ ·
+# sent_id = besa_letters-to_thieving_nuns_s0032
+# text_en = While you say: 'we are clever.'
+# text = ⲉⲧⲉⲧⲛϫⲱ ⲙⲙⲟⲥ ϫⲉⲁⲛⲟⲛ ϩⲉⲛⲥⲁⲃⲉ ·
 1-3	ⲉⲧⲉⲧⲛϫⲱ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
 2	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
@@ -11818,15 +11818,19 @@
 8-9	ϩⲉⲛⲥⲁⲃⲉ	_	_	_	_	_	_	_	_
 8	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(person
 9	ⲥⲁⲃⲉ	ⲥⲁⲃⲉ	NOUN	N	_	3	ccomp	_	Entity=person)
-10	·	·	PUNCT	PUNCT	_	13	punct	_	_
-11-13	ⲁⲧⲉⲧⲛⲣⲥⲟϭ	_	_	_	_	_	_	_	_
-11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
-12	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	13	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
-13	ⲣⲥⲟϭ	ⲣⲥⲟϭ	VERB	V	Mood=Ind|VerbForm=Fin	3	parataxis	_	MSeg=ⲣ̄-ⲥⲟϭ|Orig=ⲣ̄ⲥⲟϭ
-14	·	·	PUNCT	PUNCT	_	3	punct	_	_
+10	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0036
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0033
+# text_en = You have been foolish.
+# text = ⲁⲧⲉⲧⲛⲣⲥⲟϭ ·
+1-3	ⲁⲧⲉⲧⲛⲣⲥⲟϭ	_	_	_	_	_	_	_	_
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
+3	ⲣⲥⲟϭ	ⲣⲥⲟϭ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ⲣ̄-ⲥⲟϭ|Orig=ⲣ̄ⲥⲟϭ
+4	·	·	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = besa_letters-to_thieving_nuns_s0034
+# text_en = While you have changed the honor of God in your actions which are unworthy.
 # text = ⲉⲁⲧⲉⲧⲛϣⲓⲃⲉ ⲙⲡⲉⲟⲟⲩ ⲙⲡⲛⲟⲩⲧⲉ ϩⲛϩⲉⲛϩⲃⲏⲩⲉ ⲉⲙⲉϣϣⲉ .
 1-4	ⲉⲁⲧⲉⲧⲛϣⲓⲃⲉ	_	_	_	_	_	_	_	_
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
@@ -11850,8 +11854,8 @@
 15	ⲙⲉϣϣⲉ	ⲙⲉϣϣⲉ	VERB	V	Mood=Ind|VerbForm=Fin	13	acl:relcl	_	Entity=abstract)
 16	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0037
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0035
+# text_en = For this reason, God has laid you down to torments, which are written, that is stealing and defilement and every kind of evil.
 # text = ⲉⲧⲃⲉⲡⲁⲓ ⲁⲡⲛⲟⲩⲧⲉ ϯⲧⲏⲩⲧⲛ ⲉϩⲣⲁⲓ ⲉϩⲉⲛⲡⲁⲑⲟⲥ ⲉⲩⲥⲏϣ ⲉⲧⲉⲡϫⲓⲟⲩⲉ ⲡⲉ ⲙⲛⲡϫⲱϩⲙ ⲙⲛⲡⲟⲛⲏⲣⲟⲛ ⲛⲓⲙ ·
 1-2	ⲉⲧⲃⲉⲡⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
@@ -11887,8 +11891,8 @@
 24	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Ind	23	det	_	Entity=abstract)abstract)
 25	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = besa_letters-to_thieving_nuns_s0038
-# text_en = ...
+# sent_id = besa_letters-to_thieving_nuns_s0036
+# text_en = Those things which every vengence will happen to those that commit them, not just in this world but in the other one.
 # text = ⲛⲁⲓ ⲉⲧⲉⲣⲉⲧⲓⲙⲱⲣⲓⲁ ⲛⲓⲙ ϣⲟⲟⲡ ⲛⲛⲉⲧⲉⲓⲣⲉ ⲙⲙⲟⲟⲩ · ⲟⲩ ⲙⲟⲛⲟⲛ ϩⲙⲡⲉⲓⲁⲓⲱⲛ · ⲁⲗⲗⲁ ϩⲙⲡⲕⲉⲟⲩⲁ :
 1	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	0	root	_	Entity=(abstract|Orig=ⲛⲁⲓ̈
 2-3	ⲉⲧⲉⲣⲉⲧⲓⲙⲱⲣⲓⲁ	_	_	_	_	_	_	_	_
@@ -12111,7 +12115,7 @@
 1	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	6	advmod	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
 3-7	ⲛⲧⲁⲩⲧⲥⲁⲃⲟⲛ	_	_	_	_	_	_	_	_
-3	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	6	mark	_	Orig=ⲛ̄ⲧ
+3	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	6	mark	_	Orig=ⲛ̄ⲧ
 4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
 5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
 6	ⲧⲥⲁⲃⲟ	ⲧⲥⲁⲃⲟ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
@@ -12128,7 +12132,7 @@
 # text = ⲁⲗⲗⲁ ⲉⲛⲧⲁⲩϯⲥⲃⲱ ⲛⲁⲛ ϫⲉϩⲛⲟⲩϩⲟⲧⲉ ⲙⲛⲟⲩⲥⲧⲱⲧ ⲁⲣⲓϩⲱⲃ ⲉⲡⲉⲧⲛⲟⲩϫⲁⲓ .
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
 2-5	ⲉⲛⲧⲁⲩϯⲥⲃⲱ	_	_	_	_	_	_	_	_
-2	ⲉⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	5	mark	_	_
+2	ⲉⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	5	mark	_	_
 3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
 4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 5	ϯⲥⲃⲱ	ϯⲥⲃⲱ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ϯ-ⲥⲃⲱ|Orig=ϯⲥⲃⲱ̂
@@ -12255,7 +12259,7 @@
 19	,	,	PUNCT	PUNCT	_	24	punct	_	_
 20	ϫⲉⲕⲁⲥ	ϫⲉⲕⲁⲁⲥ	SCONJ	CONJ	_	24	mark	_	_
 21-24	ⲉⲩⲛⲁⲛⲁⲩ	_	_	_	_	_	_	_	_
-21	ⲉ	ⲉⲣⲉ	PART	CFOC	_	24	mark	_	_
+21	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	24	mark	_	_
 22	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
 23	ⲛⲁ	ⲛⲁ	AUX	FUT	_	24	aux	_	_
 24	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	Mood=Ind|VerbForm=Fin	3	advcl	_	_
@@ -12536,7 +12540,7 @@
 # meta::source = MERC.AT 45-53 (OR. 6783 ff. 23a-27a)
 # meta::title = Life of Cyrus in Budge ed. part 1
 # sent_id = life_cyrus-life_cyrus_01_s0001
-# text_en = ...
+# text_en = THE LIFE AND CONVERSATION OF OUR SAINTED FATHER, WHO WAS GLORIOUS IN EVERYTHING, SAINT APA CYRUS, THE PERFECT GOVERNOR, WHICH WAS W'RITTEN BY APA PAMBO, THE ELDER OF THE CHURCH OF SHIET. SAINT APA CYRUS DIED ON THE EIGHTH DAY OF THE MONTH EPEIPH IN THE PEACE OF GOD.
 # text = ⲡⲃⲓⲟⲥ ⲁⲩⲱ ⲧⲡⲟⲗⲓⲧⲉⲓⲁ ⲙⲡⲉⲛⲡⲉⲧⲟⲩⲁⲁⲃ ⲛⲉⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲩ ⲕⲁⲧⲁⲥⲙⲟⲧ ⲛⲓⲙ ⲡϩⲁⲅⲓⲟⲥ ⲁⲡⲁ ⲕⲩⲣⲟⲥ · ⲡⲧⲉⲗⲓⲟⲥ ⲛⲁⲙⲉ ⲛⲧⲁϥϩⲓⲥⲧⲟⲣⲓⲍⲉ ⲙⲙⲟϥ · ⲛϭⲓⲁⲡⲁ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲛϣⲓⲏⲧ ⲛⲧⲁϥⲙⲧⲟⲛ ⲙⲙⲟϥ ⲛϭⲓⲡⲉⲧⲟⲩⲁⲁⲃ · ⲁⲡⲁ ⲕⲩⲣⲟⲥ ϩⲛⲥⲟⲩϣⲙⲟⲩⲛ ⲙⲡⲉⲃⲟⲧ ⲉⲡⲏⲡ ϩⲛⲟⲩⲉⲓⲣⲏⲛⲏ ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ·
 1-2	ⲡⲃⲓⲟⲥ	_	_	_	_	_	_	_	_
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(abstract|Orig=Ⲡ
@@ -12627,10 +12631,10 @@
 66	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0002
-# text_en = ...
+# text_en = MAY HIS HOLY BLESSING COME UPON US, AND MAY WE BE SAVED! AMEN.
 # text = ⲉⲣⲉⲛⲉϥⲥⲙⲟⲩ ⲉⲧⲟⲩⲁⲁⲃ ⲛⲁⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲱⲛ ⲛⲧⲛⲟⲩϫⲁⲓ ϩⲁⲙⲏⲛ ⁛ —
 1-3	ⲉⲣⲉⲛⲉϥⲥⲙⲟⲩ	_	_	_	_	_	_	_	_
-1	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	7	mark	_	Orig=ⲈⲢⲈ
+1	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	7	mark	_	Orig=ⲈⲢⲈ
 2	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	Entity=(abstract|Orig=ⲚϤ̅
 3	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	NOUN	N	_	7	nsubj	_	Orig=ⲤⲘⲞⲨ
 4-5	ⲉⲧⲟⲩⲁⲁⲃ	_	_	_	_	_	_	_	_
@@ -12652,7 +12656,7 @@
 16	—	—	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0003
-# text_en = ...
+# text_en = And it came to pass in the time of Apa Pambo, the elder of the church of Shiet, after he had protected the body of the blessed woman Hillaria, the daughter of the Emperor Zeno,
 # text = ⲁⲥϣⲱⲡⲉ ⲇⲉ ⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲛⲁⲡⲁ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲛϣⲓⲏⲧ · ⲙⲛⲛⲥⲁⲧⲣⲉϥⲥⲕⲉⲡⲁⲍⲉ ⲙⲡⲥⲱⲙⲁ ⲛⲧⲙⲁⲕⲁⲣⲓⲁ ϩⲓⲗⲗⲁⲣⲓⲁ ⲧϣⲉⲉⲣⲉ ⲙⲡⲣⲣⲟ ⲍⲏⲛⲱⲛ ·
 1-3	ⲁⲥϣⲱⲡⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=Ⲁ
@@ -12703,7 +12707,7 @@
 36	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0004
-# text_en = ...
+# text_en = A vision was shewn to him, [and a voice said unto him,] 'Rise up, and go thou into the district which is on the sea-coast,
 # text = ⲁⲩϩⲟⲣⲟⲙⲁ ϭⲱⲗⲡ ⲛⲁϥ ⲉⲃⲟⲗ · ϫⲉⲧⲱⲟⲩⲛ ⲛⲅⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ ϩⲙⲡⲥⲁ ⲙⲡⲱⲕⲉⲁⲛⲟⲥ ·
 1-3	ⲁⲩϩⲟⲣⲟⲙⲁ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
@@ -12734,7 +12738,7 @@
 21	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0005
-# text_en = ...
+# text_en = and thou shalt enquire for the anchorite, of whose sandals there is not in the whole world anyone who is worthy to unloose the latchets.'
 # text = ⲕⲛⲁϭⲓⲛⲉ ⲛⲟⲩⲛⲟϭ ⲛⲁⲛⲁⲭⲱⲣⲏⲧⲏⲥ ⲡⲁⲓ ⲉⲧⲉⲙⲡⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ ⲙⲡϣⲁ ⲁⲛ ⲛⲟⲩⲥϣ ⲛⲧⲁϭⲥⲉ ⲛⲟⲩⲱⲧ ⲛⲧⲉⲛⲉϥⲟⲩⲉⲣⲏⲧⲉ ·
 1-3	ⲕⲛⲁϭⲓⲛⲉ	_	_	_	_	_	_	_	_
 1	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
@@ -12775,7 +12779,7 @@
 28	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0006
-# text_en = ...
+# text_en = And the blessed Apa Pambo rose up and went into the desert in the strength of God which was with him, even as it was with the blessed Antonius at the time when he was on his journey to go to the blessed man Apa Paulus a second time.
 # text = ⲛⲧⲟϥ ⲇⲉ ⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲁϥⲧⲱⲟⲩⲛ ⲁϥⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ ϩⲙⲡⲧⲟⲟⲩ ϩⲓⲧⲛⲧϭⲟⲙ ⲙⲡⲛⲟⲩⲧⲉ ⲉⲧϣⲟⲟⲡ ⲛⲙⲙⲁϥ ⲛⲧϩⲉ ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲛⲧⲱⲛⲓⲟⲥ · ϩⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲛⲧⲁϥⲙⲟⲟϣⲉ ⲁϥⲃⲱⲕ ϣⲁⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲡⲁ ⲡⲁⲩⲗⲟⲥ ⲡⲙⲉϩⲥⲛⲁⲩ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	10	advmod	_	OrigLang=grc
@@ -12847,7 +12851,7 @@
 53	·	·	PUNCT	PUNCT	_	10	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0007
-# text_en = ...
+# text_en = And the blessed elder Apa Pambo rose up and went into the desert,
 # text = ⲛⲧⲟϥ ⲇⲉ ⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲡⲁ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲁϥⲧⲱⲟⲩⲛ ⲁϥⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ ϩⲙⲡϫⲁⲓⲉ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	11	advmod	_	OrigLang=grc
@@ -12875,7 +12879,7 @@
 19	·	·	PUNCT	PUNCT	_	11	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0008
-# text_en = ...
+# text_en = and he came to the cell of a monk,
 # text = ⲁϥⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲛⲟⲩⲕⲁⲧⲁⲅⲁⲓⲟⲛ ·
 1-3	ⲁϥⲉⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -12889,7 +12893,7 @@
 8	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0009
-# text_en = ...
+# text_en = and he stood still and knocked at the door for a considerable space of time,
 # text = ⲁϥⲁϩⲉⲣⲁⲧϥ ⲁϥⲕⲱⲗϩ ⲉϩⲟⲩⲛ ⲉⲡⲣⲟ ⲛⲁⲧϣⲁⲩ ⲛⲟⲩⲟⲩⲛⲟⲩ
 1-5	ⲁϥⲁϩⲉⲣⲁⲧϥ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -12915,7 +12919,7 @@
 17	ⲟⲩⲛⲟⲩ	ⲟⲩⲛⲟⲩ	NOUN	N	_	8	obl	_	Entity=time)
 
 # sent_id = life_cyrus-life_cyrus_01_s0010
-# text_en = ...
+# text_en = and he cried out three times, according to the rules of the monkish brethren saying, 'Bless me!'
 # text = ⲁϥⲙⲟⲩⲧⲉ ⲛϣⲟⲙⲛⲧ ⲛⲥⲟⲡ · ⲕⲁⲧⲁⲡⲕⲁⲛⲱⲛ ⲛⲛⲉⲥⲛⲏⲩ ⲙⲙⲟⲛⲁⲭⲟⲥ · ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲥⲙⲟⲩ ⲉⲣⲟⲓ ·
 1-3	ⲁϥⲙⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -12956,7 +12960,7 @@
 27	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0011
-# text_en = ...
+# text_en = And whilst I, Pambo, was standing at the door, the brother made answer to me inside, saying, ' Hail, Pambo, the elder of the church of Shiet, thou mighty ship that sailest over the desert that is without water.
 # text = ⲁⲩⲱ ⲉⲧⲓ ⲉⲓⲁϩⲉⲣⲁⲧ ϩⲓⲡⲣⲟ ⲁⲛⲟⲕ ⲡⲁⲙⲃⲱ · ⲁⲡⲥⲟⲛ ⲣⲟⲩⲱ ⲛⲁⲓ ϩⲙⲡⲥⲁ ⲛϩⲟⲩⲛ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲭⲁⲓⲣⲉ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲛϣⲓⲏⲧ ⲡⲛⲟϭ ⲛϫⲟⲓ ⲉⲧⲣϩⲱⲧ ϩⲙⲡϫⲁⲓⲉ ⲛⲁⲧⲙⲟⲟⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	16	cc	_	_
 2	ⲉⲧⲓ	ⲉⲧⲓ	ADV	ADV	_	5	advmod	_	Orig=ⲉⲧⲉⲓ
@@ -13025,7 +13029,7 @@
 49	·	·	PUNCT	PUNCT	_	16	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0012
-# text_en = ...
+# text_en = Behold, I have eagerly desired to see thee for a very long time!
 # text = ⲉⲓⲥⲛⲟϭ ⲅⲁⲣ ⲛⲟⲩⲟⲉⲓϣ ϯⲉⲡⲓⲑⲩⲙⲉⲓ ⲉⲛⲁⲩ ⲉⲣⲟⲕ ·
 1-2	ⲉⲓⲥⲛⲟϭ	_	_	_	_	_	_	_	_
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	2	advmod	_	Orig=Ⲉⲓⲥ
@@ -13046,7 +13050,7 @@
 12	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0013
-# text_en = ...
+# text_en = Behold, God hath fulfilled for me my wish this day!
 # text = ⲉⲓⲥ ⲡⲁⲟⲩⲱϣ ⲁⲡⲛⲟⲩⲧⲉ ϫⲟⲕϥ ⲛⲁⲓ ⲉⲃⲟⲗ · ⲙⲡⲟⲟⲩ ·
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	7	advmod	_	_
 2-3	ⲡⲁⲟⲩⲱϣ	_	_	_	_	_	_	_	_
@@ -13071,7 +13075,7 @@
 16	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0014
-# text_en = ...
+# text_en = Come in, O blessed man!'
 # text = ⲁⲙⲟⲩ ⲉϩⲟⲩⲛ ⲡⲣⲱⲙⲉ ⲉⲧⲥⲙⲁⲙⲁⲁⲧ ⁛ —
 1	ⲁⲙⲟⲩ	ⲉⲓ	VERB	VIMP	Mood=Imp|VerbForm=Fin	0	root	_	_
 2	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	1	advmod	_	_
@@ -13085,7 +13089,7 @@
 8	—	—	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0015
-# text_en = ...
+# text_en = And Apa Pambo answered, saying, 'Hail thou, Apa Hierax, who hast become a companion of the angels of God by reason of thy purity.'
 # text = ⲁϥⲟⲩⲱϣⲃ ⲛϭⲓⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉⲭⲁⲓⲣⲉ · ⲁⲡⲁ ϩⲓⲉⲣⲁⲝ · ⲡⲉⲛⲧⲁϥⲣϣⲃⲏⲣ ⲉⲛⲁⲅⲅⲉⲗⲟⲥ ⲙⲡⲛⲟⲩⲧⲉ ⲉⲧⲃⲉⲡⲉϥⲧⲃⲃⲟ ·
 1-3	ⲁϥⲟⲩⲱϣⲃ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=Ⲁ
@@ -13131,7 +13135,7 @@
 33	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0016
-# text_en = ...
+# text_en = And Apa Hierax opened the door, and brought in Apa Pambo, and they sat down together.
 # text = ⲛⲧⲟϥ ⲇⲉ ⲟⲛ ⲁⲡⲁ ϩⲓⲉⲣⲁⲝ ⲁϥⲟⲩⲱⲛ ⲙⲡⲣⲟ · ⲁϥϫⲓⲧϥ · ⲉϩⲟⲩⲛ ⲁⲩϩⲙⲟⲟⲥ ⲙⲛⲛⲉⲩⲉⲣⲏⲩ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
@@ -13165,7 +13169,7 @@
 25	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0017
-# text_en = ...
+# text_en = And Apa Pambo said unto him, 'My beloved brother Apa Hierax, behold, is it very many years since thou didst come to this place?'
 # text = ⲡⲉϫⲁϥ ⲛⲁϥ ⲛϭⲓⲁⲡⲁ ⲡⲁⲙⲃⲱ ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲁⲡⲁ ϩⲓⲉⲣⲁⲝ · ⲉⲓⲥ ⲁⲟⲩⲏⲣ ⲛⲣⲟⲙⲡⲉ · ϫⲓⲛⲛⲧⲁⲕⲉⲓ ⲉϩⲟⲩⲛ ⲉⲡⲉⲓⲙⲁ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	Cxn=Interrogative-WHInfo-Direct,Interrogative-WHInfo-Indirect|CxnElt=1:Interrogative-Polar-Direct.Clause
@@ -13207,7 +13211,7 @@
 30	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0018
-# text_en = ...
+# text_en = And Apa Hierax said unto Pambo, 'Behold, I have been in this place eighteen years, and I have never eaten any of the foods which are usually eaten in this world, but I have lived upon the fruit of trees.'
 # text = ⲡⲉϫⲁϥ ϫⲉⲉⲓⲥⲙⲛⲧϣⲙⲏⲛ ⲛⲣⲟⲙⲡⲉ ϯ ⲙⲡⲉⲓⲙⲁ · ⲁⲩⲱ ⲙⲡⲓⲟⲩⲉⲙⲗⲁⲁⲩ ⲛⲧⲣⲟⲫⲏ ⲉⲡⲁⲡⲉⲓⲕⲟⲥⲙⲟⲥ ⲡⲉ ⲁⲗⲗⲁ ⲉⲓⲟⲛϩ ⲛⲕⲁⲣⲡⲟⲥ ⲛⲛϣⲏⲛ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲁ
@@ -13242,7 +13246,7 @@
 24	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	21	cop	_	Entity=object)
 25	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	28	cc	_	OrigLang=grc
 26-28	ⲉⲓⲟⲛϩ	_	_	_	_	_	_	_	_
-26	ⲉ	ⲉⲣⲉ	PART	CFOC	_	28	mark	_	_
+26	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	28	mark	_	_
 27	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	_
 28	ⲟⲛϩ	ⲱⲛϩ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	16	conj	_	Orig=ⲟⲛϩ̅
 29-30	ⲛⲕⲁⲣⲡⲟⲥ	_	_	_	_	_	_	_	_
@@ -13255,7 +13259,7 @@
 34	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0019
-# text_en = ...
+# text_en = Now there was a palm-tree growing outside that cell, and it produced twelve clusters, one cluster each month,
 # text = ⲛⲉⲩⲛⲟⲩⲃⲛⲛⲉ · ⲇⲉ ⲣⲏⲧ · ⲛⲥⲁⲃⲟⲗ ⲙⲡⲉϥⲙⲁ ⲛϣⲱⲡⲉ · ⲉⲥⲧⲁⲩⲟ ⲉⲃⲟⲗ ⲙⲙⲛⲧⲥⲛⲟⲟⲩⲥ ⲛⲗⲟⲟⲩ ⲟⲩⲗⲟⲟⲩ ⲕⲁⲧⲁⲉⲃⲟⲧ ·
 1-4	ⲛⲉⲩⲛⲟⲩⲃⲛⲛⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	7	aux	_	_
@@ -13297,10 +13301,10 @@
 29	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0020
-# text_en = ...
+# text_en = and he lived upon the fruit thereof.
 # text = ⲉϥⲟⲛϩ ⲉⲡⲉⲥⲕⲁⲣⲡⲟⲥ ·
 1-3	ⲉϥⲟⲛϩ	_	_	_	_	_	_	_	_
-1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
+1	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	3	mark	_	_
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 3	ⲟⲛϩ	ⲱⲛϩ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲟⲛϩ̅
 4-6	ⲉⲡⲉⲥⲕⲁⲣⲡⲟⲥ	_	_	_	_	_	_	_	_
@@ -13310,7 +13314,7 @@
 7	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0021
-# text_en = ...
+# text_en = And I, Pambo, said unto him, 'My beloved father, are there any brethren living beyond thee in the desert?'
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲡⲁⲙⲃⲱ ⲡⲉϫⲁⲓ ⲛⲁϥ ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ⲁⲣⲁ ⲟⲩⲛⲥⲟⲛ ⲙⲡⲉⲕϩⲟⲩⲛ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
@@ -13339,7 +13343,7 @@
 19	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0022
-# text_en = ...
+# text_en = And Apa Hierax said, 'There are some;
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉⲟⲩⲛⲟⲩⲟⲛ
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
@@ -13353,7 +13357,7 @@
 7	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	6	nsubj	_	CxnElt=6:Existential-ExistPred-Positive.Pivot|Entity=(person)
 
 # sent_id = life_cyrus-life_cyrus_01_s0023
-# text_en = ...
+# text_en = bless me, and get thee gone to them, and receive a blessing at their hands.
 # text = ⲥⲙⲟⲩ ⲉⲣⲟⲓ ⲛⲅⲃⲱⲕ ϣⲁⲣⲟⲟⲩ · ⲛⲅϫⲓⲥⲙⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲟⲩ ·
 1	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	VERB	V	Mood=Imp|VerbForm=Fin	0	root	_	_
 2-3	ⲉⲣⲟⲓ	_	_	_	_	_	_	_	_
@@ -13378,7 +13382,7 @@
 16	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0024
-# text_en = ...
+# text_en = And having departed from him into the mountain I came to a small cell of a monk,
 # text = ⲛⲧⲉⲣⲓⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲉϩⲟⲩⲛ ϩⲙⲡⲧⲟⲟⲩ ⲁⲓⲉⲓ ⲉϩⲣⲁⲓ ⲉϫⲛⲟⲩⲕⲟⲩⲓ ⲛⲕⲁⲧⲁⲅⲉⲓⲟⲛ ·
 1-3	ⲛⲧⲉⲣⲓⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -13408,7 +13412,7 @@
 20	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0025
-# text_en = ...
+# text_en = and I called into it according to the rule of the monkish brethren.
 # text = ⲁⲓⲙⲟⲩⲧⲉ ⲉϩⲟⲩⲛ ⲕⲁⲧⲁⲡⲕⲁⲛⲱⲛ ⲛⲛⲉⲥⲛⲏⲩ ⲙⲙⲟⲛⲁⲭⲟⲥ ·
 1-3	ⲁⲓⲙⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -13429,7 +13433,7 @@
 13	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0026
-# text_en = ...
+# text_en = And as I stood outside it, the brother made answer unto me from the inside, saying, 'Hail, Apa Pambo, the elder of the church of Shiet, thou mighty ship that sailest over the desert that is without water,
 # text = ⲉⲧⲓ ⲉⲓⲁϩⲉⲣⲁⲧ ϩⲓⲡⲥⲁ ⲛⲃⲟⲗ ⲁⲡⲥⲟⲛ ⲣⲟⲩⲱ ⲛⲁⲓ ϩⲙⲡⲥⲁ ⲛϩⲟⲩⲛ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲭⲁⲓⲣⲉ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲡⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ · ⲛϣⲓⲏⲧ · ⲁⲩⲱ ⲡⲛⲟϭ ⲛϫⲟⲓ ⲉⲧⲣϩⲱⲧ ϩⲙⲡϫⲁⲓⲉ ⲛⲁⲧⲙⲟⲟⲩ ·
 1	ⲉⲧⲓ	ⲉⲧⲓ	ADV	ADV	_	4	advmod	_	Orig=ⲉⲧⲉⲓ
 2-5	ⲉⲓⲁϩⲉⲣⲁⲧ	_	_	_	_	_	_	_	_
@@ -13503,7 +13507,7 @@
 53	·	·	PUNCT	PUNCT	_	14	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0027
-# text_en = ...
+# text_en = behold, I have longed eagerly to see thee for many days.
 # text = ⲉⲓⲥⲟⲩⲙⲏⲏϣⲉ ⲛϩⲟⲟⲩ ϯⲉⲡⲓⲑⲩⲙⲉⲓ ⲉⲛⲁⲩ ⲉⲣⲟⲕ ·
 1-3	ⲉⲓⲥⲟⲩⲙⲏⲏϣⲉ	_	_	_	_	_	_	_	_
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	3	advmod	_	Orig=ⲉⲓ̈ⲥ
@@ -13524,7 +13528,7 @@
 12	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0028
-# text_en = ...
+# text_en = At last hath God fulfilled my wish for me this day;
 # text = ⲗⲟⲓⲡⲟⲛ ⲁⲡϫⲟⲉⲓⲥ ϫⲱⲕ ⲉⲃⲟⲗ ⲙⲡⲁⲟⲩⲱϣ ⲛⲁⲓ ⲙⲡⲟⲟⲩ ·
 1	ⲗⲟⲓⲡⲟⲛ	ⲗⲟⲓⲡⲟⲛ	ADV	ADV	Foreign=Yes	5	advmod	_	OrigLang=grc
 2-4	ⲁⲡϫⲟⲉⲓⲥ	_	_	_	_	_	_	_	_
@@ -13547,7 +13551,7 @@
 15	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0029
-# text_en = ...
+# text_en = come inside, and do not stand outside.'
 # text = ⲁⲙⲟⲩ ⲉϩⲟⲩⲛ ⲙⲡⲣⲁϩⲉⲣⲁⲧⲕ ϩⲓⲡⲥⲁ ⲛⲃⲟⲗ ·
 1	ⲁⲙⲟⲩ	ⲉⲓ	VERB	VIMP	Mood=Imp|VerbForm=Fin	0	root	_	_
 2	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	1	advmod	_	_
@@ -13566,7 +13570,7 @@
 12	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0030
-# text_en = ...
+# text_en = And I made answer to him, I, Pambo 'O my beloved father Pamoun my lord, hail, my beloved brother, unto whom belongeth the coat of many colours, which is like unto the coat of Joseph the righteous man.
 # text = ⲁⲓⲟⲩⲱϣⲃ ⲛⲁϥ · ⲁⲛⲟⲕ ⲡⲁⲙⲃⲱ ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ⲁⲡⲁ ⲡⲁⲙⲟⲩⲛ · ⲡⲁⲙⲡⲟⲣⲕ ⲕⲩⲣⲓⲟⲥ ⲭⲁⲓⲣⲉ ⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲡⲁⲧⲉϣⲧⲏⲛ ⲛⲁⲩⲁⲛ ⲁⲩⲁⲛ ⲛⲧϩⲉ ⲛⲧⲉϣⲧⲏⲛ · ⲛⲓⲱⲥⲏⲫ ⲡⲇⲓⲕⲁⲓⲟⲥ ·
 1-3	ⲁⲓⲟⲩⲱϣⲃ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -13626,7 +13630,7 @@
 43	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0031
-# text_en = ...
+# text_en = And before God it is more precious than all the purple of the kings of this world.'
 # text = ⲛⲛⲁϩⲣⲙⲡⲛⲟⲩⲧⲉ ⲇⲉ ⲥⲧⲁⲓⲏⲩ ⲛϩⲟⲩⲟ ⲉⲡⲟⲣⲫⲩⲣⲁ ⲛⲓⲙ ⲛⲣⲣⲟ ⲛⲧⲉⲡⲉⲓⲕⲟⲥⲙⲟⲥ ·
 1-3	ⲛⲛⲁϩⲣⲙⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲛⲁϩⲣⲙ	ⲛⲛⲁϩⲣⲛ	ADP	PREP	_	3	case	_	Orig=ⲛ̅ⲛⲁϩⲣⲙ̅
@@ -13653,7 +13657,7 @@
 17	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0032
-# text_en = ...
+# text_en = Believe me, O my brethren and fathers, I, Pambo, the least of all men, smelled the sweet odour of that brother for a mile before I came to the place where he was.
 # text = ⲡⲓⲥⲧⲉⲩⲉ ⲛⲁⲓ ⲛⲁⲥⲛⲏⲩ ⲁⲩⲱ ⲛⲁⲉⲓⲟⲧⲉ · ⲁⲛⲟⲕ ⲡⲁⲙⲃⲱ ⲡⲉⲓⲉⲗⲁⲭⲓⲥⲧⲟⲥ ⲁⲓϣⲱⲗⲙ ⲙⲡⲉⲥϯⲛⲟⲩϥⲉ ⲙⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ⲛⲁⲟⲩⲙⲓⲗⲓⲟⲛ ⲙⲡⲁⲧⲓⲡⲱϩ ⲉⲣⲟϥ ·
 1	ⲡⲓⲥⲧⲉⲩⲉ	ⲡⲓⲥⲧⲉⲩⲉ	VERB	V	Foreign=Yes|Mood=Imp|VerbForm=Fin	0	root	_	OrigLang=grc
 2-3	ⲛⲁⲓ	_	_	_	_	_	_	_	_
@@ -13701,7 +13705,7 @@
 33	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0033
-# text_en = ...
+# text_en = And when we had saluted each other, we offered up prayer, and we sat down.
 # text = ⲛⲧⲉⲣⲛⲁⲥⲡⲁⲍⲉ ⲇⲉ ⲛⲛⲉⲛⲉⲣⲏⲩ ⲁⲛϣⲗⲏⲗ ⲁⲛϩⲙⲟⲟⲥ
 1-3	ⲛⲧⲉⲣⲛⲁⲥⲡⲁⲍⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=Ⲛ̅ⲧⲉⲣ
@@ -13722,7 +13726,7 @@
 13	ϩⲙⲟⲟⲥ	ϩⲙⲟⲟⲥ	VERB	V	Mood=Ind|VerbForm=Fin	10	parataxis	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0034
-# text_en = ...
+# text_en = And I said unto him, ' My father, I know that thou must be cold in winter, and thou wilt not be burnt up with the heat in the summer, when wearing a tunic of this kind.'
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ ϫⲉⲡⲁⲉⲓⲱⲧ ⲉⲓⲉ ⲙⲉⲕⲱϭⲃ ⲛⲧⲉⲡⲣⲱ · ⲟⲩⲇⲉ ⲙⲉⲕⲥⲱϣⲙ ϩⲙⲡϣⲱⲙ ⲉⲕⲫⲟⲣⲉⲓ · ⲛⲧⲉϣⲧⲏⲛ ⲛⲧⲉⲓⲙⲓⲛⲉ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
@@ -13769,8 +13773,8 @@
 33	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0035
-# text_en = ...
-# text = ⲡⲉϫⲁϥ ⲛⲁⲓ ⲛϭⲓⲁⲡⲁ ⲡⲁⲙⲟⲩⲛ · ⲡⲁⲙⲡⲟⲣⲕ ⲉⲃⲟⲗ ϫⲉⲡⲁⲓ ⲙⲙⲁⲧⲉ · ⲡⲉ ⲡⲉϥⲣⲁⲛ · ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲡⲓⲥⲧⲉⲩⲉ ⲛⲁⲓ ⲱ ⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ϫⲉⲉⲓⲥϫⲟⲩⲱⲧⲉ ⲛⲣⲟⲙⲡⲉ · ϫⲓⲛⲛⲧⲁⲓⲉⲓ ⲉⲡⲉⲓⲙⲁ ⲧⲉⲓϩⲃⲥⲱ ⲛⲟⲩⲱⲧ ⲧⲉⲧⲓϭⲓⲛⲉ ⲛⲧⲁϩⲙⲙⲉ ⲛϩⲏⲧⲥ · ⲛⲧⲉⲡⲣⲱ · ⲁⲩⲱ ⲧⲕⲉⲕⲣⲁⲥⲓⲥ ⲙⲡⲁⲏⲣ ⲙⲡϣⲱⲙ ·
+# text_en = And Apa Pamoun said unto me, because this, most certainly, is its name, O my beloved brother Apa Pambo.
+# text = ⲡⲉϫⲁϥ ⲛⲁⲓ ⲛϭⲓⲁⲡⲁ ⲡⲁⲙⲟⲩⲛ · ⲡⲁⲙⲡⲟⲣⲕ ⲉⲃⲟⲗ ϫⲉⲡⲁⲓ ⲙⲙⲁⲧⲉ · ⲡⲉ ⲡⲉϥⲣⲁⲛ · ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲁⲡⲁ ⲡⲁⲙⲃⲱ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
@@ -13796,87 +13800,91 @@
 18-19	ⲡⲉϥⲣⲁⲛ	_	_	_	_	_	_	_	_
 18	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	Entity=(abstract
 19	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	14	nsubj	_	Entity=abstract)
-20	·	·	PUNCT	PUNCT	_	21	punct	_	_
+20	·	·	PUNCT	PUNCT	_	23	punct	_	_
 21-23	ϫⲉⲡⲁⲙⲉⲣⲓⲧ	_	_	_	_	_	_	_	_
-21	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	29	mark	_	_
+21	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	23	mark	_	_
 22	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	23	nmod:poss	_	Entity=(person-Pambo
-23	ⲙⲉⲣⲓⲧ	ⲙⲉⲣⲓⲧ	NOUN	N	_	29	vocative	_	_
+23	ⲙⲉⲣⲓⲧ	ⲙⲉⲣⲓⲧ	NOUN	N	_	1	ccomp	_	_
 24-25	ⲛⲥⲟⲛ	_	_	_	_	_	_	_	_
 24	ⲛ	ⲛ	ADP	PREP	_	25	case	_	Orig=ⲛ̅
 25	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	23	nmod	_	_
 26	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	Foreign=Yes	23	appos	_	OrigLang=heb
 27	ⲡⲁⲙⲃⲱ	ⲡⲁⲙⲃⲱ	PROPN	NPROP	_	26	flat	_	Entity=person-Pambo)
-28	·	·	PUNCT	PUNCT	_	23	punct	_	_
-29	ⲡⲓⲥⲧⲉⲩⲉ	ⲡⲓⲥⲧⲉⲩⲉ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	1	ccomp	_	Orig=ⲡⲓ̈ⲥⲧⲉⲩⲉ|OrigLang=grc
-30-31	ⲛⲁⲓ	_	_	_	_	_	_	_	_
-30	ⲛⲁ	ⲛⲁ	ADP	PREP	_	31	case	_	_
-31	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	29	obl	_	_
-32	ⲱ	ⲱ	PART	PTC	Foreign=Yes	34	discourse	_	Orig=ⲱ̅|OrigLang=grc
-33-34	ⲡⲁⲙⲉⲣⲓⲧ	_	_	_	_	_	_	_	_
-33	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	34	nmod:poss	_	Entity=(person
-34	ⲙⲉⲣⲓⲧ	ⲙⲉⲣⲓⲧ	NOUN	N	_	29	vocative	_	_
-35-36	ⲛⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
-35	ⲛ	ⲛ	ADP	PREP	_	36	case	_	Orig=ⲛ̅
-36	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	34	nmod	_	Entity=person)
-37-39	ϫⲉⲉⲓⲥϫⲟⲩⲱⲧⲉ	_	_	_	_	_	_	_	_
-37	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	38	mark	_	_
-38	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	41	advmod	_	_
-39	ϫⲟⲩⲱⲧⲉ	ϫⲟⲩⲱⲧⲉ	NUM	NUM	NumType=Card	41	nummod	_	Entity=(time
-40-41	ⲛⲣⲟⲙⲡⲉ	_	_	_	_	_	_	_	_
-40	ⲛ	ⲛ	ADP	PREP	_	41	case	_	Orig=ⲛ̅
-41	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	29	ccomp	_	Entity=time)
-42	·	·	PUNCT	PUNCT	_	47	punct	_	_
-43-47	ϫⲓⲛⲛⲧⲁⲓⲉⲓ	_	_	_	_	_	_	_	_
-43	ϫⲓⲛ	ϫⲓⲛ	SCONJ	CONJ	_	47	mark	_	_
-44	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	47	mark	_	Orig=ⲛ̅ⲧ
-45	ⲁ	ⲁ	AUX	APST	_	47	aux	_	_
-46	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	47	nsubj	_	_
-47	ⲉⲓ	ⲉⲓ	VERB	V	Mood=Ind|VerbForm=Fin	38	advcl	_	_
-48-50	ⲉⲡⲉⲓⲙⲁ	_	_	_	_	_	_	_	_
-48	ⲉ	ⲉ	ADP	PREP	_	50	case	_	_
-49	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	50	det	_	Entity=(place
-50	ⲙⲁ	ⲙⲁ	NOUN	N	_	47	obl	_	Entity=place)
-51-52	ⲧⲉⲓϩⲃⲥⲱ	_	_	_	_	_	_	_	_
-51	ⲧⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	52	det	_	Entity=(object
-52	ϩⲃⲥⲱ	ϩⲃⲥⲱ	NOUN	N	_	38	parataxis	_	Orig=ϩⲃ̅ⲥⲱ
-53-54	ⲛⲟⲩⲱⲧ	_	_	_	_	_	_	_	_
-53	ⲛ	ⲛ	ADP	PREP	_	54	case	_	Orig=ⲛ̅
-54	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	52	nmod	_	_
-55-58	ⲧⲉⲧⲓϭⲓⲛⲉ	_	_	_	_	_	_	_	_
-55	ⲧ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing|PronType=Dem	52	cop	_	_
-56	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	58	mark	_	_
-57	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	58	nsubj	_	Orig=ⲉⲓ
-58	ϭⲓⲛⲉ	ϭⲓⲛⲉ	VERB	V	Mood=Ind|VerbForm=Fin	52	csubj	_	_
-59-61	ⲛⲧⲁϩⲙⲙⲉ	_	_	_	_	_	_	_	_
-59	ⲛ	ⲛ	ADP	PREP	_	61	case	_	Orig=ⲛ̅
-60	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	61	nmod:poss	_	Entity=(abstract
-61	ϩⲙⲙⲉ	ϩⲙⲙⲉ	NOUN	N	_	58	obj	_	Entity=abstract)|Orig=ϩⲙ̅ⲙⲉ
-62-63	ⲛϩⲏⲧⲥ	_	_	_	_	_	_	_	_
-62	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	63	case	_	Orig=ⲛ̅ϩⲏⲧ
-63	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	58	obl	_	Orig=ⲥ̅
-64	·	·	PUNCT	PUNCT	_	67	punct	_	_
-65-67	ⲛⲧⲉⲡⲣⲱ	_	_	_	_	_	_	_	_
-65	ⲛ	ⲛ	ADP	PREP	_	67	case	_	Orig=ⲛ̅
-66	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	67	det	_	Entity=(time
-67	ⲡⲣⲱ	ⲡⲣⲱ	NOUN	N	_	58	obl	_	Entity=time)object)
-68	·	·	PUNCT	PUNCT	_	72	punct	_	_
-69	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	72	cc	_	_
-70-72	ⲧⲕⲉⲕⲣⲁⲥⲓⲥ	_	_	_	_	_	_	_	_
-70	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	72	det	_	Entity=(abstract
-71	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	72	det	_	_
-72	ⲕⲣⲁⲥⲓⲥ	ⲕⲣⲁⲥⲓⲥ	NOUN	N	Foreign=Yes	67	conj	_	OrigLang=grc
-73-75	ⲙⲡⲁⲏⲣ	_	_	_	_	_	_	_	_
-73	ⲙ	ⲛ	ADP	PREP	_	75	case	_	Orig=ⲙ̅
-74	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	75	det	_	Entity=(object
-75	ⲁⲏⲣ	ⲁⲏⲣ	NOUN	N	Foreign=Yes	72	nmod	_	Entity=object)abstract)|OrigLang=grc
-76-78	ⲙⲡϣⲱⲙ	_	_	_	_	_	_	_	_
-76	ⲙ	ⲛ	ADP	PREP	_	78	case	_	Orig=ⲙ̅
-77	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	78	det	_	Entity=(time
-78	ϣⲱⲙ	ϣⲱⲙ	NOUN	N	_	75	parataxis	_	Entity=time)
-79	·	·	PUNCT	PUNCT	_	1	punct	_	_
+28	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = life_cyrus-life_cyrus_01_s0036
-# text_en = ...
+# text_en = Believe me, O my beloved father, behold, it is twenty years ago since I came to this place, and with this single garment I have found means to keep myself warm during the winter, and to moderate the heat of the atmosphere in summer time.
+# text = ⲡⲓⲥⲧⲉⲩⲉ ⲛⲁⲓ ⲱ ⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ϫⲉⲉⲓⲥϫⲟⲩⲱⲧⲉ ⲛⲣⲟⲙⲡⲉ · ϫⲓⲛⲛⲧⲁⲓⲉⲓ ⲉⲡⲉⲓⲙⲁ ⲧⲉⲓϩⲃⲥⲱ ⲛⲟⲩⲱⲧ ⲧⲉⲧⲓϭⲓⲛⲉ ⲛⲧⲁϩⲙⲙⲉ ⲛϩⲏⲧⲥ · ⲛⲧⲉⲡⲣⲱ · ⲁⲩⲱ ⲧⲕⲉⲕⲣⲁⲥⲓⲥ ⲙⲡⲁⲏⲣ ⲙⲡϣⲱⲙ ·
+1	ⲡⲓⲥⲧⲉⲩⲉ	ⲡⲓⲥⲧⲉⲩⲉ	VERB	V	Foreign=Yes|Mood=Imp|VerbForm=Fin	0	root	_	Orig=ⲡⲓ̈ⲥⲧⲉⲩⲉ|OrigLang=grc
+2-3	ⲛⲁⲓ	_	_	_	_	_	_	_	_
+2	ⲛⲁ	ⲛⲁ	ADP	PREP	_	3	case	_	_
+3	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
+4	ⲱ	ⲱ	PART	PTC	Foreign=Yes	6	discourse	_	Orig=ⲱ̅|OrigLang=grc
+5-6	ⲡⲁⲙⲉⲣⲓⲧ	_	_	_	_	_	_	_	_
+5	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	Entity=(person
+6	ⲙⲉⲣⲓⲧ	ⲙⲉⲣⲓⲧ	NOUN	N	_	1	vocative	_	_
+7-8	ⲛⲉⲓⲱⲧ	_	_	_	_	_	_	_	_
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲛ̅
+8	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	6	nmod	_	Entity=person)
+9-11	ϫⲉⲉⲓⲥϫⲟⲩⲱⲧⲉ	_	_	_	_	_	_	_	_
+9	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
+10	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	13	advmod	_	_
+11	ϫⲟⲩⲱⲧⲉ	ϫⲟⲩⲱⲧⲉ	NUM	NUM	NumType=Card	13	nummod	_	Entity=(time
+12-13	ⲛⲣⲟⲙⲡⲉ	_	_	_	_	_	_	_	_
+12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲛ̅
+13	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	1	ccomp	_	Entity=time)
+14	·	·	PUNCT	PUNCT	_	19	punct	_	_
+15-19	ϫⲓⲛⲛⲧⲁⲓⲉⲓ	_	_	_	_	_	_	_	_
+15	ϫⲓⲛ	ϫⲓⲛ	SCONJ	CONJ	_	19	mark	_	_
+16	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	19	mark	_	Orig=ⲛ̅ⲧ
+17	ⲁ	ⲁ	AUX	APST	_	19	aux	_	_
+18	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+19	ⲉⲓ	ⲉⲓ	VERB	V	Mood=Ind|VerbForm=Fin	10	advcl	_	_
+20-22	ⲉⲡⲉⲓⲙⲁ	_	_	_	_	_	_	_	_
+20	ⲉ	ⲉ	ADP	PREP	_	22	case	_	_
+21	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	22	det	_	Entity=(place
+22	ⲙⲁ	ⲙⲁ	NOUN	N	_	19	obl	_	Entity=place)
+23-24	ⲧⲉⲓϩⲃⲥⲱ	_	_	_	_	_	_	_	_
+23	ⲧⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	24	det	_	Entity=(object
+24	ϩⲃⲥⲱ	ϩⲃⲥⲱ	NOUN	N	_	10	parataxis	_	Orig=ϩⲃ̅ⲥⲱ
+25-26	ⲛⲟⲩⲱⲧ	_	_	_	_	_	_	_	_
+25	ⲛ	ⲛ	ADP	PREP	_	26	case	_	Orig=ⲛ̅
+26	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	24	nmod	_	_
+27-30	ⲧⲉⲧⲓϭⲓⲛⲉ	_	_	_	_	_	_	_	_
+27	ⲧ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing|PronType=Dem	24	cop	_	_
+28	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	30	mark	_	_
+29	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	Orig=ⲉⲓ
+30	ϭⲓⲛⲉ	ϭⲓⲛⲉ	VERB	V	Mood=Ind|VerbForm=Fin	24	csubj	_	_
+31-33	ⲛⲧⲁϩⲙⲙⲉ	_	_	_	_	_	_	_	_
+31	ⲛ	ⲛ	ADP	PREP	_	33	case	_	Orig=ⲛ̅
+32	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	33	nmod:poss	_	Entity=(abstract
+33	ϩⲙⲙⲉ	ϩⲙⲙⲉ	NOUN	N	_	30	obj	_	Entity=abstract)|Orig=ϩⲙ̅ⲙⲉ
+34-35	ⲛϩⲏⲧⲥ	_	_	_	_	_	_	_	_
+34	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	35	case	_	Orig=ⲛ̅ϩⲏⲧ
+35	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	obl	_	Orig=ⲥ̅
+36	·	·	PUNCT	PUNCT	_	39	punct	_	_
+37-39	ⲛⲧⲉⲡⲣⲱ	_	_	_	_	_	_	_	_
+37	ⲛ	ⲛ	ADP	PREP	_	39	case	_	Orig=ⲛ̅
+38	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	Entity=(time
+39	ⲡⲣⲱ	ⲡⲣⲱ	NOUN	N	_	30	obl	_	Entity=time)object)
+40	·	·	PUNCT	PUNCT	_	44	punct	_	_
+41	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	44	cc	_	_
+42-44	ⲧⲕⲉⲕⲣⲁⲥⲓⲥ	_	_	_	_	_	_	_	_
+42	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	44	det	_	Entity=(abstract
+43	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	44	det	_	_
+44	ⲕⲣⲁⲥⲓⲥ	ⲕⲣⲁⲥⲓⲥ	NOUN	N	Foreign=Yes	39	conj	_	OrigLang=grc
+45-47	ⲙⲡⲁⲏⲣ	_	_	_	_	_	_	_	_
+45	ⲙ	ⲛ	ADP	PREP	_	47	case	_	Orig=ⲙ̅
+46	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	_	Entity=(object
+47	ⲁⲏⲣ	ⲁⲏⲣ	NOUN	N	Foreign=Yes	44	nmod	_	Entity=object)abstract)|OrigLang=grc
+48-50	ⲙⲡϣⲱⲙ	_	_	_	_	_	_	_	_
+48	ⲙ	ⲛ	ADP	PREP	_	50	case	_	Orig=ⲙ̅
+49	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	50	det	_	Entity=(time
+50	ϣⲱⲙ	ϣⲱⲙ	NOUN	N	_	47	parataxis	_	Entity=time)
+51	·	·	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = life_cyrus-life_cyrus_01_s0037
+# text_en = And I confess unto thee that this tunic will suffice for me until the day of my death;
 # text = ⲁⲩⲱ ϯϩⲟⲙⲟⲗⲟⲅⲉⲓ ⲛⲁⲕ · ϫⲉⲧⲁⲓ ⲣⲱϣⲉ ⲉⲣⲟⲓ ϣⲁⲡⲉϩⲟⲟⲩ ⲙⲡⲁⲙⲟⲩ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
 2-3	ϯϩⲟⲙⲟⲗⲟⲅⲉⲓ	_	_	_	_	_	_	_	_
@@ -13903,8 +13911,8 @@
 17	ⲙⲟⲩ	ⲙⲟⲩ	NOUN	N	_	14	nmod	_	Entity=event)time)
 18	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0037
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0038
+# text_en = and, moreover, when I am dead it will be large enough for them to roll me up in it until the day of the Judgement of Truth.'
 # text = ⲁⲩⲱ ϩⲙⲡⲁⲕⲉⲙⲟⲩ ⲟⲛ ⲥⲣⲱϣⲉ ⲉⲣⲟⲓ ⲛⲥⲉⲥⲟⲩⲗⲟⲩⲱⲗⲧ ⲙⲙⲟⲥ ϣⲁⲡⲉϩⲟⲟⲩ ⲙⲡϩⲁⲡ ⲙⲙⲉ ·
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	8	cc	_	_
 2-5	ϩⲙⲡⲁⲕⲉⲙⲟⲩ	_	_	_	_	_	_	_	_
@@ -13940,8 +13948,8 @@
 24	ⲙⲉ	ⲙⲉ	NOUN	N	_	22	nmod	_	Entity=event)time)
 25	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0038
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0039
+# text_en = And I said unto him, 'My beloved father, is there any brother living beyond thee in the desert?'
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ϫⲉⲁⲣⲁ ⲟⲩⲛⲥⲟⲛ ⲙⲡⲉⲕⲥⲁ ⲛϩⲟⲩⲛ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲁ
@@ -13969,8 +13977,8 @@
 17	ⲛϩⲟⲩⲛ	ⲛϩⲟⲩⲛ	ADV	ADV	_	16	advmod	_	Entity=place)
 18	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0039
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0040
+# text_en = And he said unto me, 'There is one brother the latchet of one of whose sandals all the whole world is not worthy to unloose.
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ϫⲉⲥⲉ ⲟⲩⲛⲟⲩⲁ ⲙⲙⲁⲩ · ⲉⲣⲉⲡⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ ⲙⲡϣⲁ ⲁⲛ ⲛⲟⲩⲥϣⲛⲧⲁϭⲥⲉ ⲛⲟⲩⲱⲧ · ⲛⲧⲉⲛⲉϥⲟⲩⲣⲏⲏⲧⲉ ·
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
@@ -14011,8 +14019,8 @@
 28	ⲟⲩⲣⲏⲏⲧⲉ	ⲟⲩⲉⲣⲏⲧⲉ	NOUN	N	_	20	nmod	_	Entity=object)object)person)
 29	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0040
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0041
+# text_en = I myself went to him many times, wishing to visit him,
 # text = ⲁⲓⲃⲱⲕ ϣⲁⲣⲟϥ ⲛϩⲁϩ ⲛⲥⲟⲡ ⲉⲓⲟⲩⲱϣ ⲉϭⲙⲡϣⲓⲛⲉ ·
 1-3	ⲁⲓⲃⲱⲕ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -14038,8 +14046,8 @@
 16	ϣⲓⲛⲉ	ϣⲓⲛⲉ	NOUN	N	_	14	obj	_	_
 17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0041
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0042
+# text_en = and he used to answer me from the inside of his cell, saying, 'Get thee gone! In coming hither thou hast given thyself trouble [to no purpose].
 # text = ⲁⲩⲱ ⲛⲉϣⲁϥⲣⲟⲩⲱ ⲛⲁⲓ ϩⲙⲡⲥⲁ ⲛϩⲟⲩⲛ ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲁⲗⲟⲕ ⲉⲕϯϩⲓⲥⲉ ⲛⲁⲕ ⲉⲕⲛⲏⲩ · ⲉⲡⲉⲓⲙⲁ
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
 2-5	ⲛⲉϣⲁϥⲣⲟⲩⲱ	_	_	_	_	_	_	_	_
@@ -14083,8 +14091,8 @@
 30	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	31	det	_	Entity=(place
 31	ⲙⲁ	ⲙⲁ	NOUN	N	_	27	obl	_	Entity=place)
 
-# sent_id = life_cyrus-life_cyrus_01_s0042
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0043
+# text_en = No man of flesh shall see my face, except the elder of the church of Shiet.'
 # text = ⲉⲡⲉⲓ ⲙⲛϭⲟⲙ ⲛⲣⲙⲛⲥⲁⲣⲝ ⲉⲛⲁⲩ ⲉⲡⲁϩⲟ · ⲉⲓⲙⲏⲧⲓ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ · ⲛϣⲓⲏⲧ ·
 1	ⲉⲡⲉⲓ	ⲉⲡⲉⲓ	SCONJ	CONJ	Foreign=Yes	2	mark	_	OrigLang=grc
 2-3	ⲙⲛϭⲟⲙ	_	_	_	_	_	_	_	_
@@ -14115,8 +14123,8 @@
 20	ϣⲓⲏⲧ	ϣⲓⲏⲧ	PROPN	NPROP	_	17	nmod	_	Entity=(place-Wadi_El_Natrun)organization)person)
 21	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0043
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0044
+# text_en = And now, O my father, perhaps it was ordained for thee to take me with thee, so that I may receive a blessing at his hands before I die.'
 # text = ⲧⲉⲛⲟⲩ ⲇⲉ ⲙⲉϣⲁⲕ ⲱ ⲡⲁⲉⲓⲱⲧ ⲡⲧⲱϣ ⲡⲉ ⲡⲁⲓ ⲉⲧⲣⲁⲉⲓ ⲛⲙⲙⲁⲕ ⲛⲧⲁⲛⲁⲩ ⲉⲣⲟϥ ⲁⲩⲱ ⲛⲧⲁϫⲓⲥⲙⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲙⲡⲁⲧⲓⲙⲟⲩ ⁛ —
 1	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	8	advmod	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
@@ -14161,8 +14169,8 @@
 32	⁛	⁛	PUNCT	PUNCT	_	8	punct	_	_
 33	—	—	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0044
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0045
+# text_en = And I said unto him, 'Nay, it is not ordained thus, and it is not for this purpose that I have come to this place.
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ · ϫⲉⲙⲙⲟⲛ · ⲡⲧⲱϣ ⲁⲛ ⲡⲉ ⲡⲁⲓ · ⲉⲧⲃⲉⲡⲁⲓ ⲣⲱ · ⲛⲧⲁⲓⲉⲓ ϣⲁⲣⲟⲕ ⲉⲡⲉⲓⲙⲁ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲁ
@@ -14188,7 +14196,7 @@
 17	ⲣⲱ	ⲣⲱ	ADV	ADV	_	22	advmod	_	_
 18	·	·	PUNCT	PUNCT	_	17	punct	_	_
 19-22	ⲛⲧⲁⲓⲉⲓ	_	_	_	_	_	_	_	_
-19	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	22	mark	_	_
+19	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	22	mark	_	_
 20	ⲁ	ⲁ	AUX	APST	_	22	aux	_	_
 21	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
 22	ⲉⲓ	ⲉⲓ	VERB	V	Mood=Ind|VerbForm=Fin	10	parataxis	_	_
@@ -14201,8 +14209,8 @@
 27	ⲙⲁ	ⲙⲁ	NOUN	N	_	22	obl	_	Entity=place)
 28	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0045
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0046
+# text_en = But I will remember thee if the Lord maketh straight my way so that I may meet that brother.
 # text = ⲁⲗⲗⲁ ϯⲛⲁⲣⲡⲉⲕⲙⲉⲉⲩⲉ ⲉⲣϣⲁⲛⲡϫⲟⲉⲓⲥ ⲥⲟⲟⲩⲧⲛ ⲛⲧⲁϩⲓⲏ ⲛⲧⲁⲁⲡⲁⲛⲧⲁ · ⲉⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ·
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	4	cc	_	OrigLang=grc
 2-6	ϯⲛⲁⲣⲡⲉⲕⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
@@ -14234,8 +14242,8 @@
 22	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	20	acl:relcl	_	Entity=person)|Orig=ⲙ̅ⲙⲁⲩ
 23	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0046
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0047
+# text_en = And, my father, do thou remember me until I shall enjoy the blessing of that brother.'
 # text = ⲡⲗⲏⲛ ⲱ ⲡⲁⲉⲓⲱⲧ ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ ϣⲁⲛⲧⲓⲁⲡⲟⲗⲁⲩⲉ ⲙⲡⲉⲥⲙⲟⲩ ⲙⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ·
 1	ⲡⲗⲏⲛ	ⲡⲗⲏⲛ	CCONJ	CONJ	Foreign=Yes	5	advmod	_	OrigLang=grc
 2	ⲱ	ⲱ	PART	PTC	Foreign=Yes	4	discourse	_	Orig=ⲱ̅|OrigLang=grc
@@ -14263,8 +14271,8 @@
 18	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	16	acl:relcl	_	Entity=person)abstract)|Orig=ⲙ̅ⲙⲁⲩ
 19	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0047
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0048
+# text_en = And when I had journeyed into the mountain about the distance of a mile — now I, Pambo, the least of men, swear unto thee by the awful throne of God, and I do not lie in what I am going to say — the being who seized the prophet Habakkuk in ancient days, and carried him, and the food which was in his hands, and brought him to the pit of the lions [when] Habakkuk gave it (i.e. the food) to Daniel who was in the pit of the lions, this same being, I say, seized me under the impulse of the Spirit, and brought me to the little habitation of that brother.
 # text = ⲛⲧⲉⲣⲓⲙⲟⲟϣⲉ ⲉϩⲟⲩⲛ ϩⲙⲡⲧⲟⲟⲩ ⲡⲁⲣⲁⲟⲩⲙⲓⲗⲓⲟⲛ · ϯⲱⲣⲕ ⲛⲏⲧⲛ ⲙⲡⲃⲏⲙⲁ · ⲉⲧϩⲁϩⲟⲧⲉ · ⲙⲡⲛⲟⲩⲧⲉ · ⲁⲛⲟⲕ ⲡⲁⲙⲃⲱ ⲡⲉⲓⲉⲗⲁⲭⲓⲥⲧⲟⲥ · ϫⲉⲛϯϫⲓϭⲟⲗ ⲁⲛ ϩⲙⲡⲉⲧⲓⲛⲁϫⲟⲟϥ · ⲧⲉⲛⲟⲩ ϫⲉⲡⲉⲛⲧⲁϥⲁⲙⲁϩⲧⲉ ⲛⲁⲃⲃⲁⲕⲟⲩⲙ ⲡⲉⲡⲣⲟⲫⲏⲧⲏⲥ ⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲁϥⲉⲓⲛⲉ ⲙⲙⲟϥ ⲙⲛⲡⲁⲣⲓⲥⲧⲟⲛ ⲉⲧⲛⲧⲟⲟⲧϥ · ⲁϥⲛⲧϥ ⲉϫⲙⲡϣⲏⲓ ⲛⲙⲙⲟⲩⲓ · ⲁϥⲧⲁⲁϥ ⲛⲇⲁⲛⲓⲏⲗ · ϩⲙⲡϣⲏⲓ ⲛⲙⲙⲟⲩⲓ · ⲛⲧⲟϥ ⲟⲛ ⲡⲉⲛⲧⲁϥⲁⲙⲁϩⲧⲉ ⲙⲙⲟⲓ ϩⲛⲧϩⲟⲣⲙⲏ ⲙⲡⲉⲡⲛⲉⲩⲙⲁ ⲁϥⲉⲓⲛⲉ ⲙⲙⲟⲓ ⲉϫⲙⲡⲕⲁⲧⲁⲅⲉⲓⲟⲛ ⲙⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ·
 1-3	ⲛⲧⲉⲣⲓⲙⲟⲟϣⲉ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -14427,8 +14435,8 @@
 124	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	122	acl:relcl	_	Entity=person)place)|Orig=ⲙ̅ⲙⲁⲩ
 125	·	·	PUNCT	PUNCT	_	13	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0048
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0049
+# text_en = And I knocked at the door, according to the rule of the monkish brethren, and I stood still at the door for a long time.
 # text = ⲁⲩⲱ ⲁⲓⲕⲱⲗϩ ⲉⲡⲣⲟ ⲕⲁⲧⲁⲡⲕⲁⲛⲱⲛ ⲛⲛⲉⲥⲛⲏⲩ ⲙⲙⲟⲛⲁⲭⲟⲥ · ⲁⲩⲱ ⲛⲉⲓⲁϩⲉⲣⲁⲧ ϩⲓⲣⲙⲡⲣⲟ · ⲛⲟⲩⲛⲟϭ ⲛⲛⲁⲩ
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2-4	ⲁⲓⲕⲱⲗϩ	_	_	_	_	_	_	_	_
@@ -14470,8 +14478,8 @@
 29	ⲛ	ⲛ	ADP	PREP	_	30	case	_	Orig=ⲛ̅
 30	ⲛⲁⲩ	ⲛⲁⲩ	NOUN	N	_	28	nmod	_	Entity=time)
 
-# sent_id = life_cyrus-life_cyrus_01_s0049
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0050
+# text_en = And after these things the brother answered me from within, saying, 'Hail, Apa Pambo, thou elder of the church of Shiet, thou mighty ship that sailest over the desert that is without water.
 # text = ⲙⲛⲛⲥⲁⲛⲁⲓ ⲁⲡⲥⲟⲛ ⲣⲟⲩⲱ ⲛⲁⲓ ϩⲙⲡⲥⲁ ⲛϩⲟⲩⲛ · ⲉϥϫⲱ ⲙⲙⲟⲥ · ϫⲉⲭⲁⲓⲣⲉ ⲁⲡⲁ ⲡⲁⲙⲃⲱ ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ · ⲛϣⲓⲏⲧ ⲁⲩⲱ ⲡⲛⲟϭ ⲛϫⲟⲓ ⲉⲧⲣϩⲱⲧ ϩⲙⲡϫⲁⲓⲉ ⲛⲁⲧⲙⲟⲟⲩ ·
 1-2	ⲙⲛⲛⲥⲁⲛⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲙⲛⲛⲥⲁ	ⲙⲛⲛⲥⲁ	ADP	PREP	_	2	case	_	Orig=Ⲙⲛ̅ⲛ̅ⲥⲁ
@@ -14533,8 +14541,8 @@
 43	ⲁⲧⲙⲟⲟⲩ	ⲁⲧⲙⲟⲟⲩ	NOUN	N	_	41	nmod	_	Entity=place)|MSeg=ⲁⲧ-ⲙⲟⲟⲩⲧ|Orig=ⲁⲧⲙⲟⲟⲩⲧ
 44	·	·	PUNCT	PUNCT	_	6	punct	_	Entity=person-Pambo)
 
-# sent_id = life_cyrus-life_cyrus_01_s0050
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0051
+# text_en = Behold, for very many days I have eagerly desired to see thee.
 # text = ⲉⲓⲥⲟⲩⲙⲏⲏϣⲉ ⲛϩⲟⲟⲩ ϯⲉⲡⲓⲑⲩⲙⲉⲓ ⲉⲛⲁⲩ ⲉⲣⲟⲕ ·
 1-3	ⲉⲓⲥⲟⲩⲙⲏⲏϣⲉ	_	_	_	_	_	_	_	_
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	3	advmod	_	_
@@ -14554,8 +14562,8 @@
 11	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obl	_	_
 12	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0051
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0052
+# text_en = Behold, this day hath God fulfilled my desire.
 # text = ⲉⲓⲥ ⲡⲁⲟⲩⲱϣ ⲁⲡⲛⲟⲩⲧⲉ ϫⲟⲕϥ ⲛⲁⲓ ⲉⲃⲟⲗ ⲙⲡϩⲟⲟⲩ ·
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	7	advmod	_	_
 2-3	ⲡⲁⲟⲩⲱϣ	_	_	_	_	_	_	_	_
@@ -14578,8 +14586,8 @@
 14	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	7	obl	_	Entity=time)|Orig=ⲟⲟⲩ
 15	·	·	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0052
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0053
+# text_en = Come in, and stand not outside.'
 # text = ⲁⲙⲟⲩ ⲉϩⲟⲩⲛ ⲙⲡⲣⲁϩⲉⲣⲁⲧⲕ ϩⲓⲡⲥⲁ ⲛⲃⲟⲗ ·
 1	ⲁⲙⲟⲩ	ⲉⲓ	VERB	VIMP	Mood=Imp|VerbForm=Fin	0	root	_	_
 2	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	1	advmod	_	_
@@ -14597,8 +14605,8 @@
 11	ⲃⲟⲗ	ⲃⲟⲗ	NOUN	N	_	9	nmod	_	Entity=place)
 12	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0053
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0054
+# text_en = And when I was passing in through the door of the little habitation I looked, and I saw a mighty stone, which twelve men were trying to move, and they could only lift it with the greatest difficulty.
 # text = ⲛⲧⲉⲣⲓⲣⲡϩⲟⲩⲛ ⲙⲡⲣⲟ ⲙⲡⲕⲁⲧⲁⲅⲉⲓⲟⲛ ⲁⲓϭⲱϣⲧ ⲁⲓⲛⲁⲩ ⲉⲩⲛⲟϭ ⲛⲱⲛⲉ ⲙⲟⲅⲓⲥ · ⲛⲧⲉⲙⲛⲧⲥⲛⲟⲟⲩⲥ ⲛⲣⲱⲙⲉ ⲉϣⲧⲱⲟⲩⲛ ⲙⲙⲟϥ ⲉⲡⲟⲛϥ ·
 1-5	ⲛⲧⲉⲣⲓⲣⲡϩⲟⲩⲛ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -14649,8 +14657,8 @@
 35	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obj	_	Orig=ϥ̅
 36	·	·	PUNCT	PUNCT	_	14	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0054
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0055
+# text_en = And that brother advanced, and rolled the stone along, and fixed it at the door of the habitation;
 # text = ⲁϥϯⲡⲉϥⲟⲩⲟⲓ ⲛϭⲓⲡⲥⲟⲛ ⲉⲧⲙⲙⲁⲩ ⲁϥⲥⲕⲟⲣⲕⲣ ⲙⲡⲱⲛⲉ · ⲁϥⲧⲟϭϥ ⲉⲡⲣⲟ ⲙⲡⲕⲁⲧⲁⲅⲉⲓⲟⲛ ·
 1-5	ⲁϥϯⲡⲉϥⲟⲩⲟⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -14689,8 +14697,8 @@
 27	ⲕⲁⲧⲁⲅⲉⲓⲟⲛ	ⲕⲁⲧⲁⲅⲉⲓⲟⲛ	NOUN	N	Foreign=Yes	24	nmod	_	Entity=place)object)|Orig=ⲕⲁⲧⲁⲅⲓⲟⲛ|OrigLang=grc
 28	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0055
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0056
+# text_en = and when I saw this I marvelled exceedingly.
 # text = ⲛⲧⲉⲣⲓⲛⲁⲩ ⲉⲣⲟϥ ⲁⲓⲣϣⲡⲏⲏⲣⲉ ⲉⲙⲁⲧⲉ ·
 1-3	ⲛⲧⲉⲣⲓⲛⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -14706,8 +14714,8 @@
 9	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	8	advmod	_	_
 10	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0056
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0057
+# text_en = Then I remembered the patriarch Jacob, and how he, when he fled from the face of Esau his brother, went into Mesopotamia of Syria, and how when he had arrived at the place wherein were the sheep of Laban
 # text = ⲡⲗⲏⲛ ⲁⲓⲣⲡⲙⲉⲉⲩⲉ ⲙⲡⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ · ⲓⲁⲕⲱⲃ ϫⲉⲛⲧⲟϥ ϩⲱⲱϥ ⲟⲛ ⲙⲡⲉⲟⲩⲟⲉⲓϣ ⲛⲧⲁϥⲡⲱⲧ · ϩⲁⲡϩⲟ ⲛⲏⲥⲁⲩ · ⲡⲉϥⲥⲟⲛ ⲁϥⲃⲱⲕ ⲉⲧⲙⲉⲥⲟⲡⲟⲧⲁⲙⲓⲁ ⲛⲧⲥⲩⲣⲓⲁ ⲁϥⲉⲓ ⲉϫⲙⲡⲙⲁ ⲉⲧⲉⲣⲉⲛⲉⲥⲟⲟⲩ ⲛⲗⲁⲃⲁⲛ ⲛϩⲏⲧϥ ·
 1	ⲡⲗⲏⲛ	ⲡⲗⲏⲛ	CCONJ	CONJ	Foreign=Yes	4	advmod	_	Orig=Ⲡⲗⲏⲛ|OrigLang=grc
 2-6	ⲁⲓⲣⲡⲙⲉⲉⲩⲉ	_	_	_	_	_	_	_	_
@@ -14782,8 +14790,8 @@
 54	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	47	acl:relcl	_	Entity=place)|Orig=ϥ̅
 55	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0057
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0058
+# text_en = he went up to the well, and rolled away the stone which was on the mouth thereof, without any man giving him assistance, and how he watered the sheep of Laban and then sent them away to feed.
 # text = ⲁϥϯⲡⲉϥⲟⲩⲟⲓ ⲉⲧϣⲱⲧⲉ ⲁϥⲥⲕⲟⲣⲕⲣ ⲡⲱⲛⲉ ⲉⲧϩⲓϫⲛⲣⲱⲥ ⲭⲱⲣⲓⲥⲧⲣⲉⲣⲱⲙⲉ ϯⲧⲟⲟⲧϥ · ⲁϥⲧⲥⲟ ⲛⲛⲉⲥⲟⲟⲩ ⲛⲗⲁⲃⲁⲛ ⲁϥⲕⲁⲁⲩ ⲉⲃⲟⲗ ⲁⲩⲙⲟⲟⲛⲉ ·
 1-5	ⲁϥϯⲡⲉϥⲟⲩⲟⲓ	_	_	_	_	_	_	_	_
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
@@ -14839,8 +14847,8 @@
 40	ⲙⲟⲟⲛⲉ	ⲙⲟⲟⲛⲉ	VERB	V	Mood=Ind|VerbForm=Fin	35	parataxis	_	_
 41	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0058
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0059
+# text_en = And finally I understood that in everything that the saints perform it is God Who helpeth them.
 # text = ⲧⲟⲧⲉ ⲗⲟⲓⲡⲟⲛ ⲁⲓⲉⲓⲙⲉ ⲉⲡⲁⲓ ϫⲉϩⲱⲃ ⲛⲓⲙ ⲉⲧⲉⲣⲉⲛⲉⲧⲟⲩⲁⲁⲃ ⲉⲓⲣⲉ ⲙⲙⲟⲟⲩ ⲡⲛⲟⲩⲧⲉ ϯ ⲛⲧⲟⲟⲧⲟⲩ ·
 1	ⲧⲟⲧⲉ	ⲧⲟⲧⲉ	ADV	ADV	Foreign=Yes	5	advmod	_	OrigLang=grc
 2	ⲗⲟⲓⲡⲟⲛ	ⲗⲟⲓⲡⲟⲛ	ADV	ADV	Foreign=Yes	5	advmod	_	OrigLang=grc
@@ -14873,8 +14881,8 @@
 22	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	20	obl	_	_
 23	·	·	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0059
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0060
+# text_en = And I said unto him, 'O my holy father, shew me thy holy name, for God hath hidden this from me.'
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ ϫⲉⲡⲁⲉⲓⲱⲧ ⲉⲧⲟⲩⲁⲁⲃ ⲙⲁⲧⲁⲙⲟⲓ ⲉⲡⲉⲕⲣⲁⲛ ⲉⲧⲟⲩⲁⲁⲃ · ϫⲉⲁⲡϫⲟⲉⲓⲥ ϩⲉⲡⲡⲁⲓ ⲉⲣⲟⲓ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
@@ -14914,8 +14922,8 @@
 26	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	23	obl	_	_
 27	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0060
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0061
+# text_en = And he said, 'Cyrus is my name.
 # text = ⲛⲧⲟϥ ⲇⲉ ⲡⲉϫⲁϥ ϫⲉⲕⲩⲣⲟⲥ · ⲡⲉ ⲡⲁⲣⲁⲛ ·
 1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	dislocated	_	Orig=ⲛ̅ⲧⲟϥ
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
@@ -14932,8 +14940,8 @@
 10	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	6	nsubj	_	Entity=abstract)
 11	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0061
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0062
+# text_en = I am the brother of the Emperor Theodosius, and I was reared and fed at the same table as Arcadius and Honorius. And, indeed, many, many times hath Honorius said unto me, 'Take me with thee into the desert, and I will become a monk';
 # text = ⲁⲛⲟⲕ ⲡⲉ ⲡⲥⲟⲛ ⲛⲑⲉⲟⲇⲱⲥⲓⲟⲥ ⲡⲣⲣⲟ · ⲁⲩⲱ ⲛⲧⲁⲩⲥⲁⲛⲟⲩϣⲧ ⲙⲛⲁⲣⲕⲁⲇⲓⲟⲥ · ⲙⲛⲟⲛⲟⲣⲓⲟⲥ ϩⲓϫⲛⲟⲩⲧⲣⲁⲡⲉⲍⲁ ⲛⲟⲩⲱⲧ ⲛⲙⲙⲁⲩ ⲁⲩⲱ ⲛⲁⲙⲉ · ⲁⲟⲛⲟⲣⲓⲟⲥ ϫⲟⲟⲥ ⲉⲣⲟⲓ ⲛϩⲁϩ ⲛⲥⲟⲡ ϫⲉϫⲓⲧ ⲉⲧⲉⲣⲏⲙⲟⲥ · ⲛⲙⲙⲁⲕ ⲧⲁⲣⲙⲟⲛⲁⲭⲟⲥ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	0	root	_	_
 2	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
@@ -14949,7 +14957,7 @@
 9	·	·	PUNCT	PUNCT	_	14	punct	_	_
 10	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
 11-15	ⲛⲧⲁⲩⲥⲁⲛⲟⲩϣⲧ	_	_	_	_	_	_	_	_
-11	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	_	14	mark	_	Orig=ⲛ̅ⲧ
+11	ⲛⲧ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	14	mark	_	Orig=ⲛ̅ⲧ
 12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
 13	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
 14	ⲥⲁⲛⲟⲩϣ	ⲥⲁⲁⲛϣ	VERB	V	Mood=Ind|VerbForm=Fin	1	conj	_	_
@@ -15006,8 +15014,8 @@
 51	ⲣⲙⲟⲛⲁⲭⲟⲥ	ⲣⲙⲟⲛⲁⲭⲟⲥ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	42	advcl	_	MSeg=ⲣ-ⲙⲟⲛⲁⲭⲟⲥ|Orig=ⲣ̅ⲙⲟⲛⲟⲭⲟⲥ|OrigLang=grc
 52	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0062
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0063
+# text_en = but I did not wish to take him with me, because he is a son of the Emperor.
 # text = ⲁⲛⲟⲕ ⲇⲉ ⲙⲡⲓⲉϣϫⲓⲧϥ ⲇⲉ ϫⲉⲡϣⲏⲣⲉ ⲡⲉ ⲙⲡⲣⲣⲟ ⲡⲉ ·
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	dislocated	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
@@ -15030,8 +15038,8 @@
 16	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	6	cop	_	_
 17	·	·	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0063
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0064
+# text_en = And when we saw that oppression (or, violence) had multiplied, and that the Emperors were committing' sin, and that the rulers were robbing the poor, and that everyone was turning out of the straight road, and making corrupt his path before God, I rose up, and I set out and I came to this desert, and I took up my abode therein because of the multitude of my sins.
 # text = ⲛⲧⲉⲣⲛⲛⲁⲩ ⲇⲉ ϫⲉⲁⲡϫⲓⲛϭⲟⲛⲥ · ⲁϣⲁⲓ ⲁⲛⲣⲣⲱⲟⲩ ⲡⲁⲣⲁⲛⲟⲙⲉⲓ ⲁⲛⲁⲣⲭⲱⲛ ϫⲓ ⲛⲛϩⲏⲕⲉ ⲛϭⲟⲛⲥ ⲁⲟⲩⲟⲛ ⲛⲓⲙ ⲣⲓⲕⲉ ⲉⲃⲟⲗ ⲁⲩⲧⲁⲕⲟ ⲛⲧⲉⲩϩⲓⲏ ⲙⲡⲙⲧⲟ ⲉⲃⲟⲗ ⲙⲡⲛⲟⲩⲧⲉ ⲁⲓⲧⲱⲟⲩⲛ ⲁⲓⲕⲁⲣⲁⲧ ⲉⲃⲟⲗ ⲁⲓⲉⲓ ⲉⲡⲉⲓϫⲁⲓⲉ ⲁⲓⲟⲩⲱⲛϩ · ⲛϩⲏⲧϥ ⲉⲧⲃⲉⲡⲁϣⲁⲓ ⲛⲛⲁⲛⲟⲃⲉ
 1-3	ⲛⲧⲉⲣⲛⲛⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̅ⲧⲉⲣ
@@ -15120,8 +15128,8 @@
 66	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	67	nmod:poss	_	Entity=(abstract
 67	ⲛⲟⲃⲉ	ⲛⲟⲃⲉ	NOUN	N	_	64	nmod	_	Entity=abstract)abstract)
 
-# sent_id = life_cyrus-life_cyrus_01_s0064
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0065
+# text_en = May God forgive me these!'
 # text = ⲧⲁⲣⲉⲡⲛⲟⲩⲧⲉ ⲕⲁⲁⲩ ⲛⲁⲓ ⲉⲃⲟⲗ
 1-3	ⲧⲁⲣⲉⲡⲛⲟⲩⲧⲉ	_	_	_	_	_	_	_	_
 1	ⲧⲁⲣⲉ	ⲧⲁⲣⲉ	AUX	AFUTCONJ	_	4	aux	_	_
@@ -15135,8 +15143,8 @@
 7	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
 8	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	4	advmod	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0065
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0066
+# text_en = And I, Pambo, said unto him, 'My beloved father, where a wilt thou find men in this desert place to comfort thee in thy sufferings?'
 # text = ⲡⲉϫⲁⲓ ⲛⲁϥ ⲁⲛⲟⲕ ⲡⲁⲙⲃⲱ ϫⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ ⲉϣⲁⲕϭⲛⲣⲱⲙⲉ ⲧⲱⲛ ϩⲛⲧⲉⲓⲉⲣⲏⲙⲁ · ⲛϥⲥⲗⲥⲱⲗⲕ ϩⲛⲛⲉⲕϩⲓⲥⲉ ·
 1-2	ⲡⲉϫⲁⲓ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲁ
@@ -15154,7 +15162,7 @@
 10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	Orig=ⲛ̅
 11	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	9	nmod	_	Entity=abstract)
 12-15	ⲉϣⲁⲕϭⲛⲣⲱⲙⲉ	_	_	_	_	_	_	_	_
-12	ⲉ	ⲉⲣⲉ	PART	CFOC	_	15	mark	_	_
+12	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	15	mark	_	_
 13	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	15	aux	_	_
 14	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
 15	ϭⲛⲣⲱⲙⲉ	ϭⲛⲣⲱⲙⲉ	VERB	V	Mood=Ind|VerbForm=Fin	1	ccomp	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=15:Interrogative-Polar-Direct.Clause|MSeg=ϭⲛ-ⲣⲱⲙⲉ|Orig=ϭⲡ̅ⲣⲱⲙⲉ
@@ -15175,8 +15183,8 @@
 27	ϩⲓⲥⲉ	ϩⲓⲥⲉ	NOUN	N	_	23	obl	_	Entity=abstract)
 28	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0066
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0067
+# text_en = And Apa Cyrus said unto me, 'Believe me, my beloved brother, Apa Pambo, my God and my Lord Jesus Christ are Those Who visit me in this desert wherein I live.
 # text = ⲡⲉϫⲁϥ ⲛⲁⲓ ⲁⲡⲁ ⲕⲩⲣⲟⲥ ϫⲉⲡⲓⲥⲧⲉⲩⲉ ⲛⲁⲓ ⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲡⲁⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲡⲁϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲭⲣⲓⲥⲧⲟⲥ ⲡⲉⲧϭⲓⲛⲉ ⲙⲡⲁϣⲓⲛⲉ ϩⲙⲡⲉⲓϫⲁⲓⲉ ⲉⲧⲓϣⲟⲟⲡ ⲛϩⲏⲧϥ
 1-2	ⲡⲉϫⲁϥ	_	_	_	_	_	_	_	_
 1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
@@ -15232,8 +15240,8 @@
 38	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	39	case	_	Orig=ⲛ̅ϩⲏⲧ
 39	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	obl	_	Entity=place)|Orig=ϥ̅
 
-# sent_id = life_cyrus-life_cyrus_01_s0067
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0068
+# text_en = For I have never seen a man who came to me except a certain brother who was a monk, and who came hither wishing to see my face, besides such a one I have never seen anyone.
 # text = ⲙⲡⲓⲛⲁⲩ ⲅⲁⲣ ⲉⲣⲱⲙⲉ ⲉϥⲛⲏⲩ ϣⲁⲣⲟⲓ ⲉⲓⲙⲏⲧⲓ ⲉⲩⲥⲟⲛ ⲙⲙⲟⲛⲁⲭⲟⲥ ⲉϥⲛⲏⲩ ϣⲁⲣⲟⲓ ⲉϥⲱϣ ⲉⲛⲁⲩ ⲉⲡⲁϩⲟ ⲁⲩⲱ ⲙⲡⲉⲡⲉⲓⲕⲉⲧ ⲛⲁⲩ ⲉⲣⲟⲓ ·
 1-3	ⲙⲡⲓⲛⲁⲩ	_	_	_	_	_	_	_	_
 1	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	3	aux	_	Orig=ⲙ̅ⲡ
@@ -15287,8 +15295,8 @@
 37	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	35	obl	_	_
 38	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0068
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0069
+# text_en = On the contrary, when any one came hither, whilst he remained outside I commanded him from inside this abode saying, 'Get thee gone, thou hast troubled thyself [to no purpose] in coming to me.'
 # text = ⲁⲗⲗⲁ ϩⲓⲧⲛⲧϩⲉ ⲉⲧϥⲙⲏⲛ ⲉⲃⲟⲗ ⲉϥⲛⲏⲩ ϣⲁⲣⲟⲓ ⲁⲓϩⲱⲛ ⲉⲧⲟⲟⲧϥ ϩⲙⲡⲥⲁ ⲛϩⲟⲩⲛ ⲉⲓϫⲱ ⲙⲙⲟⲥ ϫⲉⲁⲗⲟⲕ ⲉⲕϯϩⲓⲥⲉ ⲛⲁⲕ · ⲉⲕⲛⲏⲩ ϣⲁⲣⲟⲓ
 1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	16	cc	_	OrigLang=grc
 2-4	ϩⲓⲧⲛⲧϩⲉ	_	_	_	_	_	_	_	_
@@ -15346,8 +15354,8 @@
 40	ϣⲁⲣⲟ	ϣⲁ	ADP	PREP	_	41	case	_	_
 41	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	39	obl	_	_
 
-# sent_id = life_cyrus-life_cyrus_01_s0069
-# text_en = ...
+# sent_id = life_cyrus-life_cyrus_01_s0070
+# text_en = Most assuredly no man of flesh shall see my face except Apa Pambo, the elder of the church of Shiet.
 # text = ⲙⲙⲟⲛ ⲙⲛϣϭⲟⲙ ⲛⲣⲙⲛⲥⲁⲣⲝ ⲉⲛⲁⲩ ⲉⲡⲁϩⲟ ⲉⲓⲙⲏⲧⲓ ⲁⲡⲁ ⲡⲁⲙⲃⲱ · ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲛϣⲓⲏⲧ ⁛—
 1	ⲙⲙⲟⲛ	ⲙⲙⲟⲛ	PART	PTC	Polarity=Neg	2	discourse	_	Orig=ⲙ̅ⲙⲟⲛ
 2-3	ⲙⲛϣϭⲟⲙ	_	_	_	_	_	_	_	_
