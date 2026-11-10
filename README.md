@@ -191,7 +191,7 @@ Added Discourse of Pseudo-Athanasius on Mercy and Judgment, numerous corrections
 
   * CHANGELOG 2.4 -> 2.5
 
-Added Besa's Letters 1-2 (On Vigilance, Exhortations), Excerpt from Shenoute's I See Your Eagerness, Life of Cyrus, Life of Onnophrius, Epistle of Pseudo-Ephrem, Dormition of John and Apophthegmata Patrum 114-139, numerous corrections and stabilized splits. 
+Added Besa's Letters 1-2 (On Vigilance, Exhortations), Excerpt from Shenoute's I See Your Eagerness, Life of Cyrus, Life of Onnophrius, Epistle of Pseudo-Ephrem, Dormition of John and Apophthegmata Patrum 114-139, numerous corrections and stabilized splits.
 
 The corpus is now larger than 30K word forms, and train/dev/test splits should now be stable, with only the train partition growing.
 
@@ -201,7 +201,7 @@ Added Mark 7-9. Rearranged documents in train/dev/test so that documents and par
 
   * CHANGELOG 2.2 -> 2.3
 
-Added new documents: Shenoute's Acephalous Work 22 (YA421-428) and Abraham our Father (XL93-94, YA518-520), the Martyrdom of St. Victor Chapters 1-6, Apophthegmata Patrum 27-32, 1 Corinthians Chapters 3-6 (corpus now includes 1-6) and Mark 6 (corpus now includes 1-6). Rearranged documents in train/dev/test so that all documents are contiguous and genre balance is improved (all sets now include different Shenoute texts). 
+Added new documents: Shenoute's Acephalous Work 22 (YA421-428) and Abraham our Father (XL93-94, YA518-520), the Martyrdom of St. Victor Chapters 1-6, Apophthegmata Patrum 27-32, 1 Corinthians Chapters 3-6 (corpus now includes 1-6) and Mark 6 (corpus now includes 1-6). Rearranged documents in train/dev/test so that all documents are contiguous and genre balance is improved (all sets now include different Shenoute texts).
 
 Also added MISC attributes: Morphs (for sub-word morphological segmentation) and Orig (records unnormalized word form where normalization has been carried out)
 
@@ -228,7 +228,7 @@ Data source: manual
 Data available since: UD v1.4
 License: CC BY 4.0
 Includes text: yes
-Parallel: no
+Parallel: bible
 Lemmas: manual native
 UPOS: converted from manual
 XPOS: manual native
